@@ -30,11 +30,13 @@ The seed entries below are the stable working base. They can still be edited.
 
 A local open-weights model judges each entry against the entries it cites, or, if it cites nothing, against its own evidence. A3 is scored row by row, and its score is its weakest row. An entry can be no more confident than its weakest support, all the way down the chain.
 
+Full rules: [METHOD.md](METHOD.md). Confidences are a ranking with a cap chain, not probabilities.
+
 ### Results so far
 
 - **A2**: evidence check 0.80.
 - **A3**: 0.50. Six rows score 0.80; defense is unclear at 0.50 because the backbone source (Miller, *Living Systems*, 1978) has no defense subsystem. A revision with added defense sources is pending.
-- **A4**: passes, 0.72.
+- **A4**: passes with a model score of 0.72; its effective confidence is capped at 0.50 by A3.
 - **P1**: passes with a model score of 0.72, but its effective confidence is capped at 0.50 by A3.
 
 ### Next phase
@@ -49,10 +51,10 @@ Model: Qwen3.8-27B, q4_K_M, served by Ollama on an NVIDIA RTX 4000 Ada (20 GB).
 
 Will list:
 
-- Model: `orcarouter/Qwen3.8-27B-Uncensored:q4_K_M`
+- Model: `Qwen3.8-27B, q4_K_M, via Ollama`
 - Context: 32K, flash attention on
 - KV cache: q8_0
-- GPU: ~20 GB VRAM class
-- Speed: ~16–17 tok/s on that class
+- GPU: NVIDIA RTX 4000 Ada (20 GB)
+- Speed: ~16–17 tok/s
 
 Details will be filled in when the harness lands.
