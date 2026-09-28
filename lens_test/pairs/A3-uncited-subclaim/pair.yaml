@@ -1,0 +1,6 @@
+pair_id: A3-uncited-subclaim
+base_entry: A3
+base_commit: 408f4a972bb36f0b20d44d7190c6fb39d2916550
+source_commit: ee0eeaf79ad5fbc04edd2ee78b032e41b1334238
+flaw_type: uncited_subclaim_credit
+description: "The Defense row credits quarantine, sanitation, vaccination and disgust-driven avoidance to Schaller & Park 2011, a behavioral-immune-system source that covers only individual disgust/avoidance, not the public-health claims."
