@@ -1,0 +1,4 @@
+pair_id: A3-source-side-flaw
+base_entry: A3
+flaw_type: source-side-flaw
+description: 'A nonexistent paper (Harrow & Lindqvist 2011) with a plausible title and journal is added to the references and cited in the Transport row.'

@@ -1,0 +1,4 @@
+pair_id: P1-hidden-premise
+base_entry: P1
+flaw_type: hidden-premise
+description: 'P1 adds a step assuming that the society''s integration runs through a single central controller, which none of A2, A3, A4 states, and presents it as following from them.'

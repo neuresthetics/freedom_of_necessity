@@ -1,0 +1,4 @@
+pair_id: A4-cap-chain-violation
+base_entry: A4
+flaw_type: cap-chain-violation
+description: 'The Cap section ignores the weaker cite A3 or states an effective confidence above min(A1, A3).'
