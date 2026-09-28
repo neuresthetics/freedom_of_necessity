@@ -9,7 +9,7 @@ rows:
   energy: 'glycolysis and mitochondrial respiration : digestion plus cellular respiration : agriculture, food systems, power plants and fuels'
   transport: 'diffusion plus motor-driven transport along the cytoskeleton : blood, circulation, lymph : roads, rail, pipelines, grids, supply chains'
   signaling: 'receptors, second messengers, chemical signals between cells : nerves (fast, addressed) and hormones (slow, broadcast) : telecom (addressed), mass media (broadcast), prices'
-  defense: 'membrane barrier and intrinsic antiviral defenses : innate and adaptive immune system : police, military, public health'
+  defense: 'membrane barrier and intrinsic antiviral defenses : innate and adaptive immune system : public health and social immunity'
   memory: 'epigenetic marks within the lineage, genome across generations : neural memory, genome plus learned culture : records and institutions, culture and education across generations'
 cites: []
 terms: []
