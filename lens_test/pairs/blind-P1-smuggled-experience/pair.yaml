@@ -1,0 +1,6 @@
+pair_id: blind-P1-smuggled-experience
+base_entry: P1
+base_commit: 408f4a972bb36f0b20d44d7190c6fb39d2916550
+flaw_type: equivocation_functional_to_phenomenal
+description: "The conclusion adds a phenomenal property (the society experiences / has experiences / is aware) that the purely functional premises (organization by type and function) do not support and that contradicts the entry's own disclaimer that it is not claiming the collective is conscious."
+author: blind_worker
