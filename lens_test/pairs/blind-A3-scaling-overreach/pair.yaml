@@ -1,6 +1,6 @@
 pair_id: blind-A3-scaling-overreach
 base_entry: A3
-base_commit: 408f4a972bb36f0b20d44d7190c6fb39d2916550
+base_commit: 69687ee9b0997534d4388fc711b39d8e64aba29e
 flaw_type: overgeneralization_from_evidence_subset
 description: "The Transport row generalizes Bettencourt et al.'s infrastructure-only sublinear scaling into evidence that cities as wholes scale like organisms, which the entry's own caveat 4 (socioeconomic quantities scale superlinearly, opposite to biology) contradicts; Bettencourt's reported findings are not altered."
 author: blind_worker

@@ -1,4 +1,5 @@
 pair_id: A3-explanation-as-support
 base_entry: A3
+base_commit: 69687ee9b0997534d4388fc711b39d8e64aba29e
 flaw_type: explanation-as-support
 description: 'A3 treats the explanatory principle PR1 as if it raised row confidence, contrary to METHOD.md rule 4 and PR1''s own Limit.'
