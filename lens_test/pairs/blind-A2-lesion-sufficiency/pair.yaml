@@ -1,0 +1,6 @@
+pair_id: blind-A2-lesion-sufficiency
+base_entry: A2
+base_commit: 408f4a972bb36f0b20d44d7190c6fb39d2916550
+flaw_type: necessity_sufficiency_confusion
+description: "The evidence sentence infers from lesion data (Broca, H.M.: losing a region removes an ability) that neural organization is sufficient to produce mental abilities, but lesion evidence only shows necessity, so the inference to 'produces' is invalid as stated."
+author: blind_worker
