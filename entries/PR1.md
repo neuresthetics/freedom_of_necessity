@@ -5,6 +5,10 @@ kind: definition
 title: Pattern by necessity
 cites: []
 terms: []
+qualifiers:
+  - 'changes completely'
+  - 'from scale to scale'
+reading: 'Methodological principle that explains why the A3 rows should line up and how correspondences are judged (by necessary function, not surface resemblance); it adds no confidence to any entry.'
 status: draft
 ---
 
