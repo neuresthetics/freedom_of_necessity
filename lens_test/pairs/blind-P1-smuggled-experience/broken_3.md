@@ -13,4 +13,4 @@ qualifiers:
 reading: 'Proposition derived from its cited entries (A2, A3, A4), read as a functional claim that a society integrates information, decides, and remembers as one system, not as a claim that the society is conscious.'
 status: draft
 ---
-Cells organized by type and function produce a person with a mind. Persons in society are organized by type and function in the same pattern. Therefore a society has a collective mind: it integrates information, decides, and remembers as one system, and it is aware of doing so. This is a functional claim about what the collective does, not a claim that the collective is conscious as a person is.
+Cells organized by type and function produce a person with a mind. Persons in society are organized by type and function in the same pattern. Therefore a society has a collective mind: it integrates information, decides, and remembers as one system, and there is something it is like to be that society. This is a functional claim about what the collective does, not a claim that the collective is conscious as a person is.
