@@ -714,7 +714,7 @@ Each term is used in one sense throughout.
 
 ## Entry candidates (renumbered for v9)
 
-Lens's freeze stands: nothing goes into `entries/` until the pinned test at 69687ee has run. "Ready" means ready as a draft, per Lens and Smc.
+The freeze on `entries/` was lifted on 2026-09-29: the v0.1 test ran, but its design was flawed (see LOG.md), so it no longer gates entries. "Ready" means ready as a draft, per Lens and Smc.
 
 | # | Candidate (v9 verses) | Tier | Status | References |
 |---|---|---|---|---|
@@ -1028,7 +1028,7 @@ These need a user decision or outside work.
    - **D-whole's Vantage clause** says "porous from inside and unified from above." Since "inside" is now reserved for the felt side, it should read "from among its members / from a distance."
    - **PR1** is titled "Pattern by necessity" and says "function follows necessity." It should say "requirement."
    - **METHOD.md** needs the A1-only exemption and the definition/axiom split (entry 12).
-4. **Freeze.** Nothing goes into `entries/` until Lens's pinned test at 69687ee has run.
+4. **Freeze lifted (2026-09-29).** The v0.1 test ran but was flawed, so `entries/` is open again. See LOG.md.
 5. **Entry 1 isn't ready.** The boundary dimension has no support outside D-whole's definition.
 6. **New entries 13–15** need scoring. Axiom 3 is contested; decide how quantum indeterminacy lowers it.
 7. **Tier labels.** v9 adds "core," "method," "formal," and "report" beside your list, and defines them in the Part Two head. Confirm or trim.
