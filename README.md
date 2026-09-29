@@ -18,7 +18,7 @@ A geometric, Ethics-style axiomatic book, with a harness that checks each entry 
 
 ## What does not belong here
 
-Personal machine setup, paths, network, security, or home-lab notes. Those live in a separate private repo. The harness code lives here; personal run configs stay out of this repo.
+Personal machine setup, paths, network, security, or home-lab notes. The harness code lives here; personal run configs stay out of this repo.
 
 ## Status: working seed
 
