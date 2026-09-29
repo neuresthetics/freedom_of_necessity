@@ -2,6 +2,17 @@
 
 A dated record of what was tested and what changed, newest first. Times are Pacific (PT).
 
+## 2026-09-29 — Entry wording fixes (after the review)
+
+Book content only; nothing new was promoted into `entries/`.
+
+- **A3, performed vs must perform.** The claim now says each function is *performed* at all three levels, matching its reading. Why the seven should recur (they are what a whole must do to last) is PR1's thesis and adds no confidence.
+- **A3, failure case.** A row fails if society does the work only through members acting separately; A3 fails if any row fails; the rows are too loose if something D-whole rules out passes all seven. Proposed negative controls: a stone, a hurricane, an archive.
+- **Sweep.** Every entry was checked for "must perform" vs "performed". The same slip was in A3's caveat 3 and PR1's Method section; both now judge by what is performed. A2, A4 and P1 were clean. D-whole's "admits what the whole needs" is part of a definition and was left as is.
+- **PR1** is now "Pattern by requirement": requirement (what a whole must do to last) is kept apart from necessity (modal), which stays in the title.
+- **D-whole** vantage now reads "from among its members / from a distance"; "inside" is kept for the felt side.
+- **P1** now says a collective mind *happens* in society: a process emerging from feedback, not a thing the society has.
+
 ## 2026-09-29 — Back to the drawing board
 
 An outside review of the v0.1 record, checked against the raw data, found problems serious enough that no baseline will be taken until they are fixed.

@@ -31,7 +31,7 @@ The seed entries below are the stable working base. They can still be edited.
 - **A2**: I am a body made of cells, and their organization produces my mind. Empirical; cites nothing; its evidence is in its own text.
 - **A3**: Society shows organism-level properties across seven rows (boundary, control, energy, transport, signaling, defense, memory) at three levels: cell, person, society. Each row has its own evidence.
 - **A4**: I function in society as a unit analogous to a cell.
-- **P1**: Society has a functional collective mind: it integrates information, decides, and remembers as one system. This is explicitly not a claim that society is conscious.
+- **P1**: A collective mind happens in society: integration, decision, and memory emerge from feedback among its members and work as one system. A process, not a thing, and explicitly not a claim that society is conscious.
 
 ### How checking works
 

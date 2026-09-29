@@ -8,8 +8,8 @@ terms: []
 qualifiers:
   - 'to the degree that'
   - 'a matter of degree'
-  - 'from inside'
-  - 'from above'
+  - 'from among its members'
+  - 'from a distance'
 reading: 'Definition of a term used by A2, A3 and A4: it fixes what "whole" and "part" mean in the book and is judged on clarity and fit with its cited evidence; it adds no confidence to any entry.'
 status: draft
 ---
@@ -18,11 +18,11 @@ status: draft
 
 **Membership.** A part belongs to a whole to the degree that its fate is tied to the whole's fate, whatever its origin. Mitochondria descend from once free-living bacteria: Sagan (1967) proposed their endosymbiotic origin, and it is now well established (Archibald 2015; Roger, Muñoz-Gómez & Kamikawa 2017), with the mitochondrion integrated into the cell's life. Bacterial cells in the body are roughly as numerous as human cells, about 1.3 to 1 (Sender, Fuchs & Milo 2016), though most human cells by count are red blood cells, so bacteria outnumber the body's nucleated cells. They are not the body's own cells, yet the microbiota takes part in the induction, training, and function of the host immune system (Belkaid & Hand 2014). Membership is judged by function, not origin.
 
-**Vantage.** A whole looks porous from inside and unified from above. From within a level one sees the traffic, the conflict, and the outsiders; from the level above, the same activity reads as one steady function. Both descriptions are true of the same system at different scales.
+**Vantage.** Seen from among its members, a whole looks porous, like a crowd; seen from a distance, it looks unified, like one steady organization. From among the members one sees the traffic, the conflict, and the outsiders; from a distance, the same activity reads as one steady function. Both views are partial, both are true of the same system, and neither outranks the other. ("Inside" is kept for the felt, first-person side of a mind, so the vantage clause does not use it.)
 
 **Use.** A2 describes the person as a whole whose parts are cells. A3 and A4 describe the person as a part of a larger whole. By this definition, both hold at once: the I is a whole at one level and a part at the next. The two dimensions of wholeness, cooperation among parts and absence of conflict, follow Queller & Strassmann (2009), who treat organismality as high cooperation and very low conflict. Their framing is qualitative and continuous; they do not claim these traits can be put on a numerical scale, and neither does this definition. They also decline to extend organismality to communities, and judge a city far too full of conflicts to count. D-whole is broader than their "organism": it names a degree of wholeness, not organism status. On their criteria a society is a whole of low degree, which agrees with their judgment rather than contradicting it, and is why A3 is a model claim capped by its weakest row.
 
-**Limit.** This is a definition. It says what the terms mean; it does not raise the confidence of A2, A3 or A4. In particular, the vantage clause explains why a society's boundary and defense rows may look weak to us as its members, but those rows still earn their scores from their own evidence.
+**Limit.** This is a definition. It says what the terms mean; it does not raise the confidence of A2, A3 or A4. In particular, the vantage clause explains why a society's boundary and defense rows may look weak to us, viewing it from among its members, but those rows still earn their scores from their own evidence.
 
 **References.**
 - Archibald, J. M. (2015). Endosymbiosis and eukaryotic cell evolution. *Current Biology* 25(19), R911–R921. doi:10.1016/j.cub.2015.07.055
