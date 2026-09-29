@@ -4,6 +4,12 @@
 
 A geometric, Ethics-style axiomatic book, with a harness that checks each entry against its citations. This repo is public so anyone can read the book and verify the checks.
 
+## Where to start
+
+- [LOG.md](LOG.md): dated record of tests and changes, newest first.
+- [results/](results/): one folder per test run, with its settings, report and lessons. Never edited after commit.
+- [docs/](docs/): [hardware](docs/HARDWARE.md), [model choice](docs/MODEL_CHOICE.md), and [how to reproduce a run](docs/REPRODUCE.md).
+
 ## What belongs here
 
 - The book entries (definitions, axioms, propositions)
