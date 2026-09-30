@@ -1,48 +1,70 @@
 # Core v2 (candidate): the core rebuilt from "I exist"
 
-**Status.** Candidate only. Nothing here is in `entries/`, nothing here has been scored, and nothing here changes `entries/`, `lens_test/`, `results/` or the verse drafts. Every confidence except A1's reads "pending (collider)". Built 2026-09-29 PT at the author's request: start over from the ground up, with A1 reduced to "I exist" and "human" moved into A2. Second round, the same evening: the author accepted A2, asked for a collision on Nature ([collision_nature.md](collision_nature.md)), and asked for definitions of "I" and "exist" so that A1 re-enters the chains (D-I, D-exist, D-Nature; section 3, second round).
+**Status.** Candidate only. Nothing here is in `entries/`, nothing here has been scored, and nothing here changes `entries/`, `lens_test/`, `results/` or the verse drafts. Every confidence except A1's reads "pending (collider)". Built 2026-09-29 PT at the author's request: start over from the ground up, with A1 reduced to "I exist" and "human" moved into A2. Second round, the same evening: the author accepted A2, asked for a collision on Nature ([collision_nature.md](collision_nature.md)), and asked for definitions of "I" and "exist" so that A1 re-enters the chains (D-I, D-exist, D-Nature; section 3, second round). Third round, the same night: collisions on the sameness of the I ([collision_sameness.md](collision_sameness.md)) and on the page order ([collision_order.md](collision_order.md)), applied (section 3, third round).
 
 ## 1. The order
 
-Twelve entries, plus one collision. Spinoza's layout is kept: the definitions come first, then A1, then the rest. The definitions were worked out backward, from what the later claims needed a word to mean, and then placed before the claims that use them (HOW_THIS_BOOK_IS_BUILT.md, section 5). A1 now uses two defined words, "I" and "exist", so it stands after the definitions. It is still the first claim and the only root.
+Twelve entries, plus three collisions. The page is in three groups, and each group opens with the definitions its claims use, as each of Parts One to Four of the *Ethics* sets out its own definitions at its head ([collision_order.md](collision_order.md)). A1 is the first claim and the third entry, straight after its two definitions, and A2 follows it. The definitions were worked out backward, from what the later claims needed a word to mean, and then placed before the claims that use them (HOW_THIS_BOOK_IS_BUILT.md, section 5).
+
+**Group 1. The I.**
 
 | # | Entry | Kind | Statement (one line) | Rests on |
 |---|---|---|---|---|
 | 1 | [D-I](D-I.md) | definition | "I", used in a thought, names whatever is doing that thought: a thinker, if there is one distinct from the thinking, or else the thinking itself. | (definition) |
 | 2 | [D-exist](D-exist.md) | definition | A thing exists at a time when it is going on (an activity) or present (not an activity) at that time; it lasts when it goes on existing (duration, E2D5). | (definition) |
-| 3 | [D-work](D-work.md) | definition | A work is an activity that helps keep a thing's organization going and is kept going by it; a thing performs it *as one* if taking the thing apart, members left alive, would stop it; the seven works are boundary, control, energy, transport, signaling, defense, memory. | (definition) |
-| 4 | [D-whole](D-whole.md) | definition | For finite things only (E1D2): grade each work 0, 1 or 2; a thing's degree of wholeness is its lowest grade; it is a whole if its degree is above zero; a member shares the whole's fate and takes part in its works; a thing produces itself if its own processes make and replace its components (defined without the seven works). | uses D-exist, D-work (Definition 11 uses neither the works nor the grades) |
-| 5 | [D-Nature](D-Nature.md) | definition | Nature taken as one is everything that exists, conceived as one, with nothing besides it; it is not finite, so D-whole does not grade it; everything is in Nature, and being in Nature is not being a member. The identification with Spinoza's God is a declared reading, unscored. | uses D-exist, D-whole; result of [collision_nature.md](collision_nature.md) |
-| 6 | [A1](A1.md) | root, 1.0 | I exist. (In defined terms: whatever is doing this thinking is going on, or present, now.) | nothing: doubting it is a case of it; uses D-I, D-exist |
-| 7 | [A2](A2.md) | axiom, empirical | I am a human body made of cells, and my mind is that same body's organization described in the first person. | A1 (its subject; caps nothing) and its own evidence (clause a); clause b is a declared reading, unscored |
+| 3 | [A1](A1.md) | root, 1.0 | I exist. (In defined terms: whatever is doing this thinking is going on, or present, now.) | nothing: doubting it is a case of it; uses D-I, D-exist |
+| 4 | [A2](A2.md) | axiom, empirical | I am a human body made of cells, and my mind is that same body's organization described in the first person. | A1 (its subject; caps nothing) and its own evidence (clause a); clause b is a declared reading, unscored |
+
+**Group 2. Wholes.**
+
+| # | Entry | Kind | Statement (one line) | Rests on |
+|---|---|---|---|---|
+| 5 | [D-work](D-work.md) | definition | A work is an activity that helps keep a thing's organization going and is kept going by it; a thing performs it *as one* if taking the thing apart, members left alive, would stop it; the seven works are boundary, control, energy, transport, signaling, defense, memory. | (definition) |
+| 6 | [D-whole](D-whole.md) | definition | For finite things only (E1D2): grade each work 0, 1 or 2; a thing's degree of wholeness is its lowest grade; it is a whole if its degree is above zero; a member shares the whole's fate and takes part in its works; a thing produces itself if its own processes make and replace its components (defined without the seven works); a whole is the same whole later if its organization went on with no full stop and no branching, and its connectedness to its past is a degree. | uses D-exist, D-work (Definition 11 uses neither the works nor the grades) |
+| 7 | [D-Nature](D-Nature.md) | definition | Nature taken as one is everything that exists, conceived as one, with nothing besides it; it is not finite, so D-whole does not grade it; everything is in Nature, and being in Nature is not being a member. The identification with Spinoza's God is a declared reading, unscored. | uses D-exist, D-whole; result of [collision_nature.md](collision_nature.md) |
 | 8 | [A3](A3.md) | axiom, model | The seven works sort things the way self-production does: what produces its own parts performs all seven as one; what lasts without producing its own parts fails at least one. | anchors, negative controls, hard cases |
 | 9 | [PR1](PR1.md) | principle | Where the same requirement holds, the same work turns up, in forms that differ completely from level to level. | explains; adds no confidence |
+
+**Group 3. Society and levels.**
+
+| # | Entry | Kind | Statement (one line) | Rests on |
+|---|---|---|---|---|
 | 10 | [A4](A4.md) | axiom, model | The society I live in is a whole to a degree, judged one work at a time, and I am one of its members. | its own evidence, row by row; A2 for the membership clause |
 | 11 | [P1](P1.md) | proposition | I am a whole at one level and a part at the next. | A2, A3, A4 |
 | 12 | [P2](P2.md) | proposition | A collective mind happens in the society I live in: control performed as one, combining signaling and memory; an activity, not a thing, and not a claim that the society feels. | A4 |
 
-Definitions are numbered straight through: D-I is Definition 1, D-exist 2, D-work 3–6, D-whole 7–11, D-Nature 12. Every cross-reference in core v2 was renumbered to match.
+Definitions are numbered straight through, and the numbers rise down the page: D-I is Definition 1, D-exist 2, D-work 3–6, D-whole 7–12, D-Nature 13. Every cross-reference in core v2 was renumbered to match.
 
-[collision_nature.md](collision_nature.md) is not an entry. It is the written judgment between the two readings of Nature that produced D-Nature, D-whole's domain clause, and the new P1, Scholium 3.
+The three collisions are not entries. Each is a written judgment between two readings, and each produced changes to the entries.
+
+- [collision_nature.md](collision_nature.md) produced D-Nature, D-whole's domain clause, and the new P1, Scholium 3.
+- [collision_sameness.md](collision_sameness.md) produced D-whole, Definition 12, and the new P1, step 6.
+- [collision_order.md](collision_order.md) produced this order.
 
 ## 2. Citation graph
 
-Solid arrows carry support, and so caps. Dotted arrows show definitions used, or explanation. They carry no confidence. The edges from D-I to the entries that say "I" beyond A1 and A2, and from D-exist to A3, PR1 and P2, are listed in each entry's `terms` and left out of the drawing to keep it readable.
+Solid arrows carry support, and so caps. Dotted arrows show definitions used, or explanation. They carry no confidence. Boxes are the three page groups (section 1). The edges from D-I to the entries that say "I" beyond A1 and A2, and from D-exist to A3, PR1 and P2, are listed in each entry's `terms` and left out of the drawing to keep it readable.
 
 ```mermaid
 graph TD
-  DI["D-I (definition)"]
-  DE["D-exist (definition)"]
-  DW["D-work (definition)"]
-  DH["D-whole (definition; finite things only)"]
-  DN["D-Nature (definition)"]
-  A1["A1 I exist (root, 1.0)"]
-  A2["A2 human body; mind as its organization in the first person (empirical)"]
-  A3["A3 seven works agree with self-production (model)"]
-  PR1["PR1 pattern by requirement (principle)"]
-  A4["A4 my society is a whole to a degree; I am a member (model)"]
-  P1["P1 whole at one level, part at the next"]
-  P2["P2 a collective mind happens"]
+  subgraph G1["Group 1: the I"]
+    DI["D-I (definition)"]
+    DE["D-exist (definition)"]
+    A1["A1 I exist (root, 1.0)"]
+    A2["A2 human body; mind as its organization in the first person (empirical)"]
+  end
+  subgraph G2["Group 2: wholes"]
+    DW["D-work (definition)"]
+    DH["D-whole (definition; finite things only; Def. 12 sameness)"]
+    DN["D-Nature (definition)"]
+    A3["A3 seven works agree with self-production (model)"]
+    PR1["PR1 pattern by requirement (principle)"]
+  end
+  subgraph G3["Group 3: society and levels"]
+    A4["A4 my society is a whole to a degree; I am a member (model)"]
+    P1["P1 whole at one level, part at the next"]
+    P2["P2 a collective mind happens"]
+  end
 
   A1 --> A2
   A2 --> A4
@@ -83,7 +105,7 @@ Every chain of support now ends in the root or in evidence an axiom carries itse
 **Does A1 now do real work?** Yes. The work is logical, not evidential.
 
 1. *A1 supplies the subject A2 identifies.* A2 says what the I is. That is an identity claim, and it needs an I that exists. A1 is the premise that there is one, and D-I says what the word names. Without A1, A2's "I" could fail to name anything.
-2. *A1 does not supply sameness over time.* This is where the honest answer is narrower than the author's suggestion. P1 needs the I that is a whole (A2) to be the I that is a member (A4). D-I names only the doer of *this* thought, and A1 holds only "for as long as I am thinking". So A1 cannot carry the same I from one entry to the next. A2 carries it, on evidence, by identifying the doer with one lasting body. Tracing this showed that A4's membership clause (my food, my public health, my work) is about that body, so **A4 now cites A2**, and P1, step 6, states the identity outright.
+2. *A1 does not supply sameness over time, and neither does D-I.* P1 needs the I that is a whole (A2) to be the I that is a member (A4). D-I names only the doer of *this* thought, and A1 holds only "for as long as I am thinking". Where sameness belongs was collided ([collision_sameness.md](collision_sameness.md)). The verdict: sameness is defined once, for wholes (D-whole, Definition 12: the organization went on, with no full stop and no branching; connectedness to the past is a separate degree). It reaches the I through what the I is found to be. A2 identifies the doer with this body, P1, step 3, shows the body is a whole, and P1, step 6, applies Definition 12. Tracing this showed that A4's membership clause (my food, my public health, my work) is about that body, so **A4 cites A2**.
 3. *A1 adds no confidence and removes none.* At 1.0 it caps nothing. What it adds is that the chains are valid: every "I" names something, and the chains end at the root as HOW says they do.
 
 So A1 re-enters the chains through one solid edge, A1 → A2. Every chain that uses "I" reaches it: A4, P1 and P2 through A2. Chains that do not use "I" (A3's) end in evidence, as before.
@@ -115,6 +137,20 @@ So A1 re-enters the chains through one solid edge, A1 → A2. Every chain that u
 | P2 | Step 5 uses D-exist. The cap notes A2, through A4. | Follows from the A4 change. |
 | All | Definitions renumbered straight through, 1–12. | D-I and D-exist come first. |
 
+### Third round (two collisions, 2026-09-29 PT)
+
+| Where | Change | Why |
+|---|---|---|
+| **collision_sameness.md** (new) | Collides "sameness built into D-I" (Locke, Descartes, S1–S5) with "carried by evidence about what the I is" (Butler, Reid, Hume, Parfit, Spinoza, B1–B6). | The author asked for it (open question 14). |
+| D-whole | New **Definition 12 (the same whole)**. A whole is the same later if its organization went on, with no time at which it performed none of its works as one, and no other whole carrying that organization on as fully. Connectedness to its past is a separate degree. The domain clause now covers Definitions 7–12. | The verdict of the sameness collision. Sameness goes in no definition of a word, and it is not bare continuity of a living body. It is the sameness of an organization, defined once for wholes (after E2, Lemma 4), with Spinoza's poet (E4P39, Scholium) reported as the same whole, much less connected. |
+| D-Nature | Renumbered Definition 13. | Follows from Definition 12. |
+| D-I | "Sameness over time" now points to D-whole, Definition 12, and to the collision. | D-I stays thin. |
+| A2 | The sentence "it is this one lasting body that does the thinking throughout" is replaced. A2 does not itself claim sameness over time. | "One lasting body" was too crude. P1 draws sameness from A2 and Definition 12. The statement is unchanged. |
+| P1 | Step 6 now uses step 3 and D-whole, Definition 12. | The I of A2 is the I of A4 because this body is one whole that is the same across times. |
+| **collision_order.md** (new) | Collides "all definitions first" (E) with "D-I, D-exist, A1, then the rest" (F). A third option (T) wins. | The author asked for it (open question 15). |
+| README, section 1 and graph | The page is in three groups, each opening with its definitions: the I (D-I, D-exist, A1, A2); wholes (D-work, D-whole, D-Nature, A3, PR1); society and levels (A4, P1, P2). The graph shows the groups as boxes. | The verdict of the order collision. It follows the *Ethics* as a whole, where Parts One to Four each set out their own definitions at their head, rather than only Part One. |
+| collision_nature.md | The "Order" bullet notes that it was superseded. | The order changed. |
+
 **Mapping from the agreed sketch.** Sketch A1 → A1. Sketch A2 → A2 (wording: "described in the first person" instead of "described from within", to keep "inside/within" out of the felt side). Sketch A3 → split into D-whole (the definition half: "a whole is whatever does the works of lasting as one, to the degree that it does") and A3 (the model half: the seven works pick out the right things). Sketch A4 → P1. Sketch A5 → A4.
 
 ## 4. Key design decisions
@@ -129,7 +165,9 @@ So A1 re-enters the chains through one solid edge, A1 → A2. Every chain that u
 8. **Collective mind by definition, not by analogy.** P2 names an activity and derives it; it claims nothing about feeling.
 9. **Each entry does one job.** Twelve entries against the current seven. The old A3 did two jobs and is split into a test (A3) and a society claim (A4). "Work" needed its own definition. D-I and D-exist give A1 defined terms. D-Nature gives Nature an entry of its own. The seven works, grades, membership and levels live in definition entries rather than being spread across the axioms.
 10. **Nature is outside D-whole, not at its bottom.** D-whole grades finite things only. Nature taken as one gets its own definition, and a relation of its own (*in*, not *member of*). This keeps D-whole's zero honest and keeps E1D7's line clear between the constrained things D-whole grades and the one free thing it does not (D-Nature, Scholium 4).
-11. **A1's work is logical.** A1 supplies the subject that A2 identifies. Sameness of the I across entries is carried by A2, on evidence, not by A1 (section 2).
+11. **A1's work is logical.** A1 supplies the subject that A2 identifies. Sameness of the I across entries is not carried by A1 or D-I (section 2).
+12. **Sameness is defined for wholes, not for the word "I".** D-whole, Definition 12, gives a yes-or-no test that can fail (a full stop, or branching) and a separate degree (connectedness). The I is the same over time because it is found to be a whole, not because of what "I" means ([collision_sameness.md](collision_sameness.md)).
+13. **Each group opens with its definitions.** The page follows the *Ethics* as a whole, not only its Part One ([collision_order.md](collision_order.md)).
 
 ## 5. Open questions for the author
 
@@ -146,9 +184,10 @@ So A1 re-enters the chains through one solid edge, A1 → A2. Every chain that u
 11. **A1 in the chains.** *Resolved by the second round:* A2 cites A1, and every chain that uses "I" reaches A1 through A2 (section 2). This needs a change to HOW's rule for empirical axioms (section 5a, item 1). Do you accept it?
 12. **Nature.** *Resolved by [collision_nature.md](collision_nature.md):* Nature taken as one is not graded by D-whole, and has its own definition (D-Nature). Open: should Spinoza's stronger claims, that everything is in God in his sense of "in" (E1D5, E1P15) and that Nature is God as E1D6 defines God, stay a declared reading in D-Nature, or become an entry of their own? HOW has no kind for a claim that is neither self-evident nor scored on evidence.
 13. **A4 cites A2.** Tracing A1's I showed that A4's membership clause is about a body, so A4 now cites A2. That formally caps A4, and through it P2, by A2. A2's clause (a) is expected to be high, so the cap should not bind. The alternative is to move the membership clause out of A4 into P1. Keep it in A4?
-14. **Sameness of the I.** D-I names the doer of one thought, and A2 carries the same I across entries on evidence (one lasting body). Is that the division of labour you want? The alternative is to put sameness into D-I, but then A1 would claim more than doubting shows.
-15. **The order.** A1 now stands after the five definitions, in Spinoza's layout, and is the first claim rather than the first entry on the page. The alternative is D-I, D-exist, A1, and then the other definitions. That keeps A1 near its two terms, but it mixes definitions and claims.
+14. **Sameness of the I.** *Resolved by [collision_sameness.md](collision_sameness.md):* not in D-I; defined for wholes (D-whole, Definition 12) and reached through A2 and P1.
+15. **The order.** *Resolved by [collision_order.md](collision_order.md):* three groups, each opening with its definitions.
 16. **"Present" in D-exist.** "Going on (an activity) or present (not an activity)". Is "present" plain enough, or do you want another word?
+17. **The poet: a departure from Spinoza.** Under D-whole, Definition 12, Spinoza's Spanish poet is the same whole, much less connected to his past. Spinoza says a body "undergoes death" when its proportion of motion and rest changes, even while the blood still circulates, and he would "hardly call him the same" (E4P39, Scholium). The book splits his test into a yes-or-no part and a degree. Do you accept that departure? The alternative is Spinoza's own test, whether the proportion changed, which he gives no threshold for.
 
 ## 5a. Implications for HOW_THIS_BOOK_IS_BUILT.md (not edited)
 
@@ -158,9 +197,10 @@ HOW describes the current `entries/`, so it has not been changed. If core v2 is 
 2. **Section 2, root.** "A1, 'I, a human, exist.'" becomes "A1, 'I exist,' stated in two defined terms (D-I, D-exist). The definitions say what the words mean. The doubt shows that something answers to them."
 3. **Section 2, definition.** Add D-Nature as an example of a definition that marks the edge of another definition's domain: D-whole grades finite things only, and Nature is not finite.
 4. **Section 3.** "Each chain ends in one of two places: the root (A1), or evidence the entry carries itself" is true again. Add: "Every chain that uses 'I' reaches the root through A2."
-5. **Section 5 (order).** Definitions come first, including D-I and D-exist, which A1 uses. A1 is the first claim, not the first entry on the page.
+5. **Section 5 (order).** "On the page, definitions come first, as in Spinoza" becomes "On the page, definitions come first in each group, as in each Part of Spinoza's *Ethics*." A1 is the first claim, straight after its two definitions.
 6. **A kind for declared readings.** A2's clause (b) and D-Nature's identification with God are both *declared readings*: stated, not derived, and not scored. HOW could name this as a kind, with its limit: a declared reading adds no confidence to anything.
 7. **How to read "whole" and "part".** A reader should be told that the book's "whole" is narrower than Spinoza's. For Spinoza, Nature is the whole most of all (Letter 32). For the book, a whole is a finite thing that lasts by its works. "In Nature" and "member of" are different relations.
+8. **How to read "the same I".** A reader should be told that "I" names the doer of one thought (D-I), and that sameness over time is a finding about a whole (D-whole, Definition 12), not part of the word. So the book can say that I am the same, and how far I am connected to my past, as two different things. It does not claim that sameness is what matters.
 
 ## 6. Strict nonsense self-check
 
@@ -244,3 +284,29 @@ Run over collision_nature.md, D-I, D-exist, D-Nature, and every changed passage 
 **Earlier fixes now superseded.** Fix 4 (A2 `cites: []`, dotted A1 edge) is reversed: A2 cites A1, with the HOW change proposed in section 5a. Fix 25 ("Nature gets 0") is withdrawn: Nature is not graded (collision_nature.md).
 
 **Sweeps with no remaining hits.** "must" appears only in PR1 and inside quotations of Spinoza. "Inside" is not used in any new text. "Outside" is used only of place ("something outside X", "outside its domain"), never of the felt side. No new text uses "aim", "purpose", "goal" or "in order to" of a whole or a work. The only such words are Spinoza's "nature has no particular goal in view", quoted to reject aims, and "needs" used of a book or of an argument. No new citation was left unverified. Kisner pages are still pending.
+
+### Third round (collision_sameness, collision_order, and the edits they caused)
+
+Run over both new collisions, D-whole, Definition 12, and the changed passages of D-I, A2, P1, D-Nature, collision_nature.md and this README, in the same categories and sweeps. New quotations were re-checked. Spinoza was checked against `sources/spinoza/ethics_elwes_1883.txt`, with the Latin checked in `ethica_latin.txt`: the Definition after E2, Lemma 3; Lemmas 4–7 (*absque ulla ejus formae mutatione*); E4P39 and its Scholium (*ut non facile eundem illum esse dixerim*; *de quodam hispano poeta*); and the placement of definitions, axioms and postulates in Parts One to Five. The other sources were checked as follows:
+
+- Locke, II.xxvii.9 and 26: the SEP entry on Locke on personal identity, and a full-text reproduction.
+- Butler: two full-text reproductions of the 1736 dissertation, and the SEP.
+- Reid: the chapter title and the brave officer, from reproductions of Essay III, ch. 6.
+- Hume, T 1.4.6.4 and the Appendix: davidhume.org and a second reproduction.
+- Parfit: Relation R, and the non-branching condition, from three secondary sources that agree on pp. 215–217.
+- Descartes: AT VII 14 (CSM II 10) and AT VII 28–29 (CSM II 19), from the CSM wording.
+
+| # | Where | Problem (category) | Fix |
+|---|---|---|---|
+| 53 | collision_sameness, S1 | Quoted Locke as "Person ... is a forensic term": the text reads "It is a forensic term". (misquote) | "'person' is 'a forensic term, ...'". |
+| 54 | collision_sameness, B2 | Reid's case summarized as "the general has forgotten the boy". In Reid, the general has forgotten the flogging, and remembers taking a standard as an officer. (factual slip) | Restated as in Reid. |
+| 55 | collision_sameness, S2 | "the phrase A2 and P1 now use", though this round removes it. (inconsistency) | "used after the second round". |
+| 56 | collision_sameness, verdict | "one lasting body ... gave the wrong answer in Spinoza's own case". The new Definition 12 gives the same yes-or-no answer for the poet. (inconsistency) | What falls is that "one lasting body" did not say what makes a body the same, and registered nothing of the poet's loss. The table now says the yes-or-no answer is unchanged and the loss shows as a degree. |
+| 57 | collision_sameness, Descartes row | Said Descartes's Synopsis claim "does not fit a body that replaces its red blood cells". The Synopsis speaks of a change of shape, not of replacement. (muddle) | "is what E2, Lemmas 4–7, deny: an individual survives the replacement, growth and change of direction of its parts". |
+| 58 | collision_sameness, J6 | Called "connectedness" and "went on" causal words. (factual slip about words) | "describe; they do not name an aim". |
+| 59 | D-whole, Definition 12 | "A loss of memory ... does not make it a different whole" said without limit. But if the memory work stops altogether, the degree is 0 and the thing is not a whole (Definition 8). (contradiction) | Added: if a work stops altogether, the thing is no longer a whole, and the question of its sameness as a whole lapses. |
+| 60 | D-whole, Definition 12, first draft | "It also covers a copy of an AI that runs alongside the original" implied that the original stays the same. Under the non-branching clause, a copy that carries the organization on as fully means *neither* is the same. (overclaim) | Stated: then neither is the same whole, as in Parfit's cases of division. The same correction was made in the collision's AI row. |
+| 61 | collision_order, F3 | "Each of Parts One to Four opens with its own definitions": Parts Three and Four open with a preface. (factual slip) | "sets out its own definitions at its head, after a preface in Parts Three and Four". |
+| 62 | collision_order, K6 | "E suggests the root rests on biology". (overclaim) | "can suggest". |
+
+**Sweeps with no remaining hits.** "must" appears only in PR1 and inside quotations (Spinoza, Hume). "Inside" is not used in new text. "Within" is used only of a stretch of thinking or of a page group, and "outside" only of a definition's domain. No aiming words are used of a whole or a work. Check K1 of collision_order passes for the new order: no entry uses a term or cites an entry below it (scanned from the `terms` and `cites` fields). Kisner pages are still pending. Parfit's pages rest on secondary sources that agree with one another, and should be checked against a copy.

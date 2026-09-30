@@ -86,7 +86,7 @@ Spinoza is quoted in the Elwes 1883 wording, checked against `sources/spinoza/et
 
 ## Place in the order and in the citation graph
 
-- **Order.** Definitions first: D-I, D-exist, D-work, D-whole, **D-Nature**; then A1 and the rest (README, section 1). D-whole's domain clause defines *finite* (after E1D2); D-Nature uses it.
+- **Order.** D-Nature comes after D-whole, whose domain clause defines *finite* (after E1D2); D-Nature uses it. (The page order as a whole was later settled by [collision_order.md](collision_order.md): D-Nature heads the group on wholes with D-work and D-whole. It is now Definition 13, after D-whole's new Definition 12.)
 - **Edges.** D-Nature uses D-exist ("everything that exists") and D-whole ("finite"). P1, Scholium 3, uses D-Nature (where the levels stop). All are dotted term edges: they carry no confidence and cap nothing. No entry cites D-Nature as a support, since a definition supports nothing (HOW_THIS_BOOK_IS_BUILT.md, section 2).
 
 ## References

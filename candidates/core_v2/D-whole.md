@@ -2,7 +2,7 @@
 id: D-whole
 type: definition
 kind: definition
-title: Whole, degree, member, level, self-production
+title: Whole, degree, member, level, self-production, sameness
 cites: []
 terms: [D-exist, D-work]
 qualifiers:
@@ -14,11 +14,13 @@ qualifiers:
   - 'member'
   - 'by function, not origin'
   - 'the next level'
-reading: 'Definition, for finite things only (after E1D2; Nature taken as one is outside its domain, see D-Nature): a whole is anything that performs each of the seven works as one, at least in part, and its degree is its lowest grade. Zero is the absence of a work, not a chosen cutoff, so the definition can rule things out. Also fixes "member" (shared fate plus function), "level", and "produces itself" (after Maturana & Varela), which is defined without the seven works so that A3 can test them against it. Judged on clarity and fit; adds no confidence to any entry.'
+  - 'the same whole: went on, without a full stop, without branching'
+  - 'connectedness: a degree'
+reading: 'Definition, for finite things only (after E1D2; Nature taken as one is outside its domain, see D-Nature): a whole is anything that performs each of the seven works as one, at least in part, and its degree is its lowest grade. Zero is the absence of a work, not a chosen cutoff, so the definition can rule things out. Also fixes "member" (shared fate plus function), "level", and "produces itself" (after Maturana & Varela), which is defined without the seven works so that A3 can test them against it. Judged on clarity and fit; adds no confidence to any entry. Definition 12 (from collision_sameness.md) says when a whole at a later time is the same whole: its organization went on with no full stop and no branching; how connected it is to its past is a separate degree.'
 status: candidate
 ---
 
-**Domain.** Definitions 7–11 apply to finite things only. A thing is *finite* when another thing of the same kind can limit it, as a body is limited by a greater body. This is Spinoza's definition: "A thing is called finite after its kind, when it can be limited by another thing of the same nature" (E1D2). Every test in D-work assumes that something besides the graded thing exists: what the boundary sorts, where energy comes from, what defense acts against. Nature taken as one (D-Nature) is not finite, so D-whole neither includes it nor excludes it. It is not graded, not even 0 ([collision_nature.md](collision_nature.md)).
+**Domain.** Definitions 7–12 apply to finite things only. A thing is *finite* when another thing of the same kind can limit it, as a body is limited by a greater body. This is Spinoza's definition: "A thing is called finite after its kind, when it can be limited by another thing of the same nature" (E1D2). Every test in D-work assumes that something besides the graded thing exists: what the boundary sorts, where energy comes from, what defense acts against. Nature taken as one (D-Nature) is not finite, so D-whole neither includes it nor excludes it. It is not graded, not even 0 ([collision_nature.md](collision_nature.md)).
 
 **Definition 7 (grade).** For any finite thing X and each of the seven works (D-work, Definition 6), X's *grade* on that work is:
 
@@ -41,9 +43,22 @@ status: candidate
 
 **Definition 11 (produces itself).** A thing *produces itself* when its own processes make and replace the components that carry out those processes, its boundary included. This follows Maturana & Varela's definition of an autopoietic system: "a network of processes of production (transformation and destruction) of components that produces the components which: (i) through their interactions and transformations continuously regenerate and realize the network of processes (relations) that produced them; and (ii) constitute it (the machine) as a concrete unity in the space in which they (the components) exist" (Maturana & Varela 1980, pp. 78–79). Definition 11 does not use the seven works, so A3 can test the works against it without circularity.
 
+**Definition 12 (the same whole).** A whole at a later time is *the same whole* as at an earlier time when three things hold.
+
+- Its organization has gone on between the two times (it lasted, D-exist).
+- There was no time at which it performed none of its works as one.
+- No other whole carries on that organization from the earlier time as fully as it does.
+
+Its members may be replaced meanwhile. How far the later whole is *connected* to the earlier one is a separate matter, and a degree: how far its works go on as they did. Memory is one of the works, so a loss of memory makes a whole less connected to its past. It does not make it a different whole. If a work stops altogether, the thing is no longer a whole at all (Definition 8), and the question of its sameness as a whole lapses.
+
+- *After Spinoza.* An individual keeps its nature when its parts are replaced by others of the same nature, "without any change in its actuality (forma)" (E2, Lemma 4). Lemmas 5–7 extend this to growth, change of direction, and motion as a whole.
+- *Where the book departs.* Spinoza says a body "undergoes death" when "the proportion of motion and rest which obtained mutually among its several parts is changed", even while it keeps "the circulation of the blood". He tells of a Spanish poet whose illness left him "so oblivious of his past life" that "I should hardly call him the same" (E4P39, Scholium), and then he leaves the question "undiscussed". Definition 12 splits his test in two. Whether the poet is the same whole is yes or no, and the answer is yes. How connected he is to his past is a degree, and it is low.
+- *Why the third condition.* When a cell divides, both daughters carry on its organization, and neither is the same cell. Parfit's account of identity has the same non-branching condition (*Reasons and Persons*, 1984, Part Three). The same holds for a copy of an AI that carries on the original's organization as fully as the original does: then neither is the same whole. Parfit reaches the same answer for his cases of division.
+- *It can fail.* Death fails the second condition, and division fails the third. Whether sameness is what *matters* is not claimed here (Parfit, ch. 12).
+
 **Scholium 1 (conflict).** Queller & Strassmann (2009) treat organismality as high cooperation and very low conflict among parts. Here, cooperation is what performing a work *as one* consists in, and conflict is what holds a grade at 1 ("with its members often working against it"). They decline to call communities organisms, and judge a city far too full of conflict to count. D-whole names a degree of wholeness, not organism status, so a society graded 1 agrees with their judgment rather than contradicting it.
 
-**Scholium 2 (what changed).** The earlier D-whole said that wholeness is a matter of degree but gave no zero, so the definition ruled nothing out. Definitions 7 and 8 keep the degree and add a true zero: the absence of a work. The earlier "filter" becomes the boundary work, "shared fate" becomes condition (a) of membership, and the vantage remark moves to A4, where it applies. The domain clause is new: it comes from the collision on Nature, which found that grading Nature 0 was a false zero.
+**Scholium 2 (what changed).** The earlier D-whole said that wholeness is a matter of degree but gave no zero, so the definition ruled nothing out. Definitions 7 and 8 keep the degree and add a true zero: the absence of a work. The earlier "filter" becomes the boundary work, "shared fate" becomes condition (a) of membership, and the vantage remark moves to A4, where it applies. The domain clause is new: it comes from the collision on Nature, which found that grading Nature 0 was a false zero. Definition 12 is new, from the collision on sameness: the sameness of the I over time is not built into D-I. It is defined once, for wholes, and reaches the I through A2 and P1.
 
 **Limit.** This is a definition. Whether the seven works sort real things correctly is A3's claim, tested there; the definition itself makes no claim more likely.
 
@@ -51,8 +66,9 @@ status: candidate
 - Archibald, J. M. (2015). Endosymbiosis and eukaryotic cell evolution. *Current Biology* 25(19), R911–R921. doi:10.1016/j.cub.2015.07.055
 - Belkaid, Y. & Hand, T. W. (2014). Role of the microbiota in immunity and inflammation. *Cell* 157(1), 121–141. doi:10.1016/j.cell.2014.03.011
 - Maturana, H. R. & Varela, F. J. (1980). *Autopoiesis and Cognition: The Realization of the Living*. Dordrecht: D. Reidel. doi:10.1007/978-94-009-8947-4
+- Parfit, D. (1984). *Reasons and Persons*. Oxford: Clarendon Press. Part Three; ch. 12.
 - Queller, D. C. & Strassmann, J. E. (2009). Beyond society: the evolution of organismality. *Philosophical Transactions of the Royal Society B* 364(1533), 3143–3155. doi:10.1098/rstb.2009.0095
 - Roger, A. J., Muñoz-Gómez, S. A. & Kamikawa, R. (2017). The origin and diversification of mitochondria. *Current Biology* 27(21), R1177–R1192. doi:10.1016/j.cub.2017.09.015
 - Sagan, L. (1967). On the origin of mitosing cells. *Journal of Theoretical Biology* 14(3), 225–274. doi:10.1016/0022-5193(67)90079-3
 - Sender, R., Fuchs, S. & Milo, R. (2016). Revised estimates for the number of human and bacteria cells in the body. *PLoS Biology* 14(8), e1002533. doi:10.1371/journal.pbio.1002533
-- Spinoza, B. *Ethics*, E1D2. Standard text: Kisner (ed.), Cambridge; pages pending the author's copy.
+- Spinoza, B. *Ethics*, E1D2; E2 Lemmas 4–7 (after E2P13); E4P39 Scholium. Standard text: Kisner (ed.), Cambridge; pages pending the author's copy.
