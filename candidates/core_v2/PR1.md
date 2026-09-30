@@ -4,7 +4,7 @@ type: principle
 kind: explanation
 title: Pattern by requirement
 cites: []
-terms: [D-work, D-whole]
+terms: [D-exist, D-work, D-whole]
 qualifiers:
   - 'requirement'
   - 'if a thing is to last as one'
@@ -18,7 +18,7 @@ status: candidate
 
 **Two words.** *Requirement* here is conditional: *if* a thing is to last as one, *then* it must do this work. *Necessity*, the word in the book's title, is modal: what could not be otherwise. PR1 uses only the first. In the core, "must" appears only in this entry.
 
-**The thesis.** Each of the seven works answers a distinct requirement of anything that produces itself (D-whole, Definition 9):
+**The thesis.** Each of the seven works answers a distinct requirement of anything that produces itself (D-whole, Definition 11):
 
 - to stay distinct from what surrounds it, it must sort what crosses its edge (boundary);
 - to keep its many works in step with one another, it must coordinate them (control);
@@ -36,4 +36,4 @@ A membrane and a border look nothing alike. PR1 says why both turn up: the same 
 
 **Limit.** An explanation adds no confidence (METHOD.md, rule 4). A3's anchors passing shows the works are *performed*; it does not show they are *required*, and PR1 cannot lend A3 or A4 any score. Each row earns its grade from its own evidence.
 
-**What changed.** The earlier PR1 spoke of "any whole that persists". Now that D-whole defines a whole by the seven works, "a whole must perform the seven works" would be true by definition and empty. So the thesis is stated about self-producing things, which D-whole, Definition 9, defines without the seven works.
+**What changed.** The earlier PR1 spoke of "any whole that persists". Now that D-whole defines a whole by the seven works, "a whole must perform the seven works" would be true by definition and empty. So the thesis is stated about self-producing things, which D-whole, Definition 11, defines without the seven works.

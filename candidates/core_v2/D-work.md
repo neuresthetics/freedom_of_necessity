@@ -16,19 +16,19 @@ reading: 'Definition of "work" in the organizational sense of function (after Mo
 status: candidate
 ---
 
-**Definition 1 (work).** A *work* of a thing is an activity of that thing which (a) contributes to keeping the thing's organization going, and (b) is itself kept going by that organization.
+**Definition 3 (work).** A *work* of a thing is an activity of that thing which (a) contributes to keeping the thing's organization going, and (b) is itself kept going by that organization.
 
 "Contributes" is causal: without the activity, the organization would change or fail. No aim is implied. Condition (a) does not ask that the activity be indispensable; it may be one of several ways the organization is kept up. Mossio and colleagues' own example is the heart's pumping: it keeps the blood moving, which keeps the body's organization going, and the body in turn builds and maintains the heart.
 
-**Definition 2 (performs).** A thing *performs* a work when that activity is going on in it. Whether it is performed is a fact to be found. Whether it is *required* is a separate thesis (PR1) and adds nothing to the finding.
+**Definition 4 (performs).** A thing *performs* a work when that activity is going on in it. Whether it is performed is a fact to be found. Whether it is *required* is a separate thesis (PR1) and adds nothing to the finding.
 
-**Definition 3 (as one).** A thing performs a work *as one* when condition (b) holds at the thing's own level: the activity is kept going by the organization of the whole, not only by each member for its own sake, and not only by something outside the thing.
+**Definition 5 (as one).** A thing performs a work *as one* when condition (b) holds at the thing's own level: the activity is kept going by the organization of the whole, not only by each member for its own sake, and not only by something outside the thing.
 
 *The take-apart test.* Disperse the whole while leaving its members alive. If the activity at the whole's scale stops, the whole was performing it as one. If it carries on unchanged in each member, the members were performing it separately.
 
 *Example.* People avoid likely sources of infection through disgust. Disperse a society and each person still does this, so the society is not performing it; its members are, separately. Quarantine and organized public health stop when the institutions that run them are gone, so these are performed by the society as one.
 
-**Definition 4 (the seven works).** The book uses seven works, each fixed by one test question.
+**Definition 6 (the seven works).** The book uses seven works, each fixed by one test question.
 
 | Work | Does the thing, as one, ... |
 |---|---|
@@ -44,7 +44,7 @@ By this wording control uses signaling and memory: a thing that performs control
 
 **Where the list comes from.** Six of the seven follow the critical subsystems that Miller (1978) finds in living systems at every level, grouped: boundary; decider (control); ingestor, converter and producer (energy); distributor (transport); channel and net, with transducers, decoder and encoder (signaling); memory. Miller counts more subsystems than these (the reproducer and the timer among them), and he has no separate defense subsystem. So the seven are a selection, and defense is the book's addition, drawn from cell-autonomous immunity, immune systems and social immunity (sources in A3 and A4). The selection is the book's own choice and is revisable if A3's test fails.
 
-**Scholium (the organizational account).** Definitions 1–3 follow Mossio, Saborido & Moreno (2009), for whom a trait has a function if and only if "C1. T contributes to the maintenance of the organization O of S; C2. T is produced and maintained under some constraints exerted by O; C3. S is organizationally differentiated." The book keeps C1 and C2 as (a) and (b). C3, that the system has distinct parts making distinct contributions, is roughly what performing seven distinct works amounts to; the book does not test it separately. Mossio and colleagues use the account to ground the purposive and normative side of function talk; the book uses only the causal loop and takes no position on that further reading.
+**Scholium (the organizational account).** Definitions 3–5 follow Mossio, Saborido & Moreno (2009), for whom a trait has a function if and only if "C1. T contributes to the maintenance of the organization O of S; C2. T is produced and maintained under some constraints exerted by O; C3. S is organizationally differentiated." The book keeps C1 and C2 as (a) and (b). C3, that the system has distinct parts making distinct contributions, is roughly what performing seven distinct works amounts to; the book does not test it separately. Mossio and colleagues use the account to ground the purposive and normative side of function talk; the book uses only the causal loop and takes no position on that further reading.
 
 **Limit.** This is a definition. It fixes what the words mean and makes the later tests possible. It does not make any claim more likely.
 
