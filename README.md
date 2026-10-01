@@ -7,6 +7,8 @@ A geometric, Ethics-style axiomatic book, with a harness that checks each entry 
 ## Where to start
 
 - [HOW_THIS_BOOK_IS_BUILT.md](HOW_THIS_BOOK_IS_BUILT.md): read first. What each kind of entry is, how derivations work, and where the method departs from Spinoza.
+- [candidates/core_v2/](candidates/core_v2/README.md): a candidate rebuild of the core, starting from "I exist", with "human" moved into A2. Not yet promoted; `entries/` is unchanged until the author decides.
+- [drafts/verses/](drafts/verses/): the verse companion, *Axioms of Necessity* (latest [v10](drafts/verses/axioms_of_necessity_v10.md)). Unscored and not part of `entries/`.
 - [LOG.md](LOG.md): dated record of tests and changes, newest first.
 - [results/](results/): one folder per test run, with its settings, report and lessons. Never edited after commit.
 - [docs/](docs/): [hardware](docs/HARDWARE.md), [model choice](docs/MODEL_CHOICE.md), and [how to reproduce a run](docs/REPRODUCE.md).
@@ -23,7 +25,7 @@ Personal machine setup, paths, network, security, or home-lab notes. The harness
 
 ## Status: working seed
 
-The seed entries below are the stable working base. They can still be edited.
+The seed entries below are the committed working base in `entries/`. They can still be edited. A candidate replacement for the core is being worked out in [candidates/core_v2/](candidates/core_v2/README.md); until it is promoted, the entries below are the ones in force.
 
 ### Seed entries
 
@@ -39,16 +41,13 @@ A local open-weights model judges each entry against the entries it cites, or, i
 
 Full rules: [METHOD.md](METHOD.md). Confidences are a ranking with a cap chain, not probabilities.
 
-### Results so far
+### Scores: none valid right now
 
-- **A2**: evidence check 0.80.
-- **A3**: 0.50. Six rows score 0.80; defense is unclear at 0.50 because the backbone source (Miller, *Living Systems*, 1978) has no defense subsystem. A revision with added defense sources is pending.
-- **A4**: passes with a model score of 0.72; its effective confidence is capped at 0.50 by A3.
-- **P1**: passes with a model score of 0.72, but its effective confidence is capped at 0.50 by A3.
+Every entry except A1 is **unscored**. The earlier numbers (A2 0.80; A3 0.50; A4 and P1 0.72, capped at 0.50 by A3) came from the first check and the five-step lens, which has been retired after an outside review found problems in the run (see [LOG.md](LOG.md), 2026-09-29, "Back to the drawing board"). They are kept in [results/](results/) as history, not as results. New scores will be recorded only after the collider below has run.
 
 ### Next phase
 
-A lens applied to every check, being designed now. The checking code will be published here when it reaches MVP.
+A minimal collider replaces the lens: for each entry the model builds a steel man of the entry and the strongest counter steel man, both in the book's geometric form, and judges them side by side. Code checks citations and quoted spans; the model does not check its own citations. Planned runs: a clean control and the collider, each on the uncensored and the stock model, on the same entries and broken twins.
 
 ### Reproducibility
 
