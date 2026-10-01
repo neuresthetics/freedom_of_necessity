@@ -4,24 +4,24 @@
 
 ## 1. The order
 
-Twelve entries, plus three collisions. The page is in three groups, and each group opens with the definitions its claims use, as each of Parts One to Four of the *Ethics* sets out its own definitions at its head ([collision_order.md](collision_order.md)). A1 is the first claim and the third entry, straight after its two definitions, and A2 follows it. The definitions were worked out backward, from what the later claims needed a word to mean, and then placed before the claims that use them (HOW_THIS_BOOK_IS_BUILT.md, section 5).
+Twelve entries, plus four collisions. The page is in three groups, and each group opens with the definitions its claims use, as each of Parts One to Four of the *Ethics* sets out its own definitions at its head ([collision_order.md](collision_order.md)). A1 is the first claim and the third entry, straight after its two definitions, and A2 follows it. The definitions were worked out backward, from what the later claims needed a word to mean, and then placed before the claims that use them (HOW_THIS_BOOK_IS_BUILT.md, section 5).
 
 **Group 1. The I.**
 
 | # | Entry | Kind | Statement (one line) | Rests on |
 |---|---|---|---|---|
-| 1 | [D-I](D-I.md) | definition | "I", used in a thought, names whatever is doing that thought: a thinker, if there is one distinct from the thinking, or else the thinking itself. | (definition) |
-| 2 | [D-exist](D-exist.md) | definition | A thing exists at a time when it is going on (an activity) or present (not an activity) at that time; it lasts when it goes on existing (duration, E2D5). | (definition) |
-| 3 | [A1](A1.md) | root, 1.0 | I exist. (In defined terms: whatever is doing this thinking is going on, or present, now.) | nothing: doubting it is a case of it; uses D-I, D-exist |
-| 4 | [A2](A2.md) | axiom, empirical | I am a human body made of cells, and my mind is that same body's organization described in the first person. | A1 (its subject; caps nothing) and its own evidence (clause a); clause b is a declared reading, unscored |
+| 1 | [D-I](D-I.md) | definition | "I", used in a thought, names the thinker of that thought, if there is a thinker distinct from the thinking, and otherwise the thinking itself. | (definition) |
+| 2 | [D-exist](D-exist.md) | definition | An activity exists at a time when it is going on at that time; for anything else "exists" is taken as understood; a thing lasts when it goes on existing (duration, E2D5). Whether anything exists eternally is left open. | (definition) |
+| 3 | [A1](A1.md) | root, 1.0 | I exist. (In defined terms: this thinking is going on now, and so its thinker, if it has one distinct from it, exists now.) | nothing: doubting it is a case of it; uses D-I, D-exist |
+| 4 | [A2](A2.md) | axiom, empirical | I am a human body made of cells, and my mind is that same body's organization described in the first person. | A1 (its subject; caps nothing) and its own evidence (clause a, scored as: I am made of this body, and this thinking goes with it); identity with the body and clause b are a declared reading, unscored |
 
 **Group 2. Wholes.**
 
 | # | Entry | Kind | Statement (one line) | Rests on |
 |---|---|---|---|---|
-| 5 | [D-work](D-work.md) | definition | A work is an activity that helps keep a thing's organization going and is kept going by it; a thing performs it *as one* if taking the thing apart, members left alive, would stop it; the seven works are boundary, control, energy, transport, signaling, defense, memory. | (definition) |
+| 5 | [D-work](D-work.md) | definition | A work is an activity that helps keep a thing's organization going and is carried out by structures that organization produces or maintains; a thing performs it *as one* if the activity would stop were the whole's organization removed, its members kept going by other means; the seven works are boundary, control, energy, transport, signaling, defense, memory. | (definition) |
 | 6 | [D-whole](D-whole.md) | definition | For finite things only (E1D2): grade each work 0, 1 or 2; a thing's degree of wholeness is its lowest grade; it is a whole if its degree is above zero; a member shares the whole's fate and takes part in its works; a thing produces itself if its own processes make and replace its components (defined without the seven works); a whole is the same whole later if its organization went on with no full stop and no branching, and its connectedness to its past is a degree. | uses D-exist, D-work (Definition 11 uses neither the works nor the grades) |
-| 7 | [D-Nature](D-Nature.md) | definition | Nature taken as one is everything that exists, conceived as one, with nothing besides it; it is not finite, so D-whole does not grade it; everything is in Nature, and being in Nature is not being a member. The identification with Spinoza's God is a declared reading, unscored. | uses D-exist, D-whole; result of [collision_nature.md](collision_nature.md) |
+| 7 | [D-Nature](D-Nature.md) | definition | Nature taken as one is everything that exists, taken together (a plurality, not a set), with nothing besides it; it is not finite, so D-whole does not grade it; everything is in Nature, and being in Nature is not being a member. That it is really one substance, and Spinoza's God, is a declared reading, unscored. | uses D-exist, D-whole; result of [collision_nature.md](collision_nature.md) |
 | 8 | [A3](A3.md) | axiom, model | The seven works sort things the way self-production does: what produces its own parts performs all seven as one; what lasts without producing its own parts fails at least one. | anchors, negative controls, hard cases |
 | 9 | [PR1](PR1.md) | principle | Where the same requirement holds, the same work turns up, in forms that differ completely from level to level. | explains; adds no confidence |
 
@@ -31,15 +31,16 @@ Twelve entries, plus three collisions. The page is in three groups, and each gro
 |---|---|---|---|---|
 | 10 | [A4](A4.md) | axiom, model | The society I live in is a whole to a degree, judged one work at a time, and I am one of its members. | its own evidence, row by row; A2 for the membership clause |
 | 11 | [P1](P1.md) | proposition | I am a whole at one level and a part at the next. | A2, A3, A4 |
-| 12 | [P2](P2.md) | proposition | A collective mind happens in the society I live in: control performed as one, combining signaling and memory; an activity, not a thing, and not a claim that the society feels. | A4 |
+| 12 | [P2](P2.md) | proposition | A collective mind, in the sense defined here, happens in the society I live in: control performed as one, combining signaling and memory; an activity, not a thing, and not a claim that the society feels. | A4 |
 
 Definitions are numbered straight through, and the numbers rise down the page: D-I is Definition 1, D-exist 2, D-work 3–6, D-whole 7–12, D-Nature 13. Every cross-reference in core v2 was renumbered to match.
 
-The three collisions are not entries. Each is a written judgment between two readings, and each produced changes to the entries.
+The collisions are not entries. Each is a written judgment between readings, and each produced changes to the entries.
 
 - [collision_nature.md](collision_nature.md) produced D-Nature, D-whole's domain clause, and the new P1, Scholium 3.
 - [collision_sameness.md](collision_sameness.md) produced D-whole, Definition 12, and the new P1, step 6.
 - [collision_order.md](collision_order.md) produced this order.
+- [collisions/core_v2_full_run.md](collisions/core_v2_full_run.md) ran every entry through the collider by hand, and produced the fourth round of changes (section 3).
 
 ## 2. Citation graph
 
@@ -104,8 +105,8 @@ Every chain of support now ends in the root or in evidence an axiom carries itse
 
 **Does A1 now do real work?** Yes. The work is logical, not evidential.
 
-1. *A1 supplies the subject A2 identifies.* A2 says what the I is. That is an identity claim, and it needs an I that exists. A1 is the premise that there is one, and D-I says what the word names. Without A1, A2's "I" could fail to name anything.
-2. *A1 does not supply sameness over time, and neither does D-I.* P1 needs the I that is a whole (A2) to be the I that is a member (A4). D-I names only the doer of *this* thought, and A1 holds only "for as long as I am thinking". Where sameness belongs was collided ([collision_sameness.md](collision_sameness.md)). The verdict: sameness is defined once, for wholes (D-whole, Definition 12: the organization went on, with no full stop and no branching; connectedness to the past is a separate degree). It reaches the I through what the I is found to be. A2 identifies the doer with this body, P1, step 3, shows the body is a whole, and P1, step 6, applies Definition 12. Tracing this showed that A4's membership clause (my food, my public health, my work) is about that body, so **A4 cites A2**.
+1. *A1 supplies the subject A2 describes.* A2 says what the I is made of and goes with, and, as a declared reading, what it is. Either needs an I that exists. A1 is the premise that there is one, and D-I says what the word names. Without A1, A2's "I" could fail to name anything.
+2. *A1 does not supply sameness over time, and neither does D-I.* P1 needs the I that is a whole (A2) to be the I that is a member (A4). D-I names only the thinker of *this* thought (or the thinking itself), and A1 holds only "for as long as I am thinking". Where sameness belongs was collided ([collision_sameness.md](collision_sameness.md)). The verdict: sameness is defined once, for wholes (D-whole, Definition 12: the organization went on, with no full stop and no branching; connectedness to the past is a separate degree). It reaches the I through what the I is found to be. A2 finds that this thinking goes with this body, P1, step 3, shows the body is a whole, and P1, step 6, applies Definition 12. Tracing this showed that A4's membership clause (my food, my public health, my work) is about that body, so **A4 cites A2**.
 3. *A1 adds no confidence and removes none.* At 1.0 it caps nothing. What it adds is that the chains are valid: every "I" names something, and the chains end at the root as HOW says they do.
 
 So A1 re-enters the chains through one solid edge, A1 → A2. Every chain that uses "I" reaches it: A4, P1 and P2 through A2. Chains that do not use "I" (A3's) end in evidence, as before.
@@ -151,6 +152,27 @@ So A1 re-enters the chains through one solid edge, A1 → A2. Every chain that u
 | README, section 1 and graph | The page is in three groups, each opening with its definitions: the I (D-I, D-exist, A1, A2); wholes (D-work, D-whole, D-Nature, A3, PR1); society and levels (A4, P1, P2). The graph shows the groups as boxes. | The verdict of the order collision. It follows the *Ethics* as a whole, where Parts One to Four each set out their own definitions at their head, rather than only Part One. |
 | collision_nature.md | The "Order" bullet notes that it was superseded. | The order changed. |
 
+### Fourth round (full hand run of the collider, 2026-09-30 PT)
+
+Every entry was collided by hand ([collisions/core_v2_full_run.md](collisions/core_v2_full_run.md)). No entry broke outright. The old wordings are quoted in the run.
+
+| Where | Change | Why |
+|---|---|---|
+| **collisions/core_v2_full_run.md** (new) | Twelve collisions, one per entry, with verdicts: D-I, D-work, D-whole, D-Nature and A4 hold with revision; A1 holds; D-exist, A2, A3, PR1, P1 and P2 split. | The author asked for a full run by hand. No numbers are given. |
+| D-I | "names whatever is doing that thought" → "names the thinker of that thought, if there is a thinker distinct from the thinking, and otherwise the thinking itself". New Scholium 3 (Anscombe). | "Doing" covered an agent and an occurrence; the thinking does not do itself. The book's "I" is marked as a term of art. |
+| D-exist | Defines existence for activities only; "or present" withdrawn; "exists" taken as understood for anything else; eternity (E1D8, E1P19) now left open in fact. Kant cited. | "Present" defined by a synonym, and the old time clause clashed with D-Nature's declared reading. Settles open question 16. |
+| A1 | Gloss only: "this thinking is going on now, and so its thinker, if it has one distinct from it, exists now". | Follows D-I and D-exist. The axiom is unchanged. |
+| A2 | Statement unchanged. Clause (a) is scored as *made of and goes with*; identity with the body joins the declared reading. "Made of cells" glossed as cells and what cells make. Baker, Olson, Alberts cited. | The evidence fits the constitution view and animalism alike. |
+| D-work | Definition 3(b): "is carried out by structures that the thing's organization itself produces or maintains" (was "is itself kept going by that organization"). Definition 5 to match. The take-apart test is now a question about dependence. | The old (b) was looser than its source (Mossio's C2) and let a charging robot in. Most body cells die when dispersed, so the test cannot be a procedure. |
+| D-whole | Definition 9: a member "while" both conditions hold; visitors and pets accepted as members while they meet them. | Membership comes and goes. |
+| D-Nature | "conceived as one" → "taken together"; "as one" means counted as one; "really one" (E1P14) moves to the declared reading; no set of everything. | "One" covered a count and a claim. |
+| A3 | New hard case: the self-recharging robot (Walter 1950), predicted degree 0. New paragraph on how far A3's two tests are apart. Today's AI systems are not wholes in the book's sense. | The robot breaks A3 on a loose reading of D-work's (b) and passes on the revised one. |
+| PR1 | Thesis sorted into general requirements, requirements that hold in some circumstances, and memory as a state, not a stored record (Segré, Ben-Eli & Lancet 2000). | The seven were not of one strength, and "record" covered a nearly empty claim and a false one. |
+| A4 | The society is all its institutions, state and non-state; the take-apart test disperses the institutions that carry each work. New scholium on state and society (Leeson 2007). | The state and the society can come apart. |
+| P1 | Step 6 rests on A2's scored clause ("this thinking goes with this body"). New Scholium 4: which reading of "I am" is scored. | Follows A2. |
+| P2 | Statement: "A collective mind, in the sense defined here, happens ..." New Scholium 4: three senses of "mind" (Stevenson 1938). | The name invited two claims the demonstration does not make. |
+| README | Section 1 rows; section 2; design decision 6; open questions 6, 7, 16 updated, 18–22 added; self-check, fourth round. | Follows the entries. |
+
 **Mapping from the agreed sketch.** Sketch A1 → A1. Sketch A2 → A2 (wording: "described in the first person" instead of "described from within", to keep "inside/within" out of the felt side). Sketch A3 → split into D-whole (the definition half: "a whole is whatever does the works of lasting as one, to the degree that it does") and A3 (the model half: the seven works pick out the right things). Sketch A4 → P1. Sketch A5 → A4.
 
 ## 4. Key design decisions
@@ -160,12 +182,12 @@ So A1 re-enters the chains through one solid edge, A1 → A2. Every chain that u
 3. **Definitions carry the tests, axioms carry the claims.** "What a whole is" is a definition; "the definition sorts real things right" is a claim that can fail (A3).
 4. **An independent check against circularity.** The seven works are checked against self-production, which is defined without them. The anchors passing is expected and weak; the negative controls and hard cases (candle flame, virus, mature red blood cell, bacterial transport) carry the test.
 5. **A true zero, and no cutoff above it.** The degree of wholeness is the lowest of seven coarse grades, reported with its profile. Degree of wholeness and confidence are kept as separate numbers.
-6. **"As one" has an operational test.** Take the whole apart, leaving its members alive; if the activity at the whole's scale stops, the whole was performing it. This is how "performed by the collective, not only by members separately" becomes checkable.
+6. **"As one" has a test.** Ask whether the activity at the whole's scale would stop if the whole's organization were removed while its members were kept going by other means; if it would, the whole was performing it. This is how "performed by the collective, not only by members separately" becomes checkable.
 7. **"Performed" everywhere, "must" only in PR1.** No entry claims a requirement except PR1, and PR1 scores nothing.
 8. **Collective mind by definition, not by analogy.** P2 names an activity and derives it; it claims nothing about feeling.
 9. **Each entry does one job.** Twelve entries against the current seven. The old A3 did two jobs and is split into a test (A3) and a society claim (A4). "Work" needed its own definition. D-I and D-exist give A1 defined terms. D-Nature gives Nature an entry of its own. The seven works, grades, membership and levels live in definition entries rather than being spread across the axioms.
 10. **Nature is outside D-whole, not at its bottom.** D-whole grades finite things only. Nature taken as one gets its own definition, and a relation of its own (*in*, not *member of*). This keeps D-whole's zero honest and keeps E1D7's line clear between the constrained things D-whole grades and the one free thing it does not (D-Nature, Scholium 4).
-11. **A1's work is logical.** A1 supplies the subject that A2 identifies. Sameness of the I across entries is not carried by A1 or D-I (section 2).
+11. **A1's work is logical.** A1 supplies the subject that A2 describes. Sameness of the I across entries is not carried by A1 or D-I (section 2).
 12. **Sameness is defined for wholes, not for the word "I".** D-whole, Definition 12, gives a yes-or-no test that can fail (a full stop, or branching) and a separate degree (connectedness). The I is the same over time because it is found to be a whole, not because of what "I" means ([collision_sameness.md](collision_sameness.md)).
 13. **Each group opens with its definitions.** The page follows the *Ethics* as a whole, not only its Part One ([collision_order.md](collision_order.md)).
 
@@ -176,8 +198,8 @@ So A1 re-enters the chains through one solid edge, A1 → A2. Every chain that u
 3. **The seven.** Miller has more subsystems (the reproducer, the timer and others). Keep the seven as a selection the book owns, or add any? Adding a row can only lower A4.
 4. **Three grades.** Is 0/1/2 fine enough, or do you want finer grades once graders are shown to agree?
 5. **The mature red blood cell.** The core predicts it is a member of the body but not a whole in its own right (memory 0). Are you comfortable with that consequence? It is the case most likely to split graders.
-6. **Which society.** A4 is read as a present-day state society. Should the book also claim anything for smaller societies, or for humanity as a whole?
-7. **P2's name.** "Collective mind" now means only control performed as one, combining signaling and memory. Keep the name, given that it invites the stronger reading P2 disclaims?
+6. **Which society.** A4 is read as a population under one government with all its institutions, state and non-state (changed in the fourth round; see question 22). Should the book also claim anything for smaller societies, or for humanity as a whole?
+7. **P2's name.** "Collective mind" now means only control performed as one, combining signaling and memory. Keep the name, given that it invites the stronger reading P2 disclaims? *Sharpened by the full run:* the statement now says "in the sense defined here", because the word has three senses (control; something felt; Spinoza's idea of a body) and a familiar word given a new meaning keeps the force of the old one (Stevenson 1938, "persuasive definitions"). A plainer name, such as "collective control", would remove the risk.
 8. **Whether a society feels.** P2 leaves it undecided between Spencer (no corporate consciousness) and Spinoza (all individuals animated in different degrees). Is undecided your position, or do you want to lean?
 9. **Promotion.** If accepted, these would replace the current seven entries in `entries/` and need rescoring by the collider; HOW_THIS_BOOK_IS_BUILT.md and METHOD.md name A1 as "I, a human, exist" and describe the old A3/A4/P1 chain, and would need matching edits. Nothing has been changed there.
 10. **Kisner page numbers** for every Spinoza citation, pending your copy.
@@ -186,8 +208,13 @@ So A1 re-enters the chains through one solid edge, A1 → A2. Every chain that u
 13. **A4 cites A2.** Tracing A1's I showed that A4's membership clause is about a body, so A4 now cites A2. That formally caps A4, and through it P2, by A2. A2's clause (a) is expected to be high, so the cap should not bind. The alternative is to move the membership clause out of A4 into P1. Keep it in A4?
 14. **Sameness of the I.** *Resolved by [collision_sameness.md](collision_sameness.md):* not in D-I; defined for wholes (D-whole, Definition 12) and reached through A2 and P1.
 15. **The order.** *Resolved by [collision_order.md](collision_order.md):* three groups, each opening with its definitions.
-16. **"Present" in D-exist.** "Going on (an activity) or present (not an activity)". Is "present" plain enough, or do you want another word?
+16. **"Present" in D-exist.** *Resolved by [the full run](collisions/core_v2_full_run.md), section 2:* "present" defined existence by a synonym, and the time clause did not leave eternity open (E1D8, E1P19). D-exist now defines existence for activities only and takes it as understood for everything else.
 17. **The poet: a departure from Spinoza.** Under D-whole, Definition 12, Spinoza's Spanish poet is the same whole, much less connected to his past. Spinoza says a body "undergoes death" when its proportion of motion and rest changes, even while the blood still circulates, and he would "hardly call him the same" (E4P39, Scholium). The book splits his test into a yes-or-no part and a degree. Do you accept that departure? The alternative is Spinoza's own test, whether the proportion changed, which he gives no threshold for.
+18. **A2: "am" or "made of"?** The full run found that the evidence shows I am *made of* this body and that this thinking *goes with* it, but not that I am *identical* with it: the constitution view (Baker 2000) and animalism (Olson 1997) fit the same evidence. So identity is now part of the declared reading, unscored, and no longer part of clause (a). The statement is kept as you accepted it. Do you want it to say "made of" instead, or keep "I am a human body" and let the text say how it is scored?
+19. **Robots and today's AI are not wholes.** D-work, condition (b), now asks that a work be carried out by structures the thing's own organization produces or maintains, as its source does (Mossio's C2). Read more loosely, a robot that docks to recharge would be a counterexample to A3. The cost: charging robots, and today's AI systems, whose hardware people make and maintain, perform none of the seven works as one and are not wholes in the book's sense. This says nothing about whether they think or feel. Are you content with that?
+20. **Membership is cheap, and for a time.** By D-whole, Definition 9, a visitor, or a dog in a household, is a member while it meets both conditions. The full run accepts this. Do you?
+21. **PR1 restructured.** The seven requirements are now of three strengths: general (energy, control, a sorting edge), holding only in some circumstances (transport, signaling, defense), and memory as a state that carries forward how parts are made, not a separate stored record (Segré, Ben-Eli & Lancet 2000). Do you accept the weaker, sorted thesis?
+22. **Society, not state.** A4's society is now all its institutions, state and non-state, and its take-apart test disperses the institutions that carry each work. The reason is the case of Somalia after 1991 (Leeson 2007, whose reading is contested). Do you accept the wider reading, and the case?
 
 ## 5a. Implications for HOW_THIS_BOOK_IS_BUILT.md (not edited)
 
@@ -200,7 +227,7 @@ HOW describes the current `entries/`, so it has not been changed. If core v2 is 
 5. **Section 5 (order).** "On the page, definitions come first, as in Spinoza" becomes "On the page, definitions come first in each group, as in each Part of Spinoza's *Ethics*." A1 is the first claim, straight after its two definitions.
 6. **A kind for declared readings.** A2's clause (b) and D-Nature's identification with God are both *declared readings*: stated, not derived, and not scored. HOW could name this as a kind, with its limit: a declared reading adds no confidence to anything.
 7. **How to read "whole" and "part".** A reader should be told that the book's "whole" is narrower than Spinoza's. For Spinoza, Nature is the whole most of all (Letter 32). For the book, a whole is a finite thing that lasts by its works. "In Nature" and "member of" are different relations.
-8. **How to read "the same I".** A reader should be told that "I" names the doer of one thought (D-I), and that sameness over time is a finding about a whole (D-whole, Definition 12), not part of the word. So the book can say that I am the same, and how far I am connected to my past, as two different things. It does not claim that sameness is what matters.
+8. **How to read "the same I".** A reader should be told that "I" names the thinker of one thought, or the thinking itself (D-I), and that sameness over time is a finding about a whole (D-whole, Definition 12), not part of the word. So the book can say that I am the same, and how far I am connected to my past, as two different things. It does not claim that sameness is what matters.
 
 ## 6. Strict nonsense self-check
 
@@ -277,7 +304,7 @@ Run over collision_nature.md, D-I, D-exist, D-Nature, and every changed passage 
 | 47 | D-I | Took Descartes's list of thinking but dropped his awareness clause without saying what that leaves open. (hidden gap) | Scholium 2: whether doubting without awareness is still doubting is left open, and that is the AI question. |
 | 48 | D-exist | For things that are not activities, "present" is nearly a synonym of "exist". (risk of empty definition) | Admitted in the text; open question 16. |
 | 49 | collision, references | Letter 64's English was first attributed to Curley's translation without checking it, and the secondary source to "Jolma" (the journal's name, not an author). (citation slip) | Translated from the Latin; the source is Camerini & Di Corato (2026), *JoLMA* 7(1), with its DOI. |
-| 50 | README, section 2 (first plan) | Planned to say that A1 carries the same I into both halves of P1. D-I names only the doer of *this* thought, and A1 holds "for as long as I am thinking". (overclaim) | Sameness is carried by A2, on evidence. A4 cites A2; P1, step 6, states the identity; open question 14. |
+| 50 | README, section 2 (first plan) | Planned to say that A1 carries the same I into both halves of P1. D-I names only the thinker of *this* thought (or the thinking itself), and A1 holds "for as long as I am thinking". (overclaim) | Sameness is carried by A2, on evidence. A4 cites A2; P1, step 6, states the identity; open question 14. |
 | 51 | A2 | Identified A1's I with "this body" without first-person evidence that ties the two. (gap) | One bullet added to clause (a): the thinking goes with this body (closing these eyes ends my seeing). The statement is unchanged. |
 | 52 | D-whole, references | Spinoza inserted out of alphabetical order. (form) | Moved. |
 
@@ -310,3 +337,24 @@ Run over both new collisions, D-whole, Definition 12, and the changed passages o
 | 62 | collision_order, K6 | "E suggests the root rests on biology". (overclaim) | "can suggest". |
 
 **Sweeps with no remaining hits.** "must" appears only in PR1 and inside quotations (Spinoza, Hume). "Inside" is not used in new text. "Within" is used only of a stretch of thinking or of a page group, and "outside" only of a definition's domain. No aiming words are used of a whole or a work. Check K1 of collision_order passes for the new order: no entry uses a term or cites an entry below it (scanned from the `terms` and `cites` fields). Kisner pages are still pending. Parfit's pages rest on secondary sources that agree with one another, and should be checked against a copy.
+
+### Fourth round (the full run, and the edits it caused)
+
+Run over [collisions/core_v2_full_run.md](collisions/core_v2_full_run.md) and every changed passage of the twelve entries and this README, in the same categories and sweeps. New Spinoza quotations were checked against `sources/spinoza/ethics_elwes_1883.txt`: E1D8 and its Explanation, E1P14, E1P19. Each new outside source was checked on the web: Anscombe 1975 (the sentence on p. 60), Kant A598/B626 (Kemp Smith), Baker 2000, Olson 1997, Segré, Ben-Eli & Lancet 2000, Walter 1950 (the tortoises were built to recharge at a hutch; that a full recharging cycle was ever completed is not on record, so the text says "built to"), Stevenson 1938, Leeson 2007, and Alberts et al. 2015, which A3 already cites.
+
+| # | Where | Problem (category) | Fix |
+|---|---|---|---|
+| 63 | run, A1, shared floor | "The objector has to doubt, or think, in order to object." (aim wording) | "No one can object without doubting or thinking." |
+| 64 | run, verdicts | "Two readings broke inside entries that survive." (inside wording) | "in entries". |
+| 65 | A4 and run, Leeson | The first draft said Somalia "did no worse, and often better", which understates his finding, and dropped his caveat that it stayed poor. It also gave his description of trade and law as plain fact. (factual slip) | "On Leeson's account ... did better on most of eighteen development indicators ..., though it stayed poor"; the README question notes that his reading is contested. |
+| 66 | A2, references | Inserting Olson garbled the Scoville & Milner entry and broke the alphabetical order. (form) | Repaired. |
+| 67 | D-I, Scholium 3, first draft | "If 'I' names nothing, what the doubt shows is ... D-I's second clause": if the word names nothing, no clause of D-I names anything. (muddle) | "If ordinary 'I' names nothing, ... the book's 'I' names that thinking by D-I's second clause." |
+| 68 | D-I, "Lichtenberg allowed" | It quoted the withdrawn wording, "Or else the thinking itself". (inconsistency) | "Otherwise the thinking itself". |
+| 69 | D-I, "Sameness over time"; README, section 2 | "A2 identifies the doer with this body", after identity left A2's scored clause. (inconsistency) | "A2 finds that this thinking goes with this body". |
+| 70 | README, section 2, point 1; design decision 11 | "A2 says what the I is. That is an identity claim." (inconsistency) | "A2 says what the I is made of and goes with, and, as a declared reading, what it is." |
+| 71 | README, question 18, first draft | "Identity is now scored as part of the declared reading": what is declared is not scored. (contradiction) | "part of the declared reading, unscored". |
+| 72 | run, verdict table | '"or present" defined by a synonym' leaves out what was defined. (muddle) | "defined existence by a synonym". |
+| 73 | A3, robot hard case, first draft | It listed six of the robot's activities and then said it "might pass all seven". (overclaim) | The casing that admits charge and keeps out dust and water is named as its candidate edge. |
+| 74 | run, A2, the transplant case | A citation for the transplant case was considered but not verified this round. (unverified citation) | The case is argued without a citation. Baker and Olson, which were verified, carry the two views. |
+
+**Sweeps with no remaining hits.** "must" appears only in PR1 and inside quotations, including the run's quotations of PR1. "Inside" is not used of the felt side, and "outside" is used only of place or of a domain. No aiming words are used of a whole or a work; "aims" appears only where a definition is said to need none. Check K1 of collision_order passes: no entry uses a term or cites an entry below it (scanned from the `terms` and `cites` fields, which this round did not change). All frontmatter parses. No numeric scores were added anywhere. Kisner pages are still pending.

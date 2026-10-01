@@ -12,11 +12,12 @@ qualifiers:
   - 'above zero'
   - 'no cutoff above zero'
   - 'member'
+  - 'while the conditions hold'
   - 'by function, not origin'
   - 'the next level'
   - 'the same whole: went on, without a full stop, without branching'
   - 'connectedness: a degree'
-reading: 'Definition, for finite things only (after E1D2; Nature taken as one is outside its domain, see D-Nature): a whole is anything that performs each of the seven works as one, at least in part, and its degree is its lowest grade. Zero is the absence of a work, not a chosen cutoff, so the definition can rule things out. Also fixes "member" (shared fate plus function), "level", and "produces itself" (after Maturana & Varela), which is defined without the seven works so that A3 can test them against it. Judged on clarity and fit; adds no confidence to any entry. Definition 12 (from collision_sameness.md) says when a whole at a later time is the same whole: its organization went on with no full stop and no branching; how connected it is to its past is a separate degree.'
+reading: 'Definition, for finite things only (after E1D2; Nature taken as one is outside its domain, see D-Nature): a whole is anything that performs each of the seven works as one, at least in part, and its degree is its lowest grade. Zero is the absence of a work, not a chosen cutoff, so the definition can rule things out. Also fixes "member" (shared fate plus function, held while both hold), "level", and "produces itself" (after Maturana & Varela), which is defined without the seven works so that A3 can test them against it. Judged on clarity and fit; adds no confidence to any entry. Definition 12 (from collision_sameness.md) says when a whole at a later time is the same whole: its organization went on with no full stop and no branching; how connected it is to its past is a separate degree.'
 status: candidate
 ---
 
@@ -35,7 +36,9 @@ status: candidate
 - *Coarse by design.* Three grades are few. They were chosen few so that graders working apart can agree (A3, test F3). Finer grades can be added once graders agree at the finer level.
 - *Degree is not confidence.* A degree says how far X is a whole. A confidence says how well the evidence supports a grade. A society can be graded 1 with high confidence, or 2 with low confidence. The two numbers are kept apart.
 
-**Definition 9 (member).** A thing is a *member* (a part) of a whole W when (a) its persistence depends on at least one of W's works, and (b) it takes part in at least one of them. Condition (a) is shared fate; condition (b) is function. A member may be a whole in its own right (a nucleated cell of mine) or not (a mature red blood cell, which has no nucleus; see A3). By count, red blood cells are most of the body's own cells (Sender, Fuchs & Milo 2016), so this is not a rare case.
+**Definition 9 (member).** A thing is a *member* (a part) of a whole W while (a) its persistence depends on at least one of W's works, and (b) it takes part in at least one of them. Condition (a) is shared fate; condition (b) is function. A member may be a whole in its own right (a nucleated cell of mine) or not (a mature red blood cell, which has no nucleus; see A3). By count, red blood cells are most of the body's own cells (Sender, Fuchs & Milo 2016), so this is not a rare case.
+
+*Membership is had for a time, and it is easy to meet.* A thing is a member while both conditions hold, and not before or after. A visitor who depends on a society's works and takes part in them is a member while staying. A dog that depends on a household and takes part in its defense is a member of it while that lasts. These are accepted consequences. Membership sorts what takes part in a whole's working, not what belongs to it by kind, by origin or by right.
 
 *Membership is judged by function, not origin.* Mitochondria descend from once free-living bacteria: Sagan (1967) proposed their endosymbiotic origin, and it is now well established (Archibald 2015; Roger, Muñoz-Gómez & Kamikawa 2017). They depend on the cell's works and take part in its energy work, so they are members of the cell. Bacterial cells in the body are about as numerous as human cells, roughly 1.3 to 1 (Sender, Fuchs & Milo 2016). They are not the body's own cells, yet the microbiota takes part in the induction, training and function of the host immune system (Belkaid & Hand 2014), and it depends on the body for food. By this definition the resident microbiota are members of the body.
 
