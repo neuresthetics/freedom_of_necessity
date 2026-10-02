@@ -19,10 +19,10 @@ Twelve entries, plus four collisions. The page is in three groups, and each grou
 
 | # | Entry | Kind | Statement (one line) | Rests on |
 |---|---|---|---|---|
-| 5 | [D-work](D-work.md) | definition | A work is an activity that helps keep a thing's organization going and is carried out by structures that organization produces or maintains; a thing performs it *as one* if the activity would stop were the whole's organization removed, its members kept going by other means; the seven works are boundary, control, energy, transport, signaling, defense, memory. | (definition) |
-| 6 | [D-whole](D-whole.md) | definition | For finite things only (E1D2): grade each work 0, 1 or 2; a thing's degree of wholeness is its lowest grade; it is a whole if its degree is above zero; a member shares the whole's fate and takes part in its works; a thing produces itself if its own processes make and replace its components (defined without the seven works); a whole is the same whole later if its organization went on with no full stop and no branching, and its connectedness to its past is a degree. | uses D-exist, D-work (Definition 11 uses neither the works nor the grades) |
+| 5 | [D-work](D-work.md) | definition | A work is an activity that helps keep a thing's organization going and is carried out by structures that organization produces or maintains; a thing performs it *as one* if the activity would stop were the thing's organization removed, its components kept going by other means; the seven works are boundary, control, energy, transport, signaling, defense, memory. | uses D-exist |
+| 6 | [D-whole](D-whole.md) | definition | For finite things only (E1D2): grade each work 0, 1 or 2; a thing's degree of wholeness is its lowest grade; it is a whole if its degree is above zero; a member shares the whole's fate and takes part in its works; a thing produces itself if its own activities make and replace its components, those of its edge included (defined without the seven works); a whole is the same whole later if its organization lasted with no full stop and no branching, and its connectedness to its past is a degree. | uses D-exist, D-work (Definition 11 uses neither the works nor the grades) |
 | 7 | [D-Nature](D-Nature.md) | definition | Nature taken as one is everything that exists, taken together (a plurality, not a set), with nothing besides it; it is not finite, so D-whole does not grade it; everything is in Nature, and being in Nature is not being a member. That it is really one substance, and Spinoza's God, is a declared reading, unscored. | uses D-exist, D-whole; result of [collision_nature.md](collision_nature.md) |
-| 8 | [A3](A3.md) | axiom, model | The seven works sort things the way self-production does: what produces its own parts performs all seven as one; what lasts without producing its own parts fails at least one. | anchors, negative controls, hard cases |
+| 8 | [A3](A3.md) | axiom, model | The seven works sort things the way self-production does: what produces itself performs all seven as one; what lasts without producing itself fails at least one. | anchors, negative controls, hard cases |
 | 9 | [PR1](PR1.md) | principle | Where the same requirement holds, the same work turns up, in forms that differ completely from level to level. | explains; adds no confidence |
 
 **Group 3. Society and levels.**
@@ -77,6 +77,7 @@ graph TD
   DI -.-> A1
   DE -.-> A1
   DI -.-> A2
+  DE -.-> DW
   DE -.-> DH
   DW -.-> DH
   DE -.-> DN
@@ -106,7 +107,7 @@ Every chain of support now ends in the root or in evidence an axiom carries itse
 **Does A1 now do real work?** Yes. The work is logical, not evidential.
 
 1. *A1 supplies the subject A2 describes.* A2 says what the I is made of and goes with, and, as a declared reading, what it is. Either needs an I that exists. A1 is the premise that there is one, and D-I says what the word names. Without A1, A2's "I" could fail to name anything.
-2. *A1 does not supply sameness over time, and neither does D-I.* P1 needs the I that is a whole (A2) to be the I that is a member (A4). D-I names only the thinker of *this* thought (or the thinking itself), and A1 holds only "for as long as I am thinking". Where sameness belongs was collided ([collision_sameness.md](collision_sameness.md)). The verdict: sameness is defined once, for wholes (D-whole, Definition 12: the organization went on, with no full stop and no branching; connectedness to the past is a separate degree). It reaches the I through what the I is found to be. A2 finds that this thinking goes with this body, P1, step 3, shows the body is a whole, and P1, step 6, applies Definition 12. Tracing this showed that A4's membership clause (my food, my public health, my work) is about that body, so **A4 cites A2**.
+2. *A1 does not supply sameness over time, and neither does D-I.* P1 needs the I that is a whole (A2) to be the I that is a member (A4). D-I names only the thinker of *this* thought (or the thinking itself), and A1 holds only "for as long as I am thinking". Where sameness belongs was collided ([collision_sameness.md](collision_sameness.md)). The verdict: sameness is defined once, for wholes (D-whole, Definition 12: the organization lasted, with no full stop and no branching; connectedness to the past is a separate degree). It reaches the I through what the I is found to be. A2 finds that this thinking goes with this body, P1, step 3, shows the body is a whole, and P1, step 6, applies Definition 12. Tracing this showed that A4's membership clause (my food, my public health, my work) is about that body, so **A4 cites A2**.
 3. *A1 adds no confidence and removes none.* At 1.0 it caps nothing. What it adds is that the chains are valid: every "I" names something, and the chains end at the root as HOW says they do.
 
 So A1 re-enters the chains through one solid edge, A1 → A2. Every chain that uses "I" reaches it: A4, P1 and P2 through A2. Chains that do not use "I" (A3's) end in evidence, as before.
@@ -172,6 +173,24 @@ Every entry was collided by hand ([collisions/core_v2_full_run.md](collisions/co
 | P1 | Step 6 rests on A2's scored clause ("this thinking goes with this body"). New Scholium 4: which reading of "I am" is scored. | Follows A2. |
 | P2 | Statement: "A collective mind, in the sense defined here, happens ..." New Scholium 4: three senses of "mind" (Stevenson 1938). | The name invited two claims the demonstration does not make. |
 | README | Section 1 rows; section 2; design decision 6; open questions 6, 7, 16 updated, 18–22 added; self-check, fourth round. | Follows the entries. |
+
+### Fifth round (dependency check fixes, 2026-10-01 PT)
+
+The author approved all 25 fixes proposed in [audits/dependency_check.md](audits/dependency_check.md), with three judgment calls, and they are applied. The audit found one circle of meaning: "as one" (D-work) was defined by "whole" and "member", which D-whole defines by "as one". The recheck at the end of the audit confirms that the circle is gone, and lists what it found and fixed.
+
+| Where | Change | Why |
+|---|---|---|
+| D-I, D-exist, D-Nature | "Thought", "thinker", "names", "activity" and "going on" are declared as understood; D-Nature says which sense of "exists" it uses for what is not an activity. | Primitives were used without being declared (Fixes 1, 2, 19). |
+| A1 | "some thinking is going on" (was "something is doing the thinking"); "need name no more than that (D-I, second clause)"; the bridge from activity to agent is "taken as evident with the root". | Drift from D-I and D-exist (Fixes 3–5). |
+| A2 | Glosses: "organization" is how the body's components are arranged and act on one another; "my mind" is this thinking together with the abilities it is done with (perceiving, remembering, speaking). Statement unchanged. | Both words were used before they were defined, or never defined (Fixes 6, 7; judgment call b). |
+| D-work | Definition 5 and the take-apart test now speak of the *thing* and its *components*, not the whole and its members. "Organization" and "component" are glossed in Definition 3. `terms` gains D-exist. The test-question words are ordinary scientific words. The Scholium says that "produces or maintains" departs from Mossio's "and" so that a transplanted organ still counts. | This breaks the circle (Fixes 8–12; judgment call a). |
+| D-whole | Definition 7 uses "components", not "members". Definition 9 says "lasting (D-exist)", glosses "depends", and keeps "part" for the member sense. Definition 11: "its own activities make and replace the components that carry out those activities, the components of its edge included". Definition 12: "has lasted". The D-Nature remark is marked as a forward note. | Breaks the inner loop, ends the two senses of "part", and removes drift (Fixes 13–18; judgment call c). |
+| A3, PR1 | "produces itself (D-whole, Definition 11)"; PR1's condition is "if a thing that produces itself is to go on producing itself"; PR1's memory requirement is stated as D-work's memory work: stored information, used again in rebuilding. | Drift from Definition 11 and D-work (Fixes 20–22). |
+| A4 | "Institution" defined. The energy row uses Definition 5's test; Spencer's point is said to bear on membership. Membership: "my lasting depends". | Fixes 23, 24. |
+| P1 | Demonstration rewritten on A2's scored reading: steps 1–7 speak of "this body, the one this thinking goes with"; step 8 adds that on A2's declared reading the same holds of me. Statement unchanged. | The demonstration had used A2's unscored identity reading (Fix 25). |
+| P2 | Step 2 matches the new Definition 6. | Follows Fix 18. |
+| Verse draft v11 | Note 160 now matches core v2: the society claim is A4, and PR1's requirements are sorted, some holding only in some circumstances. Verse 149 is unchanged until core v2 is promoted. Logged in `drafts/verses/v11_changes.md`. | Audit section on the v11 notes. |
+| README | Section 1 rows for D-work, D-whole and A3; section 2 graph (D-exist → D-work) and point 2; this table; self-check, fifth round. | Follows the entries. |
 
 **Mapping from the agreed sketch.** Sketch A1 → A1. Sketch A2 → A2 (wording: "described in the first person" instead of "described from within", to keep "inside/within" out of the felt side). Sketch A3 → split into D-whole (the definition half: "a whole is whatever does the works of lasting as one, to the degree that it does") and A3 (the model half: the seven works pick out the right things). Sketch A4 → P1. Sketch A5 → A4.
 
@@ -358,3 +377,20 @@ Run over [collisions/core_v2_full_run.md](collisions/core_v2_full_run.md) and ev
 | 74 | run, A2, the transplant case | A citation for the transplant case was considered but not verified this round. (unverified citation) | The case is argued without a citation. Baker and Olson, which were verified, carry the two views. |
 
 **Sweeps with no remaining hits.** "must" appears only in PR1 and inside quotations, including the run's quotations of PR1. "Inside" is not used of the felt side, and "outside" is used only of place or of a domain. No aiming words are used of a whole or a work; "aims" appears only where a definition is said to need none. Check K1 of collision_order passes: no entry uses a term or cites an entry below it (scanned from the `terms` and `cites` fields, which this round did not change). All frontmatter parses. No numeric scores were added anywhere. Kisner pages are still pending.
+
+### Fifth round (the dependency check fixes, and the recheck)
+
+Run over every passage changed by Fixes 1–25, note 160, and this README, in the same categories and sweeps. No new source was cited, so no new citation needed checking; Mossio's C2 ("produced and maintained") was checked against the quotation already in D-work.
+
+| # | Where | Problem (category) | Fix |
+|---|---|---|---|
+| 75 | D-whole, Definition 7, grades 1 and 2 | Still "for some of its members" and "across the whole", so the inner loop of meaning was open after Fix 13. (incomplete fix) | "components"; "across all of X". |
+| 76 | D-work, Definition 3; D-whole, Definition 9 | "Component" carried the plain sense everywhere but was never said to. (undeclared) | Glossed in Definition 3; Definition 9 points to it. |
+| 77 | A2, Two descriptions | The new gloss pointed to D-work's Scholium, after the gloss moved to Definition 3. (factual slip) | "D-work, Definition 3". |
+| 78 | P1, step 6 | "its works have gone on" after Definition 12 became "has lasted". (drift) | "its organization has lasted". |
+| 79 | P2, step 2 | "its components" had no antecedent; "each member" did not match Definition 5. (muddle) | "a thing's components"; "each person". |
+| 80 | A4, energy row, first draft | "for the society as a whole" used the word A4 sets out to establish. (circular wording) | "at the society's own scale". |
+| 81 | A2, PR1, D-exist, README | Plain "part" left over after Fix 18. (equivocation) | "clause", "belongs to", "component", "produces itself". |
+
+**Sweeps with no remaining hits.** "must" appears only in PR1 and in quotations. "Inside" is not used of the felt side; "outside" is used only of place ("something outside the thing") or of a domain. No aiming words were added. Plain "parts" remains only in quotations and reports of other authors, as Definition 9 allows. Check K1 passes, including D-work's new `terms` entry. All frontmatter parses. No numeric scores were added. Kisner pages are still pending.
+

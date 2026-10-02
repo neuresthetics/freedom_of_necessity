@@ -16,7 +16,7 @@ reading: 'Definition, the result of collision_nature.md. "Nature taken as one" i
 status: candidate
 ---
 
-**Definition 13 (Nature).** *Nature taken as one* is everything that exists (D-exist), taken together, with nothing besides it. Following Spinoza, the book also calls it *God*: "the eternal and infinite Being, which we call God or Nature" (E4 Preface; Latin *Deum seu Naturam*).
+**Definition 13 (Nature).** *Nature taken as one* is everything that exists (D-exist; for what is not an activity, in the sense D-exist takes as understood), taken together, with nothing besides it. Following Spinoza, the book also calls it *God*: "the eternal and infinite Being, which we call God or Nature" (E4 Preface; Latin *Deum seu Naturam*).
 
 **Explanation.**
 

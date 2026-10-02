@@ -357,3 +357,7 @@ Every change below comes from Lens's fallacy audit of v10, copied into the repo 
 - Open items: item 1 notes that 138 changed; item 5 notes what the 56/149 fix changes and that verse 149 still reads "I, a human, exist"; items 9 and 11 updated for v11. There are two new items: 14, the author's own positions (91, 138) changed by the audit; and 15, the glossary option for 83.
 - References added under "Other added references": Spalding et al. 2005; Bhardwaj et al. 2006; Segré, Ben-Eli & Lancet 2000.
 
+## Addendum, 2026-10-01 PT (after the core v2 dependency check)
+
+- Note 160 now matches core v2: the society claim is A4 there (A3 in the committed entries), and PR1's requirements are sorted, with transport, signaling and defense holding only in some circumstances and memory required only as stored information used again in rebuilding. "The same requirements" is marked as the verse's shorthand for that list. Source: `candidates/core_v2/audits/dependency_check.md`, the section on v11 verse notes.
+- Verse 149 is unchanged and still reads "I, a human, exist". At the author's instruction it stays until core v2 is promoted.

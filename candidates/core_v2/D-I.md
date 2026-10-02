@@ -18,7 +18,7 @@ status: candidate
 
 **Explanation.**
 
-- *Fixed by use.* The word names something only when it is used in a thought. D-I does not say that anything answers to it. That something does, whenever I doubt that I exist, is what A1 finds.
+- *Fixed by use.* The word names something only when it is used in a thought. D-I does not say that anything answers to it. That something does, whenever I doubt that I exist, is what A1 finds. "Thought", "thinker" and "names" are taken as understood.
 - *Lichtenberg allowed.* "Otherwise the thinking itself" takes the objection A1 already quotes: "It thinks, we should say, just as we say, it lightnings" (*Sudelbuch* K 76). D-I does not assume a thinker distinct from the thinking. If there is none, "I" names the thinking.
 - *Sensory perception in the restricted sense.* Descartes counts perceiving as thinking only as *seeming* to perceive: "I certainly seem to see, to hear, and to be warmed. This cannot be false" (AT VII 29; CSM II 19). In the *Principles* he says that "I am walking, therefore I exist" is certain only if walking means the awareness of walking, not the movement of the body (*Principles* I.9, AT VIIIA 7). D-I follows him here. Only thinking counts, so the word names something whenever it is used, whatever else turns out false.
 

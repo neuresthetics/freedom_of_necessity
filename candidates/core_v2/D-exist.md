@@ -15,7 +15,7 @@ reading: 'Definition of "exist" in its thinnest sense. What it defines: an activ
 status: candidate
 ---
 
-**Definition 2 (exist, last).** An activity *exists* at a time when it is going on at that time. For anything that is not an activity, "exists" is taken as understood, and D-exist does not define it. A thing *lasts* when it goes on existing through a stretch of time. Spinoza's word for lasting is duration: "Duration is the indefinite continuance of existing" (E2D5).
+**Definition 2 (exist, last).** An activity *exists* at a time when it is going on at that time. For anything that is not an activity, "exists" is taken as understood, and D-exist does not define it. "Activity" and "going on" are also taken as understood. A thing *lasts* when it goes on existing through a stretch of time. Spinoza's word for lasting is duration: "Duration is the indefinite continuance of existing" (E2D5).
 
 **Explanation.**
 
@@ -29,8 +29,8 @@ status: candidate
 
 **Where else it is used.** "Exist" and "last" are used throughout the core, and D-exist fixes them once:
 
-- D-whole, Definition 9: a member's *persistence* is its lasting.
-- A3: things that *last* without producing their own parts.
+- D-whole, Definition 9: a member is one whose *lasting* depends on the whole's works.
+- A3: things that *last* without producing themselves.
 - PR1: "if a thing is to *last* as one".
 - D-Nature: "everything that *exists*".
 - P2, step 5: the collective mind "*exists* as an activity exists: while it goes on", which is D-exist's first clause.

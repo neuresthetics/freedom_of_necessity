@@ -1,6 +1,8 @@
 # Dependency check: core v2, one entry at a time
 
-**What this is.** An audit of what each core v2 entry depends on. Done by hand on 1 October 2026 PT, at commit bc6a7c5, in the book's page order (README, section 1). No entry was changed. The fixes below are proposals for the author to approve. No scores are given.
+**What this is.** An audit of what each core v2 entry depends on. Done by hand on 1 October 2026 PT, at commit bc6a7c5, in the book's page order (README, section 1). No entry was changed by the audit itself. No scores are given.
+
+**Status (2026-10-01, 8:11 PM PT).** The author approved all 25 fixes, with three judgment calls, and they are now applied to the core v2 entries. See the fix list, which now has a status column, and the recheck at the end. The sections between describe the entries as they stood at bc6a7c5.
 
 **What was checked, for each entry.**
 
@@ -268,7 +270,7 @@ Declared: `cites: [A4]`, `terms: [D-exist, D-work, D-whole]`.
 
 ---
 
-## Cycles
+## Cycles (as found, before the fixes)
 
 **In the declared fields: none.** Every `cites` and `terms` edge points to an entry earlier on the page (check K1 of collision_order, re-run for this audit). Since the edges only point backward, no chain of dependencies can come back to where it started.
 
@@ -283,7 +285,7 @@ Declared: `cites: [A4]`, `terms: [D-exist, D-work, D-whole]`.
 - *A3 ↔ PR1.* A3 says "whether they are required is PR1's thesis"; PR1 explains A3's anchors. PR1 adds no confidence, so nothing supports itself here.
 - *Forward pointers.* D-I, A1 and A2 point ahead to D-whole, Definition 12, and to P1, step 6, to say where sameness over time is handled. They say explicitly that they do not claim it.
 
-**Graph.** Solid arrows are `cites` (support); dotted arrows are `terms` (meaning). The red dashed arrow is the cycle of meaning that Fixes 9 and 13 break. Arrows run from the entry that uses to the entry used.
+**Graph (after the fixes).** Solid arrows are `cites` (support); dotted arrows are `terms` (meaning). Arrows run from the entry that uses to the entry used. Before the fixes, the D-work to D-exist arrow was missing from `terms` (Fix 8), and a red dashed arrow ran from D-work back to D-whole: Definition 5 used "whole" and "member" (Fix 9). That arrow is gone. Every arrow now points to an entry earlier on the page.
 
 ```mermaid
 graph BT
@@ -309,10 +311,9 @@ graph BT
   A1 -.-> DE
   A2 --> A1
   A2 -.-> DI
-  DW -. "missing (Fix 8)" .-> DE
+  DW -.-> DE
   DH -.-> DE
   DH -.-> DW
-  DW -. "cycle: Def 5 uses whole, member (Fix 9)" .-> DH
   DN -.-> DE
   DN -.-> DH
   A3 -.-> DE
@@ -337,7 +338,6 @@ graph BT
   P2 -.-> DE
   P2 -.-> DW
   P2 -.-> DH
-  linkStyle 7 stroke:#c00,stroke-dasharray:4
 ```
 
 ---
@@ -350,39 +350,68 @@ graph BT
 | 149 | HOW_THIS_BOOK_IS_BUILT §§3–5; entry candidate 12; 56 | yes | Yes. Candidate 12, in the verse file's own table, says that only A1 is exempt. HOW still gives the root as "I, a human, exist", and the note's "strictly 'I exist'" is the note's own qualifier, not something HOW says. |
 | 82 | entry candidates 5a, 5b, 6a, 6b | yes, as rows in the verse file's own candidate table (Part Three); none is in `entries/` or core_v2 | Yes. 5a is Spinoza's text, covering 82 among others; 5b is freedom by degrees (87, 95); 6a is the networks (78); 6b is the triple network (84). The note now calls 5a a source, not evidence, which matches the table's tier ("textual"). |
 | 130 | E4P35; 38, 121–122 | yes | Yes. E4P35 matches Elwes: "In so far only as men live in obedience to reason, do they always necessarily agree in nature." The note says the bridge is named, not argued, which is true. |
-| 160 | PR1; A3; 28, 38–39 | yes | **Against `entries/`: yes.** Committed A3 claims the seven works for cell, person and society, and committed PR1 says the same requirement holds at every scale. **Against core_v2: out of date.** There, the society claim is A4, not A3, and PR1's requirements are sorted, with transport, signaling and defense required only in some circumstances, so "the same requirements" says more than core_v2's PR1. If core_v2 is promoted, note 160 should say "A4" and "requirements, some holding only in some circumstances". |
+| 160 | PR1; A3; 28, 38–39 | yes | **Against `entries/`: yes.** Committed A3 claims the seven works for cell, person and society, and committed PR1 says the same requirement holds at every scale. **Against core_v2: out of date.** There, the society claim is A4, not A3, and PR1's requirements are sorted, with transport, signaling and defense required only in some circumstances, so "the same requirements" says more than core_v2's PR1. If core_v2 is promoted, note 160 should say "A4" and "requirements, some holding only in some circumstances". **Done, 2026-10-01 PT:** note 160 now says both; verse 149 is left as it is until core v2 is promoted. |
 
 ---
 
 ## Proposed fixes, in one list
 
-None is applied. Each is the smallest wording change that clears its flag.
+Each is the smallest wording change that clears its flag. All 25 were approved by the author on 2026-10-01 at 8:11 PM PT and are applied.
 
-| # | Entry | Fix | Kind |
-|---|---|---|---|
-| 1 | D-I | Declare "thought", "thinker", "names" as understood | optional |
-| 2 | D-exist | Declare "activity", "going on" as understood | undeclared primitive |
-| 3 | A1 | "something is doing the thinking" → "some thinking is going on" | drift |
-| 4 | A1 | "names no more than that" → "need name no more than that (D-I, second clause)" | drift |
-| 5 | A1 | `reading`: "identification" → "description"; mark the bridging premise as part of the root | drift |
-| 6 | A2 | Gloss "organization" where it is first used | forward use |
-| 7 | A2 | Gloss "my mind" as this thinking and the abilities it is done with | undeclared |
-| 8 | D-work | Add D-exist to `terms` | missing dependency |
-| 9 | D-work | Def 5 and test: "whole" → "thing", "member" → "component" | **cycle** |
-| 10 | D-work | Move the "organization" gloss into Def 3 | forward use within the entry |
-| 11 | D-work | Note that "or" departs from Mossio's "and" (or change to "and") | drift from source |
-| 12 | D-work | Declare the test-question words ordinary | optional |
-| 13 | D-whole | Def 7: "members" → "components" | **cycle** |
-| 14 | D-whole | Def 9: "persistence" → "lasting (D-exist)"; gloss "depends" | drift, undeclared |
-| 15 | D-whole | Def 11: "processes" → "activities"; "boundary" → "the components of its edge" | drift, equivocation |
-| 16 | D-whole | Def 12: "organization has gone on" → "has lasted" | drift |
-| 17 | D-whole | Mark the D-Nature remark as a forward note not used by Defs 7–12 | textual loop |
-| 18 | D-work, D-whole, A3, PR1 | "part" (= member) vs plain "parts": add one sentence to Def 9, or use "components" for the plain sense | equivocation |
-| 19 | D-Nature | Say which sense of "exists" is meant | optional |
-| 20 | A3 | "produces its own parts" → "produces itself (D-whole, Definition 11)" | drift |
-| 21 | PR1 | "last as one" → "go on producing itself" | drift |
-| 22 | PR1 | Memory requirement restated in D-work's terms (stored information, used again) | drift |
-| 23 | A4 | Define "institution" | undeclared |
-| 24 | A4 | Energy row: use Def 5's test; Spencer's point bears on membership | drift |
-| 25 | P1 | Step 1 and step 8 on A2's scored reading: "this body", not "I" | gap |
-| — | verse note 160 | Update to core_v2's A4 and sorted PR1 when core_v2 is promoted | out of date against core_v2 only |
+| # | Entry | Fix | Kind | Status |
+|---|---|---|---|---|
+| 1 | D-I | Declare "thought", "thinker", "names" as understood | optional | applied |
+| 2 | D-exist | Declare "activity", "going on" as understood | undeclared primitive | applied |
+| 3 | A1 | "something is doing the thinking" → "some thinking is going on" | drift | applied |
+| 4 | A1 | "names no more than that" → "need name no more than that (D-I, second clause)" | drift | applied |
+| 5 | A1 | `reading`: "identification" → "description"; mark the bridging premise as part of the root | drift | applied: "description"; the bridging premise is "taken as evident with the root" |
+| 6 | A2 | Gloss "organization" where it is first used | forward use | applied |
+| 7 | A2 | Gloss "my mind" as this thinking and the abilities it is done with | undeclared | applied (judgment call b): "this thinking (D-I) together with the abilities it is done with: perceiving, remembering, speaking" |
+| 8 | D-work | Add D-exist to `terms` | missing dependency | applied |
+| 9 | D-work | Def 5 and test: "whole" → "thing", "member" → "component" | **cycle** | applied; the Example now uses the same counterfactual test |
+| 10 | D-work | Move the "organization" gloss into Def 3 | forward use within the entry | applied; the Scholium points back to Definition 3 |
+| 11 | D-work | Note that "or" departs from Mossio's "and" (or change to "and") | drift from source | applied (judgment call a): "or" is kept, with a note that a transplanted organ still counts |
+| 12 | D-work | Declare the test-question words ordinary | optional | applied |
+| 13 | D-whole | Def 7: "members" → "components" | **cycle** | applied; the recheck found two more uses in Definition 7 and fixed them (see below) |
+| 14 | D-whole | Def 9: "persistence" → "lasting (D-exist)"; gloss "depends" | drift, undeclared | applied; "depends" glossed by the take-apart test |
+| 15 | D-whole | Def 11: "processes" → "activities"; "boundary" → "the components of its edge" | drift, equivocation | applied |
+| 16 | D-whole | Def 12: "organization has gone on" → "has lasted" | drift | applied |
+| 17 | D-whole | Mark the D-Nature remark as a forward note not used by Defs 7–12 | textual loop | applied: "defined below ... This remark is not used by Definitions 7–12" |
+| 18 | D-work, D-whole, A3, PR1 | "part" (= member) vs plain "parts": add one sentence to Def 9, or use "components" for the plain sense | equivocation | applied (judgment call c): "components" for the plain sense, in D-work, D-whole, A2, A3, PR1, A4 and P2; Definition 9 adds that, except in quotations and reports of other authors, "part" means member |
+| 19 | D-Nature | Say which sense of "exists" is meant | optional | applied |
+| 20 | A3 | "produces its own parts" → "produces itself (D-whole, Definition 11)" | drift | applied |
+| 21 | PR1 | "last as one" → "go on producing itself" | drift | applied |
+| 22 | PR1 | Memory requirement restated in D-work's terms (stored information, used again) | drift | applied; the memory bullet now says it is D-work's memory work applied to rebuilding |
+| 23 | A4 | Define "institution" | undeclared | applied |
+| 24 | A4 | Energy row: use Def 5's test; Spencer's point bears on membership | drift | applied; "for the society as a whole" avoided ("at the society's own scale") |
+| 25 | P1 | Step 1 and step 8 on A2's scored reading: "this body", not "I" | gap | applied; the statement is unchanged; step 8 ends on A2's declared reading |
+| — | verse note 160 | Update to core_v2's A4 and sorted PR1 when core_v2 is promoted | out of date against core_v2 only | applied now, at the author's request; verse 149's text is unchanged |
+
+---
+
+## Recheck after the fixes (2026-10-01 PT)
+
+Done quickly, by hand, on the edited entries, in page order, with the same questions as above. No scores.
+
+**The circle is broken.**
+
+- *D-work, Definition 5,* now reads: "the structures carrying out the activity are produced or maintained by the organization of the thing, not only by each of its components for its own sake, and not only by something outside the thing." The take-apart test speaks of the thing, its organization and its components. D-work no longer uses "whole" or "member" anywhere. "Organization" and "component" are both glossed in Definition 3, so "as one" rests only on D-work's own earlier definitions and on D-exist.
+- *D-whole, Definition 7,* grades a thing using "as one" (D-work) and "components" only. Definition 8 defines a whole by the grades, and Definition 9 defines a member by a whole. The chain runs one way, 7 → 8 → 9, and does not come back.
+- *Declared fields (check K1).* Scanned from `terms` and `cites` in page order. Every edge points to an earlier entry. D-work's new `terms: [D-exist]` points backward. All twelve frontmatters parse.
+
+**New issues found by the recheck, all fixed in the same commit.**
+
+1. *Fix 13 was incomplete.* Definition 7's grade 1 still said "for some of its members, or with its members often working against it", and grade 2 said "across the whole". Both used words defined later in the same entry, so the inner loop was still open. They now say "components" and "across all of X".
+2. *"Component" was undeclared.* Fix 18 made "component" carry the plain sense everywhere, but no entry said what it means. Definition 3 now says: "a *component* is any piece of the thing, in the plain sense". Definition 9 points back to it.
+3. *A pointer drifted.* A2's new gloss pointed to D-work's Scholium for "organization". Fix 10 moved that gloss into Definition 3, so the pointer now says Definition 3.
+4. *P1, step 6* still said "its works have gone on with no full stop", after Fix 16 changed Definition 12 to "has lasted". It now matches: "its organization has lasted with no full stop".
+5. *P2, step 2.* After Fix 18, "its components" had no antecedent, and "each member for themselves" no longer matched Definition 5's "each of its components". Now: "signals from a thing's components", "performed as one by the society", "each person for themselves".
+6. *A4, energy row.* The new take-apart sentence first said "for the society as a whole", which uses the word A4 is trying to establish. It now says "at the society's own scale".
+7. *Leftover plain "part".* A2 ("the empirical part", "it is part of the declared reading"), PR1 ("one part's state"), D-exist's pointer list ("producing their own parts") and two README rows were changed to "clause", "belongs to", "component" and "produces itself".
+
+**Left as they are, on purpose.**
+
+- "Part" still appears in quotations and reports of other authors: Spinoza in D-Nature, Scholia 1 and 2, and in D-whole's sameness scholium; Mossio's C3 in D-work's Scholium. Definition 9 now makes that exception explicit.
+- P1's title and statement ("a part at the next") and A3's "a thing can be a part without being a whole" use "part" in the member sense, as Definition 9 allows.
+- A4's failure clause says a row fails if the work is done "only by members separately". A society's members are among its components, so this is narrower than Definition 7, not in conflict with it.
+- Verse 149 still reads "I, a human, exist", at the author's instruction, until core v2 is promoted.
