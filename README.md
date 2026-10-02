@@ -4,6 +4,12 @@
 
 A geometric, Ethics-style axiomatic book, with a harness that checks each entry against its citations. This repo is public so anyone can read the book and verify the checks.
 
+## Read this first: the current rough draft
+
+If you only skim one thing, skim [*Axioms of Necessity*, v11](drafts/verses/axioms_of_necessity_v11.md). It's the verse companion: the whole book in 162 short verses, from "There is one order, and it has no outside" to Spinoza's last line. It's a rough draft, readable in one sitting, and you can open it at any page. The axioms underneath it are in [candidates/core_v2/](candidates/core_v2/README.md).
+
+This draft is frozen as the tag [`keeper-2026-10-01`](https://github.com/neuresthetics/freedom_of_necessity/tree/keeper-2026-10-01), so it can still be read exactly as it was after later revisions.
+
 ## Where to start
 
 - [HOW_THIS_BOOK_IS_BUILT.md](HOW_THIS_BOOK_IS_BUILT.md): read first. What each kind of entry is, how derivations work, and where the method departs from Spinoza.
