@@ -1,45 +1,50 @@
 # Freedom of Necessity
 
-**Working title:** Freedom of Necessity: God, Brain, and the Order of the Mind
+*God, Brain, and the Order of the Mind*
 
-A geometric, Ethics-style axiomatic book, with a harness that checks each entry against its citations. This repo is public so anyone can read the book and verify the checks.
+<br>
 
-## Read this first: the current rough draft
+> There is one order, and it has no outside. Whatever is, is in it. Call it God, or Nature.
+>
+> — *Axioms of Necessity*, verse 1
 
-If you only skim one thing, skim [*Axioms of Necessity*, v11](drafts/verses/axioms_of_necessity_v11.md). It's the verse companion: the whole book in 162 short verses, from "There is one order, and it has no outside" to Spinoza's last line. It's a rough draft, readable in one sitting, and you can open it at any page. The axioms underneath it are in [candidates/core_v2/](candidates/core_v2/README.md).
+<br>
 
-This draft is frozen as the tag [`keeper-2026-10-01`](https://github.com/neuresthetics/freedom_of_necessity/tree/keeper-2026-10-01), so it can still be read exactly as it was after later revisions.
+This is a book written in Spinoza's geometric manner: definitions, axioms and propositions, each standing on the ones before it. Its subject is a pantheism in modern terms: there is one order of things, called God or Nature, and the brain and its society belong to it. Freedom, as the book follows Spinoza in understanding it, is acting from knowledge of necessity rather than escaping it.
 
-## Where to start
+The working title is *Freedom of Necessity: God, Brain, and the Order of the Mind*. The repo is public so that anyone can read the book and check the work behind it.
 
-- [HOW_THIS_BOOK_IS_BUILT.md](HOW_THIS_BOOK_IS_BUILT.md): read first. What each kind of entry is, how derivations work, and where the method departs from Spinoza.
-- [candidates/core_v2/](candidates/core_v2/README.md): a candidate rebuild of the core, starting from "I exist", with "human" moved into A2. Not yet promoted; `entries/` is unchanged until the author decides.
-- [drafts/verses/](drafts/verses/): the verse companion, *Axioms of Necessity* (latest [v11](drafts/verses/axioms_of_necessity_v11.md); changes in [v11_changes.md](drafts/verses/v11_changes.md)). Unscored and not part of `entries/`.
-- [LOG.md](LOG.md): dated record of tests and changes, newest first.
-- [results/](results/): one folder per test run, with its settings, report and lessons. Never edited after commit.
-- [docs/](docs/): [hardware](docs/HARDWARE.md), [model choice](docs/MODEL_CHOICE.md), and [how to reproduce a run](docs/REPRODUCE.md).
+---
 
-## What belongs here
+## Start here
 
-- The book entries (definitions, axioms, propositions)
-- The harness that runs the checks
-- Model and hardware specs needed to reproduce a run (model name and quant, context length, KV cache, approximate VRAM, generation speed class)
+**1. The rough draft.** [*Axioms of Necessity*, v11](drafts/verses/axioms_of_necessity_v11.md) is the verse companion: the whole book in 162 short verses, from "There is one order, and it has no outside" to Spinoza's last line. It is a rough draft, readable in one sitting, and you can open it anywhere. This draft is frozen as the tag [`keeper-2026-10-01`](https://github.com/neuresthetics/freedom_of_necessity/tree/keeper-2026-10-01), so it can still be read exactly as it was after later revisions. Changes from v10 are in [v11_changes.md](drafts/verses/v11_changes.md).
 
-## What does not belong here
+**2. How the book is built.** [HOW_THIS_BOOK_IS_BUILT.md](HOW_THIS_BOOK_IS_BUILT.md) says what each kind of entry is, how derivations work, and where the method departs from Spinoza.
 
-Personal machine setup, paths, network, security, or home-lab notes. The harness code lives here; personal run configs stay out of this repo.
+**3. The axioms underneath.** [candidates/core_v2/](candidates/core_v2/README.md) is a candidate rebuild of the core, starting from "I exist", with "human" moved into A2. It is not yet promoted.
 
-## Status: working seed
+<br>
 
-The seed entries below are the committed working base in `entries/`. They can still be edited. A candidate replacement for the core is being worked out in [candidates/core_v2/](candidates/core_v2/README.md); until it is promoted, the entries below are the ones in force.
+## The arc
 
-### Seed entries
+The book begins with an I that exists, and only that is beyond revision. It then finds, on evidence, that this I is a human body made of cells. It shows that such a body is a whole, doing the works of lasting as one. And it finds that this whole is also a member of something larger, a society that is itself a whole to a degree. Freedom, Nature and the collective mind are worked out from there.
 
-- **A1**: "I, a human, exist." The root.
-- **A2**: I am a body made of cells, and their organization produces my mind. Empirical; cites nothing; its evidence is in its own text.
-- **A3**: Society shows organism-level properties across seven rows (boundary, control, energy, transport, signaling, defense, memory) at three levels: cell, person, society. Each row has its own evidence.
-- **A4**: I function in society as a unit analogous to a cell.
-- **P1**: A collective mind happens in society: integration, decision, and memory emerge from feedback among its members and work as one system. A process, not a thing, and explicitly not a claim that society is conscious.
+---
+
+## Status
+
+**Working seed.** The entries in [`entries/`](entries/) are the committed working base, and they are the ones in force. They can still be edited. The candidate core in [candidates/core_v2/](candidates/core_v2/README.md) replaces them only if the author promotes it; until then `entries/` is unchanged. The verse companion in [drafts/verses/](drafts/verses/) is unscored and not part of `entries/`.
+
+| Entry | Claim | Note |
+|---|---|---|
+| **A1** | "I, a human, exist." | The root. |
+| **A2** | I am a body made of cells, and their organization produces my mind. | Empirical; cites nothing; its evidence is in its own text. |
+| **A3** | Society shows organism-level properties across seven rows (boundary, control, energy, transport, signaling, defense, memory) at three levels: cell, person, society. | Each row has its own evidence. |
+| **A4** | I function in society as a unit analogous to a cell. | |
+| **P1** | A collective mind happens in society: integration, decision, and memory emerge from feedback among its members and work as one system. | A process, not a thing, and explicitly not a claim that society is conscious. |
+
+<br>
 
 ### How checking works
 
@@ -51,17 +56,25 @@ Full rules: [METHOD.md](METHOD.md). Confidences are a ranking with a cap chain, 
 
 Every entry except A1 is **unscored**. The earlier numbers (A2 0.80; A3 0.50; A4 and P1 0.72, capped at 0.50 by A3) came from the first check and the five-step lens, which has been retired after an outside review found problems in the run (see [LOG.md](LOG.md), 2026-09-29, "Back to the drawing board"). They are kept in [results/](results/) as history, not as results. New scores will be recorded only after the collider below has run.
 
-### Next phase
+### Next: the collider
 
-A minimal collider replaces the lens: for each entry the model builds a steel man of the entry and the strongest counter steel man, both in the book's geometric form, and judges them side by side. Code checks citations and quoted spans; the model does not check its own citations. Planned runs: a clean control and the collider, each on the uncensored and the stock model, on the same entries and broken twins.
+A minimal collider replaces the lens. For each entry, the model builds a steel man of the entry and the strongest counter steel man, both in the book's geometric form, and judges them side by side. Code checks citations and quoted spans; the model does not check its own citations. Planned runs: a clean control and the collider, each on the uncensored and the stock model, on the same entries and broken twins.
 
-### Reproducibility
+---
 
-Model: Qwen3.8-27B, q4_K_M, served by Ollama on an NVIDIA RTX 4000 Ada (20 GB).
+## For readers checking the work
 
-## Reproduce (placeholder)
+**Records.**
 
-Will list:
+- [LOG.md](LOG.md): dated record of tests and changes, newest first.
+- [results/](results/): one folder per test run, with its settings, report and lessons. Never edited after commit.
+- [docs/](docs/): [hardware](docs/HARDWARE.md), [model choice](docs/MODEL_CHOICE.md), and [how to reproduce a run](docs/REPRODUCE.md).
+
+**What belongs here.** The book entries (definitions, axioms, propositions); the harness that runs the checks; and the model and hardware specs needed to reproduce a run (model name and quant, context length, KV cache, approximate VRAM, generation speed class).
+
+**What does not.** Personal machine setup, paths, network, security, or home-lab notes. The harness code lives here; personal run configs stay out of this repo.
+
+**Reproduce (placeholder).** Model: Qwen3.8-27B, q4_K_M, served by Ollama on an NVIDIA RTX 4000 Ada (20 GB). A full recipe will list:
 
 - Model: `Qwen3.8-27B, q4_K_M, via Ollama`
 - Context: 32K, flash attention on
@@ -70,3 +83,7 @@ Will list:
 - Speed: ~16–17 tok/s
 
 Details will be filled in when the harness lands.
+
+<br>
+
+[MIT License](LICENSE)
