@@ -8,7 +8,7 @@ A geometric, Ethics-style axiomatic book, with a harness that checks each entry 
 
 - [HOW_THIS_BOOK_IS_BUILT.md](HOW_THIS_BOOK_IS_BUILT.md): read first. What each kind of entry is, how derivations work, and where the method departs from Spinoza.
 - [candidates/core_v2/](candidates/core_v2/README.md): a candidate rebuild of the core, starting from "I exist", with "human" moved into A2. Not yet promoted; `entries/` is unchanged until the author decides.
-- [drafts/verses/](drafts/verses/): the verse companion, *Axioms of Necessity* (latest [v10](drafts/verses/axioms_of_necessity_v10.md)). Unscored and not part of `entries/`.
+- [drafts/verses/](drafts/verses/): the verse companion, *Axioms of Necessity* (latest [v11](drafts/verses/axioms_of_necessity_v11.md); changes in [v11_changes.md](drafts/verses/v11_changes.md)). Unscored and not part of `entries/`.
 - [LOG.md](LOG.md): dated record of tests and changes, newest first.
 - [results/](results/): one folder per test run, with its settings, report and lessons. Never edited after commit.
 - [docs/](docs/): [hardware](docs/HARDWARE.md), [model choice](docs/MODEL_CHOICE.md), and [how to reproduce a run](docs/REPRODUCE.md).
