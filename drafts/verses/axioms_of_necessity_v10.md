@@ -405,7 +405,7 @@
 
 151. The definitions stand first on the page but were found last, worked back from what the claims needed, and that is said openly. Only the start is first both ways.
 
-152. An explanation is a lamp, not a proof. It shows where to look; the evidence settles what you find.
+152. An explanation is a lamp, not a proof. It shows where to look, and it tests what is offered as evidence; only evidence that holds up under the light settles what you find.
 
 153. A claim that nothing could lower isn't a claim. The start is the one exception.
 
