@@ -18,6 +18,8 @@ The working title is *Freedom of Necessity: God, Brain, and the Order of the Min
 
 ## Start here
 
+**0. The preface.** [On a Book Without Its Original](PREFACE.md): why there is no original *Ethics*, who holds the surviving copy, and where this book goes further than Spinoza, above all on freedom.
+
 **1. The rough draft.** [*Axioms of Necessity*, v11](drafts/verses/axioms_of_necessity_v11.md) is the verse companion: the whole book in 162 short verses, from "There is one order, and it has no outside" to Spinoza's last line. It is a rough draft, readable in one sitting, and you can open it anywhere. This draft is frozen as the tag [`keeper-2026-10-01`](https://github.com/neuresthetics/freedom_of_necessity/tree/keeper-2026-10-01), so it can still be read exactly as it was after later revisions. Changes from v10 are in [v11_changes.md](drafts/verses/v11_changes.md).
 
 **2. How the book is built.** [HOW_THIS_BOOK_IS_BUILT.md](HOW_THIS_BOOK_IS_BUILT.md) says what each kind of entry is, how derivations work, and where the method departs from Spinoza.
