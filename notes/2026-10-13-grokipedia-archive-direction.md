@@ -2,9 +2,11 @@
 
 *Note from a voice conversation with Jason, 13 October 2026, evening PT. Captured as direction, not as a finding.*
 
-## 1. Weighing, not summarizing
+## 1. Connected systems: what holds up has to flow
 
-Grok needs to reach a level where it can read X and actually consider arguments about truth and ethics, on a legible scale. That means weighing truth claims against evidence, not just summarizing posts. Most AI summarizes well and weighs badly, because weighing means holding several competing frameworks at once without collapsing into one.
+The point is that the systems are connected, so information has to flow between them. In the public mind, Grokipedia is where a person looks something up, and it is also how the model represents the world to them in conversation. So in the end, Grokipedia has to follow the ethics, logic and arguments people make that actually hold up, even when they challenge the status quo. That is the truth-seeking vision of X.
+
+For that to work, Grok has to reach a level where it can read X and actually consider arguments about truth and ethics, on a legible scale. That means weighing truth claims against evidence, not just summarizing posts. Most AI summarizes well and weighs badly, because weighing means holding several competing frameworks at once without collapsing into one. The flow runs like this: arguments on X are weighed, what survives gets verified, and verified claims reach Grokipedia (point 4). The audit is how anyone checks that the loop is honest (point 2).
 
 ## 2. Auditable and open
 
@@ -29,5 +31,5 @@ Raw submissions sit on one side. Reviewed, sourced entries sit on the other, wit
 ## How this connects
 
 - **The book's method** is a small version of this. Every entry has a stated confidence, is capped by its weakest support, cites only checked sources, and keeps its review trail in the open.
-- **The Grokipedia truth audit** ([neuresthetics/grokipedia-truth-audit](https://github.com/neuresthetics/grokipedia-truth-audit)) is the working test bed for points 2 and 4.
+- **The Grokipedia truth audit** ([neuresthetics/grokipedia-truth-audit](https://github.com/neuresthetics/grokipedia-truth-audit)) is the working test bed for points 1, 2 and 4. It checks whether what Grokipedia says actually follows the arguments and evidence that hold up.
 - **Possible handoff:** the grokipedia_audit bot could weigh in on the gate and the two-layer design. This is not sent; it's Jason's call.
