@@ -1,0 +1,100 @@
+{
+  "title": "The Defensible Core: Infant Circumcision, Consent, and the Spinoza Off-Ramp",
+  "subtitle": "Everything needed for the essay — stripped of group-blame, kept to what survives scrutiny",
+  "generated": "2026-10-13",
+  "sections": {
+    "1_personal_harm": {
+      "title": "Personal Harm",
+      "points": [
+        "Circumcised as an infant in a hospital without parental permission",
+        "PTSD over circumcision — 'I had/have PTSD over circumcision, so now you know one'",
+        "Nearly all infants experience this; it is misdiagnosed later in life",
+        "The only men who are 'happy' about being circumcised are the coping ones who don't realize they're missing over half their sensation"
+      ]
+    },
+    "2_consent_argument": {
+      "title": "Consent Argument",
+      "points": [
+        "Children cannot consent to circumcision — same standard as sexual consent",
+        "Proxy consent implodes under pediatric standards",
+        "Lancet/JAMA: non-therapeutic infant circumcision violates bodily integrity",
+        "UN Convention on the Rights of the Child cited",
+        "KNMG (Royal Dutch Medical Association): defer to age 16",
+        "Vaccination analogy fails — vaccines are reversible, circumcision is permanent",
+        "AAFP: tissue is valuable; removal is unethical"
+      ]
+    },
+    "3_medical_claims": {
+      "title": "Medical Claims (contested but arguable)",
+      "points": [
+        "200-300% cortisol spikes (PMC 2025)",
+        "Links to rage, dissociation, attachment insecurity, alexithymia",
+        "20-30% adult resentment (Frontiers 2025)",
+        "13-27% parental regret (Journal of Pediatric Urology 2024-25)",
+        "Possible sensitivity reduction (International Journal of Impotence Research)",
+        "Community studies: complications up to 12.37% including adhesions",
+        "Benefits (UTI/HIV reduction) are context-dependent, manageable via hygiene"
+      ],
+      "caveat": "The trauma-to-psychopathy-to-conquest chain is a hypothesis, not established fact. The cortisol and PTSD evidence is real; the population-level violence leap is not."
+    },
+    "4_legal_hooks": {
+      "title": "Legal Hooks (real but untested)",
+      "points": [
+        "14th Amendment due process: bodily integrity",
+        "1st Amendment free exercise does not cover irreversible harm to others",
+        "Bob Jones precedent: illegal purpose voids 501(c)(3) tax exemption",
+        "Hadrian's circumcision ban (historical precedent)",
+        "FGM ban survived free-exercise challenge — same logic should extend to boys"
+      ]
+    },
+    "5_ai_audit_work": {
+      "title": "AI Audit Work",
+      "points": [
+        "Two blind scans of 58 Grokipedia circumcision articles: 77% and 85% pro-circumcision lean, no article flipping",
+        "SteelMenCollider: generalized dialectical framework for ethically charged topics",
+        "SteelManAbraham: circumcision debate turned into 'radioactive glass'",
+        "Grokipedia ratio shifted from 60/15/25 to 50/20/30 after submissions"
+      ]
+    },
+    "6_spinoza_position": {
+      "title": "Spinoza Position — The Off-Ramp",
+      "points": [
+        "'I wish I could be antisemitic but I love Spinoza too much'",
+        "Ben Gurion on Spinoza; Spinoza as the greatest theologian; Hebrew pride stance",
+        "Spinoza's conatus (Ethics III Prop 6) undermined by proxy consent",
+        "The off-ramp: keep the community, drop the cut — drop the excommunication, keep the identity, stop cutting infants",
+        "Pluralistic ignorance explains why circumcised societies don't question circumcision — and why the one person who notices gets treated as the outlier"
+      ]
+    }
+  },
+  "hazing_mechanism": {
+    "title": "The Hazing Mechanism (strongest version of the argument)",
+    "points": [
+      "Circumcision is a painful, irreversible initiation that binds the initiate to the group and makes questioning it feel like betrayal",
+      "It describes circumcision exactly — and it describes fraternity pledges, military boot camp, and FGM equally well",
+      "The mechanism is real. The leap from 'circumcision is hazing' to 'Jews are a cult' is where it stops being an argument about a practice and becomes an argument about a people.",
+      "Hazing doesn't require a people — it requires a practice. You can condemn the hazing without condemning everyone who was hazed."
+    ]
+  },
+  "what_to_delete": {
+    "title": "Group-Blame Posts to Remove (they make the essay radioactive)",
+    "items": [
+      "'Circumcision is Judaism is infant gang rape torture'",
+      "'Circumcision is rape. Judaism is rapism.'",
+      "'The Nazis were the Zionists also. And, still are.'",
+      "'Jews are a baby mutilation cult'",
+      "'BMC' (baby mutilation cult) as a replacement term for Jews",
+      "'Abrahamic religion is the single biggest reason we can't have safe superintelligence'",
+      "'Christianity is 100% for Jewish survival turned supremacy as a servant ideology'",
+      "The three-step argument: circumcision induces psychopathic traits → psychopathy drives theft/rape/murder → biblical promise as conquest strategy",
+      "The 96% genocide statistic post",
+      "'All three are Jews. Jews just means Abrahamic cultist. Or baby skinner.'"
+    ],
+    "reason": "A reader who hits any of these stops reading the consent argument. The consent argument is the one that could actually change something."
+  },
+  "next_steps": [
+    "Write the essay using sections 1-6 as the spine",
+    "Delete the group-blame posts listed above",
+    "The personal story is the spine. The group-blame is the part that makes people stop listening."
+  ]
+}
