@@ -18,15 +18,28 @@ v12 is not an edit of v11. It is derived again from core v2 (`entries/`, promote
 
 ## v11 verses
 
-**Kept verbatim:** 1 (→53), 10 (→33), 13 (→41), 14 (→46), 22 (→52), 24 (→50), 39 (→64), 41 (→77), 42 (→79), 61 (→24), 68 (→121), 69 (→147), 73 (→122), 75 (→123), 79 (→125), 80 (→126), 85 (→137), 87 (→134), 90 (→135), 91 (→136), 92 (→138), 94 (→139), 95 (→140), 96 (→142), 97 (→144), 108 (→92), 114 (→110), 130 (→143), 138 (→119), 143 second half (→158), 144 (→155), 149 (→9), 150 (→150), 151 (→151), 152 (→78), 153 (→70), 155 (→154), 156 (→159), 157 (→160, "people" → "society"), 158 (→161), 162 (→166).
+**Kept verbatim** (after the coherence revision of 2026-10-15): 1 (→53), 10 (→33), 22 (→52), 42 (→79), 60 (→23), 61 (→24), 68 (→121), 69 (→147), 73 (→122), 79 (→125), 80 (→126), 90 (→135), 91 (→136), 92 (→138), 103 (→91), 108 (→92), 114 (→110), 132 (→162), 138 (→119), 143 second half (→158), 144 (→155), 149 (→9), 150 (→150), 151 (→151), 152 (→78), 153 (→70), 155 (→154), 156 (→159), 157 (→160, "people" → "society"), 158 (→161), 162 (→166).
 
-**Rewritten:** 56 (→1, "a human" removed; A1), 57 (→12), 58 (→97, "part" → "member"), 60 (→23), 17 (→43, membership is fate and function), 25 (→51, neuron ages replaced by the red-blood-cell lifespan A3 cites), 28 (→32), 35 + 38 (→86), 59 (→15, red blood cells added), 62 (→116), 66 (→117, Lichtenberg clause), 70 (→112), 71 (→113, first/third person), 76 (→124, last sentence dropped), 81 (→141 and 148, split), 82, 83, 89 (→128, 129, 131, first/third person), 86 (→132, "God, or Nature"), 102 (→99), 103 (→91), 104 (→88–89), 110 dropped; 115 (→105), 117 (→111, first sentence), 119 (→83), 132 (→162), 137 (→118), 147 (→149, with D-exist's open question), 148 (→157), 154 (→153), 160 (→163), 161 (→165).
+**Kept with small coherence edits** (2026-10-15 revision): 13 (→41, "we are" → "anyone is"), 14 (→46), 24 (→50, "parts" → "components"), 39 (→64, "passed all seven" → "passed every work that applies to it"), 41 (→77), 75 (→123, tag only), 85 (→137, "an inner cause" → "a cause in the agent"), 87 (→134, second sentence in the first person), 94 (→139, second sentence italicized), 95 (→140, "As 126 reports"), 96 (→142, "inside" → "in"), 97 (→144, quoted, †), 130 (→143, "a people" → "a society", "their own nature" → "what they are").
+
+**Rewritten:** 56 (→1, "a human" removed; A1), 57 (→12), 58 (→97, "part" → "member"), 17 (→43, membership is fate and function), 25 (→51, neuron ages replaced by the red-blood-cell lifespan A3 cites), 28 (→32), 35 + 38 (→86), 59 (→15, red blood cells added), 62 (→116), 66 (→117, Lichtenberg clause), 70 (→112), 71 (→113, first/third person), 76 (→124, last sentence dropped), 81 (→141 and 148, split), 82, 83, 89 (→128, 129, 131, first/third person), 86 (→132, "God, or Nature"), 102 (→99), 104 (→88–89), 110 dropped; 115 (→105), 117 (→111, first sentence), 119 (→83), 137 (→118), 147 (→149, with D-exist's open question), 148 (→157), 154 (→153), 160 (→163), 161 (→165).
 
 **Dropped**, briefly why:
-- *No entry carries the fact* (task rule: empirical claims must match the entries): 5 (selection), 6 (Einstein cable), 16 (major transitions), 20 (multilevel selection), 25's neuron ages, 30–31 (bees, Ashby), 32–33, 37 (von Neumann), 43 (petals), 44–48 (ecology), 50–55 (health and disease), 63–65, 78, 84, 93 (Libet), 101, 105–107, 109, 111, 113, 116, 117's artemisinin, 118, 120–123, 126–127, 131, 134–136, 140–141, 145–146.
+- *No entry carries the fact* (task rule: empirical claims must match the entries): 5 (selection), 6 (Einstein cable), 16 (major transitions), 20 (multilevel selection), 25's neuron ages, 30–31 (bees, Ashby), 32–33, 37 (von Neumann), 43 (petals), 44–48 (ecology), 50–55 (health and disease), 63–65, 78, 84, 93 (Libet), 101, 105–107, 109, 111, 113, 116, 117's artemisinin, 118, 120–123, 126–127, 131, 134–136, 140–141, 145–146; 15 ("Once joined, parts and whole shape each other…") and 98 ("A sign means through its differences…").
 - *No longer matches the core:* 2 (Nature "not a whole among wholes" is now D-Nature's "neither a whole nor a non-whole," 55), 9, 11, 12 (two-dimension wholeness), 18 (guest; v2 has no guest term), 19, 21, 23 (vantage clause; v2's D-whole has none), 26–27, 36, 40 (folded into 71–72), 67.
-- *Folded elsewhere or redundant:* 3 (→127, now ‡), 4 (→29, 146), 7 (two descriptions now come from A2, 20–21), 8 (→57), 29, 34, 74, 77, 88 (→130, kept), 99–100, 112, 124–125, 128–129, 133, 139, 142, 159.
-- Norm verses 49, 128, 139 and 159 are dropped rather than carried as †; the ethics chapter keeps only 156–158 and 132.
+- *Folded elsewhere or redundant:* 3 (→127, now ‡), 4 (→29, 146), 7 (two descriptions now come from A2, 20–21), 8 (→57), 29, 34, 74, 77, 88 (→130, kept), 99–100, 112, 124–125, 129, 133, 142.
+- *Norm verses* 49, 128, 139 and 159 are dropped rather than carried as † (each listed here only); the ethics chapter keeps only 156–158 and 132.
+
+## Coherence revision (2026-10-15)
+
+Six coherence passes (`v12_coherence_check.md` to `_6.md`) found that most serious problems came from one root in the core: the seven works were treated as all-or-nothing, though PR1 says three are conditional. Jason approved one unified fix set: same 12 entries, same order, same claims, stated at the strength the entries carry. In the verses that meant:
+
+- **Conditional works.** 32, 38–39, 61, 64, 75 and 95 follow D-work's four general and three conditional works and D-whole's "grade only works that apply." 49 and 156 follow the new Definition 12.
+- **A3's scope.** 62 says the test is silent where self-production can't be checked; 88 says A4 claims no self-production and borrows nothing from A3 or PR1; 163 says "the society if it makes itself."
+- **Identity.** 13 follows A2's new wording; 15, 44, 56, 67, 80, 96, 100 say "this body" where the scored claim is about the body; 94 (formerly 98) now sits right after 93 so the declared reading is said once before the "I" verses of chapter IX (94–98 reordered).
+- **Freedom.** One note at the head of chapter XIII names A2's declared reading and 127‡; 133 marks "free by degrees" as thesis.
+- **Clean-up.** Tags defined in the header (entry first, then kind); voice rule; "inside" gone (IV heading, 66, 120, 142; 137's "inner"); duplicates trimmed (51, 67, 68, 113, 115); 4, 34, 40, 47, 89, 102, 106, 116, 117, 120, 129 reworded; 138 and 144 carry †; chapter XII labelled as reports; XVI and XVIII epigraphs fixed. Jason's verses 53, 78, 135 and 136 are unchanged; 53 gets a note only.
+- **v11 verse 56** ("I, a human, exist") is v12 verse 1, "I exist," consistent with A1. v12's own verse 56 is the D-Nature verse, fixed for identity.
 
 ## Self-check: notable fixes
 
