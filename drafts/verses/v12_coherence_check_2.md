@@ -6,7 +6,7 @@
 
 The chain is one unified order, like the *Ethics*, with no split tracks and no "fractal". Chapters I–X mostly hold, but not as cleanly as the first pass said ("every tag is correct"). Four verses there overclaim or slip: 13, 53, 69 and 102. The freedom block (XI–XIII) is the weak link, as the first pass found. It also has a second gap: its confidence should be capped by the ‡ in verse 127, but its tags don't show it. The method chapter (XV) comes after verses that already use its rules.
 
-**Issues: 24 in total. 2 high, 9 medium, 13 low.** I confirm both of the first pass's highs and most of its mediums. 14 issues are new.
+**Issues: 2 high (both confirmed from pass 1), plus 18 new: 7 medium and 11 low.** I also confirm pass 1's M1–M7 and most of its lows.
 
 ## High (confirmed from pass 1)
 
