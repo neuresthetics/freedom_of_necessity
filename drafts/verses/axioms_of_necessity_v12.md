@@ -4,11 +4,11 @@
 
 > **v12.** Derived fresh from core v2, the core in force since 2026-10-15 (`entries/`). The verses follow the core's order: the I (D-I, D-exist, A1, A2), wholes (D-work, D-whole, D-Nature, A3, PR1), society and levels (A4, P1, P2), then the first person, freedom, God or Nature, and the close. One chain, no split tracks. Verses that still fit were kept from v11; what changed and why is in `v12_changes.md`. Numbering is new and does not match v11.
 
-> **Tags.** Each verse ends with a tag in brackets: first the entry or entries it rests on, then its kind, if any. Kinds: *scholium*, a remark (a report of another author, a comparison, an image) that proves and scores nothing; *reading*, a declared reading, stated and not scored; *thesis*, the free-will thesis, which the core does not yet contain and the book assumes (italic lines state it); *method*, a rule from METHOD.md; *ahead*, an entry the verse leans on before its chapter. Marks: † a norm the book doesn't derive; ‡ a claim still waiting for its entry or its evidence (alone in brackets when nothing else carries the verse). A semicolon separates groups: "[A2, reading; thesis]" rests on A2's declared reading, and states the thesis.
+> **Tags.** Each verse ends with a tag in brackets: first the entry or entries it rests on, then its kind, if any. Kinds: *scholium*, a remark (a report of another author, a comparison, an image) that proves and scores nothing; *reading*, a declared reading, stated and not scored; *thesis*, the free-will thesis, which the core does not yet contain and the book assumes (italic lines state it); *method*, a rule from METHOD.md; *ahead*, an entry the verse leans on before its chapter. Source mark: *study*, cited from the Neuresthetics Genius Study, preliminary. Marks: † a norm the book doesn't derive; ‡ a claim still waiting for its entry or its evidence (alone in brackets when nothing else carries the verse). A semicolon separates groups: "[A2, reading; thesis]" rests on A2's declared reading, and states the thesis.
 
 > **Rules from the first verse.** METHOD's rules hold from verse 1, though chapter XV states them late: only the start is beyond revision, a verse stands no higher than what holds it up, and a declared reading adds nothing to any score.
 
-> **Voice.** "I" carries the chain, which is the author's (A1). "You" appears only in method lines, and in Jason's verses 135–136, kept verbatim. "We" appears only in reports of Spinoza and other authors.
+> **Voice.** "I" carries the chain, which is the author's (A1). "You" appears only in method lines, and in Jason's verses 143–144, kept verbatim. "We" appears only in reports of Spinoza and other authors.
 
 > The verses aim to claim no more than their entries. No scores are valid until the steel-man collider runs.
 
@@ -145,298 +145,316 @@
 
 53. There is one order, and it has no outside. Whatever is, is in it. Call it God, or Nature. [D-Nature]
 
-54. Nature is everything that exists, taken together, with nothing besides it: taken as one, not shown to be one. [D-Nature]
+54. When the great minds spoke of God, they nearly always spoke of order. [study, scholium]
 
-55. Nothing besides it can limit it, so it is not finite, and it is not graded. It is neither a whole nor a non-whole. [D-Nature]
+55. Newton saw a Lord governing it. Einstein saw its lawful harmony. Spinoza said God, or Nature. [scholium]
 
-56. Everything is in Nature, and so "in Nature" sorts nothing. This body's cells are its members, and this body is a member of my society; none of them is a member of Nature. [D-Nature]
+56. They split on two things: is the order a person, and is it the world itself? [scholium]
 
-57. I can't fail to be in Nature. [D-Nature]
+57. Almost none held that God breaks it. [study, scholium]
 
-58. That Nature is truly one, one substance, and that it is God, is Spinoza's reading and mine. It is declared, not shown, and it carries no score. [D-Nature, reading]
+58. *Under every answer lies the same ground: one order, and it can be known.* [thesis]
 
-59. Self-caused and self-producing share a word, not a concept. [D-Nature]
+59. *Follow that ground down and you reach Nature.* [D-Nature, thesis]
+
+60. What each creed builds on it is declared, not shown. Spinoza built nothing; he named the ground itself God. That too is declared. [D-Nature, reading]
+
+61. *So the believer and the doubter walk the same order and part only at its name.* [thesis]
+
+62. Nature is everything that exists, taken together, with nothing besides it: taken as one, not shown to be one. [D-Nature]
+
+63. Nothing besides it can limit it, so it is not finite, and it is not graded. It is neither a whole nor a non-whole. [D-Nature]
+
+64. Everything is in Nature, and so "in Nature" sorts nothing. This body's cells are its members, and this body is a member of my society; none of them is a member of Nature. [D-Nature]
+
+65. I can't fail to be in Nature. [D-Nature]
+
+66. That Nature is truly one, one substance, and that it is God, is Spinoza's reading and mine. It is declared, not shown, and it carries no score. [D-Nature, reading]
+
+67. Self-caused and self-producing share a word, not a concept. [D-Nature]
 
 
 ## VI. The Test
 
 *Does the measure find anything?*
 
-60. The seven works sort things the way self-production does. [A3]
+68. The seven works sort things the way self-production does. [A3]
 
-61. Wherever self-production can be checked, whatever makes and replaces its own components does the four general works as one, and each conditional work where its condition holds. Whatever lasts without doing so fails at least one work that applies to it. [A3]
+69. Wherever self-production can be checked, whatever makes and replaces its own components does the four general works as one, and each conditional work where its condition holds. Whatever lasts without doing so fails at least one work that applies to it. [A3]
 
-62. Self-production is a second test, defined without the seven, so that their agreement is a finding and can fail. Where self-production can't be checked, as for a society, the test is silent. [A3]
+70. Self-production is a second test, defined without the seven, so that their agreement is a finding and can fail. Where self-production can't be checked, as for a society, the test is silent. [A3]
 
-63. A free cell, a body cell, a body: each makes itself and should pass. That they do is expected, and weak evidence. [A3]
+71. A free cell, a body cell, a body: each makes itself and should pass. That they do is expected, and weak evidence. [A3]
 
-64. A stone lasts, a hurricane feeds, an archive remembers. Each should fall short of some work. If one passed every work that applies to it, the seven would be too loose to find anything. [A3]
+72. A stone lasts, a hurricane feeds, an archive remembers. Each should fall short of some work. If one passed every work that applies to it, the seven would be too loose to find anything. [A3]
 
-65. A candle flame feeds itself on its own heat, but it uses up its components instead of making them. [A3]
+73. A candle flame feeds itself on its own heat, but it uses up its components instead of making them. [A3]
 
-66. A virus outside a cell takes nothing in. In one, the host does its work for it. [A3]
+74. A virus outside a cell takes nothing in. In one, the host does its work for it. [A3]
 
-67. A red blood cell has given up its nucleus. It can't remake itself: a member of this body, not a whole. [A3, D-whole]
+75. A red blood cell has given up its nucleus. It can't remake itself: a member of this body, not a whole. [A3, D-whole]
 
-68. The robot of 30 is the hardest case. It passes only if the repairs others make count as its own, and they don't. [A3]
+76. The robot of 30 is the hardest case. It passes only if the repairs others make count as its own, and they don't. [A3]
 
-69. By the same test, today's AI systems should fall short, since people build and keep their hardware. That says nothing about whether they think, or whether anything is felt. [A3]
+77. By the same test, today's AI systems should fall short, since people build and keep their hardware. That says nothing about whether they think, or whether anything is felt. [A3]
 
-70. A claim that nothing could lower isn't a claim. The start is the one exception. [A3, method]
+78. A claim that nothing could lower isn't a claim. The start is the one exception. [A3, method]
 
 
 ## VII. The Pattern
 
 *Same requirement, completely different clothes.*
 
-71. Where the same requirement holds, the same work turns up, in forms that differ completely from level to level. [PR1]
+79. Where the same requirement holds, the same work turns up, in forms that differ completely from level to level. [PR1]
 
-72. Structure follows function, and function follows requirement. The expression changes completely at each scale; where the requirement holds, the pattern holds. [PR1]
+80. Structure follows function, and function follows requirement. The expression changes completely at each scale; where the requirement holds, the pattern holds. [PR1]
 
-73. Requirement is conditional: if a thing that makes itself is to go on making itself, it must do this work. Necessity is what could not be otherwise. The title speaks of the second; this chapter, of the first. [PR1]
+81. Requirement is conditional: if a thing that makes itself is to go on making itself, it must do this work. Necessity is what could not be otherwise. The title speaks of the second; this chapter, of the first. [PR1]
 
-74. To make up for running down, it must feed. To keep its works in step, it must steer. To stay distinct while things cross, its edge must sort. [PR1]
+82. To make up for running down, it must feed. To keep its works in step, it must steer. To stay distinct while things cross, its edge must sort. [PR1]
 
-75. Where its components lie farther from their materials than diffusion supplies, it must carry. Where components it coordinates lie farther apart than diffusion reaches in time, it must signal. Where harm gets past its edge, it must defend. Where a condition is absent, nothing is asked. [PR1]
+83. Where its components lie farther from their materials than diffusion supplies, it must carry. Where components it coordinates lie farther apart than diffusion reaches in time, it must signal. Where harm gets past its edge, it must defend. Where a condition is absent, nothing is asked. [PR1]
 
-76. Whatever rebuilds itself must keep what it needs to rebuild, and use it again. That much memory is required; a separate record is a finding, not a must. [PR1]
+84. Whatever rebuilds itself must keep what it needs to rebuild, and use it again. That much memory is required; a separate record is a finding, not a must. [PR1]
 
-77. Likeness proves nothing, and a requirement only says where to look. What carries across is the work, found done at each level. [PR1]
+85. Likeness proves nothing, and a requirement only says where to look. What carries across is the work, found done at each level. [PR1]
 
-78. An explanation is a lamp, not a proof. It shows where to look, and it tests what is offered as evidence, though never the evidence for itself; only evidence that holds up settles what you find. [PR1, method]
+86. An explanation is a lamp, not a proof. It shows where to look, and it tests what is offered as evidence, though never the evidence for itself; only evidence that holds up settles what you find. [PR1, method]
 
-79. A city is not a body. As a body grows, its pace of life slows; as a city grows, its wages and inventions speed up. [PR1, A4]
+87. A city is not a body. As a body grows, its pace of life slows; as a city grows, its wages and inventions speed up. [PR1, A4]
 
 
 ## VIII. The Society
 
 *The whole I am a member of.*
 
-80. The society I live in is a whole to a degree, judged one work at a time, and the body this thinking goes with is one of its members. [A4]
+88. The society I live in is a whole to a degree, judged one work at a time, and the body this thinking goes with is one of its members. [A4]
 
-81. By a society I mean a population under one government, with all its institutions: courts and markets, families and schools. The state is one institution among them. [A4]
+89. By a society I mean a population under one government, with all its institutions: courts and markets, families and schools. The state is one institution among them. [A4]
 
-82. Its edge is borders, customs, and rules of entry and citizenship. Disperse the posts and no one sorts on its behalf; each person can still lock a door. [A4]
+90. Its edge is borders, customs, and rules of entry and citizenship. Disperse the posts and no one sorts on its behalf; each person can still lock a door. [A4]
 
-83. It steers through government, law, courts and markets. Prices carry knowledge no one holds whole. [A4]
+91. It steers through government, law, courts and markets. Prices carry knowledge no one holds whole. [A4]
 
-84. It feeds through farms, fuels and grids. That most members could not feed themselves alone speaks to membership, not to wholeness. [A4]
+92. It feeds through farms, fuels and grids. That most members could not feed themselves alone speaks to membership, not to wholeness. [A4]
 
-85. It carries on roads, rails, pipes and supply chains. It signals in speech and writing, wires, broadcasts and prices. [A4]
+93. It carries on roads, rails, pipes and supply chains. It signals in speech and writing, wires, broadcasts and prices. [A4]
 
-86. Bodies defend themselves, and so do societies: members by disgust and avoidance, the society by public health and quarantine. A crowd that shrinks from the sick is not yet a quarantine. [A4, D-work]
+94. Bodies defend themselves, and so do societies: members by disgust and avoidance, the society by public health and quarantine. A crowd that shrinks from the sick is not yet a quarantine. [A4, D-work]
 
-87. It remembers in records, archives, law and schools. Memory, Halbwachs argued, is carried by a society's frameworks, not by each mind alone. [A4]
+95. It remembers in records, archives, law and schools. Memory, Halbwachs argued, is carried by a society's frameworks, not by each mind alone. [A4]
 
-88. Each work stands on its own evidence, and the claim stands no higher than its weakest. It does not claim that the society makes itself, and it borrows nothing from the test or the pattern. [A4]
+96. Each work stands on its own evidence, and the claim stands no higher than its weakest. It does not claim that the society makes itself, and it borrows nothing from the test or the pattern. [A4]
 
-89. "To a degree" means a grade of at least one on every work. A grade of two is claimed on none. It is not a claim that a society is an organism. [A4]
+97. "To a degree" means a grade of at least one on every work. A grade of two is claimed on none. It is not a claim that a society is an organism. [A4]
 
-90. The claim is about the society I live in. It says nothing yet about bands, empires, or humankind. [A4]
+98. The claim is about the society I live in. It says nothing yet about bands, empires, or humankind. [A4]
 
-91. The picture is old: the belly and the limbs; the eye that can't say to the hand, "I have no need of you"; the commonwealth drawn as a giant made of citizens; the body seen as a state of cells. [A4, scholium]
+99. The picture is old: the belly and the limbs; the eye that can't say to the hand, "I have no need of you"; the commonwealth drawn as a giant made of citizens; the body seen as a state of cells. [A4, scholium]
 
-92. Nothing is more useful to a human than another human. [A4, scholium]
+100. Nothing is more useful to a human than another human. [A4, scholium]
 
 
 ## IX. Levels
 
 *I stand at the seam.*
 
-93. I am a whole at one level and a part at the next. [P1]
+101. I am a whole at one level and a part at the next. [P1]
 
-94. On the scored reading, it is the body I am made of that stands there. On my declared reading, it is I. [P1, reading]
+102. On the scored reading, it is the body I am made of that stands there. On my declared reading, it is I. [P1, reading]
 
-95. This body makes itself. Most of its cells lie beyond what diffusion can supply, the components it coordinates lie far apart, and harm gets past its edge, so all seven works apply, and it does all seven as one. Its cells depend on it and take part in its works. It is a whole whose members are cells. [P1]
+103. This body makes itself. Most of its cells lie beyond what diffusion can supply, the components it coordinates lie far apart, and harm gets past its edge, so all seven works apply, and it does all seven as one. Its cells depend on it and take part in its works. It is a whole whose members are cells. [P1]
 
-96. My society does the seven, each at least in part, and this body is its member. It is a whole one level up. [P1]
+104. My society does the seven, each at least in part, and this body is its member. It is a whole one level up. [P1]
 
-97. The whole my cells belong to and the member my society counts are one body, the one this thinking goes with, the same whole throughout. [P1]
+105. The whole my cells belong to and the member my society counts are one body, the one this thinking goes with, the same whole throughout. [P1]
 
-98. I am many things bound into one, a whole to my cells and a member of my society. I stand at the seam. [P1]
+106. I am many things bound into one, a whole to my cells and a member of my society. I stand at the seam. [P1]
 
-99. My groups stand between me and my society, and they too are a level up from me. I act on my society partly through them, somewhat as a cell acts on the body through its organs. [P1]
+107. My groups stand between me and my society, and they too are a level up from me. I act on my society partly through them, somewhat as a cell acts on the body through its organs. [P1]
 
-100. This body's own cells can't leave it. I can leave a society, and my interests can quarrel with it. The quarrel lowers the society's grade, not mine. [P1, D-whole]
+108. This body's own cells can't leave it. I can leave a society, and my interests can quarrel with it. The quarrel lowers the society's grade, not mine. [P1, D-whole]
 
-101. The levels stop short of Nature, which is neither a whole nor a non-whole, and has no members. [P1, D-Nature]
+109. The levels stop short of Nature, which is neither a whole nor a non-whole, and has no members. [P1, D-Nature]
 
 
 ## X. The Collective Mind
 
 *An activity, not a thing.*
 
-102. A collective mind, in the sense defined next, happens in the society I live in. [P2]
+110. A collective mind, in the sense defined next, happens in the society I live in. [P2]
 
-103. By that name I mean steering done as one, with the signals and the memory steering uses. Nothing more is meant. [P2]
+111. By that name I mean steering done as one, with the signals and the memory steering uses. Nothing more is meant. [P2]
 
-104. Through courts, offices, markets and records, signals and stored knowledge become coordinated action, as one process. [P2]
+112. Through courts, offices, markets and records, signals and stored knowledge become coordinated action, as one process. [P2]
 
-105. A society's mind is not a thing it owns. It happens, the way a whirlpool happens in a river. It exists as an activity exists: while it goes on. [P2]
+113. A society's mind is not a thing it owns. It happens, the way a whirlpool happens in a river. It exists as an activity exists: while it goes on. [P2]
 
-106. It happens to the degree of the lowest of three grades: steering, signaling, remembering. That rule is part of the name, not a finding. [P2]
+114. It happens to the degree of the lowest of three grades: steering, signaling, remembering. That rule is part of the name, not a finding. [P2]
 
-107. That it feels is not claimed. [P2]
+115. That it feels is not claimed. [P2]
 
-108. The community has no corporate consciousness, Spencer said. Spinoza's view would allow more. Undecided. [P2, scholium]
+116. The community has no corporate consciousness, Spencer said. Spinoza's view would allow more. Undecided. [P2, scholium]
 
-109. The word "mind" marks a likeness of works: my nervous system, too, combines signals and memory into action. It doesn't carry the first person across. [P2]
+117. The word "mind" marks a likeness of works: my nervous system, too, combines signals and memory into action. It doesn't carry the first person across. [P2]
 
-110. Napoleon, Tolstoy thought, didn't steer history; he was carried by the movements of millions. [P2, scholium]
+118. Napoleon, Tolstoy thought, didn't steer history; he was carried by the movements of millions. [P2, scholium]
 
-111. A society can remember what no one alive lived through. [P2, A4]
+119. A society can remember what no one alive lived through. [P2, A4]
 
 
 ## XI. The First Person
 
 *Where this book means to go further than Spinoza could.*
 
-112. Every thought I have is had from here. A vantage is a location, not a flaw. [A1; A2]
+120. Every thought I have is had from here. A vantage is a location, not a flaw. [A1; A2]
 
-113. *No third-person description delivers what it is like to be a bat. No first-person feeling delivers the causal chain.* [A2, reading; thesis]
+121. *No third-person description delivers what it is like to be a bat. No first-person feeling delivers the causal chain.* [A2, reading; thesis]
 
-114. On my reading, the first person is no ghost beside the body and no illusion laid over it. It is the body's organization, as it is for the one whose body it is. [A2, reading]
+122. On my reading, the first person is no ghost beside the body and no illusion laid over it. It is the body's organization, as it is for the one whose body it is. [A2, reading]
 
-115. As 25 left it: undecided. Undecided is a state, not a failure. [A2]
+123. As 25 left it: undecided. Undecided is a state, not a failure. [A2]
 
-116. "I" is where the many are taken as one. Most of what I do never reaches it. [D-I; A2, reading]
+124. "I" is where the many are taken as one. Most of what I do never reaches it. [D-I; A2, reading]
 
-117. Looking inward, Hume found only a bundle of perceptions; the Buddha taught that no lasting self is found among a person's parts. I claim no self that lasts apart from the body's organization, and the start allows a thinking with no thinker. I part from them only if "no self" means "no I at all." [D-I, A1]
+125. Looking inward, Hume found only a bundle of perceptions; the Buddha taught that no lasting self is found among a person's parts. I claim no self that lasts apart from the body's organization, and the start allows a thinking with no thinker. I part from them only if "no self" means "no I at all." [D-I, A1]
 
-118. If a machine's "I exist" is ever certain for it, what it is made of won't be cells. Whether anything is felt there, nothing here decides. [A1, A2]
+126. If a machine's "I exist" is ever certain for it, what it is made of won't be cells. Whether anything is felt there, nothing here decides. [A1, A2]
 
-119. To dismiss a machine's opinion as merely subjective, meaning that it comes from a subject rather than that it is biased, is already to speak as if it had a place to stand. That grants a point of view at work, not one that is felt; whether anything is felt there stays undecided. [D-I, reading]
+127. To dismiss a machine's opinion as merely subjective, meaning that it comes from a subject rather than that it is biased, is already to speak as if it had a place to stand. That grants a point of view at work, not one that is felt; whether anything is felt there stays undecided. [D-I, reading]
 
-120. Spinoza had no way to look into a thinking body. That work has begun, and so has the building of machines that say "I." Consciousness is the frontier, and freedom is the question it carries. [A2, scholium]
+128. Spinoza had no way to look into a thinking body. That work has begun, and so has the building of machines that say "I." Consciousness is the frontier, and freedom is the question it carries. [A2, scholium]
 
 
 ## XII. Knowing and Feeling
 
 *Reports from Spinoza, not steps: knowing changes feeling.*
 
-121. There are three kinds of knowing: opinion, from hearsay and loose experience; reason, working from notions common to all things; and intuition, which sees a thing from its essence. [scholium]
+129. There are three kinds of knowing: opinion, from hearsay and loose experience; reason, working from notions common to all things; and intuition, which sees a thing from its essence. [scholium]
 
-122. An affect is a change in the body's power of acting, together with the idea of that change. [A2, scholium]
+130. An affect is a change in the body's power of acting, together with the idea of that change. [A2, scholium]
 
-123. Each thing, as far as it is in itself, strives to persist in its being, and that striving is its very essence, not a goal it holds in view. [D-work, reading; scholium]
+131. Each thing, as far as it is in itself, strives to persist in its being, and that striving is its very essence, not a goal it holds in view. [D-work, reading; scholium]
 
-124. We don't desire a thing because we judge it good. We call it good because we desire it. [scholium]
+132. We don't desire a thing because we judge it good. We call it good because we desire it. [scholium]
 
-125. Reason doesn't overrule a passion. It works by becoming a stronger affect. [scholium]
+133. Reason doesn't overrule a passion. It works by becoming a stronger affect. [scholium]
 
-126. A passion stops being a passion once we form a clear and distinct idea of it, and the mind has more power over the affects the more it understands things as necessary. [scholium]
+134. A passion stops being a passion once we form a clear and distinct idea of it, and the mind has more power over the affects the more it understands things as necessary. [scholium]
 
 
 ## XIII. Freedom
 
 *One act, two true descriptions.*
 
-> What follows is the book's thesis, held on A2's declared reading and on 127‡. No entry yet derives it. The same holds for 113 and 165.
+> What follows is the book's thesis, held on A2's declared reading and on 135‡. No entry yet derives it. The same holds for 121 and 173.
+>
+> *If freedom is knowing causes, this order is what is known.*
 
-127. ‡ Every event is caused, a choice included. No entry carries this yet; it is assumed here, and it can be lowered. [‡]
+135. ‡ Every event is caused, a choice included. No entry carries this yet; it is assumed here, and it can be lowered. [‡]
 
-128. *Every choice is one event with two descriptions. In the third person, it is a cause in the chain. In the first person, it is mine. Neither outranks the other.* [A2, reading; thesis]
+136. *Every choice is one event with two descriptions. In the third person, it is a cause in the chain. In the first person, it is mine. Neither outranks the other.* [A2, reading; thesis]
 
-129. *The first-person description isn't idle. For many questions it is the better causal description: it names the level that made the difference.* [thesis]
+137. *The first-person description isn't idle. For many questions it is the better causal description: it names the level that made the difference.* [thesis]
 
-130. People think they are free because they know their actions and not the causes. A stone set moving, if it could think, would believe it moved by its own wish. [scholium]
+138. People think they are free because they know their actions and not the causes. A stone set moving, if it could think, would believe it moved by its own wish. [scholium]
 
-131. *What dies is the uncaused will. What lives is the first person: still mine, only not uncaused.* [thesis]
+139. *What dies is the uncaused will. What lives is the first person: still mine, only not uncaused.* [thesis]
 
-132. Freedom is not an escape from necessity. Strictly, only what exists and acts from its own nature alone (from what it is) is free, and only God, or Nature, is like that. [D-Nature, scholium]
+140. Freedom is not an escape from necessity. Strictly, only what exists and acts from its own nature alone (from what it is) is free, and only God, or Nature, is like that. [D-Nature, scholium]
 
-133. Every whole takes its energy from something else, so in the strict sense none is free. *That finite things are free by degrees is this book's thesis, not a finding.* [D-Nature, D-whole; thesis]
+141. Every whole takes its energy from something else, so in the strict sense none is free. *That finite things are free by degrees is this book's thesis, not a finding.* [D-Nature, D-whole; thesis]
 
-134. We act, Spinoza said, when we are the adequate cause of what happens, and we are passive when we are only a partial cause. *The more of what I do follows from what I am, the freer I am.* [scholium; thesis]
+142. We act, Spinoza said, when we are the adequate cause of what happens, and we are passive when we are only a partial cause. *The more of what I do follows from what I am, the freer I am.* [scholium; thesis]
 
-135. *Freedom doesn't need that you could have done otherwise, given all that came before. It needs that what you did came from you.* [thesis]
+143. *Freedom doesn't need that you could have done otherwise, given all that came before. It needs that what you did came from you.* [thesis]
 
-136. *To understand a cause is to know where it came from: genes, schooling, or a meddler's hand. A cause seen at its source can change: sometimes it loosens, sometimes it steadies into resolve. And sometimes you see it whole and are still bound, because it is necessary. Freedom is not escaping the cause. It is knowing it, origin and all, and acting from that knowledge.* [thesis]
+144. *To understand a cause is to know where it came from: genes, schooling, or a meddler's hand. A cause seen at its source can change: sometimes it loosens, sometimes it steadies into resolve. And sometimes you see it whole and are still bound, because it is necessary. Freedom is not escaping the cause. It is knowing it, origin and all, and acting from that knowledge.* [thesis]
 
-137. Freedom that is only a cause in the agent at work, Kant said, is the freedom of a turnspit, which, once wound up, turns by itself. *But a turnspit doesn't understand what moves it, and here these verses part from Kant.* [scholium; thesis]
+145. Freedom that is only a cause in the agent at work, Kant said, is the freedom of a turnspit, which, once wound up, turns by itself. *But a turnspit doesn't understand what moves it, and here these verses part from Kant.* [scholium; thesis]
 
-138. † *No finite thing is its own cause, so no one is ultimately responsible. Responsibility can still look forward: to repair, to restraint, to learning.* [thesis]
+146. † *No finite thing is its own cause, so no one is ultimately responsible. Responsibility can still look forward: to repair, to restraint, to learning.* [thesis]
 
-139. A person acts freely, it is said, when moved by a desire they want to be moved by. *What speaks for the person is not a higher desire but a clearer understanding.* [scholium; thesis]
+147. A person acts freely, it is said, when moved by a desire they want to be moved by. *What speaks for the person is not a higher desire but a clearer understanding.* [scholium; thesis]
 
-140. *Freedom grows with insight into necessity. As 126 reports, to understand a passion clearly is to begin to make it an action, and so to become more fully its cause.* [thesis]
+148. *Freedom grows with insight into necessity. As 134 reports, to understand a passion clearly is to begin to make it an action, and so to become more fully its cause.* [thesis]
 
-141. *Understanding a cause moves me less by it and more from it.* [thesis]
+149. *Understanding a cause moves me less by it and more from it.* [thesis]
 
-142. Cook Ding's knife stayed sharp for nineteen years because it followed the grain of the ox. *Skill is freedom found in necessity.* [scholium; thesis]
+150. Cook Ding's knife stayed sharp for nineteen years because it followed the grain of the ox. *Skill is freedom found in necessity.* [scholium; thesis]
 
-143. ‡ A society may be freer as more of its members act from what they are, and how many can is partly luck. [A4; thesis]
+151. ‡ A society may be freer as more of its members act from what they are, and how many can is partly luck. [A4; thesis]
 
-144. † "Become who you are." [scholium]
+152. † "Become who you are." [scholium]
 
 
 ## XIV. God, or Nature
 
 *Read, not shown.*
 
-145. God, read as Nature, has no plans for anyone. Plans belong to minds in Nature, not to Nature. [D-Nature, reading]
+153. God, read as Nature, has no plans for anyone. Plans belong to minds in Nature, not to Nature. [D-Nature, reading]
 
-146. On this reading Nature aims at nothing. What looks like aim in it is a work, or a desire, and both are in it. [D-Nature, D-work, reading]
+154. On this reading Nature aims at nothing. What looks like aim in it is a work, or a desire, and both are in it. [D-Nature, D-work, reading]
 
-147. It is the nature of reason to regard things as necessary, under a certain form of eternity. [scholium]
+155. It is the nature of reason to regard things as necessary, under a certain form of eternity. [scholium]
 
-148. From the third kind of knowing comes the intellectual love of God, and blessedness is that love. [D-Nature, reading; scholium]
+156. From the third kind of knowing comes the intellectual love of God, and blessedness is that love. [D-Nature, reading; scholium]
 
-149. Whether anything exists eternally is left open. Something of the mind is eternal, Spinoza said. Undecided. [D-exist, scholium]
+157. Whether anything exists eternally is left open. Something of the mind is eternal, Spinoza said. Undecided. [D-exist, scholium]
 
 
 ## XV. Method
 
 *How sure is any of this?*
 
-150. Human actions can be treated as if they were lines, planes, and bodies. [method]
+158. Human actions can be treated as if they were lines, planes, and bodies. [method]
 
-151. The definitions stand first on the page but were found last, worked back from what the claims needed, and that is said openly. Only the start is first both ways. [method]
+159. The definitions stand first on the page but were found last, worked back from what the claims needed, and that is said openly. Only the start is first both ways. [method]
 
-152. A declared reading is stated so you can reject it. It adds nothing to any score. [method]
+160. A declared reading is stated so you can reject it. It adds nothing to any score. [method]
 
-153. If you want your confidence to match the evidence, then when the evidence runs out, say undecided. [method]
+161. If you want your confidence to match the evidence, then when the evidence runs out, say undecided. [method]
 
-154. The easiest whole to fool is yourself. [method]
+162. The easiest whole to fool is yourself. [method]
 
 
 ## XVI. Death
 
 *A whole can end.*
 
-155. Where death is, I am not; where I am, death is not. [A1, scholium]
+163. Where death is, I am not; where I am, death is not. [A1, scholium]
 
-156. The start holds while the thinking goes on. A whole ends when any work it is graded on stops altogether. [A1, D-whole; A2, reading]
+164. The start holds while the thinking goes on. A whole ends when any work it is graded on stops altogether. [A1, D-whole; A2, reading]
 
-157. Death is a whole's term ending. The river ends; the water goes on. [D-whole, scholium]
+165. Death is a whole's term ending. The river ends; the water goes on. [D-whole, scholium]
 
-158. A free person thinks of nothing less than death; his wisdom is a meditation on life. [scholium]
+166. A free person thinks of nothing less than death; his wisdom is a meditation on life. [scholium]
 
 
 ## XVII. At the Seam
 
 *The core has no ethics axiom, and these verses say so.*
 
-159. From striving comes a good: what is useful to a thing's persisting. That is prudence, not an ought, and these verses stop there. [reading]
+167. From striving comes a good: what is useful to a thing's persisting. That is prudence, not an ought, and these verses stop there. [reading]
 
-160. † A person is where the cells' good and the society's good meet, and ethics begins at that seam. [P1; scholium]
+168. † A person is where the cells' good and the society's good meet, and ethics begins at that seam. [P1; scholium]
 
-161. † What the good seek for themselves, they want for others too. [scholium]
+169. † What the good seek for themselves, they want for others too. [scholium]
 
-162. † The true end of the state, Spinoza wrote, is freedom. [scholium]
+170. † The true end of the state, Spinoza wrote, is freedom. [scholium]
 
 
 ## XVIII. Close
 
 *Back to the start.*
 
-163. The cell, the body, and the society if it makes itself: where the same requirement holds, the same work turns up, in forms that change completely at each scale. [PR1; A4]
+171. The cell, the body, and the society if it makes itself: where the same requirement holds, the same work turns up, in forms that change completely at each scale. [PR1; A4]
 
-164. I exist. Everything else I hold as firmly as it holds up. [A1]
+172. I exist. Everything else I hold as firmly as it holds up. [A1]
 
-165. *Freedom grows as necessity is clearly understood in the first person. In the third person, it is necessity still, and neither outranks the other.* [thesis]
+173. *Freedom grows as necessity is clearly understood in the first person. In the third person, it is necessity still, and neither outranks the other.* [thesis]
 
-166. All things excellent are as difficult as they are rare. [scholium]
+174. All things excellent are as difficult as they are rare. [scholium]
 
 ---
 
@@ -467,7 +485,7 @@ Spinoza is cited by part and item (E1P15 = Part I, Proposition 15; D definition,
 
 ### III. Work
 - **27–28.** *definition (D-work, Definition 3).* Mossio, Saborido & Moreno 2009; their example of the heart.
-- **29.** *scholium.* No aim is implied (D-work); compare E1 Appendix. Replaces v11 4 in part (it was a candidate axiom); see also 145–146.
+- **29.** *scholium.* No aim is implied (D-work); compare E1 Appendix. Replaces v11 4 in part (it was a candidate axiom); see also 153–154.
 - **30.** *D-work 3(b).* Walter 1950 and robot docks (A3, hard cases).
 - **31.** *Definition 4.* **32.** *Definition 6.* **33.** *Definition 6, boundary.* Singer & Nicolson 1972. v11 10.
 - **32.** *Definition 6, general and conditional works; conditions as D-work states them.*
@@ -486,93 +504,96 @@ Spinoza is cited by part and item (E1P15 = Part I, Proposition 15; D definition,
 - **52.** *scholium.* Letter 32 (P1 Scholium 3; D-Nature Scholium 1). v11 22.
 
 ### V. Nature
-- **53.** *definition (D-Nature).* E1P15; E4 Preface. v11 1, verbatim; Jason's line, unchanged. "Order" here is Nature taken as one (D-Nature); "one" is meant as taken together, and that it is truly one is 58's reading. "Call it" names; 58 says the identification is a reading.
-- **54–56.** *Definition 13 and Explanation.* E1D2 for finitude.
-- **57.** *D-Nature.* After E4P4, reworded: Spinoza says "part of Nature," but in v2 "part" means member, and being in Nature is not being a member of it (D-Nature).
-- **58.** *declared reading.* E1D6, E1P14.
-- **59.** *D-Nature, Scholium 3.* E1D1.
+- **53.** *definition (D-Nature).* E1P15; E4 Preface. v11 1, verbatim; Jason's line, unchanged. "Order" here is Nature taken as one (D-Nature); "one" is meant as taken together, and that it is truly one is 66's reading. "Call it" names; 66 says the identification is a reading.
+- **54, 57.** *study + report.* Neuresthetics Genius Study, preliminary sample as of 2026-10-15: 71 of 441 core people coded, mostly Christian-era Europe, not random; 23 describe a creator governing a lawful world rather than intervening; 5 make God the order itself (Spinoza, Einstein, Planck, Schrödinger, Heisenberg); almost none say God works by breaking nature's rules; 39 of 71 not yet scorable. Suggestive, not proof.
+- **55.** *report.* Newton, General Scholium of the *Principia* ("Lord over all"); Einstein, 1929 reply: "I believe in Spinoza's God, who reveals himself in the lawful harmony of what exists"; Spinoza, "Deus sive Natura," E4 Preface.
+- **58–61.** *thesis; 59–60 D-Nature.* Reasoning recorded in [the base class note](../../notes/2026-10-15-base-class-theology.md): the ground (one knowable order, found in Nature) is argued; that Nature is God stays D-Nature's declared reading (60, 66).
+- **62–64.** *Definition 13 and Explanation.* E1D2 for finitude.
+- **65.** *D-Nature.* After E4P4, reworded: Spinoza says "part of Nature," but in v2 "part" means member, and being in Nature is not being a member of it (D-Nature).
+- **66.** *declared reading.* E1D6, E1P14.
+- **67.** *D-Nature, Scholium 3.* E1D1.
 
 ### VI. The Test
-- **60–62.** *axiom (A3, model), scoped to where self-production can be checked.* Self-production is the independent test. Definition 11 names the edge's components as made; the boundary work asks that the edge sort; the two tests share a word, not a criterion.
-- **63.** *A3, anchors.* Expected, weak evidence (A3's own caution).
-- **64.** *A3, negative controls.* v11 39.
-- **65–67.** *A3, hard cases.* D'Alessandro et al. 2023.
-- **68.** *A3, F2.* Walter 1950. **69.** *A3.* On AI systems; a prediction, not a result.
-- **70.** *method.* After Popper; v11 153.
+- **68–70.** *axiom (A3, model), scoped to where self-production can be checked.* Self-production is the independent test. Definition 11 names the edge's components as made; the boundary work asks that the edge sort; the two tests share a word, not a criterion.
+- **71.** *A3, anchors.* Expected, weak evidence (A3's own caution).
+- **72.** *A3, negative controls.* v11 39.
+- **73–75.** *A3, hard cases.* D'Alessandro et al. 2023.
+- **76.** *A3, F2.* Walter 1950. **77.** *A3.* On AI systems; a prediction, not a result.
+- **78.** *method.* After Popper; v11 153.
 
 ### VII. The Pattern
-- **71.** *principle (PR1).* Explains, adds no confidence.
-- **72.** *PR1 + the author's position.* Jason's "structure follows function, function follows necessity," written with PR1's word "requirement" (see open questions in `v12_changes.md`). "Where the requirement holds, the pattern holds" keeps the claim at PR1's strength.
-- **73.** *PR1, "Two words."*
-- **74–76.** *PR1, requirements of three strengths and memory's two claims; 75's conditions are D-work's, Definition 6.*
-- **77.** *PR1, method.* v11 41.
-- **78.** *method.* METHOD rule 4. v11 152, verbatim (kept unchanged; "though never the evidence for itself" means an explanation is never evidence for itself).
-- **79.** *A4, Scholium.* Bettencourt et al. 2007; West, Brown & Enquist 1997. v11 42. A caveat, not support.
+- **79.** *principle (PR1).* Explains, adds no confidence.
+- **80.** *PR1 + the author's position.* Jason's "structure follows function, function follows necessity," written with PR1's word "requirement" (see open questions in `v12_changes.md`). "Where the requirement holds, the pattern holds" keeps the claim at PR1's strength.
+- **81.** *PR1, "Two words."*
+- **82–84.** *PR1, requirements of three strengths and memory's two claims; 83's conditions are D-work's, Definition 6.*
+- **85.** *PR1, method.* v11 41.
+- **86.** *method.* METHOD rule 4. v11 152, verbatim (kept unchanged; "though never the evidence for itself" means an explanation is never evidence for itself).
+- **87.** *A4, Scholium.* Bettencourt et al. 2007; West, Brown & Enquist 1997. v11 42. A caveat, not support.
 
 ### VIII. The Society
-- **80.** *axiom (A4, model).*
-- **81, 90.** *A4, declared reading.*
-- **82–87.** *A4, rows with the take-apart test.* Miller 1978; Hayek 1945; White 1943; Smil 2017; Schaller & Park 2011; Tognotti 2013; Rosen 1958; Halbwachs 1925.
-- **88–89.** *A4 cap; "to a degree"; not an organism.* A4 makes no self-production claim and borrows nothing from A3 or PR1 (A4, cap).
-- **91.** *report.* Livy II.32; 1 Corinthians 12:21; Hobbes, *Leviathan* 1651, title page; Virchow's *Zellenstaat*. v11 103.
-- **92.** *report.* E4P18 S. v11 108.
+- **88.** *axiom (A4, model).*
+- **89, 98.** *A4, declared reading.*
+- **90–95.** *A4, rows with the take-apart test.* Miller 1978; Hayek 1945; White 1943; Smil 2017; Schaller & Park 2011; Tognotti 2013; Rosen 1958; Halbwachs 1925.
+- **96–97.** *A4 cap; "to a degree"; not an organism.* A4 makes no self-production claim and borrows nothing from A3 or PR1 (A4, cap).
+- **99.** *report.* Livy II.32; 1 Corinthians 12:21; Hobbes, *Leviathan* 1651, title page; Virchow's *Zellenstaat*. v11 103.
+- **100.** *report.* E4P18 S. v11 108.
 
 ### IX. Levels
-- **93.** *proposition (P1).* Capped at the weakest of A2, A3, A4.
-- **94.** *P1, Scholium 4.* Placed directly after 93 so the reading is said once, before the "I" verses.
-- **95–97.** *P1, demonstration steps 1–7.* 95 carries step 2's premise that the body meets all three conditions. D-whole, Definition 12 for sameness.
-- **98.** *P1.* v11 58, "part" now "member".
-- **99.** *P1, Scholium 1.* Miller 1978. **100.** *P1, Scholium 2.* Queller & Strassmann 2009. **101.** *P1, Scholium 3; D-Nature.*
+- **101.** *proposition (P1).* Capped at the weakest of A2, A3, A4.
+- **102.** *P1, Scholium 4.* Placed directly after 101 so the reading is said once, before the "I" verses.
+- **103–105.** *P1, demonstration steps 1–7.* 103 carries step 2's premise that the body meets all three conditions. D-whole, Definition 12 for sameness.
+- **106.** *P1.* v11 58, "part" now "member".
+- **107.** *P1, Scholium 1.* Miller 1978. **108.** *P1, Scholium 2.* Queller & Strassmann 2009. **109.** *P1, Scholium 3; D-Nature.*
 
 ### X. The Collective Mind
-- **102–107.** *proposition (P2).* Statement, name, demonstration steps 2–6. 106's lowest-grade rule is P2's stipulation (step 4). 105's whirlpool and "exists as an activity exists" are Jason's (v11 115), now matching P2 step 5.
-- **108.** *P2, Scholium 2.* Spencer 1860; E2P13 S.
-- **109.** *P2, Scholium 1.* **110.** *report.* Tolstoy, *War and Peace*, second epilogue. v11 114.
-- **111.** *A4 memory row.* v11 117, first sentence only; the artemisinin example has no entry.
+- **110–115.** *proposition (P2).* Statement, name, demonstration steps 2–6. 114's lowest-grade rule is P2's stipulation (step 4). 113's whirlpool and "exists as an activity exists" are Jason's (v11 115), now matching P2 step 5.
+- **116.** *P2, Scholium 2.* Spencer 1860; E2P13 S.
+- **117.** *P2, Scholium 1.* **118.** *report.* Tolstoy, *War and Peace*, second epilogue. v11 114.
+- **119.** *A4 memory row.* v11 117, first sentence only; the artemisinin example has no entry.
 
 ### XI. The First Person
-- **112.** *A1 + A2.* v11 70.
-- **113.** *thesis on A2's reading.* Nagel 1974 for the first sentence. v11 71 in A2's vocabulary; "neither outranks the other" is kept for 128 and 165.
-- **114.** *A2 (b), declared reading.* **115.** *A2, limit; METHOD rule 3.*
-- **116.** *reading.* After Freud and James. v11 62.
-- **117.** *report + D-I.* Hume, *Treatise* 1.4.6; *anatta*. v11 66, with the Lichtenberg clause.
-- **118.** *A1, Scholium 1; A2, Scholium.* Replaces v11 137.
-- **119.** *the author's position.* v11 138.
-- **120.** *scholium.* PREFACE.
+- **120.** *A1 + A2.* v11 70.
+- **121.** *thesis on A2's reading.* Nagel 1974 for the first sentence. v11 71 in A2's vocabulary; "neither outranks the other" is kept for 136 and 173.
+- **122.** *A2 (b), declared reading.* **123.** *A2, limit; METHOD rule 3.*
+- **124.** *reading.* After Freud and James. v11 62.
+- **125.** *report + D-I.* Hume, *Treatise* 1.4.6; *anatta*. v11 66, with the Lichtenberg clause.
+- **126.** *A1, Scholium 1; A2, Scholium.* Replaces v11 137.
+- **127.** *the author's position.* v11 138.
+- **128.** *scholium.* PREFACE.
 
 ### XII. Knowing and Feeling
-- **121.** E2P40 S2. **122.** E3D3. **123.** E3P6–P7. **124.** E3P9 S. **125.** E4P7. **126.** E5P3, E5P6. All *reports*, kept from v11 68, 73, 75, 76, 79, 80. 122 is tagged A2 because an affect is a change in the body and its idea, one thing told two ways.
+- **129.** E2P40 S2. **130.** E3D3. **131.** E3P6–P7. **132.** E3P9 S. **133.** E4P7. **134.** E5P3, E5P6. All *reports*, kept from v11 68, 73, 75, 76, 79, 80. 130 is tagged A2 because an affect is a change in the body and its idea, one thing told two ways.
 
 ### XIII. Freedom
-The core has no freedom entry. The note at the head of the chapter says so once, for every thesis verse: they rest on A2's declared reading (one organization, two descriptions) and on 127‡, with D-Nature's Scholium 4 and Spinoza as reports. The thesis is assumed, and what would lower it is a choice with no first-person side, or an exclusion argument that survives 129.
-- **127.** *candidate axiom (v11 entry 13), not in the core.* Weaker than E1P29. Uncaused events at the scale of choices would lower it; they would add chance, not freedom.
-- **128.** *thesis.* E2P7; Davidson 1970. **129.** *thesis.* Kim 1998; Yablo 1992; List & Menzies 2009.
-- **130.** *report.* E2P35 S; Letter 58. **131.** *thesis.* E2P48.
-- **132.** *D-Nature, Scholium 4.* E1D7; E1P17 C2. **133.** *D-Nature Scholium 4 for the first sentence (every graded whole is constrained); the rest is the thesis.*
-- **134.** *report + thesis.* E3D1, E3D2, E3P1; E4P67–P73. v11 87, second sentence put in the first person (voice rule).
-- **135.** *thesis.* van Inwagen 1983; Frankfurt 1969. v11 90, verbatim.
-- **136.** *thesis (the author's position, 2026-09-28).* Pereboom 2001; Mele 2006; E5P3; E4P17. v11 91, verbatim.
-- **137.** *report + thesis.* Kant, *Critique of Practical Reason*, Ak. 5:96–97. v11 85, "an inner cause" now "a cause in the agent".
-- **138.** *thesis; † for the forward-looking norm.* G. Strawson 1994; Letter 78. v11 92.
-- **139.** *report + thesis.* Frankfurt 1971; Watson 1975. v11 94.
-- **140.** *thesis.* Engels, *Anti-Dühring*; E5P3; E3P1. v11 95.
-- **141.** *thesis.* v11 81, first sentence, "us" now "me". **142.** *report + thesis.* Zhuangzi, ch. 3. v11 96, "inside" now "in".
-- **143.** *‡ conjecture.* Extends 134 to A4's society; bridge candidate E4P35; Nagel 1979. v11 130.
-- **144.** *report; † a norm.* Pindar, *Pythian* 2. v11 97.
+The core has no freedom entry. The note at the head of the chapter says so once, for every thesis verse: they rest on A2's declared reading (one organization, two descriptions) and on 135‡, with D-Nature's Scholium 4 and Spinoza as reports. The thesis is assumed, and what would lower it is a choice with no first-person side, or an exclusion argument that survives 137.
+- **135.** *candidate axiom (v11 entry 13), not in the core.* Weaker than E1P29. Uncaused events at the scale of choices would lower it; they would add chance, not freedom.
+- **136.** *thesis.* E2P7; Davidson 1970. **137.** *thesis.* Kim 1998; Yablo 1992; List & Menzies 2009.
+- **138.** *report.* E2P35 S; Letter 58. **139.** *thesis.* E2P48.
+- **140.** *D-Nature, Scholium 4.* E1D7; E1P17 C2. **141.** *D-Nature Scholium 4 for the first sentence (every graded whole is constrained); the rest is the thesis.*
+- **142.** *report + thesis.* E3D1, E3D2, E3P1; E4P67–P73. v11 87, second sentence put in the first person (voice rule).
+- **143.** *thesis.* van Inwagen 1983; Frankfurt 1969. v11 90, verbatim.
+- **144.** *thesis (the author's position, 2026-09-28).* Pereboom 2001; Mele 2006; E5P3; E4P17. v11 91, verbatim.
+- **145.** *report + thesis.* Kant, *Critique of Practical Reason*, Ak. 5:96–97. v11 85, "an inner cause" now "a cause in the agent".
+- **146.** *thesis; † for the forward-looking norm.* G. Strawson 1994; Letter 78. v11 92.
+- **147.** *report + thesis.* Frankfurt 1971; Watson 1975. v11 94.
+- **148.** *thesis.* Engels, *Anti-Dühring*; E5P3; E3P1. v11 95.
+- **149.** *thesis.* v11 81, first sentence, "us" now "me". **150.** *report + thesis.* Zhuangzi, ch. 3. v11 96, "inside" now "in".
+- **151.** *‡ conjecture.* Extends 142 to A4's society; bridge candidate E4P35; Nagel 1979. v11 130.
+- **152.** *report; † a norm.* Pindar, *Pythian* 2. v11 97.
 
 ### XIV. God, or Nature
-- **145–146.** *declared reading (D-Nature).* E1 Appendix. Replaces v11 4 and 6; the Einstein cable is dropped (no entry cites it).
-- **147.** *report.* E2P44 C2. v11 69. **148.** *report.* E5P32 C; E5P36. v11 81, second sentence.
-- **149.** *D-exist leaves eternity open; report.* E5P23. v11 147.
+- **153–154.** *declared reading (D-Nature).* E1 Appendix. Replaces v11 4 and 6; the Einstein cable is dropped (no entry cites it).
+- **155.** *report.* E2P44 C2. v11 69. **156.** *report.* E5P32 C; E5P36. v11 81, second sentence.
+- **157.** *D-exist leaves eternity open; report.* E5P23. v11 147.
 
 ### XV. Method
-- **150.** E3 Preface. **151.** HOW_THIS_BOOK_IS_BUILT §5; v11 151. **152.** METHOD rule 6. **153.** METHOD rule 3; v11 154 without its last sentence (moved to 115). **154.** After Feynman 1974; v11 155.
+- **158.** E3 Preface. **159.** HOW_THIS_BOOK_IS_BUILT §5; v11 151. **160.** METHOD rule 6. **161.** METHOD rule 3; v11 154 without its last sentence (moved to 123). **162.** After Feynman 1974; v11 155.
 
 ### XVI. Death
-- **155.** *report.* Epicurus, *Letter to Menoeceus*. **156.** *A1 ("for as long as I am thinking," AT VII 27); D-whole, Definitions 8 and 12; reaching "I" from "a whole" uses A2's reading.* **157.** *scholium.* v11 148, shortened (see changes). **158.** *report.* E4P67.
+- **163.** *report.* Epicurus, *Letter to Menoeceus*. **164.** *A1 ("for as long as I am thinking," AT VII 27); D-whole, Definitions 8 and 12; reaching "I" from "a whole" uses A2's reading.* **165.** *scholium.* v11 148, shortened (see changes). **166.** *report.* E4P67.
 
 ### XVII. At the Seam
-- **159.** *reading.* E4D1; E4P22 C; Hume, *Treatise* 3.1.1. **160–162.** *not derived.* E4P37; *Theological-Political Treatise*, ch. 20.
+- **167.** *reading.* E4D1; E4P22 C; Hume, *Treatise* 3.1.1. **168–170.** *not derived.* E4P37; *Theological-Political Treatise*, ch. 20.
 
 ### XVIII. Close
-- **163.** *PR1 in brief; "if it makes itself" because A4 claims no self-production.* **164.** *A1 + METHOD rule 1.* **165.** *thesis.* v11 161 in A2's vocabulary. **166.** *report.* E5P42 S, the last line of the *Ethics*.
+- **171.** *PR1 in brief; "if it makes itself" because A4 claims no self-production.* **172.** *A1 + METHOD rule 1.* **173.** *thesis.* v11 161 in A2's vocabulary. **174.** *report.* E5P42 S, the last line of the *Ethics*.
