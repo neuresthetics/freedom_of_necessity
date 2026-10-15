@@ -1,3 +1,5 @@
+![Inside a lattice of hairline edges and nodes that arches overhead toward one bright root node](assets/banner.jpg)
+
 # Freedom of Necessity
 
 *God, Brain, and the Order of the Mind*
@@ -6,7 +8,7 @@
 
 > There is one order, and it has no outside. Whatever is, is in it. Call it God, or Nature.
 >
-> — *Axioms of Necessity*, verse 1
+> — *Axioms of Necessity*, verse 53
 
 <br>
 
@@ -20,7 +22,9 @@ The working title is *Freedom of Necessity: God, Brain, and the Order of the Min
 
 **0. The preface.** [On a Book Without Its Original](PREFACE.md): why there is no original *Ethics*, who holds the surviving copy, and where this book goes further than Spinoza, above all on freedom.
 
-**1. The rough draft.** [*Axioms of Necessity*, v11](drafts/verses/axioms_of_necessity_v11.md) is the verse companion: the whole book in 162 short verses, from "There is one order, and it has no outside" to Spinoza's last line. It is a rough draft, readable in one sitting, and you can open it anywhere. This draft is frozen as the tag [`keeper-2026-10-01`](https://github.com/neuresthetics/freedom_of_necessity/tree/keeper-2026-10-01), so it can still be read exactly as it was after later revisions. Changes from v10 are in [v11_changes.md](drafts/verses/v11_changes.md).
+**1. The rough draft.** [*Axioms of Necessity*, v12](drafts/verses/axioms_of_necessity_v12.md) is the verse companion and the current rough draft: the whole book in 166 short verses in 18 chapters, derived fresh from core v2 and following its order. It is unscored, readable in one sitting, and you can open it anywhere. What changed from v11 is in [v12_changes.md](drafts/verses/v12_changes.md). The six coherence checks and the final check of the revised text are in [drafts/verses/](drafts/verses/) ([1](drafts/verses/v12_coherence_check.md), [2](drafts/verses/v12_coherence_check_2.md), [3](drafts/verses/v12_coherence_check_3.md), [4](drafts/verses/v12_coherence_check_4.md), [5](drafts/verses/v12_coherence_check_5.md), [6](drafts/verses/v12_coherence_check_6.md), [final](drafts/verses/v12_final_check.md)).
+
+The previous draft, [v11](drafts/verses/axioms_of_necessity_v11.md) (162 verses), is frozen as the tag [`keeper-2026-10-01`](https://github.com/neuresthetics/freedom_of_necessity/tree/keeper-2026-10-01), so it can still be read exactly as it was.
 
 **2. How the book is built.** [HOW_THIS_BOOK_IS_BUILT.md](HOW_THIS_BOOK_IS_BUILT.md) says what each kind of entry is, how derivations work, and where the method departs from Spinoza.
 
@@ -57,9 +61,9 @@ The book begins with an I that exists, and only that is beyond revision. It then
 
 ### How checking works
 
-A local open-weights model judges each entry against the entries it cites, or, if it cites nothing, against its own evidence. A4 is scored row by row, and its score is its weakest row. An entry can be no more confident than its weakest support, all the way down the chain.
+The book is written and checked with Grok. Each entry is judged against the entries it cites, or, if it cites nothing, against its own evidence. A4 is judged row by row, and it stands no higher than its weakest row. An entry can be no more confident than its weakest support, all the way down the chain.
 
-Full rules: [METHOD.md](METHOD.md). Confidences are a ranking with a cap chain, not probabilities.
+Full rules: [METHOD.md](METHOD.md). Confidences, once there are any, are a ranking with a cap chain, not probabilities.
 
 ### Scores: none valid right now
 
@@ -67,7 +71,7 @@ Every entry except A1 is **unscored**. The earlier numbers, for the old core now
 
 ### Next: the collider
 
-A minimal collider replaces the lens. For each entry, the model builds a steel man of the entry and the strongest counter steel man, both in the book's geometric form, and judges them side by side. Code checks citations and quoted spans; the model does not check its own citations. Planned runs: a clean control and the collider, each on the uncensored and the stock model, on the same entries and broken twins.
+A minimal collider replaces the lens. For each entry, the checker builds a steel man of the entry and the strongest counter steel man, both in the book's geometric form, and judges them side by side. Code checks citations and quoted spans; the checker does not check its own citations. Planned runs: a clean control and the collider, on the same entries and broken twins. There are no harness scores yet.
 
 ---
 
@@ -77,21 +81,11 @@ A minimal collider replaces the lens. For each entry, the model builds a steel m
 
 - [LOG.md](LOG.md): dated record of tests and changes, newest first.
 - [results/](results/): one folder per test run, with its settings, report and lessons. Never edited after commit.
-- [docs/](docs/): [hardware](docs/HARDWARE.md), [model choice](docs/MODEL_CHOICE.md), and [how to reproduce a run](docs/REPRODUCE.md).
+- [docs/](docs/): earlier notes on hardware, model choice and reproducing a run, kept as history.
 
-**What belongs here.** The book entries (definitions, axioms, propositions); the harness that runs the checks; and the model and hardware specs needed to reproduce a run (model name and quant, context length, KV cache, approximate VRAM, generation speed class).
+**What belongs here.** The book entries (definitions, axioms, propositions), the verse drafts, the checks run on them, and the harness once it lands.
 
-**What does not.** Personal machine setup, paths, network, security, or home-lab notes. The harness code lives here; personal run configs stay out of this repo.
-
-**Reproduce (placeholder).** Model: Qwen3.8-27B, q4_K_M, served by Ollama on an NVIDIA RTX 4000 Ada (20 GB). A full recipe will list:
-
-- Model: `Qwen3.8-27B, q4_K_M, via Ollama`
-- Context: 32K, flash attention on
-- KV cache: q8_0
-- GPU: NVIDIA RTX 4000 Ada (20 GB)
-- Speed: ~16–17 tok/s
-
-Details will be filled in when the harness lands.
+**What does not.** Personal machine setup, paths, network, security, or home-lab notes.
 
 <br>
 
