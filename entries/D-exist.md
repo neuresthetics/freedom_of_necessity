@@ -11,7 +11,7 @@ qualifiers:
   - 'for anything else, "exists" is taken as understood'
   - 'lasts: goes on existing'
   - 'says nothing about how or why it exists'
-reading: 'Definition of "exist" in its thinnest sense. What it defines: an activity exists at a time when it is going on at that time; a thing lasts when it goes on existing through a stretch of time (duration, E2D5). What it takes as understood: "exists" said of anything that is not an activity; an earlier wording ("or present") defined it only by a synonym. What it leaves open: in itself or in something else (E1A1), by the necessity of its own nature or not (E1D1, E1P7, E1P24), and whether anything exists eternally (E1D8, E1P19). A1 needs only the activity clause, now. Judged on clarity and fit; adds no confidence.'
+scored_as: 'Definition of "exist" in its thinnest sense. What it defines: an activity exists at a time when it is going on at that time; a thing lasts when it goes on existing through a stretch of time (duration, E2D5). What it takes as understood: "exists" said of anything that is not an activity; an earlier wording ("or present") defined it only by a synonym. What it leaves open: in itself or in something else (E1A1), by the necessity of its own nature or not (E1D1, E1P7, E1P24), and whether anything exists eternally (E1D8, E1P19). A1 needs only the activity clause, now. Judged on clarity and fit; adds no confidence.'
 status: in force (core v2, promoted 2026-10-15)
 ---
 

@@ -14,26 +14,26 @@ Each entry is labelled with its kind, and each kind has limits on what it may do
 
 - **Root.** A1, "I exist." The single starting point, taken as given rather than argued for. It is the only entry that cannot be revised.
 - **Definition.** Fixes what a word means (for example D-whole, what counts as a whole). It is judged on clarity and fit. It supports nothing on its own and cannot make any claim more likely to be true.
-- **Axiom (empirical).** A starting claim about the world, such as A2, that the body is made of cells. It cites no other entry; it is scored on the evidence written into it.
-- **Axiom (model).** A claim that one level corresponds to another, such as A3, society performing the functions a body performs. It is judged function by function, on whether the same work is being done, not on surface resemblance, and it can be no stronger than its weakest function.
-- **Principle.** Explains why claims line up, such as PR1: the same requirement shows up at every scale though its expression changes. An explanation adds no confidence. It tells you where to look, not what you will find.
-- **Proposition.** A claim derived from the entries it names, such as P2, that a collective mind happens in society. It is only as strong as the weakest thing it cites.
+- **Axiom (empirical).** A starting claim about the world, such as A2: I am made of a human body made of cells, and go with that body. It cites only the root, if anything (A2 cites A1 for its "I"), and it is scored on the evidence written into it. Where an axiom also carries a *declared reading* (A2: that I am this body, and that my mind is that body's organization described in the first person), the reading is stated openly and not scored.
+- **Axiom (model).** A claim that a measure sorts real things correctly, or that a thing measures up on it. A3 claims that the seven works (D-work) sort things the way self-production does, wherever self-production can be checked; it is judged on anchors, negative controls and hard cases. A4 claims that the society I live in performs each of the seven works as one, at least in part; it is judged one work at a time with the take-apart test, and it can be no stronger than its weakest row.
+- **Principle.** Explains why claims line up, such as PR1: where the same requirement holds, the same work turns up, in forms that differ completely from level to level; its requirements are stated for anything that produces itself. An explanation adds no confidence. It tells you where to look, not what you will find.
+- **Proposition.** A claim derived from the entries it names, such as P1, that I am a whole at one level and a part at the next, or P2, that a collective mind, in the sense defined there, happens in the society I live in. It is only as strong as the weakest thing it cites.
 - **Demonstration.** The argument that takes a proposition from its supports to its conclusion, written out so it can be checked step by step.
 - **Corollary.** A result that follows directly from a proposition, needing no new support.
 - **Scholium.** A side remark: context, an objection answered, or a comparison with another thinker. It explains; it proves nothing and scores nothing.
 
 ## 3. How a derivation works
 
-Every entry lists what it cites. Follow those citations down and each chain ends in one of two places: the root (A1), or evidence the entry carries itself (A2, the rows of A3).
+Every entry lists what it cites. Follow those citations down and each chain ends in one of two places: the root (A1), or evidence the entry carries itself (A2's evidence, A3's test cases, A4's rows).
 
 P1 as the example:
 
-- **P1** (a collective mind happens in society) cites A2, A3 and A4.
-- **A2** (a body of cells whose organization produces a mind) rests on its own evidence.
-- **A3** (society performs the seven functions a body performs: boundary, control, energy, transport, signaling, defense, memory) rests on the evidence for each function, one row at a time.
-- **A4** (I work in society as a unit like a cell) cites A1 and A3.
+- **P1** (I am a whole at one level and a part at the next) cites A2, A3 and A4.
+- **A2** (I am made of a human body made of cells, and go with that body) cites A1 for its "I" and rests on its own evidence. That my mind is that body's organization described in the first person is its declared reading, not scored.
+- **A3** (the seven works sort things the way self-production does, wherever self-production can be checked: the four general works always, and transport, signaling and defense wherever their condition holds) rests on its anchors, negative controls and hard cases.
+- **A4** (the society I live in is a whole to a degree, judged one work at a time, and the body this thinking goes with is one of its members) cites A2 and rests on its seven rows.
 
-So P1 can be no stronger than the weakest of A2, A3 and A4, and A3 can be no stronger than its weakest function. If the evidence for that one function improves, the change carries upward through everything built on it. If it weakens, the same thing happens in reverse.
+So P1 can be no stronger than the weakest of A2, A3 and A4, and A4 can be no stronger than its weakest row. If the evidence for that one row improves, the change carries upward through everything built on it. If it weakens, the same thing happens in reverse.
 
 ## 4. What the numbers mean
 

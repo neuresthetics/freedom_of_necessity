@@ -43,11 +43,11 @@ The book begins with an I that exists, and only that is beyond revision. It then
 | 1 | **D-I** | "I" names the thinker of a thought, if there is one distinct from the thinking, and otherwise the thinking itself. | Definition. |
 | 2 | **D-exist** | An activity exists when it is going on; a thing lasts when it goes on existing. Whether anything exists eternally is left open. | Definition. |
 | 3 | **A1** | "I exist." | The root, 1.0: doubting it is a case of it. |
-| 4 | **A2** | I am a human body made of cells, and my mind is that body's organization described in the first person. | Empirical; cites A1. Scored only as: I am made of this body, and this thinking goes with it. |
-| 5 | **D-work** | A work keeps a thing's organization going and is carried out by structures that organization makes or maintains. Seven works: boundary, control, energy, transport, signaling, defense, memory. | Definition. |
-| 6 | **D-whole** | Each work is graded 0, 1 or 2, and a thing is only as whole as its lowest grade. A member shares the whole's fate and takes part in its works. | Definition; finite things only. |
+| 4 | **A2** | I am made of a human body made of cells, and go with that body; my mind is that body's organization described in the first person. | Empirical; cites A1. Scored as: made of this body, and this thinking goes with it. That I am this body, and the mind clause, are a declared reading. |
+| 5 | **D-work** | A work keeps a thing's organization going and is carried out by structures that organization makes or maintains. Seven works: four general (boundary, energy, control, memory) and three conditional (transport, signaling, defense), each needed where its stated condition holds. | Definition. |
+| 6 | **D-whole** | Each work that applies is graded 0, 1 or 2, and a thing is only as whole as its lowest grade. A member shares the whole's fate and takes part in its works. | Definition; finite things only. |
 | 7 | **D-Nature** | Nature is everything that exists, taken together, with nothing outside it. | Definition; not graded. Calling it God is a declared reading. |
-| 8 | **A3** | The seven works sort things the way self-production does. | Model axiom. |
+| 8 | **A3** | The seven works sort things the way self-production does, wherever self-production can be checked. | Model axiom. |
 | 9 | **PR1** | Where the same requirement holds, the same work turns up, in different forms at each level. | Explains; adds no confidence. |
 | 10 | **A4** | The society I live in is a whole to a degree, judged one work at a time, and I am one of its members. | Model axiom; capped by its weakest row and by A2. |
 | 11 | **P1** | I am a whole at one level and a part at the next. | Derived from A2, A3, A4. |
