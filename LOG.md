@@ -2,6 +2,15 @@
 
 A dated record of what was tested and what changed, newest first. Times are Pacific (PT).
 
+## 2026-10-15 — Core v2 promoted to `entries/`
+
+At the author's decision, core v2 is now the core in force.
+
+- **Promoted.** The twelve core v2 entries (D-I, D-exist, A1, A2, D-work, D-whole, D-Nature, A3, PR1, A4, P1, P2) were copied into `entries/`. Only their status lines and the relative links to the collision files changed. No claim wording, definition, axiom text or confidence changed: A1 stays 1.0, the rest stay "pending (collider)". [candidates/core_v2/](candidates/core_v2/README.md) stays as the record of how they were built.
+- **Old core kept.** The previous entries (A1–A4, D-whole, P1, PR1) moved to [history/entries_v1/](history/entries_v1/README.md). The tag `keeper-2026-10-01` still freezes them as they were.
+- **Verse 149** now reads "Only the start is beyond revision: I exist," matching A1 ([v11_changes.md](drafts/verses/v11_changes.md)).
+- **No scores.** Nothing was scored; there are still no valid scores until the collider runs.
+
 ## 2026-09-29 — Entry wording fixes (after the review)
 
 Book content only; nothing new was promoted into `entries/`.

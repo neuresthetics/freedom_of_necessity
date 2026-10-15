@@ -10,7 +10,7 @@ The numbers are judged by a model, and nothing yet checks them against outcomes.
 
 ## The rules
 
-1. **Cap.** An entry can be no more confident than its weakest support. Its effective confidence is the minimum of its own score and the effective confidence of everything it cites, all the way down the chain. A multi-row entry such as A3 is capped by its weakest row.
+1. **Cap.** An entry can be no more confident than its weakest support. Its effective confidence is the minimum of its own score and the effective confidence of everything it cites, all the way down the chain. A multi-row entry such as A4 is capped by its weakest row.
 2. **Ordering.** Evidence that raises a claim lowers its negation. The two move in opposite directions; they are not required to sum to 1.
 3. **Undecided.** A claim and its negation are each capped by their own supports, so both can come out low. That is not a contradiction. It records that the stack does not yet settle the question, and the book says so openly. In a geometric work, "not yet derived" is a real state.
 4. **Explanation adds nothing.** A principle that explains why claims line up (for example PR1, pattern by requirement) does not raise their confidence. Checking, stripping, and auditing may hold a score or lower it, never raise it.

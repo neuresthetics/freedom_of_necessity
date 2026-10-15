@@ -12,12 +12,12 @@ This book keeps that layout on purpose. Every claim says what it rests on, and a
 
 Each entry is labelled with its kind, and each kind has limits on what it may do.
 
-- **Root.** A1, "I, a human, exist." The single starting point, taken as given rather than argued for. It is the only entry that cannot be revised.
+- **Root.** A1, "I exist." The single starting point, taken as given rather than argued for. It is the only entry that cannot be revised.
 - **Definition.** Fixes what a word means (for example D-whole, what counts as a whole). It is judged on clarity and fit. It supports nothing on its own and cannot make any claim more likely to be true.
 - **Axiom (empirical).** A starting claim about the world, such as A2, that the body is made of cells. It cites no other entry; it is scored on the evidence written into it.
 - **Axiom (model).** A claim that one level corresponds to another, such as A3, society performing the functions a body performs. It is judged function by function, on whether the same work is being done, not on surface resemblance, and it can be no stronger than its weakest function.
 - **Principle.** Explains why claims line up, such as PR1: the same requirement shows up at every scale though its expression changes. An explanation adds no confidence. It tells you where to look, not what you will find.
-- **Proposition.** A claim derived from the entries it names, such as P1, that a collective mind happens in society. It is only as strong as the weakest thing it cites.
+- **Proposition.** A claim derived from the entries it names, such as P2, that a collective mind happens in society. It is only as strong as the weakest thing it cites.
 - **Demonstration.** The argument that takes a proposition from its supports to its conclusion, written out so it can be checked step by step.
 - **Corollary.** A result that follows directly from a proposition, needing no new support.
 - **Scholium.** A side remark: context, an objection answered, or a comparison with another thinker. It explains; it proves nothing and scores nothing.

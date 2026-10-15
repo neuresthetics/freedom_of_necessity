@@ -401,7 +401,7 @@
 
 *How sure is any of this?*
 
-149. Only the start is beyond revision: I, a human, exist. Everything else stands on something, and stands no higher than what holds it up.
+149. Only the start is beyond revision: I exist. Everything else stands on something, and stands no higher than what holds it up.
 
 150. Human actions can be treated as if they were lines, planes, and bodies.
 
@@ -450,7 +450,7 @@ Each note gives the verse's **tier**, its sources, and any reading that is the b
 The kinds of entry in the book itself (root, definition, axiom, principle, proposition, demonstration, corollary, scholium) are set out in [HOW_THIS_BOOK_IS_BUILT.md](../../HOW_THIS_BOOK_IS_BUILT.md), and that front piece is the authority. A verse that restates an entry takes that entry's kind. The remaining labels are for what a verse can be that an entry isn't. The extra labels core, method, formal and report still wait on your confirmation (open items).
 
 *Kinds from the front piece*
-- **Root:** A1, "I, a human, exist." The single starting point, taken as given, and the only claim that can't be revised (56, 149); strictly, what can't be revised is "I exist" (note 56).
+- **Root:** A1, "I exist." The single starting point, taken as given, and the only claim that can't be revised (56, 149). Since core v2 was promoted (2026-10-15), "human" is in A2.
 - **Definition:** fixes what a word means. It is judged on clarity and fit, supports nothing on its own, and makes no claim more likely. Verses 1, 2, 7 and 8 are definitions, and so are the verses that restate D-whole. Definitions were found downstream, from what the claims needed a word to mean, and then placed first; this is said openly (151; front piece §5).
 - **Axiom:** a starting claim about the world that carries its own evidence and can be lowered. *Empirical* (A2) or *model* (A3, A4: one level said to correspond to another, judged work by work, and no stronger than the weakest). Verses 3 and 4 are candidate axioms (entries 13 and 14), not yet entries.
 - **Principle:** explains why claims line up, and adds no confidence (PR1; 40–41, 152).
@@ -481,7 +481,7 @@ The kinds of entry in the book itself (root, definition, axiom, principle, propo
 **Spinoza** is cited by part and item, as in the book's standard text, the Cambridge edition: *Ethics, Proved in Geometrical Order*, ed. Matthew J. Kisner, trans. Michael Silverthorne and Matthew J. Kisner (Cambridge Texts in the History of Philosophy, 2018). So E1P15 = Part I, Proposition 15; D = definition, A = axiom, S = scholium, C = corollary. Kisner page numbers are still to be added from the author's copy (open items). Wording given in quotation marks was checked against the frozen Elwes (1883) and Latin copies in `sources/spinoza/`, and where Elwes's words are used, the note says so. Verse lines that echo Spinoza (8, 60, 61, 69, 75, 76, 80, 108, 143, 162, among others) are paraphrases checked for sense, not quotations of any translation. Letters are given in Gebhardt's and Elwes's numbering, and the *Political Treatise* (TP) by chapter and section; the letter and TP wording quoted here was checked against Elwes's translations online.
 
 **House rules**
-1. **The start.** A1, "I, a human, exist," is the only claim that can't be revised, and strictly only its "I exist" (56). Every other line can be lowered, and definitions support nothing alone. The definitions were found downstream and set first; only A1 comes first in both orders (151).
+1. **The start.** A1, "I exist," is the only claim that can't be revised (56, 149). Every other line can be lowered, and definitions support nothing alone. The definitions were found downstream and set first; only A1 comes first in both orders (151).
 2. **No aiming.** Boundaries filter; they don't choose. "Choose" and "choice" appear only in the free-will thesis and in axiom 3, which the thesis rests on.
 3. **Vantage vs. inside.** A vantage, among the members or at a distance, is not the thesis's inside/outside. **Inside** always means the felt, first-person side. The book assumes the thesis (see 82): the two descriptions of a choice are both true, and neither outranks the other.
 4. **The order is not a whole among wholes.**
@@ -659,7 +659,7 @@ The kinds of entry in the book itself (root, definition, axiom, principle, propo
 - **134.** *formal + empirical.* Turing 1952, reaction–diffusion. Compare learning without a planner: a network learns by adjusting many connections a little at a time (Rumelhart, Hinton & Williams 1986). Wiener, *Cybernetics* 1948: control and communication in animal and machine as one subject, built on feedback.
 - **135.** *method.* Turing 1950; Searle 1980; METHOD.
 - **136.** *model conjecture.* D-whole; the conflict dimension may be undefined, as for the stone (12).
-- **137.** *model conjecture.* A1, A2. A1's certainty is first-personal, so no one else could check an AI's A1. A1 itself stays "I, a human, exist."
+- **137.** *model conjecture.* A1, A2. A1's certainty is first-personal, so no one else could check an AI's A1. A1 is now "I exist" (core v2); "human" enters at A2.
 - **138.** *reading ours (the author's position).* An argument, not a finding. "Subjective" is taken in the sense "coming from a subject", not "biased" or "arbitrary", which is what it usually means in a dismissal; in that usual sense the argument doesn't go through. The dismisser's word is not evidence about the machine. The verse says only what such a dismissal concedes: taken in that sense, calling a machine's opinion "subjective" concedes that the opinion comes from somewhere: a vantage in the sense of 70, a point of view in the functional sense. That concedes a point of view, not that anything is felt. Why anything is felt stays undecided, as at 84 and 135. "Point of view at work" is not the thesis's inside (house rule 3).
 - **139.** *not derived.*
 
@@ -677,7 +677,7 @@ The kinds of entry in the book itself (root, definition, axiom, principle, propo
 - **148.** *verse.* "Not only": some deaths are boundary or defense failures (wounds, sepsis), and both descriptions can be true at once.
 
 ### XIX. Method
-- **149.** *method.* METHOD; HOW_THIS_BOOK_IS_BUILT §§3–5; Euclid for the form. The cap chain: no claim ranks above what it stands on. How whole a thing is stays a separate question (13). "Beyond revision" strictly covers "I exist"; "a human" can be lowered (56). 1, 2 and 8 are definitions that support nothing alone, and 3 and 4 are candidate axioms. Entry 12.
+- **149.** *method.* METHOD; HOW_THIS_BOOK_IS_BUILT §§3–5; Euclid for the form. The cap chain: no claim ranks above what it stands on. How whole a thing is stays a separate question (13). The verse now reads "I exist", matching A1 in the core in force (core v2, promoted 2026-10-15); "a human" is in A2 and can be lowered (56). 1, 2 and 8 are definitions that support nothing alone, and 3 and 4 are candidate axioms. Entry 12.
 - **150.** *method.* E3 Preface.
 - **151.** *method (the author's position).* HOW_THIS_BOOK_IS_BUILT §5: most definitions were worked out backward, from what the claims needed a word to mean, then set first, and this is said openly. A definition earns its place by making the claims that use it clearer, not likelier; if a later entry needs one changed, it is revised and everything built on it is rescored. Only A1 comes first in both orders, first found and first placed. Spinoza's order of presentation is the model (150).
 - **152.** *method.* PR1; METHOD rule 4 (explanation adds nothing); Vesalius. The lamp may test other evidence (is this sample what it is said to be?), but never the evidence for itself, so it moves no confidence in its own favor.
@@ -801,7 +801,7 @@ These need your decision or outside work.
 2. **Tier labels** (pending from v9). The extra labels core, method, formal and report still need confirming or trimming. v10 also adds the front piece's root, principle and proposition, and "reading ours / author's position" as a label (it was already used at 154, now 156).
 3. **Responsibility (92)** (pending from v9). "Looks forward" is labelled thesis (conceptual), and any norm against retribution is left not derived. Please check that split.
 4. **Stone's conflict dimension** (pending from v9, not confirmed). House rule 5 and note 12 call it undefined, not zero. A3's controls (39) now use the stone for the works, which doesn't settle this.
-5. **A1 and the floating man (57).** A1 stays "I, a human, exist." The note still records that the floating man reaches only "I exist." v11's notes to 56 and 149 (and house rule 1) now say that strictly only "I exist" is beyond revision, and that "a human" can be lowered. Verse 149 itself still reads "Only the start is beyond revision: I, a human, exist"; you may want the verse to match.
+5. **A1 and the floating man (57).** A1 is now "I exist" (core v2, promoted 2026-10-15), and "human" is in A2. The note still records that the floating man reaches only "I exist." v11's notes to 56 and 149 (and house rule 1) now say that strictly only "I exist" is beyond revision, and that "a human" can be lowered. Verse 149 now reads "Only the start is beyond revision: I exist," and matches A1 in core v2, promoted to `entries/` on 2026-10-15.
 6. **METHOD.md lags the front piece** (entry 12). The A1-only exemption, the definition/axiom split and the downstream definitions are in HOW_THIS_BOOK_IS_BUILT but not in METHOD's rules. Not edited here.
 7. **Scores.** Entries 13–15, 5b and every A-series cap wait for the collider. If a negative control (39) passes all seven works, 38–39 and 28 must change.
 8. **Entry 1 isn't ready.** The boundary dimension has no support outside D-whole's definition.

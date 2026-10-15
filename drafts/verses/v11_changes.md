@@ -361,3 +361,7 @@ Every change below comes from Lens's fallacy audit of v10, copied into the repo 
 
 - Note 160 now matches core v2: the society claim is A4 there (A3 in the committed entries), and PR1's requirements are sorted, with transport, signaling and defense holding only in some circumstances and memory required only as stored information used again in rebuilding. "The same requirements" is marked as the verse's shorthand for that list. Source: `candidates/core_v2/audits/dependency_check.md`, the section on v11 verse notes.
 - Verse 149 is unchanged and still reads "I, a human, exist". At the author's instruction it stays until core v2 is promoted.
+
+## Addendum, 2026-10-15 PT (core v2 promoted)
+
+- Verse 149: "Only the start is beyond revision: I, a human, exist." → "Only the start is beyond revision: I exist." Core v2 is now in `entries/`, so the verse matches its A1. Note 149, open item 5, and the house-rule summaries of A1 updated to match. Notes 137 and open item 5 no longer say A1 "stays" the old wording. Verse 56 and note 56 are unchanged.

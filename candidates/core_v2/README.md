@@ -1,5 +1,7 @@
 # Core v2 (candidate): the core rebuilt from "I exist"
 
+**Status: promoted to `entries/` on 2026-10-15.** The twelve entries below are now the core in force; this folder stays as the record of how they were built (collisions, audits, proposals).
+
 **Status.** Candidate only. Nothing here is in `entries/`, nothing here has been scored, and nothing here changes `entries/`, `lens_test/`, `results/` or the verse drafts. Every confidence except A1's reads "pending (collider)". Built 2026-09-29 PT at the author's request: start over from the ground up, with A1 reduced to "I exist" and "human" moved into A2. Second round, the same evening: the author accepted A2, asked for a collision on Nature ([collision_nature.md](collision_nature.md)), and asked for definitions of "I" and "exist" so that A1 re-enters the chains (D-I, D-exist, D-Nature; section 3, second round). Third round, the same night: collisions on the sameness of the I ([collision_sameness.md](collision_sameness.md)) and on the page order ([collision_order.md](collision_order.md)), applied (section 3, third round).
 
 ## 1. The order
