@@ -8,7 +8,7 @@ The verse chain is in the same state passes 1–3 describe; this pass found litt
 
 Numbering: 1–166, sequential, no gaps or duplicates. Cross-reference "58's reading" (pass 2's fix) and the notes' "survives 129" and "moved to 115" point correctly. No "fractal". The only core use of "must" is PR1, as PR1 claims.
 
-**New issues: 17 (1 high, 5 medium, 11 low). 7 are core-level and flag-only. Also 7 conflicts among prior fixes.**
+**New issues: 18 (1 high, 5 medium, 12 low). 7 are core-level and flag-only. Also 7 conflicts among prior fixes.**
 
 ## A. Core-level issues (flag only; Jason's call)
 
