@@ -12,7 +12,9 @@ qualifiers:
   - 'as one'
   - 'take-apart test'
   - 'the seven works'
-reading: 'Definition of "work" in the organizational sense of function (after Mossio, Saborido & Moreno 2009, conditions C1 and C2): a work is a causal loop between an activity and the organization it helps keep up, not an aim; condition (b), as in C2, asks that the structures carrying out the activity be produced or maintained by that organization, so a service done for a thing by others is not its work. Fixes what "performs" and "performs as one" mean and names seven works by test questions. Judged on clarity and fit; adds no confidence to any entry.'
+  - 'four general, three conditional'
+  - 'condition written into the definition'
+scored_as: 'Definition of "work" in the organizational sense of function (after Mossio, Saborido & Moreno 2009, conditions C1 and C2): a work is a causal loop between an activity and the organization it helps keep up, not an aim; condition (b), as in C2, asks that the structures carrying out the activity be produced or maintained by that organization, so a service done for a thing by others is not its work. Fixes what "performs" and "performs as one" mean and names seven works by test questions: four general works every whole needs (boundary, energy, control, memory) and three conditional works (transport, signaling, defense), each with its condition written into its definition. Judged on clarity and fit; adds no confidence to any entry.'
 status: in force (core v2, promoted 2026-10-15)
 ---
 
@@ -30,19 +32,21 @@ Condition (b) is what separates a thing's work from a service done for it. A rob
 
 *Example.* People avoid likely sources of infection through disgust. Remove a society's organization while each person is kept going, and each person still does this, so the society is not performing it; its people are, separately. Quarantine and organized public health stop when the institutions that run them are gone, so these are performed by the society as one.
 
-**Definition 6 (the seven works).** The book uses seven works, each fixed by one test question.
+**Definition 6 (the seven works).** The book uses seven works, each fixed by one test question. Four are *general*: they apply to every finite thing that is graded. Three are *conditional*: each applies to a thing only where its condition, written into this definition, holds of that thing.
 
-| Work | Does the thing, as one, ... |
-|---|---|
-| **Boundary** | keep an edge that sorts, letting some things across and turning others back according to what they are? |
-| **Control** | combine signals from its components, and stored information, into changes that coordinate its components? |
-| **Energy** | take in energy or matter from outside and convert it into forms its other works use? |
-| **Transport** | move materials between its components? |
-| **Signaling** | carry information between its components? |
-| **Defense** | detect agents that damage it and resist or remove them, beyond what the boundary keeps out? |
-| **Memory** | store information and later use it in its other works? |
+| Work | Kind | Does the thing, as one, ... |
+|---|---|---|
+| **Boundary** | general | keep an edge that sorts, letting some things across and turning others back according to what they are? |
+| **Energy** | general | take in energy or matter from outside and convert it into forms its other works use? |
+| **Control** | general | combine signals from its components, and stored information, into changes that coordinate its components? |
+| **Memory** | general | store information and later use it in its other works? |
+| **Transport** | conditional | move materials between its components? *Condition:* some of its components lie farther from the materials they use than diffusion alone can supply in time. |
+| **Signaling** | conditional | carry information between its components? *Condition:* some of its components whose activities are coordinated lie farther apart than diffusion alone can carry a change in time. |
+| **Defense** | conditional | detect agents that damage it and resist or remove them, beyond what the boundary keeps out? *Condition:* agents that can damage it get past its boundary or arise within it. |
 
-The words in the test questions (edge, signal, information, energy, material, agent) are used in their ordinary scientific senses. By this wording control uses signaling and memory: a thing that performs control as one is combining signals and stored information at its own level. P2 relies on this.
+*Conditions.* Each condition is a plain fact about the thing (its size and layout, or what it meets), found by evidence like any other, and it is stated without the work it governs, so whether the condition holds can be settled before asking whether the work is performed. Where a condition is absent, the work does not apply to that thing: it is not graded (D-whole, Definition 7), and its absence is not a failure. Why each conditional work turns up where its condition holds is PR1's thesis, not part of this definition.
+
+The words in the test questions (edge, signal, information, energy, material, agent) are used in their ordinary scientific senses. By this wording control uses signals and memory: a thing that performs control as one is combining signals and stored information at its own level. Where the signaling condition holds, those signals are carried by its signaling work. P2 relies on this.
 
 **Where the list comes from.** Six of the seven follow the critical subsystems that Miller (1978) finds in living systems at every level, grouped: boundary; decider (control); ingestor, converter and producer (energy); distributor (transport); channel and net, with transducers, decoder and encoder (signaling); memory. Miller counts more subsystems than these (the reproducer and the timer among them), and he has no separate defense subsystem. So the seven are a selection, and defense is the book's addition, drawn from cell-autonomous immunity, immune systems and social immunity (sources in A3 and A4). The selection is the book's own choice and is revisable if A3's test fails.
 
