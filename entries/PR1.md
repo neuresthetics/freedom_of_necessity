@@ -12,7 +12,7 @@ qualifiers:
   - 'requirements of three strengths'
   - 'some hold only in some circumstances'
   - 'adds no confidence'
-reading: 'Explanatory principle: each of the seven works is required, in a conditional sense (if a thing that produces itself is to go on producing itself, it must do this work), of anything that produces itself; that is why the same works recur at every level in different forms. The requirements are of three strengths: nearly true by definition (the edge itself, since Definition 11 includes the boundary), general (energy, control, a sorting edge), and holding only in some circumstances (transport over distances, signaling at a distance, defense where damaging agents are present). Memory is required only as stored information about how its components are made, used again in rebuilding them; a separate stored record is a finding about known living things, not a requirement. Requirement is hypothetical, not modal necessity. Explains and says where to look; adds no confidence to A3, A4 or anything else (METHOD rule 4).'
+scored_as: 'Explanatory principle: each of the seven works is required, in a conditional sense (if a thing that produces itself is to go on producing itself, it must do this work), of anything that produces itself; that is why the same works recur, in different forms, wherever the same requirement holds. The requirements are of three strengths: nearly true by definition (the edge itself, since Definition 11 includes the boundary), general (energy, control, a sorting edge), and holding only in some circumstances (transport, signaling and defense, each where its condition, written into D-work, Definition 6, holds). Memory is required only as stored information about how its components are made, used again in rebuilding them; a separate stored record is a finding about known living things, not a requirement. Requirement is hypothetical, not modal necessity. Explains and says where to look; adds no confidence to A3, A4 or anything else (METHOD rule 4).'
 status: in force (core v2, promoted 2026-10-15)
 ---
 
@@ -30,9 +30,11 @@ status: in force (core v2, promoted 2026-10-15)
 
 *Holding in some circumstances: requirements only where a condition is met.*
 
-- Where components lie far from the edge where materials come in, farther than diffusion can serve, it must move materials (transport). In very small cells diffusion may be enough (A3, hard cases).
-- Where one component's state must reach a component at a distance, it must carry information (signaling).
-- Where agents that damage it are present, it must resist them (defense). Every known living thing meets such agents, but the requirement is conditional on them.
+These are the conditions D-work, Definition 6, writes into the three conditional works. PR1 adds only the explanation: where the condition holds, the work is required.
+
+- Where some components lie farther from the materials they use than diffusion alone can supply in time, it must move materials (transport). In very small cells diffusion may be enough, and then transport does not apply (A3, hard cases).
+- Where components whose activities are coordinated lie farther apart than diffusion alone can carry a change in time, it must carry information between them (signaling).
+- Where agents that can damage it get past its edge or arise within it, it must resist them (defense). Every known living thing meets such agents, but the requirement is conditional on them.
 
 *Memory, two claims.* "Keep a record of how its components are made" can mean two things.
 
@@ -43,7 +45,7 @@ A membrane and a border look nothing alike. PR1 says why both turn up: the same 
 
 **What PR1 is for.** It explains why A3's anchors all perform the seven, and it tells a reader where to look at a new level: for each requirement, find what does that work there. The details are found at that level, not assumed.
 
-**What would count against it.** For a general requirement: a self-producing thing that lasts while lacking that work, or one that loses it and goes on producing itself. For a requirement that holds in some circumstances: such a thing in those circumstances (a large one with no transport, one among damaging agents with no defense). Any such case would also be an F1 failure of A3. A self-producing thing that lacks a conditional work where the condition is absent counts against neither.
+**What would count against it.** For a general requirement: a self-producing thing that lasts while lacking that work, or one that loses it and goes on producing itself. For a requirement that holds in some circumstances: such a thing in those circumstances (a large one with no transport, one among damaging agents with no defense). Any such case would also be an F1 failure of A3. A self-producing thing that lacks a conditional work where the condition is absent counts against neither: by D-whole, Definition 7, that work is not graded for it.
 
 **Limit.** An explanation adds no confidence (METHOD.md, rule 4). A3's anchors passing shows the works are *performed*; it does not show they are *required*, and PR1 cannot lend A3 or A4 any score. Each row earns its grade from its own evidence.
 
