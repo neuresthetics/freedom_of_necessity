@@ -95,7 +95,7 @@
 
 33. A membrane doesn't decide what enters. It sorts, by what it is made of. [D-work]
 
-34. To steer is to combine signals and memory into one coordinated change. Steering already uses signals and memory. [D-work]
+34. To steer is to combine signals and memory into one coordinated change. So steering leans on memory, and, where the signaling condition holds, on signaling. [D-work]
 
 35. A work is done as one when the structures doing it belong to the thing's own level, not to each component for itself, and not to something outside. [D-work; D-whole, ahead]
 
@@ -247,7 +247,7 @@
 
 94. On the scored reading, it is the body I am made of that stands there. On my declared reading, it is I. [P1, reading]
 
-95. This body makes itself. Its cells lie beyond diffusion's reach, its signals travel far, and harm gets in, so all seven works apply, and it does all seven as one. Its cells depend on it and take part in its works. It is a whole whose members are cells. [P1]
+95. This body makes itself. Most of its cells lie beyond what diffusion can supply, the components it coordinates lie far apart, and harm gets past its edge, so all seven works apply, and it does all seven as one. Its cells depend on it and take part in its works. It is a whole whose members are cells. [P1]
 
 96. My society does the seven, each at least in part, and this body is its member. It is a whole one level up. [P1]
 
