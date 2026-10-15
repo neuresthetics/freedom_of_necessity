@@ -1,5 +1,8 @@
 # Preface: On a Book Without Its Original
 
+> *They kept a copy, they say.*  
+> *Of the other half, no copy; it had not yet been written.*
+
 There is no original *Ethics*. Spinoza never published it. When he died in February 1677, the manuscript went to his friends, who printed it in the *Opera Posthuma*, in Latin, and the *Nagelate Schriften*, in Dutch. Both are dated 1677, and both reached readers early the next year. His own handwritten copy has not survived. Every *Ethics* read since then, including the one behind this book, is a copy of a copy.
 
 One other early witness exists. In 2010, Leen Spruit and Pina Totaro identified a manuscript of the *Ethics* in the Vatican Library, Vat. Lat. 12838. It is not in Spinoza's hand. A scribe copied it in the winter of 1674–75 for Ehrenfried Walther von Tschirnhaus, a friend of Spinoza's circle, who carried it with him to Rome. There it came into the hands of Niels Stensen, a former friend of Spinoza who had converted and turned against his ideas. On 23 September 1677, Stensen gave it to the Holy Office as evidence against the book, and an official wrote that date on its last page. Within a year, Spinoza's works were forbidden.
@@ -15,3 +18,5 @@ This book does not try to recover what Spinoza meant. It does something bolder. 
 ---
 
 **Sources for the history above.** Leen Spruit and Pina Totaro, *The Vatican Manuscript of Spinoza's Ethica* (Brill, 2011), [publisher's page](https://brill.com/display/title/20382). Leen Spruit, "Het Vaticaanse manuscript van Spinoza's Ethica," *Tijdschrift voor Filosofie* 74 (2012), 305–318, [abstract](https://poj.peeters-leuven.be/content.php?id=2162473&url=article). Lists give 1678 or 1679 for the ban; Spruit puts it in 1678.
+
+**On the epigraph.** It is a parable, not history. The Vatican copy is a copy of the whole *Ethics*, as the sources above describe; no other half is known to exist. "The other half" means what Spinoza could not yet write: how a mind comes to understand, seen from the inside.
