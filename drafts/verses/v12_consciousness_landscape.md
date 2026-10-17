@@ -1,6 +1,6 @@
-# Consciousness: how the field maps onto the book (working note, 2026-10-17)
+# Consciousness: how the field maps onto the book (v12, 2026-10-17)
 
-A working note, not book text. It compares the book as it stands (core v2 in `entries/`, verses v12) with the main positions in eighteen Grokipedia pages on consciousness, as snapshotted on 2026-10-17. Claims drawn from those pages are cited as *article title* plus sentence id (for example *Hard problem of consciousness* C0001). They are Grokipedia's claims, not checked here. Book citations are entry ids and v12 verse numbers. Nothing in the core or the verses is changed by this note.
+A working note next to the v12 draft, not book text. It compares the book as it stands (core v2 in `entries/`, verses v12) with the main positions in eighteen Grokipedia pages on consciousness, as snapshotted on 2026-10-17. Claims drawn from those pages are cited as *article title* plus sentence id (for example *Hard problem of consciousness* C0001). They are Grokipedia's claims, not checked here. Book citations are entry ids and v12 verse numbers. Nothing in the core or the verses is changed by this note.
 
 Pages read: Integrated information theory; Giulio Tononi; Christof Koch; The Feeling of Life Itself; Global workspace theory; Stanislas Dehaene; Higher-order theories of consciousness; Attention schema theory; Predictive coding; Orchestrated objective reduction; Neural correlates of consciousness; Models of consciousness; the science of consciousness; Consciousness; Hard problem of consciousness; Panpsychism; Artificial consciousness; Anil Seth.
 
