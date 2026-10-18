@@ -2,6 +2,13 @@
 
 A dated record of what was tested and what changed, newest first. Times are Pacific (PT).
 
+## 2026-10-18 — Freedom collider: first separated, judged run (not pushed)
+
+- [candidates/freedom/run_2026-10-18/](candidates/freedom/run_2026-10-18/RESULT.md): spec committed before any output; questions and falsifiers verbatim from 2026-10-17.
+- Book side survives, damaged; H's falsifier partly triggered; L's not. A5 0.70, P3 own 0.70; P3 effective pending (A2(a) untested), ceiling 0.70.
+- Controls: bad entry failed (0.10); label swap unchanged. Both weak.
+- Limits: same assistant for all sides and judge; separation procedural, no model API; no human rater. H's falsifier may be unable to fail and needs rewording.
+
 ## 2026-10-17 — Form note: the collision record is the book; collider spec disclosed (not pushed)
 
 - [notes/2026-10-17-the-collision-record-is-the-book.md](notes/2026-10-17-the-collision-record-is-the-book.md): per-entry layout (statement, supports, cap, demonstration, collision record, scholium); sample chapter from candidates/freedom. All outcomes **unscored, collider not run**.
