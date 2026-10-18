@@ -2,6 +2,18 @@
 
 A dated record of what was tested and what changed, newest first. Times are Pacific (PT).
 
+## 2026-10-17 — Freedom candidates drafted (not promoted, not pushed)
+
+External review noted that freedom (the title claim) has no derived core entry. Drafted a candidate chain under [candidates/freedom/](candidates/freedom/README.md):
+
+- **A5** — every event is caused (model axiom; pending; weaker than E1P29; carries verse 135‡).
+- **D-free** — freedom in the strict sense (E1D7 / D-Nature Scholium 4) and by degree (own organization + knowledge of causes; CHDO not required).
+- **P3** — freedom by degrees under necessity; derived from A1, A2, A5; cap = min(A2, A5); first-person "mine" on A2(b) declared, not scored.
+- **collision_freedom.md** — libertarian (Kane-style), hard-incompatibilist (Pereboom-style), and book sides; falsifiers recorded before arguments; **unscored, collider not run**.
+- Logs: [BUILD_LOG.md](candidates/freedom/BUILD_LOG.md), [COLLISION_LOG.md](candidates/freedom/COLLISION_LOG.md).
+
+Nothing in `entries/` or the verses was changed. Local commit only; no push; no scores.
+
 ## 2026-10-15 — Core v2 promoted to `entries/`
 
 At the author's decision, core v2 is now the core in force.
