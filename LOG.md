@@ -2,6 +2,11 @@
 
 A dated record of what was tested and what changed, newest first. Times are Pacific (PT).
 
+## 2026-10-17 — Form note: the collision record is the book; collider spec disclosed (not pushed)
+
+- [notes/2026-10-17-the-collision-record-is-the-book.md](notes/2026-10-17-the-collision-record-is-the-book.md): per-entry layout (statement, supports, cap, demonstration, collision record, scholium); sample chapter from candidates/freedom. All outcomes **unscored, collider not run**.
+- [candidates/freedom/COLLIDER_SPEC_USED.md](candidates/freedom/COLLIDER_SPEC_USED.md): exact shape used for the freedom collision. Written in one pass by a Grok-based assistant from a brief; no automated harness ran. Parts taken from earlier collision files and METHOD.md are cited; parts improvised in that run are listed.
+
 ## 2026-10-17 — Freedom candidates drafted (not promoted, not pushed)
 
 External review noted that freedom (the title claim) has no derived core entry. Drafted a candidate chain under [candidates/freedom/](candidates/freedom/README.md):
