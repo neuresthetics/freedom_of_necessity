@@ -2,6 +2,13 @@
 
 A dated record of what was tested and what changed, newest first. Times are Pacific (PT).
 
+## 2026-10-18 — Collider harness for a truly separated freedom run (not pushed)
+
+- [harness/collider/](harness/collider/README.md): `run_collider.py` (Python 3 stdlib only) reruns the freedom collision from the saved run_2026-10-18 prompts, rubric and controls, with each side, the bad-entry control, the judge and the label-swap judge as separate stateless model calls. Backends: Ollama or any OpenAI-compatible endpoint, with a model per role. Keys come from an environment variable only; the local config is gitignored.
+- Writes RUN_SPEC.md, spec.json and INPUTS.sha256 to a new `candidates/freedom/run_<date_time>/` before any call, and prints the commit command so the spec can be committed first. `--run-dir` refuses to start if the models or inputs changed since the spec.
+- Judge replies are parsed strictly to the five rubric values (unparsed if not exact). P3 effective = min(P3 own, A5, A2(a) pending), with the arithmetic shown. `--runs N` uses different seeds and reports spread and byte-identical repeats. Optional GPU temperature pause.
+- Verified here by `--dry-run` (payloads only, no model) and parser unit tests. No model run yet, so no new numbers.
+
 ## 2026-10-18 — Freedom collider: first separated, judged run (not pushed)
 
 - [candidates/freedom/run_2026-10-18/](candidates/freedom/run_2026-10-18/RESULT.md): spec committed before any output; questions and falsifiers verbatim from 2026-10-17.

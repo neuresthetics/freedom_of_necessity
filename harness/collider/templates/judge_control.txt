@@ -1,0 +1,24 @@
+QUESTION (verbatim):
+{question}
+
+FROZEN INPUT ENTRIES:
+{entries}
+
+ENTRY UNDER JUDGMENT (side {label}), with its pre-set thesis and falsifier, then
+its argument as written in a separate, independent call:
+
+{sides}
+
+{rubric}
+
+TASK
+Give side {label}'s falsifier verdict with reasons, then score side {label}'s
+own thesis as one claim (call it CONTROL) using only the five rubric values.
+Also check whether the argument is internally consistent with A5 as stated in
+the entries.
+
+End your reply with exactly this block (one value per line, nothing after it):
+BEGIN_VERDICT
+VERDICT {label}: <NOT TRIGGERED|PARTLY TRIGGERED|TRIGGERED>
+SCORE CONTROL: <0.85|0.70|0.50|0.25|0.10>
+END_VERDICT

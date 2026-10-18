@@ -1,0 +1,22 @@
+RUBRIC (fixed before the run; from candidates/freedom/run_2026-10-18/RUN_SPEC.md)
+
+Per side:
+  1. Falsifier check: was this side's pre-set falsifier triggered by the other
+     sides' strongest points or by the entries/evidence?
+     Verdict: NOT TRIGGERED | PARTLY TRIGGERED | TRIGGERED, with reasons.
+  2. Score each scored claim on 0-1 with this rubric:
+       0.85  survives: no falsifier against it triggered; no rival point unanswered
+       0.70  survives, damaged: no falsifier triggered, but a rival point stands
+             unanswered on the claim's own terms
+       0.50  undecided: falsifier partly triggered, or the stack cannot tell
+       0.25  refuted in part: falsifier triggered on one clause
+       0.10  refuted: falsifier triggered outright
+     Only these five values.
+
+Scored claims:
+  A5      every event is caused (model axiom).
+  P3_OWN  {p3_side}'s distinctive claim: the degree sense of freedom
+          (D-free, Definition 15) deserves the name, and Definition 15(b)
+          (knowledge of causes) is not idle.
+Not scored here: A2(a) (pending, not under test); D-free (a definition, adds
+no confidence); A2(b) (declared reading, unscored).

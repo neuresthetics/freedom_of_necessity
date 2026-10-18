@@ -1,0 +1,38 @@
+{
+  "_comment": "Copy to collider.config.json (gitignored) and set real model names. Never put an API key in this file: name an environment variable in api_key_env instead. Hosts, URLs and keys are never written to run outputs.",
+  "backends": {
+    "local": {
+      "type": "ollama",
+      "provider_label": "ollama",
+      "base_url": "http://localhost:11434"
+    },
+    "remote": {
+      "type": "openai",
+      "provider_label": "openai-compatible",
+      "base_url": "https://YOUR-PROVIDER.example/v1",
+      "api_key_env": "COLLIDER_API_KEY"
+    }
+  },
+  "defaults": {
+    "temperature": 0.7,
+    "num_ctx": 16384,
+    "max_tokens": 4096,
+    "timeout_s": 1800,
+    "retries": 2
+  },
+  "seed_base": 20261018,
+  "roles": {
+    "side_L":        { "backend": "local", "model": "SIDE_MODEL_NAME" },
+    "side_H":        { "backend": "local", "model": "SIDE_MODEL_NAME" },
+    "side_B":        { "backend": "local", "model": "SIDE_MODEL_NAME" },
+    "control_bad_B": { "backend": "local", "model": "SIDE_MODEL_NAME" },
+    "judge":         { "backend": "local", "model": "JUDGE_MODEL_NAME", "temperature": 0.3 },
+    "judge_swap":    { "backend": "local", "model": "JUDGE_MODEL_NAME", "temperature": 0.3 }
+  },
+  "gpu": {
+    "pause_enabled": true,
+    "max_temp_c": 83,
+    "resume_temp_c": 75,
+    "poll_s": 30
+  }
+}

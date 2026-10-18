@@ -1,0 +1,23 @@
+QUESTION (verbatim):
+{question}
+
+FROZEN INPUT ENTRIES (the book's candidate entries under test):
+{entries}
+
+SIDES, each with its pre-set thesis and falsifier, then its argument as written
+in a separate, independent call. Presentation order: {order}.
+
+{sides}
+
+{rubric}
+
+TASK
+For each side ({order}), give the falsifier verdict with reasons.
+Then score A5 and P3_OWN using only the five rubric values, with reasons.
+
+End your reply with exactly this block (one value per line, nothing after it):
+BEGIN_VERDICT
+{verdict_lines}
+SCORE A5: <0.85|0.70|0.50|0.25|0.10>
+SCORE P3_OWN: <0.85|0.70|0.50|0.25|0.10>
+END_VERDICT

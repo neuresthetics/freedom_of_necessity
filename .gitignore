@@ -1,0 +1,4 @@
+# Collider harness: local config (model names, endpoints) stays on the machine
+harness/collider/collider.config.json
+harness/collider/_dryrun/
+__pycache__/
