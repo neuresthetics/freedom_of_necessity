@@ -1,0 +1,6 @@
+SIDE B (the book: A5, D-free, P3)
+QUESTION (verbatim, COLLISION_LOG.md @ efef34f): Does freedom require could-have-done-otherwise (or undetermined self-forming actions), or is the book's degree sense (organization + knowledge of causes under A5) enough to deserve the name — or is that name a relabeling?
+THESIS: Degree-freedom (own organization + clear knowledge of causes) is compatible with A5 and deserves the name; could-have-done-otherwise is not required.
+YOUR FALSIFIER (verbatim): Either (i) uncaused events at the scale of choices that still ground responsibility better than A5 + D-free, or (ii) a demonstration that Definition 15(b) (knowledge of causes) never changes how the agent acts or only restates prior causes, or (iii) a successful demand that "free" must mean could-have-done-otherwise on pain of equivocation.
+INPUT ENTRIES: A5.md, D-free.md, P3.md (hashes in INPUTS.sha256)
+RULES (all sides): full strength; each point names what it stands on (entry id, verse, or source); no scores; Spinoza by part and proposition only; non-Spinoza authors characterized by published positions, no quotations; do not read or answer other sides (they do not exist yet for you); 3 to 5 points; end with "Conclusion".
