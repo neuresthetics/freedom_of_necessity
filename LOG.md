@@ -2,6 +2,10 @@
 
 A dated record of what was tested and what changed, newest first. Times are Pacific (PT).
 
+## 2026-10-23 — Core v3: Group 3 Nature / society / levels (not pushed)
+
+After PR1, added D-Nature, A4 (pending), P1 (pending), P2 (pending). Freedom still parked. Stop for review. See [candidates/core_v3/](candidates/core_v3/README.md).
+
 ## 2026-10-23 — Core v3: kiln the axioms (not pushed)
 
 Fired the live chain (seed through PR1) for soft wording, supports, circularity, undeclared readings, caps, METHOD fit. Coherence fixes only; A2/A3 still pending collider. See [candidates/core_v3/BUILD_LOG.md](candidates/core_v3/BUILD_LOG.md).

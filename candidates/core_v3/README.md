@@ -21,7 +21,7 @@
 | 3 | [I exist](A1.md) | A1 | root, **1.0** | I exist. | nothing: doubting it is a case of it; uses What "I" names, What exists |
 | 4 | [A human body, and its mind](A2.md) | A2 | axiom, empirical, **pending** | I am a human body made of cells, and my mind is that same body's organization described in the first person. | A1 (subject; caps nothing) + own evidence for clause (a); identity and mind-as-organization declared, unscored |
 
-### Group 2 — wholes (this block)
+### Group 2 — wholes
 
 | # | Title | Id | Kind | Statement (one line) | Rests on |
 |---|---|---|---|---|---|
@@ -29,6 +29,15 @@
 | 6 | [Whole, degree, member, level, self-production, sameness](D-whole.md) | D-whole | definition | For finite things: grade each work 0/1/2; degree = lowest grade; whole if degree > 0; member; level; self-production (without the seven works); same whole later. | uses What exists, Work |
 | 7 | [The seven works sort things the way self-production does](A3.md) | A3 | axiom, model, **pending** | Self-producing things perform all seven as one; things that last without producing themselves fail at least one. | anchors, controls, hard cases; uses Work, Whole |
 | 8 | [Pattern by requirement](PR1.md) | PR1 | principle | Where the same requirement holds, the same work turns up, in forms that differ from level to level. | explains; **adds no confidence** |
+
+### Group 3 — Nature, society, levels (this block)
+
+| # | Title | Id | Kind | Statement (one line) | Rests on |
+|---|---|---|---|---|---|
+| 9 | [Nature taken as one](D-Nature.md) | D-Nature | definition | Everything that exists, taken together, with nothing besides it; not finite; in Nature ≠ member of. | uses What exists, Whole (domain) |
+| 10 | [The society I live in is a whole to a degree](A4.md) | A4 | axiom, model, **pending** | The society I live in performs each of the seven works as one, at least in part, and I am one of its members. | cites A2 (membership); graded one row at a time; PR1 explains, adds nothing |
+| 11 | [A whole at one level, a part at the next](P1.md) | P1 | proposition, **pending** | I am a whole at one level and a part at the next. | cites A2, A3, A4; levels stop short of Nature |
+| 12 | [A collective mind happens](P2.md) | P2 | proposition, **pending** | Control as one, with signaling and memory, happens in the society I live in; an activity, not a claim that the society feels. | cites A4 (three rows); A2 via A4 membership |
 
 ```mermaid
 graph TD
@@ -40,39 +49,54 @@ graph TD
   DH["Whole...\n(D-whole)"]
   A3["Seven works ↔ self-production\n(A3, pending)"]
   PR1["Pattern by requirement\n(PR1, explains)"]
+  DN["Nature taken as one\n(D-Nature)"]
+  A4["Society is a whole to a degree\n(A4, pending)"]
+  P1["Whole at one level, part at next\n(P1, pending)"]
+  P2["A collective mind happens\n(P2, pending)"]
   DI -.-> A1
   DE -.-> A1
   DI -.-> A2
   A1 --> A2
   DE -.-> DW
   DE -.-> DH
+  DE -.-> DN
   DW -.-> DH
   DW -.-> A3
   DH -.-> A3
+  DH -.-> DN
   PR1 -. explains .-> A3
+  PR1 -. explains .-> A4
+  A2 --> A4
+  DW -.-> A4
+  DH -.-> A4
+  A2 --> P1
+  A3 --> P1
+  A4 --> P1
+  DN -.-> P1
+  A4 --> P2
+  DW -.-> P2
 ```
 
-**Caps.** A1 = 1.0. A2 = clause (a) once scored (A1 caps nothing). A3 = own score once scored (cites nothing). PR1 adds nothing.
+**Caps.** A1 = 1.0. A2 = clause (a) once scored (A1 caps nothing). A3 = own score once scored (cites nothing). PR1 adds nothing. A4 = min(weakest row, A2). P1 = min(A2, A3, A4). P2 = min(A4 control/signaling/memory rows, A2 via A4). D-Nature adds nothing.
 
 ## Rules for this restart
 
 1. **Root:** *I exist* (A1) at 1.0.
 2. **One chain.** No split tracks. Declared readings stay inside their entries and are unscored.
 3. **Scores pending** until the collider runs (except A1).
-4. **Parked for later blocks:** D-Nature, A4, P1, P2, freedom candidates. See [PARKED.md](PARKED.md).
+4. **Parked for later:** freedom candidates (A5, D-free, P3). See [PARKED.md](PARKED.md).
 5. **Not pushed** for rebuild steps after the seed unless the author says so.
 
 ## Kiln (2026-10-23 PT)
 
-Fired for coherence against METHOD: stale forward claims removed, organization sense fixed in A2 then adopted by D-work, A3's multicellular self-production named as a declared reading, frontmatter `scored_as` on every definition. Thesis wording unchanged. Scores still pending the collider (except A1). Details in [BUILD_LOG.md](BUILD_LOG.md).
+Fired for coherence against METHOD on Groups 1–2. Thesis wording unchanged. Scores still pending the collider (except A1). Details in [BUILD_LOG.md](BUILD_LOG.md).
 
 ## What this block does not yet settle
 
-- Nature taken as one (outside D-whole's finite domain; definition not live yet).
-- Whether my society is a whole (needs its own axiom).
-- Whole at one level / part at the next (needs society + demonstration).
 - Freedom under necessity (candidates still under `candidates/freedom/`).
-- Why anything is felt (A2's limit).
+- Why anything is felt (A2's limit; also open for the society in P2).
+- Whether Nature-as-God should become its own scored entry (declared reading only).
+- Promotion into `entries/` (needs a separate author OK).
 
 ## Logs
 

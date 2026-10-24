@@ -198,3 +198,43 @@ Also skimmed: `candidates/freedom/BUILD_LOG.md` (log format), `LOG.md` (newest-f
 - `A1.md`, `D-I.md`, `A2.md`, `D-work.md`, `D-whole.md`, `A3.md`, `PR1.md`, `README.md`, this log, `notes/2026-10-23-core-v3-restart.md`, `LOG.md`
 
 No push. No thesis rewrite. Titles unchanged.
+
+---
+
+## 2026-10-23 ~23:37 PT — Group 3: Nature, society, levels (D-Nature, A4, P1, P2)
+
+- **Author:** "Now grow them out"
+- **Brief:** extend core_v3 past kilned set (through PR1); next coherent block D-Nature → A4 → P1 → P2; human-readable titles + machine ids; one unified chain; scores pending; use parked core_v2 as reference, do not blindly copy; update README, PARKED, BUILD_LOG; commit locally; do NOT push; stop after P2 for review (no freedom unless it must follow in the same block — prefer stop after P2).
+
+### Inputs read (this step)
+
+| Path | Role |
+|---|---|
+| `candidates/core_v3/{README,PARKED,BUILD_LOG,A2,A3,D-work,D-whole,PR1}.md` | live chain style + kiln |
+| `candidates/core_v2/{D-Nature,A4,P1,P2}.md` | parked reference |
+| METHOD / standing rules | caps, declared readings, no Kisner, no push |
+
+### Decision D10 — Next block is Nature + society + levels, not freedom
+
+- **Chose:** D-Nature → A4 → P1 → P2 as one block; stop before freedom.
+- **Why (geometric):** After A3/PR1 the chain has a measure of wholeness for finite things but (i) no fixed sense of what lies outside that domain, (ii) no claim that a larger organization I belong to is a whole, (iii) no demonstration that I am whole-at-one-level and part-at-the-next, (iv) no naming of society's control/signaling/memory as a collective mind in the book's thin sense. Freedom (A5/D-free/P3) needs A5 (every event is caused) as a new model axiom and does not depend on P2 specifically; it can follow as its own block after review.
+- **Rejected:** freedom in the same commit (brief: prefer stop after P2); jump to A4 without D-Nature (P1's stop-short-of-Nature scholium and D-whole domain need the definition live); blind copy of core_v2 (forward language and Kisner lines would re-attach archive habits).
+
+### Decision D11 — Adapt archive text with v3 coherence
+
+- Kept: D-Nature thin vs declared reading; A4 seven-row take-apart + membership cites A2; P1 demonstration steps; P2 thin "collective mind" (activity only, no feeling).
+- Changed for v3: human titles lead; `status: candidate (core v3)`; `scored_as` on all four; no Kisner; "Why this follows…" sections; cross-refs by live titles; D-Nature Scholium 4 foreshadows freedom without claiming it; D-whole domain and Def 10 notes updated now that Nature/society are live; D-work forward lines point to A4/P2.
+
+### Caps (unchanged numerically)
+
+- A4 pending: min(weakest row, A2)
+- P1 pending: min(A2, A3, A4)
+- P2 pending: min(A4 control/signaling/memory, A2 via A4)
+- D-Nature: definition, adds nothing
+
+### Files
+
+- new: `D-Nature.md`, `A4.md`, `P1.md`, `P2.md`
+- updated: `D-whole.md`, `D-work.md`, `README.md`, `PARKED.md`, this log, note, `LOG.md`
+- untouched: `entries/`, `candidates/core_v2/`, `candidates/freedom/`
+- no push

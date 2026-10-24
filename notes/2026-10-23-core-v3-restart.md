@@ -65,3 +65,16 @@ Author: kiln the axioms.
 
 Coherence fire of the live chain through PR1. Stale A1/D-I lines cleared; A2 organization self-contained; A3 multicellular self-production declared unscored; definition `scored_as` filled. Thesis unchanged. Still soft: collider scores, A3 F1/F2/F3, parked Nature/society/freedom. Local commit only; not pushed.
 
+
+---
+
+## Growth — Group 3 (2026-10-23 ~23:37 PT)
+
+Author: "Now grow them out." Live chain extended with:
+
+1. *Nature taken as one* (D-Nature) — definition; outside D-whole's finite domain.
+2. *The society I live in is a whole to a degree* (A4) — model axiom, pending; cites A2.
+3. *A whole at one level, a part at the next* (P1) — proposition, pending; cites A2, A3, A4.
+4. *A collective mind happens* (P2) — proposition, pending; cites A4; activity only.
+
+Freedom left parked. Local commit only; no push. Full table: [candidates/core_v3/README.md](../candidates/core_v3/README.md).
