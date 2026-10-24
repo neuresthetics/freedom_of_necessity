@@ -14,10 +14,12 @@ qualifiers:
   - 'the seven works'
 reading: 'Definition of "work" in the organizational sense of function (after Mossio, Saborido & Moreno 2009, conditions C1 and C2): a work is a causal loop between an activity and the organization it helps keep up, not an aim; condition (b), as in C2, asks that the structures carrying out the activity be produced or maintained by that organization, so a service done for a thing by others is not its work. Fixes what "performs" and "performs as one" mean and names seven works by test questions. Judged on clarity and fit; adds no confidence to any entry.'
 scored_as: 'Definition of work, performs, as one, and the seven works. Judged on clarity and fit; adds no confidence.'
-status: candidate (core v3)
+status: base (locked)
 ---
 
 **Work, and the seven works** *(definition, id: D-work)*.
+
+**BASE (locked).** Seed-spine of core v3. Snapshot: [BASE.md](BASE.md). Grow from this; do not rewrite the base without author reopen.
 
 **Why this follows A2.** *A human body, and its mind* (A2) speaks of a body's *organization*. To say what that organization does, and later whether a body (or anything else) is a whole, the chain needs a fixed sense of *work*: an activity that helps keep an organization going and is carried out by structures that organization produces or maintains. Definitions 3–6 fix that sense and name seven works. They cite no axiom; they prepare the next claim.
 

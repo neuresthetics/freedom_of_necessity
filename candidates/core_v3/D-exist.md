@@ -12,10 +12,12 @@ qualifiers:
   - 'lasts: goes on existing'
   - 'says nothing about how or why it exists'
 scored_as: 'Definition of "exist" in its thinnest sense. What it defines: an activity exists at a time when it is going on at that time; a thing lasts when it goes on existing through a stretch of time (duration, E2D5). What it takes as understood: "exists" said of anything that is not an activity; an earlier wording ("or present") defined it only by a synonym. What it leaves open: in itself or in something else (E1A1), by the necessity of its own nature or not (E1D1, E1P7, E1P24), and whether anything exists eternally (E1D8, E1P19). A1 needs only the activity clause, now. Judged on clarity and fit; adds no confidence.'
-status: candidate (core v3)
+status: base (locked)
 ---
 
 **What exists** *(definition, id: D-exist)*. An activity *exists* at a time when it is going on at that time. For anything that is not an activity, "exists" is taken as understood, and D-exist does not define it. "Activity" and "going on" are also taken as understood. A thing *lasts* when it goes on existing through a stretch of time. Spinoza's word for lasting is duration: "Duration is the indefinite continuance of existing" (E2D5).
+
+**BASE (locked).** Seed-spine of core v3. Snapshot: [BASE.md](BASE.md). Grow from this; do not rewrite the base without author reopen.
 
 **Explanation.**
 

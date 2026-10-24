@@ -19,10 +19,12 @@ qualifiers:
   - 'connectedness: a degree'
 reading: 'Definition, for finite things only (after E1D2; Nature taken as one is outside its domain): a whole is anything that performs each of the seven works as one, at least in part, and its degree is its lowest grade. Zero is the absence of a work, not a chosen cutoff, so the definition can rule things out. Also fixes "member" (shared fate plus function, held while both hold), "level", and "produces itself" (after Maturana & Varela), which is defined without the seven works so that A3 can test them against it. Judged on clarity and fit; adds no confidence to any entry. Definition 12 (from collision_sameness.md) says when a whole at a later time is the same whole: its organization lasted with no full stop and no branching; how connected it is to its past is a separate degree.'
 scored_as: 'Definition of whole, degree, member, level, self-production, and sameness for finite things. Self-production defined without the seven works. Judged on clarity and fit; adds no confidence.'
-status: candidate (core v3)
+status: base (locked)
 ---
 
 **Whole, degree, member, level, self-production, sameness** *(definition, id: D-whole)*.
+
+**BASE (locked).** Seed-spine of core v3. Snapshot: [BASE.md](BASE.md). Grow from this; do not rewrite the base without author reopen.
 
 **Why this follows the works.** *Work, and the seven works* (D-work) names activities. To say when a finite thing is a *whole*, and to what *degree*, the chain needs grades, membership, level, an independent idea of self-production (so the next axiom can be tested without circularity), and a sense of when a whole is the same whole later. Definitions 7–12 fix those. They add no confidence.
 

@@ -11,9 +11,11 @@ qualifiers:
   - 'not a reward'
   - 'adds no confidence'
 scored_as: 'Definition: blessedness, in this chain''s working sense, is power of acting as it rises with degree-freedom — not a reward paid afterward (E5P42 pattern). Adds no confidence. P5 derives the proposition; this entry only fixes the word.'
-status: candidate (core v3)
+status: base (locked)
 ---
 **Blessedness** *(definition, id: D-blessedness)*.
+
+**BASE (locked).** Seed-spine of core v3. Snapshot: [BASE.md](BASE.md). Grow from this; do not rewrite the base without author reopen.
 
 **Why this follows.** The upward end of degree-freedom needs a word of its own before the proposition that derives it (*Blessedness is the power itself*, P5).
 

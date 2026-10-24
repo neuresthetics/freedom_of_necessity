@@ -435,3 +435,13 @@ No push. No thesis rewrite. Titles unchanged.
 
 - `entries/`, `candidates/core_v2/`, freedom collision archive, thesis/verse drafts
 - **no push**
+
+---
+
+## 2026-10-24 ~06:51 PT — Lock BASE (20 seed-spine)
+
+- **Author:** "Lock in that base chain, save it, and then radical expand from it."
+- **Action:** Freeze the pruned 20 as **BASE**. Snapshot [BASE.md](BASE.md). Mark each file `status: base (locked)` + BASE badge. Update [CHAIN.md](CHAIN.md) / [README.md](README.md).
+- **Counts:** **20** BASE locked. PARKED_VOLUME still 72. Expansion comes in the next commit.
+- **Untouched:** `entries/`, `candidates/core_v2/`, freedom collision archive.
+- **no push** (lock commit only; expand follows).

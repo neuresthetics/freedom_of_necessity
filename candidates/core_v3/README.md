@@ -1,4 +1,4 @@
-# Core v3 (candidate): pruned live chain from "I exist"
+# Core v3 (candidate): BASE locked + expansion from "I exist"
 
 **Status: candidate only.** Nothing here is in `entries/`. Nothing here has been promoted. Core v2 stays untouched at [candidates/core_v2/](../core_v2/) and in `entries/` until the author says otherwise.
 
@@ -6,15 +6,18 @@
 
 **Volume then prune (2026-10-24 PT).** Expanded to 92 covering Spinoza's ground; kilned; then **pruned to the strongest 20** and hyper-connected. The other **72** live under [PARKED_VOLUME/](PARKED_VOLUME/) — not deleted.
 
+**BASE locked (2026-10-24 PT).** The pruned 20 are frozen as the seed-spine: [BASE.md](BASE.md). Expansion grows from that BASE; parked volume stays parked unless re-grown with base cites.
+
+
 **Labels.** Human title first; machine id secondary (front matter and filenames).
 
-**Chain file.** Full table, caps, and dependency graph: [CHAIN.md](CHAIN.md) (**20** rows).
+**Chain file.** Full table, caps, and dependency graph: [CHAIN.md](CHAIN.md). **BASE snapshot:** [BASE.md](BASE.md) (**20** locked).
 
 ## The seed
 
 *I exist* (A1), *What "I" names* (D-I), *What exists* (D-exist). Saved as the seed at the author's word (2026-10-23 PT); pushed as `f52911c`.
 
-## Live chain — 20 load-bearing entries
+## BASE — 20 locked load-bearing entries
 
 | # | Title | Id | Role |
 |---|---|---|---|
@@ -75,6 +78,7 @@ Each live file has a **Hyper-connect** block: Rests on / Supports / Cap.
 
 ## Rules for this restart
 
+0. **BASE is locked.** The twenty in [BASE.md](BASE.md) are the seed-spine. Expand from them; do not rewrite without author reopen.
 1. **Root:** *I exist* (A1) at 1.0.
 2. **One chain.** No split tracks. Declared readings stay inside their entries and are unscored.
 3. **Scores pending** until the collider runs (except A1).
@@ -83,6 +87,7 @@ Each live file has a **Hyper-connect** block: Rests on / Supports / Cap.
 6. **Park, don't delete.** Soft or catalog volume goes to [PARKED_VOLUME/](PARKED_VOLUME/).
 7. **Not pushed** for rebuild/prune steps after the seed unless the author says so.
 8. **Kiln** hardens coherence; **prune** shrinks to hinges; **hyper-connect** makes every kept entry rest on and point to its supports.
+9. **Radical expand** grows new entries from BASE (new folders OK); does not blindly un-park volume.
 
 ## What this chain does not yet settle
 
@@ -93,6 +98,7 @@ Each live file has a **Hyper-connect** block: Rests on / Supports / Cap.
 
 ## Logs
 
+- [BASE.md](BASE.md) (locked snapshot)
 - [CHAIN.md](CHAIN.md)
 - [PARKED.md](PARKED.md) / [PARKED_VOLUME/INDEX.md](PARKED_VOLUME/INDEX.md)
 - [BUILD_LOG.md](BUILD_LOG.md)

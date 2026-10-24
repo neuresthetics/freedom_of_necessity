@@ -11,9 +11,11 @@ qualifiers:
   - 'outside causes'
   - 'adds no confidence'
 scored_as: 'Definition: bondage (servitude) is acting from outside causes or from affects whose causes are unclear — the inverse of degree-freedom (D-free Definition 15). Adds no confidence. P4 derives the proposition; this entry only fixes the word.'
-status: candidate (core v3)
+status: base (locked)
 ---
 **Bondage** *(definition, id: D-bondage)*.
+
+**BASE (locked).** Seed-spine of core v3. Snapshot: [BASE.md](BASE.md). Grow from this; do not rewrite the base without author reopen.
 
 **Why this follows.** The inverse of degree-freedom needs a word of its own before the proposition that derives it (*Bondage is acting from what is outside*, P4).
 

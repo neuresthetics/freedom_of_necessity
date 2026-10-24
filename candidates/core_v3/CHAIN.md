@@ -1,14 +1,20 @@
-# Live chain — core v3 (pruned + hyper-connected)
+# Live chain — core v3
 
-Human titles first; machine ids secondary. **Live set pruned to the strongest load-bearing hinges.** Volume expansion (72 entries) moved to [PARKED_VOLUME/](PARKED_VOLUME/) — not deleted.
+## BASE (locked seed-spine)
 
-**Pruned + hyper-connected 2026-10-24 PT.** Author: prune to strongest, then hyper-connect. Count **20**. Only A1 scored (1.0).
+**LOCKED.** The twenty entries below are the frozen seed-spine. Snapshot: [BASE.md](BASE.md).
+
+Do not rewrite the BASE without author reopen. Grow *from* it (expansion folders / later sections). Human titles first; machine ids secondary.
+
+**Locked 2026-10-24 Pacific (America/Los_Angeles).** Count **20**. Only A1 scored (1.0). Prior prune + hyper-connect commit `1bb64bf`; volume park stays in [PARKED_VOLUME/](PARKED_VOLUME/).
 
 Times are Pacific (America/Los_Angeles).
 
-## Full live set
+---
 
-**Count: 20 entries.**
+## Full BASE set
+
+**Count: 20 BASE entries.**
 
 | # | Title | Id | Kind | Statement (one line) | Confidence | Cites |
 |---|---|---|---|---|---|---|

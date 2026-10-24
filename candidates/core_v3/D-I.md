@@ -11,10 +11,12 @@ qualifiers:
   - 'or, if there is none distinct from it, the thinking itself'
   - 'says nothing about what it is, whether it is felt, or how long it lasts'
 scored_as: 'Definition of the word "I": used in a thought, it names the thinker of that thought, if there is a thinker distinct from the thinking, and otherwise the thinking itself (Lichtenberg''s objection allowed). "Thinking" covers Descartes''s list (doubting, understanding, affirming, denying, willing, being unwilling, imagining, having sensory perceptions in his restricted sense) but is not defined through awareness, so D-I says nothing about feeling and fits any thinker. It fixes what the word names, not what the named thing is (no essence in the sense of E2D2), and it does not say that the thinker of one thought is the thinker of another. A stipulation for this book: if Anscombe is right that ordinary "I" does not refer, the book''s "I" is a term of art. Judged on clarity and fit; adds no confidence.'
-status: candidate (core v3)
+status: base (locked)
 ---
 
 **What "I" names** *(definition, id: D-I)*. "I", used in a thought, names the thinker of that thought, if there is a thinker distinct from the thinking, and otherwise the thinking itself. *Thinking* here covers what Descartes lists: "a thing that doubts, understands, affirms, denies, is willing, is unwilling, and also imagines and has sensory perceptions" (Second Meditation, AT VII 28; CSM II 19).
+
+**BASE (locked).** Seed-spine of core v3. Snapshot: [BASE.md](BASE.md). Grow from this; do not rewrite the base without author reopen.
 
 **Explanation.**
 

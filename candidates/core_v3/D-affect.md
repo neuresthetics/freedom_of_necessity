@@ -12,10 +12,12 @@ qualifiers:
   - 'joy sorrow desire as reports'
   - 'adds no confidence'
 scored_as: 'Definition of affect for this chain: a change in an organization''s power of acting, where that power is the degree to which it performs the works that keep it going (D-work, D-whole) while those works continue. Joy, sorrow, and desire are reported from Spinoza (E3D3, E3P11 Scholium) and not re-derived. Adds no confidence.'
-status: candidate (core v3)
+status: base (locked)
 ---
 
 **Affect, and change of power** *(definition, id: D-affect)*.
+
+**BASE (locked).** Seed-spine of core v3. Snapshot: [BASE.md](BASE.md). Grow from this; do not rewrite the base without author reopen.
 
 **Why this follows the works.** Once *Work, and the seven works* (D-work) fixes what keeps an organization going, Spinoza's ground in Part III needs a name for changes in that going — what he calls affects. This definition fixes "affect" in the book's measure (degree of the works), so bondage and blessedness can be stated without a second psychology.
 

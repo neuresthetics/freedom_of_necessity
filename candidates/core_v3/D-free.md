@@ -12,10 +12,12 @@ qualifiers:
   - 'could-have-done-otherwise not required'
   - 'adds no confidence'
 scored_as: 'Definition of "free" in two senses used by the book. Strict sense (E1D7): a thing is free when it exists and acts from the necessity of its own nature alone; only Nature taken as one meets it (report; full def parked at PARKED_VOLUME/D-Nature.md). Degree sense (the book''s working sense for finite agents): an agent is freer to the degree that what it does follows from its own organization (how its components are arranged and act on one another; A2, D-work Definition 3) and from clear knowledge of the causes of what it does. "Could have done otherwise, given all that came before" is not part of either sense. Judged on clarity and fit; adds no confidence to any entry.'
-status: candidate (core v3)
+status: base (locked)
 ---
 
 **Freedom, strict and by degree** *(definition, id: D-free)*.
+
+**BASE (locked).** Seed-spine of core v3. Snapshot: [BASE.md](BASE.md). Grow from this; do not rewrite the base without author reopen.
 
 **Why this follows A5.** *Every event is caused* (A5) rules out uncaused will. Nature taken as one ([parked D-Nature](PARKED_VOLUME/D-Nature.md)) already foreshadows that only Nature is free in Spinoza's strict sense (E1D7). This definition fixes both senses the book uses: strict (Nature alone) and by degree (finite agents). It adds no confidence.
 
