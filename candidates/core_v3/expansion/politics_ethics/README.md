@@ -9,3 +9,5 @@
 | P-democracy-bet | [Democracy bets on distributed clear knowledge](P-democracy-bet.md) | proposition |
 | P-punishment-cause | [Punishment under A5 is prevention and repair, not cosmic payback](P-punishment-cause.md) | proposition |
 | P-tyranny-bondage | [Tyranny maximizes some works while flooring freedom](P-tyranny-bondage.md) | proposition |
+
+Updated 2026-10-24 Pacific (America/Los_Angeles): post-revive count **8**.

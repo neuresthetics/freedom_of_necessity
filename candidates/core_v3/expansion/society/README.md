@@ -12,3 +12,5 @@
 | P-exit-voice | [Exit and voice are member-level freedom gear](P-exit-voice.md) | proposition |
 | P-law-as-memory | [Law is public memory with teeth](P-law-as-memory.md) | proposition |
 | P-propaganda-bondage | [Propaganda is bondage at society scale](P-propaganda-bondage.md) | proposition |
+
+Updated 2026-10-24 Pacific (America/Los_Angeles): post-revive count **14**.

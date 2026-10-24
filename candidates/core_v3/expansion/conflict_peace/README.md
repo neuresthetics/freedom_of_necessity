@@ -8,3 +8,5 @@
 | D-war | [War as organized harm between wholes](D-war.md) | definition |
 | P-civil-war | [Civil war splits one society-whole](P-civil-war.md) | proposition |
 | P-war-drops-degree | [War floors many works even for winners](P-war-drops-degree.md) | proposition |
+
+Updated 2026-10-24 Pacific (America/Los_Angeles): post-revive count **12**.

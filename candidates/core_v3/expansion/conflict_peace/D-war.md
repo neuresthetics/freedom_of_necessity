@@ -29,7 +29,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *The society I live in is a whole to a degree* (A4); *Work, and the seven works* (D-work); *A collective mind happens* (P2)
 - **BASE hinges:** A4, D-work, P2
-- **Supports (live):** *Peace as stable non-destruction among wholes* (D-peace); *Civil war splits one society-whole* (P-civil-war); *War floors many works even for winners* (P-war-drops-degree)
+- **Supports (live):** *Peace as stable non-destruction among wholes* (D-peace); *Arms races raise boundary-work, often cut freedom* (P-arms-race); *Civil war splits one society-whole* (P-civil-war); *Just-war talk must still sit under A5 and P19* (P-just-war-skeptical); *War floors many works even for winners* (P-war-drops-degree)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [conflict_peace/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

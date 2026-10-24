@@ -7,3 +7,5 @@
 | D-compassion | [Compassion](D-compassion.md) | definition |
 | P-anger-can-repair | [Anger can feed repair or bondage](P-anger-can-repair.md) | proposition |
 | P-compassion-freedom | [Compassion can raise joint freedom](P-compassion-freedom.md) | proposition |
+
+Updated 2026-10-24 Pacific (America/Los_Angeles): post-revive count **8**.

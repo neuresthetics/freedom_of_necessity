@@ -14,3 +14,5 @@
 | P-injury-lowers-degree | [Injury can lower whole-degree and freedom-degree together](P-injury-lowers-degree.md) | proposition |
 | P-mind-tracks-body | [Mind tracks the body's organization](P-mind-tracks-body.md) | proposition |
 | P-other-bodies | [Other human bodies exist on evidence](P-other-bodies.md) | proposition |
+
+Updated 2026-10-24 Pacific (America/Los_Angeles): post-revive count **12**.

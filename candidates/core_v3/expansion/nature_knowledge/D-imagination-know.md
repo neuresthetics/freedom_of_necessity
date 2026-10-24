@@ -28,7 +28,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *Clear knowledge of causes* (D-clear-knowledge); *Confused knowledge of causes* (D-confused-knowledge)
 - **BASE hinges:** —
-- **Supports (live):** *Error* (D-error); *Illusion* (D-illusion); *Final-cause talk is often heuristic imagination* (P-final-causes-heuristic); *More reason, freer — other things equal* (P-more-reason-freer)
+- **Supports (live):** *Art as affective signaling* (D-art-signal); *Error* (D-error); *Illusion* (D-illusion); *Testimony* (D-testimony); *Wonder* (D-wonder); *Final-cause talk is often heuristic imagination* (P-final-causes-heuristic); *More reason, freer — other things equal* (P-more-reason-freer); *Nostalgia mixes joy and confused cause-maps* (P-nostalgia)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [nature_knowledge/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

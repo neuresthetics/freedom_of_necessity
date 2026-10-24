@@ -28,7 +28,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *Affect, and change of power* (D-affect); *A human body, and its mind* (A2); *Work, and the seven works* (D-work)
 - **BASE hinges:** D-affect, A2, D-work
-- **Supports (live):** *Striving to persist* (D-strive)
+- **Supports (live):** *Striving to persist* (D-strive); *Advertising targets desire with outside causes* (P-advertising)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [affects_end/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

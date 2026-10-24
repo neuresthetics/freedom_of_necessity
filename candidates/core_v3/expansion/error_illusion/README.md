@@ -8,3 +8,5 @@
 | D-illusion | [Illusion](D-illusion.md) | definition |
 | P-final-causes-heuristic | [Final-cause talk is often heuristic imagination](P-final-causes-heuristic.md) | proposition |
 | P-free-will-illusion | [The feeling of uncaused will is illusion under A5](P-free-will-illusion.md) | proposition |
+
+Updated 2026-10-24 Pacific (America/Los_Angeles): post-revive count **12**.

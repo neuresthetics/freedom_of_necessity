@@ -50,3 +50,7 @@ I exist → body and mind
 
 - [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md) · [tools/dep_check.py](tools/dep_check.py)
 - Checker: live cites only, no cycles, rests-on + caps required.
+
+## Later revive
+
+One-by-one revive of parked kiln half: see [REVIVE.md](REVIVE.md) and [REVIVE_DECISIONS.md](REVIVE_DECISIONS.md).

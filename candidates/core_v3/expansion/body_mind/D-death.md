@@ -28,7 +28,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *A human body, and its mind* (A2); *What exists* (D-exist); *Work, and the seven works* (D-work)
 - **BASE hinges:** A2, D-exist, D-work
-- **Supports (live):** *Blessedness is not an afterlife payment* (P-blessedness-not-afterlife); *Brain death floors organism-level control* (P-brain-death)
+- **Supports (live):** *Blessedness is not an afterlife payment* (P-blessedness-not-afterlife); *Brain death floors organism-level control* (P-brain-death); *Death bounds duration, not the definition of blessedness* (P-death-and-meaning); *Mind's eternity is organization under Nature, not endless time* (P-eternity-sketch); *Extinction is lineage memory ending* (P-extinction)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [body_mind/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

@@ -28,7 +28,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *Freedom by degrees under necessity* (P3); *Bondage is acting from what is outside* (P4); *Work, and the seven works* (D-work)
 - **BASE hinges:** P3, P4, D-work
-- **Supports (live):** *Education as long teaching* (D-education); *Stacked small habits compound degree-freedom* (P-habit-stack)
+- **Supports (live):** *Education as long teaching* (D-education); *Stacked small habits compound degree-freedom* (P-habit-stack); *Rehearsal stores freer patterns* (P-rehearsal)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [necessity_freedom/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

@@ -8,3 +8,5 @@
 | P-cancer-defection | [Cancer is member defection into a rival whole](P-cancer-defection.md) | proposition |
 | P-evolution | [Evolution is population-level transform of organization](P-evolution.md) | proposition |
 | P-pain | [Pain signals threat to works](P-pain.md) | proposition |
+
+Updated 2026-10-24 Pacific (America/Los_Angeles): post-revive count **12**.

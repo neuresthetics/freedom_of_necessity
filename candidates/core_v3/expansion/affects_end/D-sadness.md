@@ -28,7 +28,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *Affect, and change of power* (D-affect); *Power of acting* (D-power-of-acting)
 - **BASE hinges:** D-affect
-- **Supports (live):** —
+- **Supports (live):** *Fear* (D-fear-affect); *Hate (as affect)* (D-hate-affect); *Shame* (D-shame); *Envy lowers power* (P-envy-lowers); *Pity can aid or bind* (P-pity-mixed); *Regret is sadness over past causes now seen clearer* (P-regret); *Tragedy is high value colliding with necessity* (P-tragedy)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [affects_end/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

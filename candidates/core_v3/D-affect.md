@@ -48,6 +48,6 @@ status: base (locked)
 ## Hyper-connect
 - **Rests on:** *Work, and the seven works* (D-work); *Whole, degree, member, level, self-production, sameness* (D-whole); *Freedom, strict and by degree* (D-free); *A human body, and its mind* (A2)
 - **Supports:** *Bondage* (D-bondage); *Blessedness* (D-blessedness); *Bondage is acting from what is outside* (P4); *Blessedness is the power itself* (P5)
-- **Supports (expansion):** D-compassion, D-confused-knowledge, D-desire, D-joy, D-power-of-acting, D-public-affect, D-sadness, P-active-vs-passive, P-anger-can-repair, P-mind-tracks-body, P-pain
+- **Supports (expansion):** D-art-signal, D-bad-relative, D-compassion, D-confused-knowledge, D-desire, D-fear-affect, D-good-relative, D-hate-affect, D-hope-affect, D-joy, D-love-affect, D-meaning-local, D-power-of-acting, D-pride-affect, D-public-affect, D-sacred-sketch, D-sadness, D-wonder, P-active-vs-passive, P-anger-can-repair, P-exile, P-fever, P-mind-tracks-body, P-pain
 - **Cap:** definition; adds nothing
 - **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md)

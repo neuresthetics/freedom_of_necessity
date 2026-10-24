@@ -28,7 +28,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *Every event is caused* (A5); *Bondage is acting from what is outside* (P4); *Freedom by degrees under necessity* (P3)
 - **BASE hinges:** A5, P4, P3
-- **Supports (live):** *Punishment under A5 is prevention and repair, not cosmic payback* (P-punishment-cause)
+- **Supports (live):** *Shame* (D-shame); *Punishment under A5 is prevention and repair, not cosmic payback* (P-punishment-cause)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [necessity_freedom/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

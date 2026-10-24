@@ -28,7 +28,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *Society can be freer without feeling* (P21); *Degree of whole tracks degree of freedom only loosely* (P19); *The society I live in is a whole to a degree* (A4)
 - **BASE hinges:** P21, P19, A4
-- **Supports (live):** —
+- **Supports (live):** *Whether war can end permanently stays open* (OP-abolish-war)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [politics_ethics/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

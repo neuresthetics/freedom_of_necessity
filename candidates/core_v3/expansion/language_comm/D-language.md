@@ -29,7 +29,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *A collective mind happens* (P2); *The society I live in is a whole to a degree* (A4); *Clear knowledge of causes* (D-clear-knowledge)
 - **BASE hinges:** P2, A4
-- **Supports (live):** *Lie* (D-lie); *Naming stabilizes common notions* (P-naming)
+- **Supports (live):** *Lie* (D-lie); *Teaching* (D-teaching); *Testimony* (D-testimony); *Debate tests cause-maps in public* (P-debate); *Latency limits collective control* (P-latency); *LLMs are high-bandwidth society signaling gear* (P-llm-signal); *Naming stabilizes common notions* (P-naming); *Translation remaps signals across organizations* (P-translation)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [language_comm/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

@@ -28,7 +28,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *Every event is caused* (A5); *Clear knowledge of causes* (D-clear-knowledge)
 - **BASE hinges:** A5
-- **Supports (live):** —
+- **Supports (live):** *Contingent (in this chain)* (D-contingent-here)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [necessity_freedom/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

@@ -29,7 +29,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *Work, and the seven works* (D-work); *The seven works sort things the way self-production does* (A3); *Degree of membership* (D-member-degree)
 - **BASE hinges:** D-work, A3
-- **Supports (live):** —
+- **Supports (live):** *Apprenticeship transfers embodied habits* (P-apprenticeship); *Cyborg membership blends tool and organism* (P-cyborg)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [economy_tech/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

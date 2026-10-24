@@ -28,7 +28,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *Affect, and change of power* (D-affect); *Blessedness* (D-blessedness); *Freedom by degrees under necessity* (P3)
 - **BASE hinges:** D-affect, D-blessedness, P3
-- **Supports (live):** *Joy* (D-joy); *Sadness* (D-sadness)
+- **Supports (live):** *Gratitude* (D-gratitude); *Joy* (D-joy); *Meaning as local significance for power* (D-meaning-local); *Right as power in a whole* (D-right-power); *Sadness* (D-sadness)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [necessity_freedom/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

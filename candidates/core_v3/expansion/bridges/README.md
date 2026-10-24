@@ -14,3 +14,5 @@
 | P-strong-whole-low-freedom | [A strong whole can still be unfree](P-strong-whole-low-freedom.md) | proposition |
 | P-title-claim | [Freedom of necessity is degree-freedom under A5](P-title-claim.md) | proposition |
 | P-weak-whole-high-freedom | [A fragile whole can still be freer](P-weak-whole-high-freedom.md) | proposition |
+
+Updated 2026-10-24 Pacific (America/Los_Angeles): post-revive count **10**.

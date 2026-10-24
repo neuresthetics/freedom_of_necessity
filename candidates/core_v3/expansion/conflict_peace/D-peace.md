@@ -29,7 +29,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *War as organized harm between wholes* (D-war); *The society I live in is a whole to a degree* (A4); *Society can be freer without feeling* (P21)
 - **BASE hinges:** A4, P21
-- **Supports (live):** —
+- **Supports (live):** *Truce* (D-truce); *Whether war can end permanently stays open* (OP-abolish-war); *Deterrence is fear used as control signal* (P-deterrence)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [conflict_peace/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

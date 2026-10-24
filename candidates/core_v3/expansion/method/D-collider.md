@@ -28,7 +28,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *I exist* (A1)
 - **BASE hinges:** A1
-- **Supports (live):** —
+- **Supports (live):** *Grades of certainty* (D-certainty-grades)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [method/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

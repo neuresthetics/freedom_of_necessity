@@ -10,3 +10,5 @@
 | P-pregnancy-levels | [Pregnancy nests wholes](P-pregnancy-levels.md) | proposition |
 | P-split-brain | [Split brain challenges unity of first person](P-split-brain.md) | proposition |
 | P-virus-edge | [A virus sits at the edge of self-production](P-virus-edge.md) | proposition |
+
+Updated 2026-10-24 Pacific (America/Los_Angeles): post-revive count **12**.

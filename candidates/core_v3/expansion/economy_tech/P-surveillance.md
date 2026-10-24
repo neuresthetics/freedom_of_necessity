@@ -29,7 +29,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *A collective mind happens* (P2); *Bondage is acting from what is outside* (P4); *Degree of whole tracks degree of freedom only loosely* (P19)
 - **BASE hinges:** P2, P4, P19
-- **Supports (live):** —
+- **Supports (live):** *Data traces are partial memory outside the skin* (P-data-body)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [economy_tech/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

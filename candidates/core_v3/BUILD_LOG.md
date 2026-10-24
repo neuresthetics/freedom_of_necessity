@@ -493,3 +493,18 @@ No push. No thesis rewrite. Titles unchanged.
 - **BASE lock:** titles/ids/cap rules unchanged; Hyper-connect Supports (expansion) is connective tissue only.
 - **no push**
 
+---
+
+## 2026-10-24 ~07:40 PT — Revive parked kiln half (one-by-one)
+
+- **Author:** voice — revive parked 126; evaluate each vs kept 142; rebuild full-size set; dep_check; local commit only.
+- **Action:**
+  1. Inventoried 126 under `expansion/PARKED/` (18 groups).
+  2. Evaluated each entry against live 142 (cites/rests-on/caps + whether it adds a missing connection).
+  3. **Revived 109** into live `expansion/<group>/`; **17** stayed parked (thin affect catalog / thin practices / thin language).
+  4. Wrote [REVIVE_DECISIONS.md](REVIVE_DECISIONS.md), [REVIVE.md](REVIVE.md), refreshed PARKED/INDEX, expansion/INDEX.
+  5. `python3 candidates/core_v3/tools/dep_check.py --fix-orphans --sync-hc --write-docs` → 0 cycles, 0 orphans, caps present.
+- **Counts:** BASE **20** + expansion **231** = **251** in play. PARKED_VOLUME **72** untouched.
+- **BASE lock:** unchanged.
+- **no push**
+

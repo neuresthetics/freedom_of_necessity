@@ -28,7 +28,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *The seven works sort things the way self-production does* (A3); *Work, and the seven works* (D-work)
 - **BASE hinges:** A3, D-work
-- **Supports (live):** —
+- **Supports (live):** *Swarm robots can fake colony wholes* (P-swarm-robotics)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [wholes/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

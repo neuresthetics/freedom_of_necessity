@@ -28,7 +28,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *Whole, degree, member, level, self-production, sameness* (D-whole); *The society I live in is a whole to a degree* (A4)
 - **BASE hinges:** D-whole, A4
-- **Supports (live):** *Tool* (D-tool); *Pregnancy nests wholes* (P-pregnancy-levels); *A robot can be a member without being a self-producer* (P-robot-member)
+- **Supports (live):** *Tool* (D-tool); *Exile cuts membership mid-stream* (P-exile); *Microbiome members blur organism boundary* (P-microbiome); *Pregnancy nests wholes* (P-pregnancy-levels); *A prosthetic can become a member-tool* (P-prosthetic-member); *Refugees are members cut from one whole seeking another* (P-refugee); *A robot can be a member without being a self-producer* (P-robot-member); *Symbiosis is mutual membership across organisms* (P-symbiosis)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [wholes/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

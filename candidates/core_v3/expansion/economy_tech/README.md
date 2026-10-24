@@ -8,3 +8,5 @@
 | OP-agi-freedom | [Whether AGI gets degree-freedom talk stays open](OP-agi-freedom.md) | open |
 | P-debt-bondage | [Debt can be structured bondage](P-debt-bondage.md) | proposition |
 | P-surveillance | [Surveillance amplifies control-work](P-surveillance.md) | proposition |
+
+Updated 2026-10-24 Pacific (America/Los_Angeles): post-revive count **13**.

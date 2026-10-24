@@ -28,7 +28,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *Freedom, strict and by degree* (D-free); *Every event is caused* (A5)
 - **BASE hinges:** D-free, A5
-- **Supports (live):** *Why anything exists at all stays open* (OP-why-anything); *Apparent contingency is incomplete knowledge* (P-apparent-contingency); *Final-cause talk is often heuristic imagination* (P-final-causes-heuristic); *There is no uncaused will in Nature* (P-no-uncaused-will)
+- **Supports (live):** *Infinite (sketch)* (D-infinite-sketch); *Intuition (third kind of knowing)* (D-intuition-know); *Finite mode* (D-mode-finite); *Sacred (sketch)* (D-sacred-sketch); *Substance (sketch from this chain)* (D-substance-sketch); *Why anything exists at all stays open* (OP-why-anything); *Why Nature is this way stays open* (OP-why-nature); *Apparent contingency is incomplete knowledge* (P-apparent-contingency); *Awe is wonder plus vastness in the cause-map* (P-awe); *Mind's eternity is organization under Nature, not endless time* (P-eternity-sketch); *Final-cause talk is often heuristic imagination* (P-final-causes-heuristic); *Miracle as uncaused event is denied* (P-miracle-denied); *There is no uncaused will in Nature* (P-no-uncaused-will); *Simulation, if real, still sits under A5* (P-simulation-causes); … (+-11)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [nature_knowledge/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

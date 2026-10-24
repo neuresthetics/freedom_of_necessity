@@ -28,7 +28,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *Freedom, strict and by degree* (D-free); *Bondage is acting from what is outside* (P4); *Affect, and change of power* (D-affect)
 - **BASE hinges:** D-free, P4, D-affect
-- **Supports (live):** *Error* (D-error); *Imagination (first kind of knowing)* (D-imagination-know); *Lie* (D-lie)
+- **Supports (live):** *Error* (D-error); *Imagination (first kind of knowing)* (D-imagination-know); *Lie* (D-lie); *Overconfidence is pride in confused maps* (P-overconfidence); *Confused pride resists clearer maps* (P-pride-confused); *Rumor is confused society-level memory* (P-rumor)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [necessity_freedom/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

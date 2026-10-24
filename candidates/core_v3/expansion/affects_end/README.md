@@ -11,3 +11,5 @@
 | P-active-vs-passive | [Active affects follow from clearer causes](P-active-vs-passive.md) | proposition |
 | P-blessedness-not-afterlife | [Blessedness is not an afterlife payment](P-blessedness-not-afterlife.md) | proposition |
 | P-virtue-is-power | [Virtue is living from power of acting](P-virtue-is-power.md) | proposition |
+
+Updated 2026-10-24 Pacific (America/Los_Angeles): post-revive count **15**.

@@ -40,6 +40,6 @@ status: base (locked)
 ## Hyper-connect
 - **Rests on:** (none — root)
 - **Supports:** *I exist* (A1); *Work, and the seven works* (D-work); *Whole, degree, member, level, self-production, sameness* (D-whole); *The seven works sort things the way self-production does* (A3); *The society I live in is a whole to a degree* (A4); *A collective mind happens* (P2); *Every event is caused* (A5); *Freedom, strict and by degree* (D-free)
-- **Supports (expansion):** D-cause, D-death, P-body-lasts
+- **Supports (expansion):** D-cause, D-death, D-duration, P-body-lasts, P-sleep-and-A1
 - **Cap:** definition; adds nothing
 - **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md)

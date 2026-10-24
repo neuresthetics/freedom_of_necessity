@@ -28,7 +28,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *Whole, degree, member, level, self-production, sameness* (D-whole); *A human body, and its mind* (A2)
 - **BASE hinges:** D-whole, A2
-- **Supports (live):** *Narrative self* (D-narrative-self)
+- **Supports (live):** *Narrative self* (D-narrative-self); *Upload sketch* (D-upload-sketch); *Childhood continuity is organizational, not total recall* (P-childhood-continuity); *Transplant swaps members, not the whole's id overnight* (P-transplant)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [wholes/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

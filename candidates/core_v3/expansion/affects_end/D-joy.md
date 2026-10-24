@@ -28,7 +28,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *Affect, and change of power* (D-affect); *Power of acting* (D-power-of-acting)
 - **BASE hinges:** D-affect
-- **Supports (live):** *Compassion* (D-compassion); *Friendship* (D-friendship)
+- **Supports (live):** *Compassion* (D-compassion); *Friendship* (D-friendship); *Hope* (D-hope-affect); *Love (as affect)* (D-love-affect); *Pride* (D-pride-affect); *Nostalgia mixes joy and confused cause-maps* (P-nostalgia); *Pleasure often tracks rising power — not always* (P-pleasure)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [affects_end/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

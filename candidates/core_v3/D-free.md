@@ -50,6 +50,6 @@ status: base (locked)
 ## Hyper-connect
 - **Rests on:** *What "I" names* (D-I); *What exists* (D-exist); *Work, and the seven works* (D-work); *Every event is caused* (A5)
 - **Supports:** *Freedom by degrees under necessity* (P3); *Affect, and change of power* (D-affect); *Bondage* (D-bondage); *Blessedness* (D-blessedness); *Bondage is acting from what is outside* (P4); *Blessedness is the power itself* (P5); *Degree of whole tracks degree of freedom only loosely* (P19); *Society can be freer without feeling* (P21)
-- **Supports (expansion):** D-Nature-one, D-clear-knowledge, D-confused-knowledge, D-degree-freedom-scale, P-exit-voice, P-title-claim
+- **Supports (expansion):** D-Nature-one, D-adequate-cause-here, D-clear-knowledge, D-confused-knowledge, D-degree-freedom-scale, D-habit-body, D-strict-free, P-exit-voice, P-title-claim
 - **Cap:** definition; adds nothing
 - **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md)

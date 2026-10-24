@@ -28,7 +28,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *Bondage is acting from what is outside* (P4); *Bondage* (D-bondage); *Work, and the seven works* (D-work)
 - **BASE hinges:** P4, D-bondage, D-work
-- **Supports (live):** —
+- **Supports (live):** *Pleasure often tracks rising power — not always* (P-pleasure)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [necessity_freedom/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

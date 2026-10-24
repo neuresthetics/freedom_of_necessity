@@ -28,7 +28,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *Work, and the seven works* (D-work); *Whole, degree, member, level, self-production, sameness* (D-whole)
 - **BASE hinges:** D-work, D-whole
-- **Supports (live):** —
+- **Supports (live):** *Immune work as boundary/repair* (D-immune); *Interface* (D-interface); *Microbiome members blur organism boundary* (P-microbiome)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [wholes/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

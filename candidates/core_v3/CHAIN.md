@@ -178,11 +178,11 @@ A5 (own) ──► P3, P4, P5
 
 ---
 
-## Expansion from BASE (kilned strongest half)
+## Expansion from BASE (post-revive full rebuild)
 
 **Not BASE.** Grown from the locked twenty, then kilned.
 
-**Live expansion: 122** in [expansion/](expansion/). Full table: [expansion/INDEX.md](expansion/INDEX.md).
+**Live expansion: 231** in [expansion/](expansion/). Full table: [expansion/INDEX.md](expansion/INDEX.md).
 **Parked this kiln: 126** → [expansion/PARKED/](expansion/PARKED/). Snapshot: [KILNED.md](KILNED.md).
 
 BASE stays locked. PARKED_VOLUME (72) stays parked unless re-grown with BASE cites.
@@ -212,7 +212,7 @@ BASE stays locked. PARKED_VOLUME (72) stays parked unless re-grown with BASE cit
 | Cosmology and value | [expansion/cosmology_value/](expansion/cosmology_value/) | 3 |
 | Biology deep | [expansion/biology_deep/](expansion/biology_deep/) | 4 |
 
-**Totals:** BASE **20** locked + live expansion **122** = **142** in play (parks separate).
+**Totals:** BASE **20** locked + live expansion **231** = **251** in play (17 still parked; see REVIVE.md).
 
 **Dependency management:** run `python3 tools/dep_check.py` (stdlib). Full reverse index: [DEPS.md](DEPS.md). Caps: [CAPS.md](CAPS.md).
 
@@ -264,22 +264,22 @@ graph TD
   OPfeeling["Why anything is felt stays open (OP-feeling)"]
   Papparentcontingency["Apparent contingency is incomplete knowl… (P-apparent-contingency)"]
   Ptitleclaim["Freedom of necessity is degree-freedom u… (P-title-claim)"]
+  Dgoodrelative["Good (relative to organization) (D-good-relative)"]
   Pactivevspassive["Active affects follow from clearer causes (P-active-vs-passive)"]
   Pblessednessnotafterlife["Blessedness is not an afterlife payment (P-blessedness-not-afterlife)"]
+  Penvylowers["Envy lowers power (P-envy-lowers)"]
+  Ppitymixed["Pity can aid or bind (P-pity-mixed)"]
   Pvirtueispower["Virtue is living from power of acting (P-virtue-is-power)"]
   Dcompassion["Compassion (D-compassion)"]
   Pangercanrepair["Anger can feed repair or bondage (P-anger-can-repair)"]
   Pcompassionfreedom["Compassion can raise joint freedom (P-compassion-freedom)"]
+  Dgenememory["Genes as deep memory-work (D-gene-memory)"]
   Pcancerdefection["Cancer is member defection into a rival … (P-cancer-defection)"]
+  Pdevelopment["Development builds works-as-one over dur… (P-development)"]
   Pevolution["Evolution is population-level transform … (P-evolution)"]
+  Pextinction["Extinction is lineage memory ending (P-extinction)"]
+  Pfever["Fever trades short pain for repair (P-fever)"]
   Ppain["Pain signals threat to works (P-pain)"]
-  Dbrain["Brain as control gear of the body (D-brain)"]
-  Pinjurylowersdegree["Injury can lower whole-degree and freedo… (P-injury-lowers-degree)"]
-  Potherbodies["Other human bodies exist on evidence (P-other-bodies)"]
-  Probotmember["A robot can be a member without being a … (P-robot-member)"]
-  Dwar["War as organized harm between wholes (D-war)"]
-  Pcivilwar["Civil war splits one society-whole (P-civil-war)"]
-  OPwhyanything["Why anything exists at all stays open (OP-why-anything)"]
   A3 --> Pweakestworkrules
   A3 --> Ptakeaparttest
   A3 --> Ptumoredge
@@ -325,39 +325,32 @@ graph TD
   A2 --> Psplitbrain
   OPfeeling --> Psplitbrain
   A2 --> PdigitalA1
-  Potherbodies --> PcopynotA1transfer
   PdigitalA1 --> PcopynotA1transfer
   A2 --> OPfeeling
   A5 --> Papparentcontingency
   Dclearknowledge --> Papparentcontingency
   P3 --> Ptitleclaim
   A5 --> Ptitleclaim
+  A2 --> Dgoodrelative
   P3 --> Pactivevspassive
   P4 --> Pactivevspassive
+  P4 --> Penvylowers
+  P4 --> Ppitymixed
   P3 --> Pvirtueispower
   P4 --> Dcompassion
   P4 --> Pangercanrepair
   P3 --> Pangercanrepair
   Dcompassion --> Pcompassionfreedom
   P21 --> Pcompassionfreedom
+  A3 --> Dgenememory
   Ptumoredge --> Pcancerdefection
   A3 --> Pcancerdefection
+  A3 --> Pdevelopment
   A3 --> Pevolution
   A5 --> Pevolution
+  Dgenememory --> Pextinction
+  P19 --> Pfever
   P4 --> Ppain
-  A2 --> Dbrain
-  P2 --> Dbrain
-  A2 --> Pinjurylowersdegree
-  P3 --> Pinjurylowersdegree
-  P19 --> Pinjurylowersdegree
-  A2 --> Potherbodies
-  A3 --> Probotmember
-  A4 --> Probotmember
-  A4 --> Dwar
-  P2 --> Dwar
-  Dwar --> Pcivilwar
-  A4 --> Pcivilwar
-  P2 --> Pcivilwar
   A2 --> A4
   A4 --> P2
   A5 --> P3

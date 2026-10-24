@@ -29,7 +29,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *Language as shared signaling* (D-language); *Bondage is acting from what is outside* (P4); *Confused knowledge of causes* (D-confused-knowledge)
 - **BASE hinges:** P4
-- **Supports (live):** —
+- **Supports (live):** *Gaslighting attacks another's cause-maps* (P-gaslight)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [language_comm/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

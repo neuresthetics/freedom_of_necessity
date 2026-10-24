@@ -29,7 +29,7 @@ kiln: 2026-10-24 strongest half
 ## Hyper-connect
 - **Rests on:** *Confused knowledge of causes* (D-confused-knowledge); *Imagination (first kind of knowing)* (D-imagination-know)
 - **BASE hinges:** —
-- **Supports (live):** *Illusion* (D-illusion)
+- **Supports (live):** *Illusion* (D-illusion); *Cognitive bias is patterned confusion* (P-bias); *Bayesian-ish update can be reason gear* (P-update)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [error_illusion/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)
