@@ -2,6 +2,15 @@
 
 A dated record of what was tested and what changed, newest first. Times are Pacific (PT).
 
+## 2026-10-23 — Core v3 restart: A1 alone (not pushed)
+
+At the author's word ("A1 = I exist. That is the only axiom now"), a new candidate chain was opened under [candidates/core_v3/](candidates/core_v3/README.md):
+
+- **Live:** D-I, D-exist, A1 (1.0). Definitions kept only to ground A1's terms.
+- **Parked:** A2, A3, A4, PR1, P1, P2, D-work, D-whole, D-Nature (still in core_v2 and `entries/`); freedom candidates untouched under `candidates/freedom/`.
+- Core v2 not deleted. `entries/` not demoted. Local commit only; no push.
+- Note: [notes/2026-10-23-core-v3-restart.md](notes/2026-10-23-core-v3-restart.md). Build log: [candidates/core_v3/BUILD_LOG.md](candidates/core_v3/BUILD_LOG.md).
+
 ## 2026-10-18 — Collider harness for a truly separated freedom run (not pushed)
 
 - [harness/collider/](harness/collider/README.md): `run_collider.py` (Python 3 stdlib only) reruns the freedom collision from the saved run_2026-10-18 prompts, rubric and controls, with each side, the bad-entry control, the judge and the label-swap judge as separate stateless model calls. Backends: Ollama or any OpenAI-compatible endpoint, with a model per role. Keys come from an environment variable only; the local config is gitignored.
