@@ -445,3 +445,14 @@ No push. No thesis rewrite. Titles unchanged.
 - **Counts:** **20** BASE locked. PARKED_VOLUME still 72. Expansion comes in the next commit.
 - **Untouched:** `entries/`, `candidates/core_v2/`, freedom collision archive.
 - **no push** (lock commit only; expand follows).
+
+---
+
+## 2026-10-24 ~06:55 PT — Radical expand from BASE
+
+- **Author:** "Lock in that base chain, save it, and then radical expand from it."
+- **Prior:** BASE lock commit (20 frozen + BASE.md).
+- **Action:** Grow **109** new expansion entries in `expansion/` across 9 groups, each citing BASE hinges (and other expansion ids when chaining). Volume over polish. Human titles. Indexes: expansion/INDEX.md, group READMEs, CHAIN.md section, README.
+- **Not done:** Blind unpark of PARKED_VOLUME (72 still parked). No collider scores. No push.
+- **Counts:** BASE **20** locked + expansion **109** = **129** in play; parked volume **72** separate.
+- **Untouched:** `entries/`, `candidates/core_v2/`, BASE entry bodies beyond lock badges.

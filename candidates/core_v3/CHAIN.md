@@ -172,3 +172,39 @@ A5 (own) ──► P3, P4, P5
 - [README.md](README.md)
 - [BUILD_LOG.md](BUILD_LOG.md)
 - [SPINOZA_GROUND.md](SPINOZA_GROUND.md) — map still useful; most Part I–V apparatus now parked
+
+---
+
+## Expansion from BASE (radical)
+
+**Not BASE.** Grown from the locked twenty. Volume over polish. **Count: 109** new entries in [expansion/](expansion/). Full table: [expansion/INDEX.md](expansion/INDEX.md).
+
+Do not treat expansion rows as locked. PARKED_VOLUME stays parked unless re-grown with BASE cites.
+
+### Groups
+
+| Group | Path | Count | Grows from (BASE hinge) |
+|---|---|---|---|
+| Body and mind | [expansion/body_mind/](expansion/body_mind/) | 12 | A1, A2, D-I, D-exist |
+| Wholes and works | [expansion/wholes/](expansion/wholes/) | 18 | D-work, D-whole, A3, P1 |
+| Society | [expansion/society/](expansion/society/) | 14 | A4, P2, P21 |
+| Necessity and freedom | [expansion/necessity_freedom/](expansion/necessity_freedom/) | 15 | A5, D-free, P3, P4 |
+| Affects and end | [expansion/affects_end/](expansion/affects_end/) | 15 | D-affect, P4, P5 |
+| Nature and knowledge | [expansion/nature_knowledge/](expansion/nature_knowledge/) | 12 | D-free, A5, P3 |
+| Bridges | [expansion/bridges/](expansion/bridges/) | 10 | P19, P21 |
+| Politics and ethics | [expansion/politics_ethics/](expansion/politics_ethics/) | 8 | A4, P3, P21 |
+| Method | [expansion/method/](expansion/method/) | 5 | chain rules |
+
+**Totals:** BASE **20** locked + expansion **109** = **129** files in play (plus parked volume separate).
+
+### Sample spine → expansion
+
+```
+BASE A2 → expansion/body_mind (cell, organism, death, habit…)
+BASE A3/D-whole → expansion/wholes (seven works unpacked, tumor, colony…)
+BASE A4/P2/P21 → expansion/society (law, market, propaganda, corporation…)
+BASE A5/P3 → expansion/necessity_freedom (cause, compulsion, therapy…)
+BASE D-affect/P5 → expansion/affects_end (joy, desire, virtue=power…)
+BASE P19/P21 → expansion/bridges (cult, AI collective, title claim…)
+```
+

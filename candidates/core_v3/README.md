@@ -17,6 +17,10 @@
 
 *I exist* (A1), *What "I" names* (D-I), *What exists* (D-exist). Saved as the seed at the author's word (2026-10-23 PT); pushed as `f52911c`.
 
+## Expansion from BASE
+
+**Radical expand (2026-10-24 PT):** **109** new entries under [expansion/](expansion/) in 9 groups. Index: [expansion/INDEX.md](expansion/INDEX.md). Grown from BASE cites — not a blind unpark of [PARKED_VOLUME/](PARKED_VOLUME/).
+
 ## BASE — 20 locked load-bearing entries
 
 | # | Title | Id | Role |
@@ -99,6 +103,7 @@ Each live file has a **Hyper-connect** block: Rests on / Supports / Cap.
 ## Logs
 
 - [BASE.md](BASE.md) (locked snapshot)
+- [expansion/INDEX.md](expansion/INDEX.md) (radical expand)
 - [CHAIN.md](CHAIN.md)
 - [PARKED.md](PARKED.md) / [PARKED_VOLUME/INDEX.md](PARKED_VOLUME/INDEX.md)
 - [BUILD_LOG.md](BUILD_LOG.md)

@@ -1,0 +1,29 @@
+---
+id: P-prediction-not-freedom
+type: expansion
+kind: proposition
+title: Predictability is not the freedom scale
+confidence: pending (collider)
+cites: [P3, A5, P19]
+grows_from: 'P3 wedge'
+group: necessity_freedom
+status: expansion (from BASE)
+---
+
+**Predictability is not the freedom scale** *(proposition, id: P-prediction-not-freedom)*.
+
+**Expansion from BASE.** Not a BASE rewrite. Grows from: P3 wedge. Locked spine: [BASE.md](../../BASE.md).
+
+**Statement.** How predictable an agent is does not settle degree-freedom; a freer agent can still be predictable from full causes.
+
+**Cites.** P3, A5, P19.
+
+**Cap.** Pending; cannot exceed weakest scored cite among BASE hinges it rests on (once collider runs). Definitions add no score.
+
+**Failure / limit.** Volume-era thin entry — kiln later. If the statement overreaches BASE, cut or park.
+
+## Hyper-connect
+
+- **Rests on:** P3, A5, P19
+- **Group:** [necessity_freedom/](./)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [CHAIN.md](../../CHAIN.md)
