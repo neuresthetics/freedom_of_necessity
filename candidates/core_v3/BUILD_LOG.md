@@ -289,3 +289,42 @@ No push. No thesis rewrite. Titles unchanged.
 - notes: `notes/2026-10-23-core-v3-chain-and-spinoza-ground.md`; restart note appended; `LOG.md`
 - untouched: `entries/`, `candidates/core_v2/`, freedom collision archive
 - no push
+
+---
+
+## 2026-10-24 ~05:30 PT — Volume expansion (author: expand as much as possible)
+
+- **Author (from machine):** worry less about accuracy; focus on expanding as much as possible.
+- **Brief:** grow live chain aggressively from 19; cover remaining Spinoza ground + consciousness/levels/causality; prefer volume; human titles; one chain; pending/rough OK; no Kisner; no "fractal"; public-safe; update CHAIN/SPINOZA_GROUND/README/BUILD_LOG; commit locally; **do not push**.
+
+### Decision D15 — Volume over polish
+
+- **Chose:** draft ~73 new lighter entries (definitions, model axioms, props, one open problem, one principle) extending from the seed in Groups 6–13, rather than kilning Groups 1–5 further.
+- **Why:** author explicitly de-prioritized accuracy for coverage this turn.
+- **Rejected:** only filling SPINOZA_GROUND gaps with a handful of polished props; copying Ethics proposition order as new root axioms; inventing non-Spinoza sources; Kisner; "fractal".
+
+### New groups
+
+| Group | Theme | New ids (sample) |
+|---|---|---|
+| 6 | Substance, attribute, mode | D-substance, D-attribute, D-mode, D-infinite-mode, D-essence, A6, P6 |
+| 7 | Causality variants | D-adequate-cause, D-necessity, D-contingent, A7, A9, P7 |
+| 8 | Ideas / kinds of knowledge | D-idea…D-knowledge, D-experience, D-sign, P8, P9 |
+| 9 | Named affects | D-joy…D-wonder, D-named-affects, D-power, D-activity, PR2, P10, P11 |
+| 10 | Good, bad, virtue | D-good, D-bad, D-useful, D-perfection, D-virtue, D-bondage, D-blessedness, P12, P13 |
+| 11 | Politics / state | D-right, D-state, D-law, D-sovereign, A8, P14, P15 |
+| 12 | Eternity of mind | D-eternity, P16, P17, P20 |
+| 13 | Consciousness / levels / open | OP1, D-consciousness, D-level, P18, P19, P21 |
+
+### Counts
+
+- Before: **19** live chain entries
+- After: **92** live chain entries (+73)
+
+### Files
+
+- new: 73 entry markdown files under `candidates/core_v3/`
+- updated: `CHAIN.md`, `SPINOZA_GROUND.md`, `README.md`, `PARKED.md`, this log
+- generator scratch: `tmp/gen_expand.py` (box only; not part of the book)
+- untouched: `entries/`, `candidates/core_v2/`, freedom collision archive
+- **no push**

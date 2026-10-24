@@ -6,30 +6,23 @@ Retired from the live chain on 2026-10-23 PT, then returned as rebuild blocks. N
 
 | Title | Id | Status |
 |---|---|---|
-| A human body, and its mind | A2 | Live rewrite ([A2.md](A2.md)) |
-| Work, and the seven works | D-work | Live rewrite ([D-work.md](D-work.md)) |
-| Whole, degree, member, level, self-production, sameness | D-whole | Live rewrite ([D-whole.md](D-whole.md)) |
-| The seven works sort things the way self-production does | A3 | Live rewrite ([A3.md](A3.md)) |
-| Pattern by requirement | PR1 | Live rewrite ([PR1.md](PR1.md)) |
-| Nature taken as one | D-Nature | Live rewrite ([D-Nature.md](D-Nature.md)) |
-| The society I live in is a whole to a degree | A4 | Live rewrite ([A4.md](A4.md)) |
-| A whole at one level, a part at the next | P1 | Live rewrite ([P1.md](P1.md)) |
-| A collective mind happens | P2 | Live rewrite ([P2.md](P2.md)) |
-| Every event is caused | A5 | Live rewrite from freedom draft ([A5.md](A5.md)) |
-| Freedom, strict and by degree | D-free | Live rewrite from freedom draft ([D-free.md](D-free.md)) |
-| Freedom by degrees under necessity | P3 | Live rewrite from freedom draft ([P3.md](P3.md)) |
+| A human body, and its mind | A2 | Live |
+| Work, and the seven works | D-work | Live |
+| Whole, degree, member, level, self-production, sameness | D-whole | Live |
+| The seven works sort things the way self-production does | A3 | Live |
+| Pattern by requirement | PR1 | Live |
+| Nature taken as one | D-Nature | Live |
+| The society I live in is a whole to a degree | A4 | Live |
+| A whole at one level, a part at the next | P1 | Live |
+| A collective mind happens | P2 | Live |
+| Every event is caused | A5 | Live |
+| Freedom, strict and by degree | D-free | Live |
+| Freedom by degrees under necessity | P3 | Live |
 
-Archive copies remain under `candidates/core_v2/`, `candidates/freedom/`, and `entries/` where promoted.
+## New in this chain (through volume expansion 2026-10-24 PT)
 
-## New in this chain (Spinoza Parts III–V ground)
-
-| Title | Id | Status |
-|---|---|---|
-| Striving to persist | D-strive | Live draft ([D-strive.md](D-strive.md)) |
-| Affect, and change of power | D-affect | Live draft ([D-affect.md](D-affect.md)) |
-| Bondage is acting from what is outside | P4 | Live draft ([P4.md](P4.md)) |
-| Blessedness is the power itself | P5 | Live draft ([P5.md](P5.md)) |
+Groups 5–13 are live drafts under this folder: strive/affect/bondage/blessedness; substance/attribute/mode; causality variants; kinds of knowledge; named affects; good/bad/virtue; politics/state; eternity; consciousness/open problems. See [CHAIN.md](CHAIN.md) for the full 92.
 
 ## Nothing currently parked from the live list
 
-Freedom is no longer parked. Gaps vs the *Ethics* (substance as scored claim, three kinds of knowledge, emotion taxonomy, politics, eternity) are listed in [SPINOZA_GROUND.md](SPINOZA_GROUND.md) — not parked files, just not yet written.
+Soft spots vs a full scored *Ethics* rebuild are listed in [SPINOZA_GROUND.md](SPINOZA_GROUND.md) — not parked files.
