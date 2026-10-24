@@ -5,11 +5,14 @@ kind: proposition
 title: Evolution is population-level transform of organization
 confidence: pending (collider)
 cites: [A3, A5, D-gene-memory]
-grows_from: 'A3/A5'
+grows_from: A3/A5
 group: biology_deep
 batch: 2
-status: expansion (from BASE)
+status: expansion (kilned)
+kiln: 2026-10-24 strongest half
 ---
+
+
 
 **Evolution is population-level transform of organization** *(proposition, id: P-evolution)*.
 
@@ -21,10 +24,13 @@ status: expansion (from BASE)
 
 **Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
 
-**Failure / limit.** Volume-era thin entry — kiln later. If the statement overreaches BASE, cut or park.
+**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect
 
-- **Rests on:** A3, A5, D-gene-memory
+- **Rests on:** A3; A5; D-gene-memory
+- **BASE hinges:** A3, A5
+- **Supports (live expansion):** —
+- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [biology_deep/](./)
-- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [CHAIN.md](../../CHAIN.md)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md)

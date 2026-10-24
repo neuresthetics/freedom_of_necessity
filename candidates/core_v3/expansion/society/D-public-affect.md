@@ -5,10 +5,13 @@ kind: definition
 title: Public mood is not corporate feeling
 confidence: pending (collider)
 cites: [P2, D-affect, P21]
-grows_from: 'P2 no-feeling + D-affect'
+grows_from: P2 no-feeling + D-affect
 group: society
-status: expansion (from BASE)
+status: expansion (kilned)
+kiln: 2026-10-24 strongest half
 ---
+
+
 
 **Public mood is not corporate feeling** *(definition, id: D-public-affect)*.
 
@@ -20,10 +23,13 @@ status: expansion (from BASE)
 
 **Cap.** Pending; cannot exceed weakest scored cite among BASE hinges it rests on (once collider runs). Definitions add no score.
 
-**Failure / limit.** Volume-era thin entry — kiln later. If the statement overreaches BASE, cut or park.
+**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect
 
-- **Rests on:** P2, D-affect, P21
+- **Rests on:** P2; D-affect; P21
+- **BASE hinges:** P2, D-affect, P21
+- **Supports (live expansion):** *Bot swarms can manufacture consent-looking signal* (P-bot-swarm-bondage)
+- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [society/](./)
-- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [CHAIN.md](../../CHAIN.md)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md)

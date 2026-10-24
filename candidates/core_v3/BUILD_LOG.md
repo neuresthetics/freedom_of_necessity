@@ -466,3 +466,13 @@ No push. No thesis rewrite. Titles unchanged.
 - **Counts:** BASE **20** + expansion **248** (was 109) = **268** in play; PARKED_VOLUME **72** untouched.
 - **New groups:** time_identity, edge_cases, language_comm, economy_tech, affects_more, practices, conflict_peace, error_illusion, digital_mind, cosmology_value, biology_deep.
 - **no push**
+
+## 2026-10-24 PT — kiln expansion to strongest half
+
+- BASE 20 remains locked ([BASE.md](BASE.md)).
+- Expansion was 248; kept **122** live (~half of 248); parked **126** under [expansion/PARKED/](expansion/PARKED/).
+- Hyper-connected survivors (rests-on, BASE hinges, supports cite graph).
+- Snapshots: [KILNED.md](KILNED.md), [CHAIN.md](CHAIN.md), [expansion/INDEX.md](expansion/INDEX.md).
+- Prefer kept: freedom/wholes/mind, P19/P21 bridges, seed-novel pressure tests. Cut: thin Spinoza restates, affect catalog, thin practices/economy/language.
+- Not pushed.
+

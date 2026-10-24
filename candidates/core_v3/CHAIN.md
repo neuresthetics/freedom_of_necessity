@@ -175,49 +175,69 @@ A5 (own) ──► P3, P4, P5
 
 ---
 
-## Expansion from BASE (radical)
+## Expansion from BASE (kilned strongest half)
 
-**Not BASE.** Grown from the locked twenty. Volume over polish.
+**Not BASE.** Grown from the locked twenty, then kilned.
 
-**Count: 248** expansion entries in [expansion/](expansion/) (batch 1: 109 + batch 2: 139). Full table: [expansion/INDEX.md](expansion/INDEX.md).
+**Live expansion: 122** in [expansion/](expansion/). Full table: [expansion/INDEX.md](expansion/INDEX.md).
+**Parked this kiln: 126** → [expansion/PARKED/](expansion/PARKED/). Snapshot: [KILNED.md](KILNED.md).
 
-Do not treat expansion rows as locked. PARKED_VOLUME stays parked unless re-grown with BASE cites.
+BASE stays locked. PARKED_VOLUME (72) stays parked unless re-grown with BASE cites.
 
-### Groups (all batches)
+### Groups (live after kiln)
 
-| Group | Path | Notes |
+| Group | Path | Live |
 |---|---|---|
-| Body and mind | [expansion/body_mind/](expansion/body_mind/) | batch 1 |
-| Wholes and works | [expansion/wholes/](expansion/wholes/) | batch 1 |
-| Society | [expansion/society/](expansion/society/) | batch 1 |
-| Necessity and freedom | [expansion/necessity_freedom/](expansion/necessity_freedom/) | batch 1 |
-| Affects and end | [expansion/affects_end/](expansion/affects_end/) | batch 1 |
-| Nature and knowledge | [expansion/nature_knowledge/](expansion/nature_knowledge/) | batch 1 |
-| Bridges | [expansion/bridges/](expansion/bridges/) | batch 1 |
-| Politics and ethics | [expansion/politics_ethics/](expansion/politics_ethics/) | batch 1 |
-| Method | [expansion/method/](expansion/method/) | batch 1 |
-| Time and identity | [expansion/time_identity/](expansion/time_identity/) | batch 2 |
-| Edge cases | [expansion/edge_cases/](expansion/edge_cases/) | batch 2 |
-| Language and communication | [expansion/language_comm/](expansion/language_comm/) | batch 2 |
-| Economy and tech | [expansion/economy_tech/](expansion/economy_tech/) | batch 2 |
-| More affects | [expansion/affects_more/](expansion/affects_more/) | batch 2 |
-| Practices | [expansion/practices/](expansion/practices/) | batch 2 |
-| Conflict and peace | [expansion/conflict_peace/](expansion/conflict_peace/) | batch 2 |
-| Error and illusion | [expansion/error_illusion/](expansion/error_illusion/) | batch 2 |
-| Digital mind | [expansion/digital_mind/](expansion/digital_mind/) | batch 2 |
-| Cosmology and value | [expansion/cosmology_value/](expansion/cosmology_value/) | batch 2 |
-| Biology deep | [expansion/biology_deep/](expansion/biology_deep/) | batch 2 |
+| Body and mind | [expansion/body_mind/](expansion/body_mind/) | 10 |
+| Wholes and works | [expansion/wholes/](expansion/wholes/) | 16 |
+| Society and collective mind | [expansion/society/](expansion/society/) | 8 |
+| Necessity and freedom | [expansion/necessity_freedom/](expansion/necessity_freedom/) | 12 |
+| Affects and end | [expansion/affects_end/](expansion/affects_end/) | 7 |
+| Nature and knowledge | [expansion/nature_knowledge/](expansion/nature_knowledge/) | 6 |
+| Bridges | [expansion/bridges/](expansion/bridges/) | 10 |
+| Politics and ethics | [expansion/politics_ethics/](expansion/politics_ethics/) | 5 |
+| Method | [expansion/method/](expansion/method/) | 5 |
+| Time and identity | [expansion/time_identity/](expansion/time_identity/) | 4 |
+| Edge cases | [expansion/edge_cases/](expansion/edge_cases/) | 6 |
+| Language and communication | [expansion/language_comm/](expansion/language_comm/) | 3 |
+| Economy and tech | [expansion/economy_tech/](expansion/economy_tech/) | 4 |
+| More affects | [expansion/affects_more/](expansion/affects_more/) | 3 |
+| Practices | [expansion/practices/](expansion/practices/) | 3 |
+| Conflict and peace | [expansion/conflict_peace/](expansion/conflict_peace/) | 4 |
+| Error and illusion | [expansion/error_illusion/](expansion/error_illusion/) | 4 |
+| Digital mind | [expansion/digital_mind/](expansion/digital_mind/) | 5 |
+| Cosmology and value | [expansion/cosmology_value/](expansion/cosmology_value/) | 3 |
+| Biology deep | [expansion/biology_deep/](expansion/biology_deep/) | 4 |
 
-**Totals:** BASE **20** locked + expansion **248** = **268** in play (parked volume separate).
+**Totals:** BASE **20** locked + live expansion **122** = **142** in play (parks separate).
 
 ### Sample spine → expansion
 
 ```
-BASE A2 → body_mind, time_identity, edge_cases, biology_deep, digital_mind
-BASE A3/D-whole → wholes, biology_deep, edge_cases
-BASE A4/P2/P21 → society, language_comm, economy_tech, conflict_peace
-BASE A5/P3 → necessity_freedom, error_illusion, practices, cosmology_value
-BASE D-affect/P5 → affects_end, affects_more, practices
-BASE P19/P21 → bridges, conflict_peace, economy_tech
+BASE A2 → body_mind, edge_cases, biology_deep, digital_mind, time_identity
+BASE A3/D-whole → wholes (weakest-work, take-apart, tumor, machine)
+BASE A4/P2/P21 → society, bridges, conflict_peace, economy_tech
+BASE A5/P3 → necessity_freedom, error_illusion, practices
+BASE D-affect/P5 → affects_end (core), few affects_more
+BASE P19/P21 → bridges (cult / military / AI / open science)
 ```
 
+### Expansion dependency sketch (load-bearing)
+
+```mermaid
+graph TD
+  BASE["BASE 20 locked"]
+  W["wholes: weakest-work / take-apart"]
+  B["bridges: P19 wedges"]
+  S["society: corporation / propaganda / law-memory"]
+  N["necessity: choice-caused / freer-knows / prediction≠freedom"]
+  M["mind edges: split-brain / digital-A1 / OP-feeling"]
+  BASE --> W
+  BASE --> B
+  BASE --> S
+  BASE --> N
+  BASE --> M
+  W --> B
+  S --> B
+  N --> B
+```

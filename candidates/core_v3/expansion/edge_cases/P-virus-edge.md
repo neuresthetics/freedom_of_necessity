@@ -5,11 +5,14 @@ kind: proposition
 title: A virus sits at the edge of self-production
 confidence: pending (collider)
 cites: [A3, D-work]
-grows_from: 'A3 edge'
+grows_from: A3 edge
 group: edge_cases
 batch: 2
-status: expansion (from BASE)
+status: expansion (kilned)
+kiln: 2026-10-24 strongest half
 ---
+
+
 
 **A virus sits at the edge of self-production** *(proposition, id: P-virus-edge)*.
 
@@ -21,10 +24,13 @@ status: expansion (from BASE)
 
 **Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
 
-**Failure / limit.** Volume-era thin entry — kiln later. If the statement overreaches BASE, cut or park.
+**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect
 
-- **Rests on:** A3, D-work
+- **Rests on:** A3; D-work
+- **BASE hinges:** A3, D-work
+- **Supports (live expansion):** —
+- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [edge_cases/](./)
-- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [CHAIN.md](../../CHAIN.md)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md)

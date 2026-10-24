@@ -15,3 +15,9 @@ Core v2 archive remains at [candidates/core_v2/](../core_v2/). Freedom collision
 ## Earlier park/return history
 
 On 2026-10-23 PT the restart parked A2–A4 and companions, then returned them as rebuild blocks. That history is in [BUILD_LOG.md](BUILD_LOG.md). The volume park supersedes "nothing currently parked from the live list."
+
+## Expansion kiln park (2026-10-24 PT)
+
+After radical expand (248), kiln kept strongest half (**122** live) and parked **126** under [expansion/PARKED/](expansion/PARKED/) — index [expansion/PARKED/INDEX.md](expansion/PARKED/INDEX.md).
+
+BASE 20 still locked ([BASE.md](BASE.md)). Snapshot: [KILNED.md](KILNED.md).

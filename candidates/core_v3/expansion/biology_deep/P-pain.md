@@ -5,11 +5,14 @@ kind: proposition
 title: Pain signals threat to works
 confidence: pending (collider)
 cites: [D-affect, D-work, P4]
-grows_from: 'affect'
+grows_from: affect
 group: biology_deep
 batch: 2
-status: expansion (from BASE)
+status: expansion (kilned)
+kiln: 2026-10-24 strongest half
 ---
+
+
 
 **Pain signals threat to works** *(proposition, id: P-pain)*.
 
@@ -21,10 +24,13 @@ status: expansion (from BASE)
 
 **Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
 
-**Failure / limit.** Volume-era thin entry — kiln later. If the statement overreaches BASE, cut or park.
+**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect
 
-- **Rests on:** D-affect, D-work, P4
+- **Rests on:** D-affect; D-work; P4
+- **BASE hinges:** D-affect, D-work, P4
+- **Supports (live expansion):** —
+- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [biology_deep/](./)
-- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [CHAIN.md](../../CHAIN.md)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md)

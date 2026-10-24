@@ -5,10 +5,13 @@ kind: proposition
 title: Predictability is not the freedom scale
 confidence: pending (collider)
 cites: [P3, A5, P19]
-grows_from: 'P3 wedge'
+grows_from: P3 wedge
 group: necessity_freedom
-status: expansion (from BASE)
+status: expansion (kilned)
+kiln: 2026-10-24 strongest half
 ---
+
+
 
 **Predictability is not the freedom scale** *(proposition, id: P-prediction-not-freedom)*.
 
@@ -20,10 +23,13 @@ status: expansion (from BASE)
 
 **Cap.** Pending; cannot exceed weakest scored cite among BASE hinges it rests on (once collider runs). Definitions add no score.
 
-**Failure / limit.** Volume-era thin entry — kiln later. If the statement overreaches BASE, cut or park.
+**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect
 
-- **Rests on:** P3, A5, P19
+- **Rests on:** P3; A5; P19
+- **BASE hinges:** P3, A5, P19
+- **Supports (live expansion):** —
+- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [necessity_freedom/](./)
-- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [CHAIN.md](../../CHAIN.md)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md)

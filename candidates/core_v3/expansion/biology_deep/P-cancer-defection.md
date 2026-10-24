@@ -5,11 +5,14 @@ kind: proposition
 title: Cancer is member defection into a rival whole
 confidence: pending (collider)
 cites: [P-tumor-edge, A3, P1]
-grows_from: 'A3/P1'
+grows_from: A3/P1
 group: biology_deep
 batch: 2
-status: expansion (from BASE)
+status: expansion (kilned)
+kiln: 2026-10-24 strongest half
 ---
+
+
 
 **Cancer is member defection into a rival whole** *(proposition, id: P-cancer-defection)*.
 
@@ -21,10 +24,13 @@ status: expansion (from BASE)
 
 **Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
 
-**Failure / limit.** Volume-era thin entry — kiln later. If the statement overreaches BASE, cut or park.
+**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect
 
-- **Rests on:** P-tumor-edge, A3, P1
+- **Rests on:** *A tumor is a whole that harms the higher whole* (P-tumor-edge); A3; P1
+- **BASE hinges:** A3, P1
+- **Supports (live expansion):** —
+- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [biology_deep/](./)
-- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [CHAIN.md](../../CHAIN.md)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md)

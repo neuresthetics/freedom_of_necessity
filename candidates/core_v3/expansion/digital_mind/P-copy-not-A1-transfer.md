@@ -5,11 +5,14 @@ kind: proposition
 title: Copying a pattern does not transfer this A1
 confidence: pending (collider)
 cites: [A1, D-upload-sketch, P-other-bodies]
-grows_from: 'A1'
+grows_from: A1
 group: digital_mind
 batch: 2
-status: expansion (from BASE)
+status: expansion (kilned)
+kiln: 2026-10-24 strongest half
 ---
+
+
 
 **Copying a pattern does not transfer this A1** *(proposition, id: P-copy-not-A1-transfer)*.
 
@@ -21,10 +24,13 @@ status: expansion (from BASE)
 
 **Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
 
-**Failure / limit.** Volume-era thin entry — kiln later. If the statement overreaches BASE, cut or park.
+**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect
 
-- **Rests on:** A1, D-upload-sketch, P-other-bodies
+- **Rests on:** A1; D-upload-sketch; *Other human bodies exist on evidence* (P-other-bodies)
+- **BASE hinges:** A1
+- **Supports (live expansion):** —
+- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [digital_mind/](./)
-- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [CHAIN.md](../../CHAIN.md)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md)

@@ -5,10 +5,13 @@ kind: proposition
 title: This body lasts by its works going on
 confidence: pending (collider)
 cites: [A2, D-whole, D-exist]
-grows_from: 'A2 + D-whole sameness'
+grows_from: A2 + D-whole sameness
 group: body_mind
-status: expansion (from BASE)
+status: expansion (kilned)
+kiln: 2026-10-24 strongest half
 ---
+
+
 
 **This body lasts by its works going on** *(proposition, id: P-body-lasts)*.
 
@@ -20,10 +23,13 @@ status: expansion (from BASE)
 
 **Cap.** Pending; cannot exceed weakest scored cite among BASE hinges it rests on (once collider runs). Definitions add no score.
 
-**Failure / limit.** Volume-era thin entry — kiln later. If the statement overreaches BASE, cut or park.
+**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect
 
-- **Rests on:** A2, D-whole, D-exist
+- **Rests on:** A2; D-whole; D-exist
+- **BASE hinges:** A2, D-whole, D-exist
+- **Supports (live expansion):** —
+- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [body_mind/](./)
-- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [CHAIN.md](../../CHAIN.md)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md)

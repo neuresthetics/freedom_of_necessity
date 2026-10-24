@@ -5,11 +5,14 @@ kind: proposition
 title: War floors many works even for winners
 confidence: pending (collider)
 cites: [D-war, D-whole, P-weakest-work-rules]
-grows_from: 'wholes'
+grows_from: wholes
 group: conflict_peace
 batch: 2
-status: expansion (from BASE)
+status: expansion (kilned)
+kiln: 2026-10-24 strongest half
 ---
+
+
 
 **War floors many works even for winners** *(proposition, id: P-war-drops-degree)*.
 
@@ -21,10 +24,13 @@ status: expansion (from BASE)
 
 **Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
 
-**Failure / limit.** Volume-era thin entry — kiln later. If the statement overreaches BASE, cut or park.
+**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect
 
-- **Rests on:** D-war, D-whole, P-weakest-work-rules
+- **Rests on:** *War as organized harm between wholes* (D-war); D-whole; *The weakest work sets the degree* (P-weakest-work-rules)
+- **BASE hinges:** D-whole
+- **Supports (live expansion):** —
+- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [conflict_peace/](./)
-- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [CHAIN.md](../../CHAIN.md)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md)
