@@ -24,7 +24,7 @@ status: candidate (core v3)
 
 **What D-I leaves out.**
 
-- *What the I is.* Body, soul or program: D-I does not say. It is a definition of a word, not of an essence. Spinoza counts as belonging to a thing's essence "that, which being given, the thing is necessarily given also, and, which being removed, the thing is necessarily removed also" (E2D2), and D-I claims no such thing. What the author's I is waits for a later claim, on evidence.
+- *What the I is.* Body, soul or program: D-I does not say. It is a definition of a word, not of an essence. Spinoza counts as belonging to a thing's essence "that, which being given, the thing is necessarily given also, and, which being removed, the thing is necessarily removed also" (E2D2), and D-I claims no such thing. What the author's I is is claimed in *A human body, and its mind* (A2), on evidence.
 - *Whether the thinking is felt.* Descartes defines thought through immediate awareness (Second Replies, definition I, AT VII 160; CSM II 113). D-I does not, so it says nothing about feeling. Whether doubting without awareness is still doubting is left open.
 - *Sameness over time.* D-I names the thinker of *this* thought (or the thinking itself). It does not say that the thinker of one thought is the thinker of the next. A1 says the same ("For as long as I am thinking"). Sameness is not part of this definition. Earlier reasoning that placed it elsewhere is archived with core v2 ([collision_sameness.md](../core_v2/collision_sameness.md)); it is not live in this chain.
 

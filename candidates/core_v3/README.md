@@ -62,6 +62,10 @@ graph TD
 4. **Parked for later blocks:** D-Nature, A4, P1, P2, freedom candidates. See [PARKED.md](PARKED.md).
 5. **Not pushed** for rebuild steps after the seed unless the author says so.
 
+## Kiln (2026-10-23 PT)
+
+Fired for coherence against METHOD: stale forward claims removed, organization sense fixed in A2 then adopted by D-work, A3's multicellular self-production named as a declared reading, frontmatter `scored_as` on every definition. Thesis wording unchanged. Scores still pending the collider (except A1). Details in [BUILD_LOG.md](BUILD_LOG.md).
+
 ## What this block does not yet settle
 
 - Nature taken as one (outside D-whole's finite domain; definition not live yet).

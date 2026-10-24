@@ -23,7 +23,7 @@ status: candidate (core v3)
 
 **Principle.** Where the same requirement holds, the same work turns up, in forms that differ completely from level to level.
 
-**Two words.** *Requirement* here is conditional: *if* a thing that produces itself is to go on producing itself, *then* it must do this work. *Necessity*, the word in the book's title, is modal: what could not be otherwise. PR1 uses only the first. In the core, "must" appears only in this entry.
+**Two words.** *Requirement* here is conditional: *if* a thing that produces itself is to go on producing itself, *then* it must do this work. *Necessity*, the word in the book's title, is modal: what could not be otherwise. PR1 uses only the first. In this chain, "must" appears only in this entry.
 
 **The thesis.** Each of the seven works answers a requirement of anything that produces itself (D-whole, Definition 11). The requirements are not all of one strength, and they are sorted here so that none claims more than it can bear.
 

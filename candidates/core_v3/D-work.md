@@ -13,6 +13,7 @@ qualifiers:
   - 'take-apart test'
   - 'the seven works'
 reading: 'Definition of "work" in the organizational sense of function (after Mossio, Saborido & Moreno 2009, conditions C1 and C2): a work is a causal loop between an activity and the organization it helps keep up, not an aim; condition (b), as in C2, asks that the structures carrying out the activity be produced or maintained by that organization, so a service done for a thing by others is not its work. Fixes what "performs" and "performs as one" mean and names seven works by test questions. Judged on clarity and fit; adds no confidence to any entry.'
+scored_as: 'Definition of work, performs, as one, and the seven works. Judged on clarity and fit; adds no confidence.'
 status: candidate (core v3)
 ---
 
@@ -20,7 +21,7 @@ status: candidate (core v3)
 
 **Why this follows A2.** *A human body, and its mind* (A2) speaks of a body's *organization*. To say what that organization does, and later whether a body (or anything else) is a whole, the chain needs a fixed sense of *work*: an activity that helps keep an organization going and is carried out by structures that organization produces or maintains. Definitions 3–6 fix that sense and name seven works. They cite no axiom; they prepare the next claim.
 
-**Definition 3 (work).** A *work* of a thing is an activity of that thing which (a) contributes to keeping the thing's organization (the structures and constraints its components impose on one another; a *component* is any piece of the thing, in the plain sense) going, and (b) is carried out by structures that the thing's organization itself produces or maintains.
+**Definition 3 (work).** A *work* of a thing is an activity of that thing which (a) contributes to keeping the thing's *organization* going, and (b) is carried out by structures that the thing's organization itself produces or maintains. *Organization* here means how the thing's components are arranged and act on one another — the structures and constraints they impose — the same sense *A human body, and its mind* (A2) fixes for a body, now said of any thing. A *component* is any piece of the thing, in the plain sense.
 
 "Contributes" is causal: without the activity, the organization would change or fail. No aim is implied. Condition (a) does not ask that the activity be indispensable; it may be one of several ways the organization is kept up. Mossio and colleagues' own example is the heart's pumping: it keeps the blood moving, which keeps the body's organization going, and the body in turn builds and maintains the heart.
 
@@ -46,7 +47,7 @@ Condition (b) is what separates a thing's work from a service done for it. A rob
 | **Defense** | detect agents that damage it and resist or remove them, beyond what the boundary keeps out? |
 | **Memory** | store information and later use it in its other works? |
 
-The words in the test questions (edge, signal, information, energy, material, agent) are used in their ordinary scientific senses. By this wording control uses signaling and memory: a thing that performs control as one is combining signals and stored information at its own level. A later claim about collective mind, if rebuilt, can use this.
+The words in the test questions (edge, signal, information, energy, material, agent) are used in their ordinary scientific senses. By this wording control uses signaling and memory: a thing that performs control as one is combining signals and stored information at its own level. A later claim about collective mind, if the chain returns to society, can use this; nothing here claims society.
 
 **Where the list comes from.** Six of the seven follow the critical subsystems that Miller (1978) finds in living systems at every level, grouped: boundary; decider (control); ingestor, converter and producer (energy); distributor (transport); channel and net, with transducers, decoder and encoder (signaling); memory. Miller counts more subsystems than these (the reproducer and the timer among them), and he has no separate defense subsystem. So the seven are a selection, and defense is the book's addition, drawn from cell-autonomous immunity, immune systems and social immunity (sources in A3; society rows if rebuilt later). The selection is the book's own choice and is revisable if A3's test fails.
 

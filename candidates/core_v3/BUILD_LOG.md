@@ -155,3 +155,46 @@ Also skimmed: `candidates/freedom/BUILD_LOG.md` (log format), `LOG.md` (newest-f
 - new/updated: `D-work.md`, `D-whole.md`, `A3.md`, `PR1.md`, `A2.md` (coherence), `README.md`, `PARKED.md`, this log, note, `LOG.md`
 - untouched: `entries/`, `candidates/core_v2/`, freedom candidates
 - no push
+
+---
+
+## 2026-10-23 ~22:40 PT — Kiln the axioms
+
+- **Author:** "kiln the axioms" — fire/harden the live core_v3 chain; fix only what makes the chain more coherent without rewriting the core thesis; human-readable titles kept; commit locally; no push.
+
+### Stress checklist (METHOD)
+
+| Check | Finding |
+|---|---|
+| Soft / stale wording | A1 still said nothing in this folder cites it, and that the next step was unfixed; D-I/A1 said what the I is "waits for a later claim" after A2 was live. Fixed. |
+| Missing supports | Caps intact: A1=1.0 caps nothing; A2 cites A1; A3 cites nothing; PR1 adds nothing. Definitions carry no confidence. |
+| Circularity | A3 still tests seven works against Def 11 (self-production without the seven). PR1 still stated about self-producers, not wholes. No new cycles. |
+| Undeclared readings | A2 (a)/(b) already split. A3's multicellular-as-self-producing was only a body caution — elevated to declared reading in frontmatter and body. |
+| Confidence caps | Unchanged numerically; A2/A3 still `pending (collider)`. |
+| Coherence with METHOD | Explanation adds nothing (PR1); stated sense / declared reading kept distinct; organization no longer looks forward from A2 to D-work for its sense. |
+
+### Hardened (coherence only)
+
+1. **A1** — Cite note now names A2; "what I am" points to A2; Scholium 1 names A2 as next live step and leaves digital-intelligence evidence open.
+2. **D-I** — "What the I is" points to A2.
+3. **A2** — Organization sense fixed inline; no load-bearing forward cite to D-work; Scholium 2 says D-work adopts A2's sense.
+4. **D-work** — Def 3 adopts A2's organization wording and generalizes it; `scored_as` added; collective-mind forward line does not claim society.
+5. **D-whole** — `scored_as` added (parity with other definitions).
+6. **A3** — Multicellular self-production named declared reading (unscored); "arguably" on bacterial transport replaced with "under one reading of as one".
+7. **PR1** — "In the core" → "In this chain".
+
+### Still soft (not faked hard)
+
+- A2 (a) and A3 unscore until the collider runs.
+- A3 F1 risk on bacterial transport; F2 if Def 3(b) is loosened; F3 grader disagreement (e.g. red-blood-cell memory).
+- Seven-work list is a revisable selection (Miller + defense).
+- PR1: some requirements hold only in some circumstances; memory-as-requirement is nearly empty; tension with A3's "all seven" for tiny self-producers is the F1 hard case, not resolved by wording.
+- Hard problem left open (A2 limit).
+- Nature, society (A4), P1/P2, freedom still parked.
+- `entries/` and core_v2 untouched; harness may still read promoted copies until promotion.
+
+### Files touched
+
+- `A1.md`, `D-I.md`, `A2.md`, `D-work.md`, `D-whole.md`, `A3.md`, `PR1.md`, `README.md`, this log, `notes/2026-10-23-core-v3-restart.md`, `LOG.md`
+
+No push. No thesis rewrite. Titles unchanged.
