@@ -34,3 +34,10 @@ status: candidate (core v3)
 **References.**
 - Kant, I. (1781/1787). *Critique of Pure Reason*, A598/B626. Tr. N. Kemp Smith (1929).
 - Spinoza, B. *Ethics*, E1A1, E1D1, E1D8, E1P7, E1P19, E1P24, E2D2, E2D5.
+
+## Hyper-connect
+
+- **Rests on:** (none)
+- **Supports:** *I exist* (A1); *Work, and the seven works* (D-work); *Whole, degree, member, level, self-production, sameness* (D-whole); *The seven works sort things the way self-production does* (A3); *The society I live in is a whole to a degree* (A4); *A collective mind happens* (P2); *Every event is caused* (A5); *Freedom, strict and by degree* (D-free)
+- **Cap:** definition; adds nothing
+- **Live chain:** [CHAIN.md](CHAIN.md)

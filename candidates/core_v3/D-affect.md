@@ -4,22 +4,22 @@ type: definition
 kind: definition
 title: Affect, and change of power
 cites: []
-terms: [D-work, D-whole, D-strive, D-free, A2]
+terms: [D-work, D-whole, D-free, A2]
 qualifiers:
   - 'affect'
   - 'change in power of acting'
   - 'power as degree of the works'
   - 'joy sorrow desire as reports'
   - 'adds no confidence'
-scored_as: 'Definition of affect for this chain: a change in an organization''s power of acting, where that power is the degree to which it performs the works that keep it going (D-work, D-whole) while it strives to persist (D-strive). Joy, sorrow, and desire are reported from Spinoza (E3D3, E3P11 Scholium) and not re-derived. Adds no confidence.'
+scored_as: 'Definition of affect for this chain: a change in an organization''s power of acting, where that power is the degree to which it performs the works that keep it going (D-work, D-whole) while those works continue. Joy, sorrow, and desire are reported from Spinoza (E3D3, E3P11 Scholium) and not re-derived. Adds no confidence.'
 status: candidate (core v3)
 ---
 
 **Affect, and change of power** *(definition, id: D-affect)*.
 
-**Why this follows striving.** Once *Striving to persist* (D-strive) is fixed as continuing the works, Spinoza's ground in Part III needs a name for changes in that striving — what he calls affects. This definition fixes "affect" in the book's measure (degree of the works), so bondage and blessedness can be stated without a second psychology.
+**Why this follows the works.** Once *Work, and the seven works* (D-work) fixes what keeps an organization going, Spinoza's ground in Part III needs a name for changes in that going — what he calls affects. This definition fixes "affect" in the book's measure (degree of the works), so bondage and blessedness can be stated without a second psychology.
 
-**Definition 17 (affect).** An *affect* is a change in an organization's *power of acting*, together with the ideas of that change. *Power of acting*, in this chain, is the degree to which the organization performs the works that keep it going (*Work, and the seven works*, D-work; *Whole, degree, member, level, self-production, sameness*, D-whole, Definition 8), while it strives to persist (*Striving to persist*, D-strive).
+**Definition 17 (affect).** An *affect* is a change in an organization's *power of acting*, together with the ideas of that change. *Power of acting*, in this chain, is the degree to which the organization performs the works that keep it going (*Work, and the seven works*, D-work; *Whole, degree, member, level, self-production, sameness*, D-whole, Definition 8), while those works continue.
 
 **Explanation.**
 
@@ -42,3 +42,10 @@ status: candidate (core v3)
 
 **References.**
 - Spinoza, B. *Ethics*: E3D1; E3D2; E3D3; E3P9 Scholium; E3P11 Scholium. Quotations in Elwes 1883 wording, checked against `sources/spinoza/`.
+
+## Hyper-connect
+
+- **Rests on:** *Work, and the seven works* (D-work); *Whole, degree, member, level, self-production, sameness* (D-whole); *Freedom, strict and by degree* (D-free); *A human body, and its mind* (A2)
+- **Supports:** *Bondage* (D-bondage); *Blessedness* (D-blessedness); *Bondage is acting from what is outside* (P4); *Blessedness is the power itself* (P5)
+- **Cap:** definition; adds nothing
+- **Live chain:** [CHAIN.md](CHAIN.md)

@@ -379,3 +379,59 @@ No push. No thesis rewrite. Titles unchanged.
 - Indexes: `CHAIN.md`, `README.md`, this log.
 - Untouched: `entries/`, `candidates/core_v2/`, freedom collision archive, thesis/verse drafts.
 - **no push**
+
+---
+
+## 2026-10-24 ~06:45 PT — Prune to strongest + hyper-connect
+
+- **Author:** "Prune to strongest and then hyper connect." (from machine; via parent).
+- **Brief:** keep load-bearing ~15–20 (seed, A2, wholes/degree, freedom under necessity, blessedness/bondage, strong hinges); move rest to PARKED_VOLUME (do not delete); hyper-connect kept set (cites, terms, cross-links, Caps, CHAIN graph); human titles; update README/BUILD_LOG; commit locally; **do NOT push**.
+
+### Kept (20)
+
+| # | Id | Title |
+|---|---|---|
+| 1 | D-I | What "I" names |
+| 2 | D-exist | What exists |
+| 3 | A1 | I exist |
+| 4 | A2 | A human body, and its mind |
+| 5 | D-work | Work, and the seven works |
+| 6 | D-whole | Whole, degree, member, level, self-production, sameness |
+| 7 | A3 | The seven works sort things the way self-production does |
+| 8 | A4 | The society I live in is a whole to a degree |
+| 9 | P1 | A whole at one level, a part at the next |
+| 10 | P2 | A collective mind happens |
+| 11 | A5 | Every event is caused |
+| 12 | D-free | Freedom, strict and by degree |
+| 13 | P3 | Freedom by degrees under necessity |
+| 14 | D-affect | Affect, and change of power |
+| 15 | D-bondage | Bondage |
+| 16 | D-blessedness | Blessedness |
+| 17 | P4 | Bondage is acting from what is outside |
+| 18 | P5 | Blessedness is the power itself |
+| 19 | P19 | Degree of whole tracks degree of freedom only loosely |
+| 20 | P21 | Society can be freer without feeling |
+
+### Parked
+
+- **72** entry files → `PARKED_VOLUME/` (+ `PARKED_VOLUME/INDEX.md`).
+- Not deleted. Includes substance/mode, knowledge ladder, named affects, politics, eternity, OP1/P18, PR1, D-Nature, D-strive, thin props, etc.
+
+### Hyper-connect
+
+- Each kept file: `cites` / `terms` restricted to the live set; **Hyper-connect** block with Rests on / Supports / Cap / link to CHAIN.
+- P21 no longer cites P18 (feeling-not-required folded into statement; Cap = min(P2,P3,A4)).
+- D-free carries a short **Nature (inline)** note; full D-Nature parked.
+- D-affect / P4 / P5 no longer depend on live D-strive or D-power (power via D-affect; strive → works continuing).
+- `CHAIN.md` regenerated: 20-row table, Caps, mermaid dependency graph, Cap-chain ASCII.
+- `README.md`, `PARKED.md` updated.
+
+### Counts
+
+- Before prune: **92** live
+- After: **20** live + **72** parked volume
+
+### Untouched
+
+- `entries/`, `candidates/core_v2/`, freedom collision archive, thesis/verse drafts
+- **no push**

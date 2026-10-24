@@ -25,3 +25,10 @@ status: candidate (core v3)
 
 **References.**
 - Spinoza, B. *Ethics*: E4 Preface.
+
+## Hyper-connect
+
+- **Rests on:** *Freedom, strict and by degree* (D-free); *Affect, and change of power* (D-affect)
+- **Supports:** *Bondage is acting from what is outside* (P4)
+- **Cap:** definition; adds nothing
+- **Live chain:** [CHAIN.md](CHAIN.md)

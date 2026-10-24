@@ -1,5 +1,12 @@
 # Log
 
+
+## 2026-10-24 PT — core v3 prune + hyper-connect
+
+Author: prune to strongest, then hyper-connect. Live set **92 → 20**; **72** moved to `candidates/core_v3/PARKED_VOLUME/` (not deleted). Each kept file has Hyper-connect (Rests on / Supports / Cap). CHAIN/README/PARKED/BUILD_LOG updated. Local commit only; not pushed.
+
+---
+
 A dated record of what was tested and what changed, newest first. Times are Pacific (PT).
 
 ## 2026-10-24 ~05:41 PT — Core v3 kiln (92, no push)

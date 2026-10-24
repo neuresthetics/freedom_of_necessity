@@ -4,7 +4,7 @@ type: definition
 kind: definition
 title: Blessedness
 cites: []
-terms: [D-power, D-free, D-affect]
+terms: [D-free, D-affect]
 qualifiers:
   - 'blessedness'
   - 'power itself'
@@ -17,11 +17,18 @@ status: candidate (core v3)
 
 **Why this follows.** The upward end of degree-freedom needs a word of its own before the proposition that derives it (*Blessedness is the power itself*, P5).
 
-**Definition 70 (blessedness).** *Blessedness*, in this chain's working sense, is power of acting (*Power of acting*, D-power; *Affect, and change of power*, D-affect) as it rises with degree-freedom (*Freedom, strict and by degree*, D-free) — not a reward paid afterward (E5P42 pattern).
+**Definition 70 (blessedness).** *Blessedness*, in this chain's working sense, is power of acting (*Affect, and change of power*, D-affect) as it rises with degree-freedom (*Freedom, strict and by degree*, D-free) — not a reward paid afterward (E5P42 pattern).
 
-**Order.** This definition fixes the word. P5 derives the degree claim under A5 and P3; it does not redefine blessedness. Full intellectual-love close remains declared report where P5/P17 say so.
+**Order.** This definition fixes the word. P5 derives the degree claim under A5 and P3; it does not redefine blessedness. Full intellectual-love close remains declared report where P5 says so.
 
 **Limit.** Definition. Adds no confidence.
 
 **References.**
 - Spinoza, B. *Ethics*: E5P42.
+
+## Hyper-connect
+
+- **Rests on:** *Freedom, strict and by degree* (D-free); *Affect, and change of power* (D-affect)
+- **Supports:** *Blessedness is the power itself* (P5)
+- **Cap:** definition; adds nothing
+- **Live chain:** [CHAIN.md](CHAIN.md)

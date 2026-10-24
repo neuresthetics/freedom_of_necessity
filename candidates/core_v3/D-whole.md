@@ -26,7 +26,7 @@ status: candidate (core v3)
 
 **Why this follows the works.** *Work, and the seven works* (D-work) names activities. To say when a finite thing is a *whole*, and to what *degree*, the chain needs grades, membership, level, an independent idea of self-production (so the next axiom can be tested without circularity), and a sense of when a whole is the same whole later. Definitions 7–12 fix those. They add no confidence.
 
-**Domain.** Definitions 7–12 apply to finite things only. A thing is *finite* when another thing of the same kind can limit it, as a body is limited by a greater body. This is Spinoza's definition: "A thing is called finite after its kind, when it can be limited by another thing of the same nature" (E1D2). Every test in D-work assumes that something besides the graded thing exists: what the boundary sorts, where energy comes from, what defense acts against. Nature taken as one — everything that exists, taken together — is not finite, so it lies outside this domain and is not graded here, not even 0. *Nature taken as one* (D-Nature) fixes that sense; Definitions 7–12 simply do not apply to it. (Archive: [collision_nature.md](../core_v2/collision_nature.md).)
+**Domain.** Definitions 7–12 apply to finite things only. A thing is *finite* when another thing of the same kind can limit it, as a body is limited by a greater body. This is Spinoza's definition: "A thing is called finite after its kind, when it can be limited by another thing of the same nature" (E1D2). Every test in D-work assumes that something besides the graded thing exists: what the boundary sorts, where energy comes from, what defense acts against. Nature taken as one — everything that exists, taken together — is not finite, so it lies outside this domain and is not graded here, not even 0. Nature taken as one (parked: [parked D-Nature](PARKED_VOLUME/parked D-Nature.md)) fixes that sense; Definitions 7–12 simply do not apply to it. (Archive: [collision_nature.md](../core_v2/collision_nature.md).)
 
 **Definition 7 (grade).** For any finite thing X and each of the seven works (D-work, Definition 6), X's *grade* on that work is:
 
@@ -80,3 +80,10 @@ Its members may be replaced meanwhile. How far the later whole is *connected* to
 - Sagan, L. (1967). On the origin of mitosing cells. *Journal of Theoretical Biology* 14(3), 225–274. doi:10.1016/0022-5193(67)90079-3
 - Sender, R., Fuchs, S. & Milo, R. (2016). Revised estimates for the number of human and bacteria cells in the body. *PLoS Biology* 14(8), e1002533. doi:10.1371/journal.pbio.1002533
 - Spinoza, B. *Ethics*, E1D2; E2 Lemmas 4–7 (after E2P13); E4P39 Scholium.
+
+## Hyper-connect
+
+- **Rests on:** *What exists* (D-exist); *Work, and the seven works* (D-work)
+- **Supports:** *The seven works sort things the way self-production does* (A3); *The society I live in is a whole to a degree* (A4); *A whole at one level, a part at the next* (P1); *A collective mind happens* (P2); *Affect, and change of power* (D-affect); *Degree of whole tracks degree of freedom only loosely* (P19)
+- **Cap:** definition; adds nothing
+- **Live chain:** [CHAIN.md](CHAIN.md)

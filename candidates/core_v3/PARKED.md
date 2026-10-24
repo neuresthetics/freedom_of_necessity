@@ -1,28 +1,17 @@
-# Parked from the axiom list (core v3 restart)
+# Parked from the axiom list (core v3)
 
-Retired from the live chain on 2026-10-23 PT, then returned as rebuild blocks. Not deleted. Full archive text lives in [candidates/core_v2/](../core_v2/) and, where promoted, in `entries/`. Original freedom drafts remain under [candidates/freedom/](../freedom/) as the collision archive; live copies are now in this folder.
+## Live set (2026-10-24 PT prune)
 
-## Returned to the live chain
+The live chain is the **20** strongest hinges under this folder. See [CHAIN.md](CHAIN.md) and [README.md](README.md).
 
-| Title | Id | Status |
-|---|---|---|
-| A human body, and its mind | A2 | Live |
-| Work, and the seven works | D-work | Live |
-| Whole, degree, member, level, self-production, sameness | D-whole | Live |
-| The seven works sort things the way self-production does | A3 | Live |
-| Pattern by requirement | PR1 | Live |
-| Nature taken as one | D-Nature | Live |
-| The society I live in is a whole to a degree | A4 | Live |
-| A whole at one level, a part at the next | P1 | Live |
-| A collective mind happens | P2 | Live |
-| Every event is caused | A5 | Live |
-| Freedom, strict and by degree | D-free | Live |
-| Freedom by degrees under necessity | P3 | Live |
+## Parked volume (not deleted)
 
-## New in this chain (through volume expansion 2026-10-24 PT)
+**72** entries from the 2026-10-24 volume-expansion pass were moved to [PARKED_VOLUME/](PARKED_VOLUME/). Index: [PARKED_VOLUME/INDEX.md](PARKED_VOLUME/INDEX.md).
 
-Groups 5–13 are live drafts under this folder: strive/affect/bondage/blessedness; substance/attribute/mode; causality variants; kinds of knowledge; named affects; good/bad/virtue; politics/state; eternity; consciousness/open problems. See [CHAIN.md](CHAIN.md) for the full 92.
+Includes: PR1; D-Nature; D-strive; substance/attribute/mode; causality variants (A6–A9, P6–P7…); kinds of knowledge; named-affect catalog; good/bad/virtue extras; politics/state; eternity; OP1 / P18 / consciousness / level def; and other thin props.
 
-## Nothing currently parked from the live list
+Core v2 archive remains at [candidates/core_v2/](../core_v2/). Freedom collision archive: [candidates/freedom/](../freedom/).
 
-Soft spots vs a full scored *Ethics* rebuild are listed in [SPINOZA_GROUND.md](SPINOZA_GROUND.md) — not parked files.
+## Earlier park/return history
+
+On 2026-10-23 PT the restart parked A2–A4 and companions, then returned them as rebuild blocks. That history is in [BUILD_LOG.md](BUILD_LOG.md). The volume park supersedes "nothing currently parked from the live list."

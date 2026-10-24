@@ -1,64 +1,43 @@
-# Core v3 (candidate): restart from "I exist" alone
+# Core v3 (candidate): pruned live chain from "I exist"
 
 **Status: candidate only.** Nothing here is in `entries/`. Nothing here has been promoted. Core v2 stays untouched at [candidates/core_v2/](../core_v2/) and in `entries/` until the author says otherwise.
 
-**Restart (2026-10-23 PT).** At the author's word: **I exist** is the only root axiom. The chain is rebuilt from the seed outward. Definitions needed to ground claims stay ahead of the claims that use them.
+**Restart (2026-10-23 PT).** At the author's word: **I exist** is the only root axiom. The chain is rebuilt from the seed outward.
 
-**Volume expansion (2026-10-24 PT).** Author: worry less about accuracy; expand as much as possible. Live set jumped from **19 → 92** entries covering remaining Spinoza ground (substance/modes, kinds of knowledge, affects, good/bad, politics, eternity) plus consciousness/levels/causality variants from this seed. Scores stay pending/rough except A1.
+**Volume then prune (2026-10-24 PT).** Expanded to 92 covering Spinoza's ground; kilned; then **pruned to the strongest 20** and hyper-connected. The other **72** live under [PARKED_VOLUME/](PARKED_VOLUME/) — not deleted.
 
-**Kiln (2026-10-24 PT).** Coherence fire on the 92: prefer harden over shrink. A3 YAML fixed; A7/A9 cite A5; bondage/blessedness defs stand before their props; thin expansion props got stated sense, how-it-fails, and Caps; soft "rough/maybe/agent own" tightened. Count still **92**. Details: [BUILD_LOG.md](BUILD_LOG.md), [CHAIN.md](CHAIN.md).
+**Labels.** Human title first; machine id secondary (front matter and filenames).
 
-**Labels.** Each entry has a human title first. Machine ids stay in front matter and filenames. In tables below, read the title column; the id is secondary.
-
-**Chain file.** Full table with confidence and cites: [CHAIN.md](CHAIN.md) (92 rows). Spinoza map: [SPINOZA_GROUND.md](SPINOZA_GROUND.md).
+**Chain file.** Full table, caps, and dependency graph: [CHAIN.md](CHAIN.md) (**20** rows).
 
 ## The seed
 
 *I exist* (A1), *What "I" names* (D-I), *What exists* (D-exist). Saved as the seed at the author's word (2026-10-23 PT); pushed as `f52911c`.
 
-## Live chain — groups
+## Live chain — 20 load-bearing entries
 
-| Group | Span | Theme |
-|---|---|---|
-| 1 | #1–4 | The I (seed + body/mind) |
-| 2 | #5–8 | Wholes (works, degree, self-production, PR1) |
-| 3 | #9–12 | Nature, society, levels |
-| 4 | #13–15 | Freedom under necessity |
-| 5 | #16–19 | Strive, affect, bondage, blessedness |
-| 6 | #20–26 | Substance, attribute, mode |
-| 7 | #27–32 | Causality variants |
-| 8 | #33–46 | Ideas and kinds of knowledge |
-| 9 | #47–66 | Named affects |
-| 10 | #67–75 | Good, bad, virtue |
-| 11 | #76–82 | Politics and the state |
-| 12 | #83–86 | Eternity of mind |
-| 13 | #87–92 | Consciousness, levels, open problems |
-
-Full one-line statements, cites, and caps: **[CHAIN.md](CHAIN.md)**.
-
-### Group 1 — the I (seed)
-
-| # | Title | Id | Kind | Rests on |
-|---|---|---|---|---|
-| 1 | [What "I" names](D-I.md) | D-I | definition | (definition) |
-| 2 | [What exists](D-exist.md) | D-exist | definition | (definition) |
-| 3 | [I exist](A1.md) | A1 | root, **1.0** | nothing: doubting it is a case of it |
-| 4 | [A human body, and its mind](A2.md) | A2 | axiom, empirical, **pending** | A1 + own evidence; identity declared |
-
-### Skeleton after the seed (load-bearing claims)
-
-| Title | Id | Role |
-|---|---|---|
-| [The seven works sort things the way self-production does](A3.md) | A3 | wholes hinge |
-| [The society I live in is a whole to a degree](A4.md) | A4 | society hinge |
-| [Every event is caused](A5.md) | A5 | necessity |
-| [Freedom by degrees under necessity](P3.md) | P3 | title claim |
-| [Only Nature answers to substance](A6.md) | A6 | Part I uniqueness (model) |
-| [Three kinds of knowledge](D-knowledge.md) | D-knowledge | knowledge ladder |
-| [Good](D-good.md) / [Virtue as power](D-virtue.md) | D-good, D-virtue | Part IV |
-| [The state](D-state.md) / [The political order is a whole to a degree](A8.md) | D-state, A8 | politics |
-| [Mind under the aspect of eternity](P16.md) | P16 | Part V candidate |
-| [Why anything is felt](OP1.md) | OP1 | hard problem (open) |
+| # | Title | Id | Role |
+|---|---|---|---|
+| 1 | [What "I" names](D-I.md) | D-I | definition |
+| 2 | [What exists](D-exist.md) | D-exist | definition |
+| 3 | [I exist](A1.md) | A1 | root, **1.0** |
+| 4 | [A human body, and its mind](A2.md) | A2 | empirical hinge |
+| 5 | [Work, and the seven works](D-work.md) | D-work | wholes vocabulary |
+| 6 | [Whole, degree, member, level, self-production, sameness](D-whole.md) | D-whole | degree measure |
+| 7 | [The seven works sort things the way self-production does](A3.md) | A3 | wholes hinge |
+| 8 | [The society I live in is a whole to a degree](A4.md) | A4 | society hinge |
+| 9 | [A whole at one level, a part at the next](P1.md) | P1 | levels |
+| 10 | [A collective mind happens](P2.md) | P2 | collective control (no feeling claim) |
+| 11 | [Every event is caused](A5.md) | A5 | necessity |
+| 12 | [Freedom, strict and by degree](D-free.md) | D-free | two senses of free |
+| 13 | [Freedom by degrees under necessity](P3.md) | P3 | title claim |
+| 14 | [Affect, and change of power](D-affect.md) | D-affect | power / affect |
+| 15 | [Bondage](D-bondage.md) | D-bondage | word for the downward degree |
+| 16 | [Blessedness](D-blessedness.md) | D-blessedness | word for the upward end |
+| 17 | [Bondage is acting from what is outside](P4.md) | P4 | inverse of degree-freedom |
+| 18 | [Blessedness is the power itself](P5.md) | P5 | power, not a reward |
+| 19 | [Degree of whole tracks degree of freedom only loosely](P19.md) | P19 | anti-collapse bridge |
+| 20 | [Society can be freer without feeling](P21.md) | P21 | conjecture-grade collective freedom |
 
 ```mermaid
 graph TD
@@ -68,31 +47,31 @@ graph TD
   A4["Society whole (A4)"]
   A5["Every event caused (A5)"]
   P3["Freedom by degrees (P3)"]
-  A6["Only Nature substance (A6)"]
-  DK["Three kinds of knowledge"]
-  Aff["Affects / good / virtue"]
-  Pol["State / right / law"]
-  Et["Eternity / intellectual love"]
-  OP["Why anything is felt (OP1)"]
+  P4["Bondage (P4)"]
+  P5["Blessedness is the power (P5)"]
+  P1["Levels (P1)"]
+  P2["Collective mind (P2)"]
+  P19["Whole ≠ freedom (P19)"]
+  P21["Society freer w/o feeling (P21)"]
   A1 --> A2
   A2 --> A4
-  A3 --> P1["P1 levels"]
-  A4 --> P1
-  A4 --> P2["P2 collective mind"]
-  A5 --> P3
   A2 --> P3
-  A6 --> P6["P6 modes"]
-  A2 --> P6
-  DK --> P8["P8 clarity rises"]
-  P3 --> P8
-  P3 --> Aff
-  A4 --> Pol
-  P8 --> Et
-  A2 -.-> OP
-  P2 -.-> OP
+  A3 --> P1
+  A4 --> P1
+  A4 --> P2
+  A5 --> P3
+  P3 --> P4
+  P3 --> P5
+  P1 --> P19
+  P3 --> P19
+  P2 --> P21
+  P3 --> P21
+  A4 --> P21
 ```
 
-**Caps (summary).** A1 = 1.0. Definitions and PR1/PR2 add nothing. OP1 unscored. Load-bearing caps: see [CHAIN.md](CHAIN.md). Most new axioms/props pending collider.
+**Caps (summary).** A1 = 1.0. Definitions add nothing. Load-bearing: P1 = min(A2,A3,A4); P3 = min(A2,A5); P4/P5 = min(A2,A5,P3); P19 = min(P1,P3); P21 = min(P2,P3,A4) conjecture-grade. Full table: [CHAIN.md](CHAIN.md).
+
+Each live file has a **Hyper-connect** block: Rests on / Supports / Cap.
 
 ## Rules for this restart
 
@@ -100,24 +79,21 @@ graph TD
 2. **One chain.** No split tracks. Declared readings stay inside their entries and are unscored.
 3. **Scores pending** until the collider runs (except A1).
 4. **Extend from this seed.** Spinoza's ground is covered by extending outward, not by copying the *Ethics* part-order as axioms.
-5. **Volume over polish** when the author says so (2026-10-24 PT pass).
-6. **Not pushed** for rebuild steps after the seed unless the author says so.
-7. **Kiln after volume** hardens coherence without shrinking the set (2026-10-24 PT).
+5. **Volume over polish** when the author says so — then **prune to strongest** when asked (2026-10-24 PT).
+6. **Park, don't delete.** Soft or catalog volume goes to [PARKED_VOLUME/](PARKED_VOLUME/).
+7. **Not pushed** for rebuild/prune steps after the seed unless the author says so.
+8. **Kiln** hardens coherence; **prune** shrinks to hinges; **hyper-connect** makes every kept entry rest on and point to its supports.
 
 ## What this chain does not yet settle
 
-- Why anything is felt (**OP1** open; A2/P2 limits).
-- Full scored Part I geometric sequence (only A6 model uniqueness).
-- Complete infinite-mode physics; every emotion as its own scored file (catalog covers the rest).
-- Best political constitution; personal immortality in duration (P16 denies lasting-forever claim).
+- Why anything is felt (open; parked as OP1).
+- Full Part I geometric sequence; named-affect catalog; politics; eternity (parked volume).
 - Promotion into `entries/` (needs a separate author OK).
-- Collider numbers for A5–A9 and P3–P21.
+- Collider numbers for A2–A5 and P1–P5, P19, P21.
 
 ## Logs
 
 - [CHAIN.md](CHAIN.md)
-- [SPINOZA_GROUND.md](SPINOZA_GROUND.md)
+- [PARKED.md](PARKED.md) / [PARKED_VOLUME/INDEX.md](PARKED_VOLUME/INDEX.md)
 - [BUILD_LOG.md](BUILD_LOG.md)
-- [PARKED.md](PARKED.md)
-- [notes/2026-10-23-core-v3-restart.md](../../notes/2026-10-23-core-v3-restart.md)
-- [notes/2026-10-23-core-v3-chain-and-spinoza-ground.md](../../notes/2026-10-23-core-v3-chain-and-spinoza-ground.md)
+- [SPINOZA_GROUND.md](SPINOZA_GROUND.md)

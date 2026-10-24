@@ -1,3 +1,5 @@
+> **Note (2026-10-24 PT prune):** Live chain is **20** hinges; most Part I–V apparatus listed below as "covered" now lives in [PARKED_VOLUME/](PARKED_VOLUME/). This map still describes what was drafted; it is not the live set.
+
 # Spinoza's ground vs this chain (core v3)
 
 Map of what the *Ethics* (and thin TTP/TP politics) covers against the live core_v3 chain. The chain **extends from** A1 outward; it does **not** copy Parts I–V wholesale. Spinoza is cited by part and proposition only (e.g. E1D7, E2P48). No Kisner. Public-safe.

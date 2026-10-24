@@ -42,3 +42,10 @@ status: candidate (core v3)
 - Descartes, R. (1644). *Principles of Philosophy*, part I, article 9, AT VIIIA 7. Tr. in CSM, vol. I (1985).
 - Lichtenberg, G. C. *Sudelbücher*, notebook K, entry K 76 (as in A1).
 - Spinoza, B. *Ethics*, E2D2, E2P11, E2P13.
+
+## Hyper-connect
+
+- **Rests on:** (none)
+- **Supports:** *I exist* (A1); *A human body, and its mind* (A2); *The society I live in is a whole to a degree* (A4); *A whole at one level, a part at the next* (P1); *Freedom, strict and by degree* (D-free); *Freedom by degrees under necessity* (P3)
+- **Cap:** definition; adds nothing
+- **Live chain:** [CHAIN.md](CHAIN.md)

@@ -4,22 +4,24 @@ type: definition
 kind: definition
 title: Freedom, strict and by degree
 cites: []
-terms: [D-I, D-exist, D-work, D-Nature]
+terms: [D-I, D-exist, D-work]
 qualifiers:
   - 'strict sense: from its own nature alone'
   - 'degree sense: from its own organization and from knowledge of causes'
   - 'adequate cause (report)'
   - 'could-have-done-otherwise not required'
   - 'adds no confidence'
-scored_as: 'Definition of "free" in two senses used by the book. Strict sense (E1D7): a thing is free when it exists and acts from the necessity of its own nature alone; only Nature meets it (D-Nature, Scholium 4). Degree sense (the book''s working sense for finite agents): an agent is freer to the degree that what it does follows from its own organization (how its components are arranged and act on one another; A2, D-work Definition 3) and from clear knowledge of the causes of what it does. "Could have done otherwise, given all that came before" is not part of either sense. Judged on clarity and fit; adds no confidence to any entry.'
+scored_as: 'Definition of "free" in two senses used by the book. Strict sense (E1D7): a thing is free when it exists and acts from the necessity of its own nature alone; only Nature taken as one meets it (report; full def parked at PARKED_VOLUME/D-Nature.md). Degree sense (the book''s working sense for finite agents): an agent is freer to the degree that what it does follows from its own organization (how its components are arranged and act on one another; A2, D-work Definition 3) and from clear knowledge of the causes of what it does. "Could have done otherwise, given all that came before" is not part of either sense. Judged on clarity and fit; adds no confidence to any entry.'
 status: candidate (core v3)
 ---
 
 **Freedom, strict and by degree** *(definition, id: D-free)*.
 
-**Why this follows A5.** *Every event is caused* (A5) rules out uncaused will. *Nature taken as one* (D-Nature, Scholium 4) already foreshadows that only Nature is free in Spinoza's strict sense (E1D7). This definition fixes both senses the book uses: strict (Nature alone) and by degree (finite agents). It adds no confidence.
+**Why this follows A5.** *Every event is caused* (A5) rules out uncaused will. Nature taken as one ([parked D-Nature](PARKED_VOLUME/D-Nature.md)) already foreshadows that only Nature is free in Spinoza's strict sense (E1D7). This definition fixes both senses the book uses: strict (Nature alone) and by degree (finite agents). It adds no confidence.
 
-**Definition 14 (free, strict sense).** A thing is *free* in the strict sense when it exists solely by the necessity of its own nature, and when its action is determined by itself alone (E1D7). On the other hand, a thing is *necessary, or rather constrained*, when it is determined by something external to itself to a fixed and definite method of existence or action (E1D7). Only Nature taken as one meets the strict sense (D-Nature, Scholium 4; E1P17 Corollary 2). Every whole D-whole grades takes energy from other things (D-work, energy), so each is constrained in E1D7's word.
+**Nature (inline).** *Nature taken as one* means everything that exists, taken together, with nothing besides it. Full candidate text is parked at [PARKED_VOLUME/D-Nature.md](PARKED_VOLUME/D-Nature.md). Only that whole meets the strict sense of freedom (E1D7).
+
+**Definition 14 (free, strict sense).** A thing is *free* in the strict sense when it exists solely by the necessity of its own nature, and when its action is determined by itself alone (E1D7). On the other hand, a thing is *necessary, or rather constrained*, when it is determined by something external to itself to a fixed and definite method of existence or action (E1D7). Only Nature taken as one meets the strict sense (parked D-Nature, Scholium 4; E1P17 Corollary 2). Every whole D-whole grades takes energy from other things (D-work, energy), so each is constrained in E1D7's word.
 
 **Definition 15 (free, by degree).** A finite agent is *freer* to the degree that (a) what it does follows from its own organization — the structures and constraints its components impose on one another (A2; D-work, Definition 3) — rather than from causes that merely push it from outside, and (b) it knows those causes clearly, so that what it does can be understood through what it is. The degree is comparative, not a second scale beside D-whole's grades. Zero on (a) or (b) is not a failure of being a whole; it is a low degree of freedom.
 
@@ -42,3 +44,10 @@ status: candidate (core v3)
 
 **References.**
 - Spinoza, B. *Ethics*: E1D7; E1P17 Corollary 2; E1P28; E3D1; E3D2; E4P66 Note; E5P42. Quotations in Elwes 1883 wording, checked against `sources/spinoza/ethics_elwes_1883.txt`.
+
+## Hyper-connect
+
+- **Rests on:** *Work, and the seven works* (D-work); *What exists* (D-exist); *What "I" names* (D-I); *Every event is caused* (A5)
+- **Supports:** *Freedom by degrees under necessity* (P3); *Affect, and change of power* (D-affect); *Bondage* (D-bondage); *Blessedness* (D-blessedness); *Bondage is acting from what is outside* (P4); *Blessedness is the power itself* (P5); *Degree of whole tracks degree of freedom only loosely* (P19); *Society can be freer without feeling* (P21)
+- **Cap:** definition; adds nothing
+- **Live chain:** [CHAIN.md](CHAIN.md)
