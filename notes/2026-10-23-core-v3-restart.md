@@ -78,3 +78,15 @@ Author: "Now grow them out." Live chain extended with:
 4. *A collective mind happens* (P2) — proposition, pending; cites A4; activity only.
 
 Freedom left parked. Local commit only; no push. Full table: [candidates/core_v3/README.md](../candidates/core_v3/README.md).
+
+---
+
+## Chain file + Spinoza ground (2026-10-23 ~23:48 PT)
+
+Author: save to file; evolve by Spinoza's ground extending from this seed.
+
+- Snapshot: [candidates/core_v3/CHAIN.md](../candidates/core_v3/CHAIN.md)
+- Map: [candidates/core_v3/SPINOZA_GROUND.md](../candidates/core_v3/SPINOZA_GROUND.md)
+- Detail note: [2026-10-23-core-v3-chain-and-spinoza-ground.md](2026-10-23-core-v3-chain-and-spinoza-ground.md)
+
+Freedom (A5, D-free, P3) live. Strive / affect / bondage / blessedness drafted. Local only; no push.

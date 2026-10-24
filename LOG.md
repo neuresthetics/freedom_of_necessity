@@ -2,6 +2,10 @@
 
 A dated record of what was tested and what changed, newest first. Times are Pacific (PT).
 
+## 2026-10-23 — Core v3: chain file + Spinoza-ground Groups 4–5 (not pushed)
+
+Saved live set to [candidates/core_v3/CHAIN.md](candidates/core_v3/CHAIN.md). Pulled A5 / D-free / P3 into core_v3. Drafted D-strive, D-affect, P4, P5 (conatus, affect, bondage, blessedness) extending from the seven-work chain. Map: [SPINOZA_GROUND.md](candidates/core_v3/SPINOZA_GROUND.md). Local commit only.
+
 ## 2026-10-23 — Core v3: Group 3 Nature / society / levels (not pushed)
 
 After PR1, added D-Nature, A4 (pending), P1 (pending), P2 (pending). Freedom still parked. Stop for review. See [candidates/core_v3/](candidates/core_v3/README.md).

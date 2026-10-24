@@ -238,3 +238,54 @@ No push. No thesis rewrite. Titles unchanged.
 - updated: `D-whole.md`, `D-work.md`, `README.md`, `PARKED.md`, this log, note, `LOG.md`
 - untouched: `entries/`, `candidates/core_v2/`, `candidates/freedom/`
 - no push
+
+---
+
+## 2026-10-23 ~23:48 PT — Save chain file; Spinoza-ground extension (Groups 4–5)
+
+- **Author:** "Save that to file, then continue to evolve it according to all the ground Spinoza covered, but as extending from this."
+- **Brief:** write CHAIN.md; map Ethics ground vs live chain; pull A5/D-free/P3 into core_v3 with human titles; draft next defs/props for Parts III–V ground; update README/PARKED/BUILD_LOG; commit locally; do NOT push.
+
+### Inputs read (this step)
+
+| Path | Role |
+|---|---|
+| `candidates/core_v3/{README,PARKED,BUILD_LOG,A2,P2,D-Nature}.md` | live style through Group 3 |
+| `candidates/freedom/{A5,D-free,P3,README}.md` | freedom drafts to promote into v3 |
+| `METHOD.md` | caps, declared readings |
+| Ethics loci (by memory + freedom/D-Nature cites) | substance, causality, mind-body, affects, bondage, blessedness |
+
+### Decision D12 — Snapshot first, then extend
+
+- **Chose:** write [CHAIN.md](CHAIN.md) as the clear live-set file (title, id, kind, one-line, confidence, cites); dated note under `notes/`.
+- **Why:** author asked to save the set to file before evolving further.
+
+### Decision D13 — Pull freedom into core_v3 (Group 4)
+
+- **Chose:** copy A5, D-free, P3 into `candidates/core_v3/`; add "Why this follows…" leads; `status: candidate (core v3)`; human titles (*Every event is caused*; *Freedom, strict and by degree*; *Freedom by degrees under necessity*); point D-Nature Scholium 4 at the live freedom block.
+- **Why (geometric):** title claim needs necessity + degree-freedom after P2; drafts already existed and match METHOD.
+- **Rejected:** leave freedom only under `candidates/freedom/` (author: continue evolving the live chain); rewrite freedom from scratch (would drop collider-ready wording).
+- Archive under `candidates/freedom/` kept as collision record.
+
+### Decision D14 — Extend Parts III–V ground from this chain (Group 5)
+
+- **Chose:** draft D-strive, D-affect, P4, P5 — conatus, affect, bondage, blessedness restated in seven-work / degree-freedom language.
+- **Why:** Spinoza's remaining load-bearing ground after freedom; must extend from D-work/D-free/P3, not import a second psychology.
+- **Rejected:** copy Ethics proposition order as new axioms; score substance/attributes; invent three-kinds-of-knowledge entry this pass; Kisner; "fractal".
+- Gaps left explicit in [SPINOZA_GROUND.md](SPINOZA_GROUND.md).
+
+### Caps (Group 4–5)
+
+- A5 pending (cites nothing)
+- P3 pending: min(A2, A5)
+- P4 pending: min(A2, A5, P3)
+- P5 pending: min(A2, A5, P3)
+- D-strive, D-affect, D-free: definitions, add nothing
+
+### Files
+
+- new: `CHAIN.md`, `SPINOZA_GROUND.md`, `A5.md`, `D-free.md`, `P3.md`, `D-strive.md`, `D-affect.md`, `P4.md`, `P5.md`
+- updated: `D-Nature.md` (Scholium 4 foreshadow → live), `README.md`, `PARKED.md`, this log
+- notes: `notes/2026-10-23-core-v3-chain-and-spinoza-ground.md`; restart note appended; `LOG.md`
+- untouched: `entries/`, `candidates/core_v2/`, freedom collision archive
+- no push
