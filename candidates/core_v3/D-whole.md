@@ -84,8 +84,8 @@ Its members may be replaced meanwhile. How far the later whole is *connected* to
 - Spinoza, B. *Ethics*, E1D2; E2 Lemmas 4–7 (after E2P13); E4P39 Scholium.
 
 ## Hyper-connect
-
 - **Rests on:** *What exists* (D-exist); *Work, and the seven works* (D-work)
 - **Supports:** *The seven works sort things the way self-production does* (A3); *The society I live in is a whole to a degree* (A4); *A whole at one level, a part at the next* (P1); *A collective mind happens* (P2); *Affect, and change of power* (D-affect); *Degree of whole tracks degree of freedom only loosely* (P19)
+- **Supports (expansion):** D-cell, D-member-degree, D-organism, D-sameness-later, D-whole-degree-scale, D-work-F1, D-work-F2, D-work-F3, D-work-F4, D-work-F5, D-work-F6, D-work-F7, P-amnesia, P-body-lasts, P-brain-death, P-injury-lowers-degree, P-repair-raises-degree, P-war-drops-degree, P-weakest-work-rules
 - **Cap:** definition; adds nothing
-- **Live chain:** [CHAIN.md](CHAIN.md)
+- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md)

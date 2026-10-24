@@ -26,10 +26,9 @@ kiln: 2026-10-24 strongest half
 **Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect
-
-- **Rests on:** *Clear knowledge of causes* (D-clear-knowledge); P3; P21
+- **Rests on:** *Clear knowledge of causes* (D-clear-knowledge); *Freedom by degrees under necessity* (P3); *Society can be freer without feeling* (P21)
 - **BASE hinges:** P3, P21
-- **Supports (live expansion):** *Open science societies can rise on both scales* (P-open-science-society)
+- **Supports (live):** *Open science societies can rise on both scales* (P-open-science-society)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [nature_knowledge/](./)
-- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

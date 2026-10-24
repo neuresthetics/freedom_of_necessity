@@ -29,8 +29,8 @@ status: base (locked)
 - Spinoza, B. *Ethics*: E5P42.
 
 ## Hyper-connect
-
 - **Rests on:** *Freedom, strict and by degree* (D-free); *Affect, and change of power* (D-affect)
 - **Supports:** *Blessedness is the power itself* (P5)
+- **Supports (expansion):** D-power-of-acting, P-blessedness-not-afterlife, P-nihilism-confused, P-virtue-is-power
 - **Cap:** definition; adds nothing
-- **Live chain:** [CHAIN.md](CHAIN.md)
+- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md)

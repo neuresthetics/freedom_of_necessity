@@ -108,3 +108,9 @@ Each live file has a **Hyper-connect** block: Rests on / Supports / Cap.
 - [PARKED.md](PARKED.md) / [PARKED_VOLUME/INDEX.md](PARKED_VOLUME/INDEX.md)
 - [BUILD_LOG.md](BUILD_LOG.md)
 - [SPINOZA_GROUND.md](SPINOZA_GROUND.md)
+
+## Dependency management
+
+- [DEPS.md](DEPS.md) — live rests-on / supports index
+- [CAPS.md](CAPS.md) — cap rules
+- [tools/dep_check.py](tools/dep_check.py) — `python3 tools/dep_check.py`

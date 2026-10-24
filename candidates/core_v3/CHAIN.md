@@ -171,6 +171,9 @@ A5 (own) ──► P3, P4, P5
 
 - [README.md](README.md)
 - [BUILD_LOG.md](BUILD_LOG.md)
+- [DEPS.md](DEPS.md) — live dependency index
+- [CAPS.md](CAPS.md) — cap rules
+- [tools/dep_check.py](tools/dep_check.py) — checker
 - [SPINOZA_GROUND.md](SPINOZA_GROUND.md) — map still useful; most Part I–V apparatus now parked
 
 ---
@@ -211,6 +214,8 @@ BASE stays locked. PARKED_VOLUME (72) stays parked unless re-grown with BASE cit
 
 **Totals:** BASE **20** locked + live expansion **122** = **142** in play (parks separate).
 
+**Dependency management:** run `python3 tools/dep_check.py` (stdlib). Full reverse index: [DEPS.md](DEPS.md). Caps: [CAPS.md](CAPS.md).
+
 ### Sample spine → expansion
 
 ```
@@ -226,18 +231,139 @@ BASE P19/P21 → bridges (cult / military / AI / open science)
 
 ```mermaid
 graph TD
-  BASE["BASE 20 locked"]
-  W["wholes: weakest-work / take-apart"]
-  B["bridges: P19 wedges"]
-  S["society: corporation / propaganda / law-memory"]
-  N["necessity: choice-caused / freer-knows / prediction≠freedom"]
-  M["mind edges: split-brain / digital-A1 / OP-feeling"]
-  BASE --> W
-  BASE --> B
-  BASE --> S
-  BASE --> N
-  BASE --> M
-  W --> B
-  S --> B
-  N --> B
+  A2["A human body, and its mind (A2)"]
+  A3["The seven works sort things the way self-production does (A3)"]
+  A4["The society I live in is a whole to a degree (A4)"]
+  A5["Every event is caused (A5)"]
+  P2["A collective mind happens (P2)"]
+  P3["Freedom by degrees under necessity (P3)"]
+  P4["Bondage is acting from what is outside (P4)"]
+  P19["Degree of whole tracks degree of freedom only loosely (P19)"]
+  P21["Society can be freer without feeling (P21)"]
+  Pweakestworkrules["The weakest work sets the degree (P-weakest-work-rules)"]
+  Ptakeaparttest["Take-apart test for as-one (P-take-apart-test)"]
+  Ptumoredge["A tumor is a whole that harms the higher… (P-tumor-edge)"]
+  Pmachinenotselfproducer["Most machines fail at least one work as … (P-machine-not-self-producer)"]
+  Pcorporationwithoutfeeling["A corporation can act freer without feel… (P-corporation-without-feeling)"]
+  Ppropagandabondage["Propaganda is bondage at society scale (P-propaganda-bondage)"]
+  Plawasmemory["Law is public memory with teeth (P-law-as-memory)"]
+  Pcollectivefreedomrises["Clear shared knowledge can raise collect… (P-collective-freedom-rises)"]
+  Pchoicecaused["A choice is an event and so caused (P-choice-caused)"]
+  Pfreerknowsmorecauses["Freer action tracks clearer cause-maps (P-freer-knows-more-causes)"]
+  Phabitcanbond["Habit can be bondage or stored freedom (P-habit-can-bond)"]
+  Dclearknowledge["Clear knowledge of causes (D-clear-knowledge)"]
+  Pcultbondage["A cult can be a tight whole in bondage (P-cult-bondage)"]
+  Pmilitarywhole["A military unit can be high-degree, mixe… (P-military-whole)"]
+  Paicollective["AI collectives can be wholes without fee… (P-ai-collective)"]
+  Popensciencesociety["Open science societies can rise on both … (P-open-science-society)"]
+  Pstrongwholelowfreedom["A strong whole can still be unfree (P-strong-whole-low-freedom)"]
+  Pweakwholehighfreedom["A fragile whole can still be freer (P-weak-whole-high-freedom)"]
+  Psplitbrain["Split brain challenges unity of first pe… (P-split-brain)"]
+  PdigitalA1["A digital system can utter A1; certainty… (P-digital-A1)"]
+  PcopynotA1transfer["Copying a pattern does not transfer this… (P-copy-not-A1-transfer)"]
+  OPfeeling["Why anything is felt stays open (OP-feeling)"]
+  Papparentcontingency["Apparent contingency is incomplete knowl… (P-apparent-contingency)"]
+  Ptitleclaim["Freedom of necessity is degree-freedom u… (P-title-claim)"]
+  Pactivevspassive["Active affects follow from clearer causes (P-active-vs-passive)"]
+  Pblessednessnotafterlife["Blessedness is not an afterlife payment (P-blessedness-not-afterlife)"]
+  Pvirtueispower["Virtue is living from power of acting (P-virtue-is-power)"]
+  Dcompassion["Compassion (D-compassion)"]
+  Pangercanrepair["Anger can feed repair or bondage (P-anger-can-repair)"]
+  Pcompassionfreedom["Compassion can raise joint freedom (P-compassion-freedom)"]
+  Pcancerdefection["Cancer is member defection into a rival … (P-cancer-defection)"]
+  Pevolution["Evolution is population-level transform … (P-evolution)"]
+  Ppain["Pain signals threat to works (P-pain)"]
+  Dbrain["Brain as control gear of the body (D-brain)"]
+  Pinjurylowersdegree["Injury can lower whole-degree and freedo… (P-injury-lowers-degree)"]
+  Potherbodies["Other human bodies exist on evidence (P-other-bodies)"]
+  Probotmember["A robot can be a member without being a … (P-robot-member)"]
+  Dwar["War as organized harm between wholes (D-war)"]
+  Pcivilwar["Civil war splits one society-whole (P-civil-war)"]
+  OPwhyanything["Why anything exists at all stays open (OP-why-anything)"]
+  A3 --> Pweakestworkrules
+  A3 --> Ptakeaparttest
+  A3 --> Ptumoredge
+  A2 --> Ptumoredge
+  A3 --> Pmachinenotselfproducer
+  P21 --> Pcorporationwithoutfeeling
+  P2 --> Pcorporationwithoutfeeling
+  A4 --> Pcorporationwithoutfeeling
+  P4 --> Ppropagandabondage
+  P2 --> Ppropagandabondage
+  P21 --> Ppropagandabondage
+  P2 --> Plawasmemory
+  A4 --> Plawasmemory
+  P21 --> Pcollectivefreedomrises
+  P3 --> Pcollectivefreedomrises
+  P2 --> Pcollectivefreedomrises
+  A5 --> Pchoicecaused
+  A2 --> Pchoicecaused
+  P3 --> Pchoicecaused
+  P3 --> Pfreerknowsmorecauses
+  Dclearknowledge --> Pfreerknowsmorecauses
+  P3 --> Phabitcanbond
+  P4 --> Phabitcanbond
+  P3 --> Dclearknowledge
+  A2 --> Dclearknowledge
+  P19 --> Pcultbondage
+  P4 --> Pcultbondage
+  P2 --> Pcultbondage
+  P19 --> Pmilitarywhole
+  A4 --> Pmilitarywhole
+  P3 --> Pmilitarywhole
+  P2 --> Paicollective
+  P21 --> Paicollective
+  OPfeeling --> Paicollective
+  P19 --> Popensciencesociety
+  P21 --> Popensciencesociety
+  P19 --> Pstrongwholelowfreedom
+  P3 --> Pstrongwholelowfreedom
+  P4 --> Pstrongwholelowfreedom
+  P19 --> Pweakwholehighfreedom
+  P3 --> Pweakwholehighfreedom
+  A4 --> Pweakwholehighfreedom
+  A2 --> Psplitbrain
+  OPfeeling --> Psplitbrain
+  A2 --> PdigitalA1
+  Potherbodies --> PcopynotA1transfer
+  PdigitalA1 --> PcopynotA1transfer
+  A2 --> OPfeeling
+  A5 --> Papparentcontingency
+  Dclearknowledge --> Papparentcontingency
+  P3 --> Ptitleclaim
+  A5 --> Ptitleclaim
+  P3 --> Pactivevspassive
+  P4 --> Pactivevspassive
+  P3 --> Pvirtueispower
+  P4 --> Dcompassion
+  P4 --> Pangercanrepair
+  P3 --> Pangercanrepair
+  Dcompassion --> Pcompassionfreedom
+  P21 --> Pcompassionfreedom
+  Ptumoredge --> Pcancerdefection
+  A3 --> Pcancerdefection
+  A3 --> Pevolution
+  A5 --> Pevolution
+  P4 --> Ppain
+  A2 --> Dbrain
+  P2 --> Dbrain
+  A2 --> Pinjurylowersdegree
+  P3 --> Pinjurylowersdegree
+  P19 --> Pinjurylowersdegree
+  A2 --> Potherbodies
+  A3 --> Probotmember
+  A4 --> Probotmember
+  A4 --> Dwar
+  P2 --> Dwar
+  Dwar --> Pcivilwar
+  A4 --> Pcivilwar
+  P2 --> Pcivilwar
+  A2 --> A4
+  A4 --> P2
+  A5 --> P3
+  P3 --> P4
+  P3 --> P19
+  P2 --> P21
+  P3 --> P21
+  A3 --> P19
 ```

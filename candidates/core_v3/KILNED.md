@@ -45,3 +45,8 @@ I exist → body and mind
 - [CHAIN.md](CHAIN.md) — live chain + kilned expansion section
 - [expansion/INDEX.md](expansion/INDEX.md) — live expansion table
 - [expansion/PARKED/INDEX.md](expansion/PARKED/INDEX.md) — this kiln's park
+
+## Dependency management
+
+- [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md) · [tools/dep_check.py](tools/dep_check.py)
+- Checker: live cites only, no cycles, rests-on + caps required.

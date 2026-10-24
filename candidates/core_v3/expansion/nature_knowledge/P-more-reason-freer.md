@@ -26,10 +26,9 @@ kiln: 2026-10-24 strongest half
 **Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect
-
-- **Rests on:** *Reason (second kind of knowing)* (D-reason-know); *Imagination (first kind of knowing)* (D-imagination-know); P3
+- **Rests on:** *Reason (second kind of knowing)* (D-reason-know); *Imagination (first kind of knowing)* (D-imagination-know); *Freedom by degrees under necessity* (P3)
 - **BASE hinges:** P3
-- **Supports (live expansion):** —
+- **Supports (live):** —
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [nature_knowledge/](./)
-- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

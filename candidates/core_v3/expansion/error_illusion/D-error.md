@@ -27,9 +27,9 @@ kiln: 2026-10-24 strongest half
 **Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect
-
 - **Rests on:** *Confused knowledge of causes* (D-confused-knowledge); *Imagination (first kind of knowing)* (D-imagination-know)
-- **Supports (live expansion):** *Illusion* (D-illusion)
+- **BASE hinges:** —
+- **Supports (live):** *Illusion* (D-illusion)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [error_illusion/](./)
-- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

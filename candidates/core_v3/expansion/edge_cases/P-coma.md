@@ -27,10 +27,9 @@ kiln: 2026-10-24 strongest half
 **Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect
-
-- **Rests on:** A1; A2; *Other human bodies exist on evidence* (P-other-bodies)
+- **Rests on:** *I exist* (A1); *A human body, and its mind* (A2); *Other human bodies exist on evidence* (P-other-bodies)
 - **BASE hinges:** A1, A2
-- **Supports (live expansion):** —
+- **Supports (live):** —
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [edge_cases/](./)
-- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

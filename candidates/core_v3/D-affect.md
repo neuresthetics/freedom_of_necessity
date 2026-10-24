@@ -46,8 +46,8 @@ status: base (locked)
 - Spinoza, B. *Ethics*: E3D1; E3D2; E3D3; E3P9 Scholium; E3P11 Scholium. Quotations in Elwes 1883 wording, checked against `sources/spinoza/`.
 
 ## Hyper-connect
-
 - **Rests on:** *Work, and the seven works* (D-work); *Whole, degree, member, level, self-production, sameness* (D-whole); *Freedom, strict and by degree* (D-free); *A human body, and its mind* (A2)
 - **Supports:** *Bondage* (D-bondage); *Blessedness* (D-blessedness); *Bondage is acting from what is outside* (P4); *Blessedness is the power itself* (P5)
+- **Supports (expansion):** D-compassion, D-confused-knowledge, D-desire, D-joy, D-power-of-acting, D-public-affect, D-sadness, P-active-vs-passive, P-anger-can-repair, P-mind-tracks-body, P-pain
 - **Cap:** definition; adds nothing
-- **Live chain:** [CHAIN.md](CHAIN.md)
+- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md)

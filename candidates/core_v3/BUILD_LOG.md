@@ -476,3 +476,20 @@ No push. No thesis rewrite. Titles unchanged.
 - Prefer kept: freedom/wholes/mind, P19/P21 bridges, seed-novel pressure tests. Cut: thin Spinoza restates, affect catalog, thin practices/economy/language.
 - Not pushed.
 
+---
+
+## 2026-10-24 ~07:10 PT — Dependency management + further connect
+
+- **Author:** "Further connect. Dependency management is required."
+- **Action:**
+  1. Added stdlib checker [`tools/dep_check.py`](tools/dep_check.py) (validate live cites, cycles, rests-on, caps; `--fix-orphans`, `--sync-hc`, `--write-docs`).
+  2. **Orphan cites:** 19 parked-target cites across 14 live expansion entries → remapped to live BASE/expansion ids (0 cycles before/after).
+  3. Synced Hyper-connect on all **142** live entries (BASE Supports kept; **Supports (expansion)** filled; expansion reverse links).
+  4. Wrote [`DEPS.md`](DEPS.md) (reverse index), [`CAPS.md`](CAPS.md) (cap rules), refreshed CHAIN expansion mermaid + links.
+  5. Regenerated [`expansion/INDEX.md`](expansion/INDEX.md) cites/supports columns.
+- **Cycles found:** 0. **Cycles fixed:** 0 (none present).
+- **Orphan cites fixed:** 19 (all pointed at `expansion/PARKED/` or equivalent parked ids).
+- **Counts:** BASE **20** locked + expansion **122** = **142** in play. Parks untouched.
+- **BASE lock:** titles/ids/cap rules unchanged; Hyper-connect Supports (expansion) is connective tissue only.
+- **no push**
+

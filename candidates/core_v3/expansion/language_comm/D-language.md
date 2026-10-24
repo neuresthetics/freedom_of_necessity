@@ -27,10 +27,9 @@ kiln: 2026-10-24 strongest half
 **Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect
-
-- **Rests on:** P2; A4; *Clear knowledge of causes* (D-clear-knowledge)
+- **Rests on:** *A collective mind happens* (P2); *The society I live in is a whole to a degree* (A4); *Clear knowledge of causes* (D-clear-knowledge)
 - **BASE hinges:** P2, A4
-- **Supports (live expansion):** *Lie* (D-lie); *Naming stabilizes common notions* (P-naming)
+- **Supports (live):** *Lie* (D-lie); *Naming stabilizes common notions* (P-naming)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [language_comm/](./)
-- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

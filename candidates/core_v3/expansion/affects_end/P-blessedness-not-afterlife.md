@@ -26,10 +26,9 @@ kiln: 2026-10-24 strongest half
 **Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect
-
-- **Rests on:** P5; D-blessedness; *Death of the body* (D-death)
+- **Rests on:** *Blessedness is the power itself* (P5); *Blessedness* (D-blessedness); *Death of the body* (D-death)
 - **BASE hinges:** P5, D-blessedness
-- **Supports (live expansion):** —
+- **Supports (live):** —
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [affects_end/](./)
-- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

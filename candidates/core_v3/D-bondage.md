@@ -29,8 +29,8 @@ status: base (locked)
 - Spinoza, B. *Ethics*: E4 Preface.
 
 ## Hyper-connect
-
 - **Rests on:** *Freedom, strict and by degree* (D-free); *Affect, and change of power* (D-affect)
 - **Supports:** *Bondage is acting from what is outside* (P4)
+- **Supports (expansion):** D-degree-freedom-scale, P-addiction, P-compulsion, P-debt-bondage
 - **Cap:** definition; adds nothing
-- **Live chain:** [CHAIN.md](CHAIN.md)
+- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md)

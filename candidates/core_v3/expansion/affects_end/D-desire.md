@@ -26,10 +26,9 @@ kiln: 2026-10-24 strongest half
 **Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect
-
-- **Rests on:** D-affect; A2; D-work
+- **Rests on:** *Affect, and change of power* (D-affect); *A human body, and its mind* (A2); *Work, and the seven works* (D-work)
 - **BASE hinges:** D-affect, A2, D-work
-- **Supports (live expansion):** *Striving to persist* (D-strive)
+- **Supports (live):** *Striving to persist* (D-strive)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [affects_end/](./)
-- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

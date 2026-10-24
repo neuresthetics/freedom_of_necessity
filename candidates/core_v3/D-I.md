@@ -46,8 +46,8 @@ status: base (locked)
 - Spinoza, B. *Ethics*, E2D2, E2P11, E2P13.
 
 ## Hyper-connect
-
-- **Rests on:** (none)
+- **Rests on:** (none — root)
 - **Supports:** *I exist* (A1); *A human body, and its mind* (A2); *The society I live in is a whole to a degree* (A4); *A whole at one level, a part at the next* (P1); *Freedom, strict and by degree* (D-free); *Freedom by degrees under necessity* (P3)
+- **Supports (expansion):** D-first-person
 - **Cap:** definition; adds nothing
-- **Live chain:** [CHAIN.md](CHAIN.md)
+- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md)

@@ -27,10 +27,9 @@ kiln: 2026-10-24 strongest half
 **Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect
-
-- **Rests on:** A2; D-work; *First person* (D-first-person)
+- **Rests on:** *A human body, and its mind* (A2); *Work, and the seven works* (D-work); *First person* (D-first-person)
 - **BASE hinges:** A2, D-work
-- **Supports (live expansion):** *Narrative self* (D-narrative-self); *Amnesia cuts memory-work, not existence* (P-amnesia); *A promise binds memory and future control* (P-promise)
+- **Supports (live):** *Narrative self* (D-narrative-self); *Amnesia cuts memory-work, not existence* (P-amnesia); *A promise binds memory and future control* (P-promise)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [time_identity/](./)
-- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

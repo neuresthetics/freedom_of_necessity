@@ -4,7 +4,7 @@ type: expansion
 kind: proposition
 title: Naming stabilizes common notions
 confidence: pending (collider)
-cites: [D-common-notion-here, D-language, D-reason-know]
+cites: [D-language, D-reason-know, D-clear-knowledge]
 grows_from: knowledge
 group: language_comm
 batch: 2
@@ -20,16 +20,16 @@ kiln: 2026-10-24 strongest half
 
 **Statement.** Stable names help reason hold common patterns across cases; misuse of names feeds confusion.
 
-**Cites.** D-common-notion-here, D-language, D-reason-know.
+**Cites.** D-language, D-reason-know, D-clear-knowledge.
 
 **Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
 
 **Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect
-
-- **Rests on:** D-common-notion-here; *Language as shared signaling* (D-language); *Reason (second kind of knowing)* (D-reason-know)
-- **Supports (live expansion):** —
+- **Rests on:** *Language as shared signaling* (D-language); *Reason (second kind of knowing)* (D-reason-know); *Clear knowledge of causes* (D-clear-knowledge)
+- **BASE hinges:** —
+- **Supports (live):** —
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [language_comm/](./)
-- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

@@ -27,10 +27,9 @@ kiln: 2026-10-24 strongest half
 **Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect
-
-- **Rests on:** P2; P4; P19
+- **Rests on:** *A collective mind happens* (P2); *Bondage is acting from what is outside* (P4); *Degree of whole tracks degree of freedom only loosely* (P19)
 - **BASE hinges:** P2, P4, P19
-- **Supports (live expansion):** —
+- **Supports (live):** —
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [economy_tech/](./)
-- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

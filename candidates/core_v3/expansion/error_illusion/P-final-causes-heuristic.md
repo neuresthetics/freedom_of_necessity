@@ -27,10 +27,9 @@ kiln: 2026-10-24 strongest half
 **Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect
-
-- **Rests on:** *Nature taken as one* (D-Nature-one); *Imagination (first kind of knowing)* (D-imagination-know); A5
+- **Rests on:** *Nature taken as one* (D-Nature-one); *Imagination (first kind of knowing)* (D-imagination-know); *Every event is caused* (A5)
 - **BASE hinges:** A5
-- **Supports (live expansion):** *Nihilism often confuses missing cosmic purpose with missing local good* (P-nihilism-confused)
+- **Supports (live):** *Nihilism often confuses missing cosmic purpose with missing local good* (P-nihilism-confused)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [error_illusion/](./)
-- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

@@ -48,8 +48,8 @@ status: base (locked)
 - Spinoza, B. *Ethics*: E1D7; E1P17 Corollary 2; E1P28; E3D1; E3D2; E4P66 Note; E5P42. Quotations in Elwes 1883 wording, checked against `sources/spinoza/ethics_elwes_1883.txt`.
 
 ## Hyper-connect
-
-- **Rests on:** *Work, and the seven works* (D-work); *What exists* (D-exist); *What "I" names* (D-I); *Every event is caused* (A5)
+- **Rests on:** *What "I" names* (D-I); *What exists* (D-exist); *Work, and the seven works* (D-work); *Every event is caused* (A5)
 - **Supports:** *Freedom by degrees under necessity* (P3); *Affect, and change of power* (D-affect); *Bondage* (D-bondage); *Blessedness* (D-blessedness); *Bondage is acting from what is outside* (P4); *Blessedness is the power itself* (P5); *Degree of whole tracks degree of freedom only loosely* (P19); *Society can be freer without feeling* (P21)
+- **Supports (expansion):** D-Nature-one, D-clear-knowledge, D-confused-knowledge, D-degree-freedom-scale, P-exit-voice, P-title-claim
 - **Cap:** definition; adds nothing
-- **Live chain:** [CHAIN.md](CHAIN.md)
+- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md)

@@ -4,7 +4,7 @@ type: expansion
 kind: proposition
 title: Nihilism often confuses missing cosmic purpose with missing local good
 confidence: pending (collider)
-cites: [D-good-relative, P-final-causes-heuristic, P5]
+cites: [P5, P-final-causes-heuristic, D-blessedness]
 grows_from: value
 group: cosmology_value
 batch: 2
@@ -18,19 +18,18 @@ kiln: 2026-10-24 strongest half
 
 **Expansion from BASE (batch 2).** Not a BASE rewrite. Grows from: value. Locked spine: [BASE.md](../../BASE.md).
 
-**Statement.** Rejecting final-cause cosmos does not erase relative good/bad for organizations (D-good-relative).
+**Statement.** Rejecting final-cause cosmos does not erase blessedness as power of acting (P5, D-blessedness); missing cosmic purpose ≠ missing local power.
 
-**Cites.** D-good-relative, P-final-causes-heuristic, P5.
+**Cites.** P5, P-final-causes-heuristic, D-blessedness.
 
 **Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
 
 **Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect
-
-- **Rests on:** D-good-relative; *Final-cause talk is often heuristic imagination* (P-final-causes-heuristic); P5
-- **BASE hinges:** P5
-- **Supports (live expansion):** —
+- **Rests on:** *Blessedness is the power itself* (P5); *Final-cause talk is often heuristic imagination* (P-final-causes-heuristic); *Blessedness* (D-blessedness)
+- **BASE hinges:** P5, D-blessedness
+- **Supports (live):** —
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [cosmology_value/](./)
-- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

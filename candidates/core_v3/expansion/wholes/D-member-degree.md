@@ -26,10 +26,9 @@ kiln: 2026-10-24 strongest half
 **Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect
-
-- **Rests on:** D-whole; A4
+- **Rests on:** *Whole, degree, member, level, self-production, sameness* (D-whole); *The society I live in is a whole to a degree* (A4)
 - **BASE hinges:** D-whole, A4
-- **Supports (live expansion):** *Tool* (D-tool); *Pregnancy nests wholes* (P-pregnancy-levels); *A robot can be a member without being a self-producer* (P-robot-member)
+- **Supports (live):** *Tool* (D-tool); *Pregnancy nests wholes* (P-pregnancy-levels); *A robot can be a member without being a self-producer* (P-robot-member)
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [wholes/](./)
-- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

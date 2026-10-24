@@ -64,8 +64,8 @@ The words in the test questions (edge, signal, information, energy, material, ag
 - Mossio, M., Saborido, C. & Moreno, A. (2009). An organizational account of biological functions. *British Journal for the Philosophy of Science* 60(4), 813–841. doi:10.1093/bjps/axp036
 
 ## Hyper-connect
-
 - **Rests on:** *What exists* (D-exist)
 - **Supports:** *Whole, degree, member, level, self-production, sameness* (D-whole); *The seven works sort things the way self-production does* (A3); *The society I live in is a whole to a degree* (A4); *A whole at one level, a part at the next* (P1); *A collective mind happens* (P2); *Freedom, strict and by degree* (D-free); *Freedom by degrees under necessity* (P3); *Affect, and change of power* (D-affect); *Bondage is acting from what is outside* (P4)
+- **Supports (expansion):** D-death, D-desire, D-memory-personal, D-strive, D-tool, D-war, D-work-F1, D-work-F2, D-work-F3, D-work-F4, D-work-F5, D-work-F6, D-work-F7, P-addiction, P-evolution, P-habit-can-bond, P-law-as-memory, P-locked-in, P-machine-not-self-producer, P-pain, P-repair-raises-degree, P-take-apart-test, P-virus-edge, PR-same-requirement
 - **Cap:** definition; adds nothing
-- **Live chain:** [CHAIN.md](CHAIN.md)
+- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md)

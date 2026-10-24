@@ -4,7 +4,7 @@ type: expansion
 kind: proposition
 title: Stacked small habits compound degree-freedom
 confidence: pending (collider)
-cites: [D-habit-time, P-rehearsal, P3]
+cites: [P3, P-habit-can-bond, D-clear-knowledge]
 grows_from: P3
 group: practices
 batch: 2
@@ -20,17 +20,16 @@ kiln: 2026-10-24 strongest half
 
 **Statement.** Many small clear habits can raise freer default action more than rare heroic choices.
 
-**Cites.** D-habit-time, P-rehearsal, P3.
+**Cites.** P3, P-habit-can-bond, D-clear-knowledge.
 
 **Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
 
 **Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect
-
-- **Rests on:** D-habit-time; P-rehearsal; P3
+- **Rests on:** *Freedom by degrees under necessity* (P3); *Habit can be bondage or stored freedom* (P-habit-can-bond); *Clear knowledge of causes* (D-clear-knowledge)
 - **BASE hinges:** P3
-- **Supports (live expansion):** —
+- **Supports (live):** —
 - **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [practices/](./)
-- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md)
+- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)
