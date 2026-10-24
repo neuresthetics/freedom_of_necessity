@@ -6,7 +6,11 @@
 
 **Labels.** Each entry has a human title first. Machine ids (`A1`, `D-I`, `D-exist`) stay in front matter and filenames so the harness and later promotion keep a stable key. In tables below, read the title column; the id is secondary.
 
-## Live chain
+## The seed
+
+These three entries are **the seed** of the restarted chain: one axiom, *I exist* (A1), and the two definitions that ground its words, *What "I" names* (D-I) and *What exists* (D-exist). Saved as the seed at the author's word (2026-10-23 PT). Everything rebuilt later grows from these three and cites back to them.
+
+## Live chain (seed)
 
 | # | Title | Id | Kind | Statement (one line) | Rests on |
 |---|---|---|---|---|---|

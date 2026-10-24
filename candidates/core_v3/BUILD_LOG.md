@@ -79,3 +79,11 @@ Also skimmed: `candidates/freedom/BUILD_LOG.md` (log format), `LOG.md` (newest-f
 - **Also:** README live-chain table and mermaid; PARKED tables (title first, using archive titles for parked entries); body openings on the three live files.
 - **Filenames:** unchanged.
 - No push.
+
+---
+
+## 2026-10-23 ~22:30 PT — Seed saved
+
+- Author: **save those three as the seed.**
+- *I exist* (A1), *What "I" names* (D-I), *What exists* (D-exist) are now named **the seed** of the restarted chain. No wording change to the entries; README gains a "The seed" section.
+- Not pushed.

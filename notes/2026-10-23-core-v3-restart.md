@@ -26,3 +26,7 @@ What comes next after A1 — body, mind, Nature, or something else?
 ## Human-readable labels (same day)
 
 Titles lead; machine ids stay in front matter and filenames. See `candidates/core_v3/README.md`.
+
+## Seed (2026-10-23 ~22:30 PT)
+
+At the author's word, the three live entries are saved as **the seed**: *I exist* (A1), *What "I" names* (D-I), *What exists* (D-exist). The rebuild grows from here.
