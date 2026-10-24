@@ -2,6 +2,10 @@
 
 A dated record of what was tested and what changed, newest first. Times are Pacific (PT).
 
+## 2026-10-23 — Core v3: Group 2 wholes block (not pushed)
+
+After A2, added D-work, D-whole, A3 (pending), PR1 (explains, no score). Nature / society / freedom still parked. Stop for review. See [candidates/core_v3/](candidates/core_v3/README.md).
+
 ## 2026-10-23 — Core v3: grow from seed with A2 (not pushed)
 
 After the seed (*I exist*, *What "I" names*, *What exists*), added [*A human body, and its mind*](candidates/core_v3/A2.md) (A2): empirical axiom citing A1; clause (a) pending collider; clause (b) declared reading. Body/mind before Nature. See [candidates/core_v3/BUILD_LOG.md](candidates/core_v3/BUILD_LOG.md).

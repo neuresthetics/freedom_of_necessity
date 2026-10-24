@@ -44,3 +44,17 @@ Author: start with the seed and go.
 **Open forks:** extract organization/mind/first-person as definitions; keep (a)+(b) in one entry (default); score now or leave pending (default: pending).
 
 Local commit only; not pushed (seed `f52911c` was the last push).
+
+## Group 2 block (2026-10-23 ~22:35 PT)
+
+Author: go — keep deriving; stop after a coherent block for review.
+
+**Added:**
+- *Work, and the seven works* (D-work)
+- *Whole, degree, member, level, self-production, sameness* (D-whole)
+- *The seven works sort things the way self-production does* (A3) — pending
+- *Pattern by requirement* (PR1) — explains; adds no confidence
+
+**Still parked:** D-Nature, A4, P1, P2, freedom.
+
+**Stop for review** before society / Nature / freedom. Local only; not pushed.

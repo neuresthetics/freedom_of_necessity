@@ -131,3 +131,27 @@ Also skimmed: `candidates/freedom/BUILD_LOG.md` (log format), `LOG.md` (newest-f
 - `LOG.md` (newest-first entry)
 
 `entries/` not modified. `candidates/core_v2/` not modified. No push.
+
+---
+
+## 2026-10-23 ~22:35 PT — Group 2 block: work, whole, A3, PR1
+
+- **Author:** "go" — keep deriving; one unified entry; scores pending; do not stop for forks unless a wrong guess breaks the method; coherent next block then stop for review; no full-core rebuild; commit locally; no push.
+
+### Decision D8 — Next block is wholes apparatus, not Nature or society
+
+- **Chose:** D-work → D-whole → A3 → PR1 as one block.
+- **Why (geometric):** After A2, the chain has a body and an organization but no measure of wholeness. To say whether this body (or anything) is a whole, and to prepare levels/society later, the book needs (i) a definition of work and the seven works, (ii) a definition of whole/degree/member/self-production/sameness, (iii) a model axiom that the seven-work measure agrees with self-production where both can be checked, (iv) an explaining principle that adds no score. Nature is outside D-whole's finite domain and was a separate collision — leave parked. Society (A4) and P1/P2 need A3's measure first — leave for the next block after review.
+- **Rejected:** jump to A4/P1 (missing measure); Nature first (not required by A1+A2; domain note in D-whole is enough); full core rebuild in one pass (brief: stop for review).
+
+### Decision D9 — Adapt archive text, do not invent a new seven-work scheme
+
+- **Chose:** rebuild from core_v2 D-work / D-whole / A3 / PR1 with v3 coherence edits.
+- **Why:** those texts already embed the collisions (nature domain, sameness Def 12, Mossio (b), robot hard case). Rewriting the measure from scratch would break method without new evidence.
+- **Edits:** human titles; `status: candidate (core v3)`; `scored_as` on A3/PR1; no Kisner; "digital intelligence"; drop live forward dependence on A4/P1/P2/D-Nature; archive collision links kept as `../core_v2/...`; A2 pointed at D-work for "organization"; A2 open-fork scholium replaced by defaults already chosen.
+
+### Files
+
+- new/updated: `D-work.md`, `D-whole.md`, `A3.md`, `PR1.md`, `A2.md` (coherence), `README.md`, `PARKED.md`, this log, note, `LOG.md`
+- untouched: `entries/`, `candidates/core_v2/`, freedom candidates
+- no push
