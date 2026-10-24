@@ -4,11 +4,11 @@ Retired from the live chain on 2026-10-23 PT. Not deleted. Full text lives in [c
 
 Titles below are human labels; ids are the machine keys from the archive.
 
-## Former group 1 (after I exist)
+## Returned to the live chain
 
-| Title | Id | Was | Where archived |
-|---|---|---|---|
-| A human body, and its mind | A2 | axiom, empirical | `candidates/core_v2/A2.md`, `entries/A2.md` |
+| Title | Id | Status |
+|---|---|---|
+| A human body, and its mind | A2 | **Live in core v3** as a rewrite ([A2.md](A2.md)). Archive copies remain in `candidates/core_v2/A2.md` and `entries/A2.md`. |
 
 ## Former group 2 (wholes)
 
@@ -36,4 +36,4 @@ Titles below are human labels; ids are the machine keys from the archive.
 | Freedom (strict and by degree) | D-free | definition | `candidates/freedom/D-free.md` |
 | Freedom by degrees under necessity | P3 | proposition | `candidates/freedom/P3.md` |
 
-Nothing here is live in core v3. Rebuild is open.
+Nothing in the tables above (except the returned A2) is live in core v3. Rebuild continues from the seed through A2.

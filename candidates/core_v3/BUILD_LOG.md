@@ -87,3 +87,47 @@ Also skimmed: `candidates/freedom/BUILD_LOG.md` (log format), `LOG.md` (newest-f
 - Author: **save those three as the seed.**
 - *I exist* (A1), *What "I" names* (D-I), *What exists* (D-exist) are now named **the seed** of the restarted chain. No wording change to the entries; README gains a "The seed" section.
 - Not pushed.
+
+---
+
+## 2026-10-23 ~22:32 PT — Grow from the seed: A2
+
+- **Author:** "ok, now, start with that, and go" (seed already pushed as `f52911c`).
+- **Brief:** from A1 alone, derive the next entry by geometric method; prefer body/mind over Nature; do not blindly copy core_v2; human-readable title; commit locally only; no push.
+
+### Inputs read (this step)
+
+| Path | Role |
+|---|---|
+| `candidates/core_v3/{A1,D-I,D-exist,README,BUILD_LOG,PARKED}.md` | live seed |
+| `candidates/core_v2/A2.md` / `entries/A2.md` | parked reference (same text) |
+| `METHOD.md`, `HOW_THIS_BOOK_IS_BUILT.md` | kinds, caps, declared reading |
+| `candidates/core_v2/README.md` (order + Group 1) | why A2 sat after A1 historically |
+
+### Decision D5 — Next entry is A2 (body/mind), not Nature
+
+- **Chose:** write *A human body, and its mind* (A2) as the next live axiom after the seed.
+- **Why (geometric):** A1 explicitly leaves open what the I is. The next load-bearing claim is an answer to that question. It cannot be deduced from A1; it is a new empirical axiom that cites A1 for its subject. Nature, wholes, and society each need more than one body or a measure of wholeness, which this chain does not have yet. Body/mind is the direct fill of A1's gap.
+- **Rejected:** Nature first (needs plurality / D-Nature apparatus). Wholes first (needs D-work / D-whole). A bare "I think" proposition (already inside A1's defined-terms restatement). Blind copy of core_v2 A2 (forward cites to D-work and P1 would re-attach parked chain).
+
+### Decision D6 — Rebuild, not copy
+
+- Kept: two-clause structure; (a) scored empirical / (b) declared reading unscored; lesion + cell evidence; Spinoza cites by part and proposition; hard-problem limit; A1 cite caps nothing.
+- Changed for v3: no forward cites to D-work, D-whole, or P1; "digital intelligence" in Scholium 1; open forks named in Scholium 2; `scored_as` and status fields for harness; "Why this follows the seed" section; sameness explicitly not claimed here.
+- Inline stipulations for organization / mind / first–third person left inline (fork: extract as definitions later).
+
+### Decision D7 — Confidence
+
+- **Chose:** `pending (collider)`. No self-score this step.
+- **Why:** METHOD / standing practice for empirical axioms until the collider runs.
+
+### Files written or updated
+
+- `candidates/core_v3/A2.md` (new)
+- `candidates/core_v3/README.md` (live chain + mermaid + caps + open forks)
+- `candidates/core_v3/PARKED.md` (A2 marked returned to live)
+- `candidates/core_v3/BUILD_LOG.md` (this step)
+- `notes/2026-10-23-core-v3-restart.md` (growth note)
+- `LOG.md` (newest-first entry)
+
+`entries/` not modified. `candidates/core_v2/` not modified. No push.

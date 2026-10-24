@@ -2,6 +2,10 @@
 
 A dated record of what was tested and what changed, newest first. Times are Pacific (PT).
 
+## 2026-10-23 — Core v3: grow from seed with A2 (not pushed)
+
+After the seed (*I exist*, *What "I" names*, *What exists*), added [*A human body, and its mind*](candidates/core_v3/A2.md) (A2): empirical axiom citing A1; clause (a) pending collider; clause (b) declared reading. Body/mind before Nature. See [candidates/core_v3/BUILD_LOG.md](candidates/core_v3/BUILD_LOG.md).
+
 ## 2026-10-23 — Core v3: human-readable labels (not pushed)
 
 Titles lead (*I exist*, *What "I" names*, *What exists*); machine ids and filenames unchanged. See `candidates/core_v3/BUILD_LOG.md`.

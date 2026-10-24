@@ -30,3 +30,17 @@ Titles lead; machine ids stay in front matter and filenames. See `candidates/cor
 ## Seed (2026-10-23 ~22:30 PT)
 
 At the author's word, the three live entries are saved as **the seed**: *I exist* (A1), *What "I" names* (D-I), *What exists* (D-exist). The rebuild grows from here.
+
+## Growth from the seed (2026-10-23 ~22:32 PT)
+
+Author: start with the seed and go.
+
+**Added:** *A human body, and its mind* (A2) — empirical axiom, confidence pending. Cites A1. Clause (a) scored on evidence when the collider runs; clause (b) declared reading, unscored. Why anything is felt left open.
+
+**Why next:** A1 says that I exist and nothing about what I am. Body/mind answers that before Nature or wholes, which need more machinery.
+
+**Still parked:** A3, A4, PR1, P1, P2, D-work, D-whole, D-Nature, freedom candidates.
+
+**Open forks:** extract organization/mind/first-person as definitions; keep (a)+(b) in one entry (default); score now or leave pending (default: pending).
+
+Local commit only; not pushed (seed `f52911c` was the last push).
