@@ -177,34 +177,47 @@ A5 (own) ──► P3, P4, P5
 
 ## Expansion from BASE (radical)
 
-**Not BASE.** Grown from the locked twenty. Volume over polish. **Count: 109** new entries in [expansion/](expansion/). Full table: [expansion/INDEX.md](expansion/INDEX.md).
+**Not BASE.** Grown from the locked twenty. Volume over polish.
+
+**Count: 248** expansion entries in [expansion/](expansion/) (batch 1: 109 + batch 2: 139). Full table: [expansion/INDEX.md](expansion/INDEX.md).
 
 Do not treat expansion rows as locked. PARKED_VOLUME stays parked unless re-grown with BASE cites.
 
-### Groups
+### Groups (all batches)
 
-| Group | Path | Count | Grows from (BASE hinge) |
-|---|---|---|---|
-| Body and mind | [expansion/body_mind/](expansion/body_mind/) | 12 | A1, A2, D-I, D-exist |
-| Wholes and works | [expansion/wholes/](expansion/wholes/) | 18 | D-work, D-whole, A3, P1 |
-| Society | [expansion/society/](expansion/society/) | 14 | A4, P2, P21 |
-| Necessity and freedom | [expansion/necessity_freedom/](expansion/necessity_freedom/) | 15 | A5, D-free, P3, P4 |
-| Affects and end | [expansion/affects_end/](expansion/affects_end/) | 15 | D-affect, P4, P5 |
-| Nature and knowledge | [expansion/nature_knowledge/](expansion/nature_knowledge/) | 12 | D-free, A5, P3 |
-| Bridges | [expansion/bridges/](expansion/bridges/) | 10 | P19, P21 |
-| Politics and ethics | [expansion/politics_ethics/](expansion/politics_ethics/) | 8 | A4, P3, P21 |
-| Method | [expansion/method/](expansion/method/) | 5 | chain rules |
+| Group | Path | Notes |
+|---|---|---|
+| Body and mind | [expansion/body_mind/](expansion/body_mind/) | batch 1 |
+| Wholes and works | [expansion/wholes/](expansion/wholes/) | batch 1 |
+| Society | [expansion/society/](expansion/society/) | batch 1 |
+| Necessity and freedom | [expansion/necessity_freedom/](expansion/necessity_freedom/) | batch 1 |
+| Affects and end | [expansion/affects_end/](expansion/affects_end/) | batch 1 |
+| Nature and knowledge | [expansion/nature_knowledge/](expansion/nature_knowledge/) | batch 1 |
+| Bridges | [expansion/bridges/](expansion/bridges/) | batch 1 |
+| Politics and ethics | [expansion/politics_ethics/](expansion/politics_ethics/) | batch 1 |
+| Method | [expansion/method/](expansion/method/) | batch 1 |
+| Time and identity | [expansion/time_identity/](expansion/time_identity/) | batch 2 |
+| Edge cases | [expansion/edge_cases/](expansion/edge_cases/) | batch 2 |
+| Language and communication | [expansion/language_comm/](expansion/language_comm/) | batch 2 |
+| Economy and tech | [expansion/economy_tech/](expansion/economy_tech/) | batch 2 |
+| More affects | [expansion/affects_more/](expansion/affects_more/) | batch 2 |
+| Practices | [expansion/practices/](expansion/practices/) | batch 2 |
+| Conflict and peace | [expansion/conflict_peace/](expansion/conflict_peace/) | batch 2 |
+| Error and illusion | [expansion/error_illusion/](expansion/error_illusion/) | batch 2 |
+| Digital mind | [expansion/digital_mind/](expansion/digital_mind/) | batch 2 |
+| Cosmology and value | [expansion/cosmology_value/](expansion/cosmology_value/) | batch 2 |
+| Biology deep | [expansion/biology_deep/](expansion/biology_deep/) | batch 2 |
 
-**Totals:** BASE **20** locked + expansion **109** = **129** files in play (plus parked volume separate).
+**Totals:** BASE **20** locked + expansion **248** = **268** in play (parked volume separate).
 
 ### Sample spine → expansion
 
 ```
-BASE A2 → expansion/body_mind (cell, organism, death, habit…)
-BASE A3/D-whole → expansion/wholes (seven works unpacked, tumor, colony…)
-BASE A4/P2/P21 → expansion/society (law, market, propaganda, corporation…)
-BASE A5/P3 → expansion/necessity_freedom (cause, compulsion, therapy…)
-BASE D-affect/P5 → expansion/affects_end (joy, desire, virtue=power…)
-BASE P19/P21 → expansion/bridges (cult, AI collective, title claim…)
+BASE A2 → body_mind, time_identity, edge_cases, biology_deep, digital_mind
+BASE A3/D-whole → wholes, biology_deep, edge_cases
+BASE A4/P2/P21 → society, language_comm, economy_tech, conflict_peace
+BASE A5/P3 → necessity_freedom, error_illusion, practices, cosmology_value
+BASE D-affect/P5 → affects_end, affects_more, practices
+BASE P19/P21 → bridges, conflict_peace, economy_tech
 ```
 

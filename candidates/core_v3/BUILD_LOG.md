@@ -456,3 +456,13 @@ No push. No thesis rewrite. Titles unchanged.
 - **Not done:** Blind unpark of PARKED_VOLUME (72 still parked). No collider scores. No push.
 - **Counts:** BASE **20** locked + expansion **109** = **129** in play; parked volume **72** separate.
 - **Untouched:** `entries/`, `candidates/core_v2/`, BASE entry bodies beyond lock badges.
+
+---
+
+## 2026-10-24 ~06:56 PT — Radical expand batch 2
+
+- **Author:** "Expand further."
+- **Action:** Keep BASE 20 locked. Add **139** new expansion entries in 11 new groups under `expansion/`. Rebuild [expansion/INDEX.md](expansion/INDEX.md). Update CHAIN/README/BUILD_LOG.
+- **Counts:** BASE **20** + expansion **248** (was 109) = **268** in play; PARKED_VOLUME **72** untouched.
+- **New groups:** time_identity, edge_cases, language_comm, economy_tech, affects_more, practices, conflict_peace, error_illusion, digital_mind, cosmology_value, biology_deep.
+- **no push**

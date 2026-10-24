@@ -19,7 +19,7 @@
 
 ## Expansion from BASE
 
-**Radical expand (2026-10-24 PT):** **109** new entries under [expansion/](expansion/) in 9 groups. Index: [expansion/INDEX.md](expansion/INDEX.md). Grown from BASE cites — not a blind unpark of [PARKED_VOLUME/](PARKED_VOLUME/).
+**Radical expand (2026-10-24 PT):** **248** expansion entries under [expansion/](expansion/) across 20 groups (batch 1: 109, batch 2: +139). Index: [expansion/INDEX.md](expansion/INDEX.md). Grown from BASE cites — not a blind unpark of [PARKED_VOLUME/](PARKED_VOLUME/).
 
 ## BASE — 20 locked load-bearing entries
 
