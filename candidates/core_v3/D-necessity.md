@@ -20,7 +20,7 @@ status: candidate (core v3)
 
 **Definition 27 (necessary / constrained).** A thing is *necessary*, or rather *constrained*, when it is determined by something external to itself to a fixed and definite method of existence or action (E1D7).
 
-**Relation to A5.** *Every event is caused* (A5) says each event has a cause. Constraint says the determination comes from outside the thing own nature. Nature taken as one is free in the strict sense; finite modes are constrained to some degree.
+**Relation to A5.** *Every event is caused* (A5) says each event has a cause. Constraint says the determination comes from outside the thing's own nature. Nature taken as one is free in the strict sense; finite modes are constrained to some degree.
 
 **Limit.** Definition. Adds no confidence.
 

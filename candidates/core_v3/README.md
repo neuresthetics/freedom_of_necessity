@@ -6,6 +6,8 @@
 
 **Volume expansion (2026-10-24 PT).** Author: worry less about accuracy; expand as much as possible. Live set jumped from **19 → 92** entries covering remaining Spinoza ground (substance/modes, kinds of knowledge, affects, good/bad, politics, eternity) plus consciousness/levels/causality variants from this seed. Scores stay pending/rough except A1.
 
+**Kiln (2026-10-24 PT).** Coherence fire on the 92: prefer harden over shrink. A3 YAML fixed; A7/A9 cite A5; bondage/blessedness defs stand before their props; thin expansion props got stated sense, how-it-fails, and Caps; soft "rough/maybe/agent own" tightened. Count still **92**. Details: [BUILD_LOG.md](BUILD_LOG.md), [CHAIN.md](CHAIN.md).
+
 **Labels.** Each entry has a human title first. Machine ids stay in front matter and filenames. In tables below, read the title column; the id is secondary.
 
 **Chain file.** Full table with confidence and cites: [CHAIN.md](CHAIN.md) (92 rows). Spinoza map: [SPINOZA_GROUND.md](SPINOZA_GROUND.md).
@@ -100,6 +102,7 @@ graph TD
 4. **Extend from this seed.** Spinoza's ground is covered by extending outward, not by copying the *Ethics* part-order as axioms.
 5. **Volume over polish** when the author says so (2026-10-24 PT pass).
 6. **Not pushed** for rebuild steps after the seed unless the author says so.
+7. **Kiln after volume** hardens coherence without shrinking the set (2026-10-24 PT).
 
 ## What this chain does not yet settle
 

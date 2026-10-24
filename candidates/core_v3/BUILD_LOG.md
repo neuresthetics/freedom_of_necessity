@@ -328,3 +328,54 @@ No push. No thesis rewrite. Titles unchanged.
 - generator scratch: `tmp/gen_expand.py` (box only; not part of the book)
 - untouched: `entries/`, `candidates/core_v2/`, freedom collision archive
 - **no push**
+
+---
+
+## 2026-10-24 ~05:41 PT — Kiln the live chain (92)
+
+- **Author:** "Kiln it" (from machine).
+- **Brief:** fire for coherence — soft wording, missing supports, circular cites, undeclared readings, confidence caps, METHOD; prefer harden over shrink; update CHAIN/BUILD_LOG/README; commit locally; **do NOT push**.
+
+### Stress checklist (METHOD)
+
+| Check | Finding |
+|---|---|
+| Soft / stale wording | A9 "rough" + grammar ("organization works has"); P16 "rough"; D-contingent/P7 "maybe"; P10/P11 "agent own"; D-consciousness/D-necessity missing possessives; P4 "unclearknown". Fixed. |
+| Missing supports | A7 and A9 named A5 as companion but cited nothing — now cite A5; caps `min(own, A5)`. Thin props lacked stated sense / how-it-fails / Cap prose — added without inventing new claims. |
+| Circularity | No mutual cite cycles. D-bondage / D-blessedness pointed at P4/P5 while defining the words those props use — reversed: defs stand alone on D-free/D-power; props derive. D-level terms no longer list P1 as a term-dep. |
+| Undeclared readings | P17 God=Nature bulk already declared; reinforced METHOD rule 6. D-consciousness ties first-person side to A2(b) as unscored. A6 uniqueness remains weaker than full E1P14 (stated). |
+| Confidence caps | A7/A9 updated in CHAIN caps table. P21 stays conjecture-grade. A1=1.0 only scored number. Definitions/PR1/PR2/OP1 add nothing. |
+| YAML / harness | A3 `scored_as` had unescaped `A4's` (parser break) — fixed. All 92 frontmatters parse. |
+| Coherence with METHOD | Explanation adds nothing (PR2 Limit); stated sense vs declared reading kept; open problem (OP1) remains unscored. |
+
+### Hardened (coherence only; count still 92)
+
+1. **A3** — YAML-safe `scored_as`.
+2. **A6** — clearer why-follows (uniqueness slot, not full E1P14).
+3. **A7** — cites A5; Cap = min(own, A5).
+4. **A8** — stated sense, what-would-lower, Cap prose.
+5. **A9** — grammar; drop "rough"; cites A5; stated sense; Cap = min(own, A5).
+6. **P4** — "unclearly known".
+7. **P6–P21** (thin expansion props) — stated sense and/or how-it-fails and Cap prose; P10/P11 possessive; P16 drop rough; P17 declared bulk reinforced; P21 conjecture-grade kept explicit.
+8. **D-bondage, D-blessedness** — stand before props; no definitional dependence on P4/P5.
+9. **D-contingent, D-consciousness, D-necessity, D-level, D-named-affects, OP1, PR2** — soft wording / order / Limit / METHOD notes.
+10. **CHAIN.md** — regenerated from frontmatter; kiln banner; A7/A9 caps; 92 rows.
+11. **README.md** — kiln status + rule 7.
+
+### Still soft (not faked hard)
+
+- A2–A9 and P1–P21 pending collider (only A1 = 1.0).
+- A3 hard cases (bacterial transport F1, robot F2, RBC memory F3) unchanged.
+- A6 weaker than full Part I geometric sequence; P16/P17/P20 eternity/intellectual-love remain candidate / declared-heavy.
+- P21 conjecture-grade collective freedom.
+- Named-affect catalog (D-named-affects) not separately collided.
+- OP1 hard problem open.
+- Promotion into `entries/` still needs a separate author OK.
+- Volume-era defs (many Group 6–13 D-* files) stay thin by design; kiln clarified order and METHOD, did not expand them into full scholia.
+
+### Files touched
+
+- Entries: A3, A6–A9, P4, P6–P21, D-bondage, D-blessedness, D-contingent, D-consciousness, D-necessity, D-level, D-named-affects, OP1, PR2 (and YAML escape cleanups on A9/P10/D-blessedness/D-consciousness).
+- Indexes: `CHAIN.md`, `README.md`, this log.
+- Untouched: `entries/`, `candidates/core_v2/`, freedom collision archive, thesis/verse drafts.
+- **no push**

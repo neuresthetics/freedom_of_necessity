@@ -4,20 +4,22 @@ type: definition
 kind: definition
 title: Blessedness
 cites: []
-terms: [P5, D-power, D-free]
+terms: [D-power, D-free, D-affect]
 qualifiers:
   - 'blessedness'
   - 'power itself'
   - 'not a reward'
   - 'adds no confidence'
-scored_as: 'Definition aligning blessedness with P5: power of acting as it rises with degree-freedom; not a reward after. Adds no confidence.'
+scored_as: 'Definition: blessedness, in this chain''s working sense, is power of acting as it rises with degree-freedom — not a reward paid afterward (E5P42 pattern). Adds no confidence. P5 derives the proposition; this entry only fixes the word.'
 status: candidate (core v3)
 ---
 **Blessedness** *(definition, id: D-blessedness)*.
 
-**Why this follows.** Give P5 key word a definition home.
+**Why this follows.** The upward end of degree-freedom needs a word of its own before the proposition that derives it (*Blessedness is the power itself*, P5).
 
-**Definition 70 (blessedness).** *Blessedness*, in this chain working sense, is power of acting (*Power of acting*, D-power) as it rises with degree-freedom (*Freedom, strict and by degree*, D-free) — the same claim as *Blessedness is the power itself* (P5), not a reward paid afterward (E5P42 pattern).
+**Definition 70 (blessedness).** *Blessedness*, in this chain's working sense, is power of acting (*Power of acting*, D-power; *Affect, and change of power*, D-affect) as it rises with degree-freedom (*Freedom, strict and by degree*, D-free) — not a reward paid afterward (E5P42 pattern).
+
+**Order.** This definition fixes the word. P5 derives the degree claim under A5 and P3; it does not redefine blessedness. Full intellectual-love close remains declared report where P5/P17 say so.
 
 **Limit.** Definition. Adds no confidence.
 

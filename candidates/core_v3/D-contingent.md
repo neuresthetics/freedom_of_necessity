@@ -16,7 +16,7 @@ status: candidate (core v3)
 ---
 **Contingent as incomplete knowledge** *(definition, id: D-contingent)*.
 
-**Why this follows.** After A5, maybe needs a Spinozist reading that does not smuggle libertarian gaps.
+**Why this follows.** After *Every event is caused* (A5), talk of contingency needs a Spinozist reading that does not smuggle libertarian gaps.
 
 **Definition 28 (contingent, working sense).** We call a thing *contingent* when, attending to its essence alone, we find nothing that necessarily posits its existence or excludes it, and we have not yet determined whether the causes that would posit or exclude it are given (E1P33 Scholium 1 pattern).
 

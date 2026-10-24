@@ -19,7 +19,9 @@ status: candidate (core v3)
 
 **Principle 2.** Where the same causal structure holds, the same affect-pattern turns up, in forms that differ from level to level (*Pattern by requirement*, PR1, applied to *Affect...*, D-affect).
 
-**Adds no confidence.** Explains alignment of names; does not raise P4, P5, or any affect entry.
+**Adds no confidence.** Explains alignment of names; does not raise P4, P5, or any affect entry (METHOD rule 4).
+
+**Limit.** Principle. Same role as PR1: explains; never raises a score.
 
 **References.**
 - (Extension of PR1 inside this chain.)
