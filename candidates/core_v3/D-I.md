@@ -2,7 +2,7 @@
 id: D-I
 type: definition
 kind: definition
-title: I
+title: What "I" names
 cites: []
 terms: []
 qualifiers:
@@ -14,7 +14,7 @@ scored_as: 'Definition of the word "I": used in a thought, it names the thinker 
 status: candidate (core v3)
 ---
 
-**Definition 1 (I).** "I", used in a thought, names the thinker of that thought, if there is a thinker distinct from the thinking, and otherwise the thinking itself. *Thinking* here covers what Descartes lists: "a thing that doubts, understands, affirms, denies, is willing, is unwilling, and also imagines and has sensory perceptions" (Second Meditation, AT VII 28; CSM II 19).
+**What "I" names** *(definition, id: D-I)*. "I", used in a thought, names the thinker of that thought, if there is a thinker distinct from the thinking, and otherwise the thinking itself. *Thinking* here covers what Descartes lists: "a thing that doubts, understands, affirms, denies, is willing, is unwilling, and also imagines and has sensory perceptions" (Second Meditation, AT VII 28; CSM II 19).
 
 **Explanation.**
 

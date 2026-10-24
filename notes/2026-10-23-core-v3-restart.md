@@ -6,9 +6,9 @@
 
 A new candidate folder, [candidates/core_v3/](../candidates/core_v3/), holds the restarted live chain:
 
-1. **D-I** — definition of "I"
-2. **D-exist** — definition of "exist" / "last"
-3. **A1** — root, confidence **1.0**: I exist
+1. **What "I" names** (D-I) — definition
+2. **What exists** (D-exist) — definition (lasting kept in the body)
+3. **I exist** (A1) — root, confidence **1.0**
 
 Everything else that was an axiom, principle, or proposition in core v2 is **parked**, not deleted. Full text remains in `candidates/core_v2/` and in `entries/`. Freedom drafts stay under `candidates/freedom/`. See [PARKED.md](../candidates/core_v3/PARKED.md).
 
@@ -22,3 +22,7 @@ Everything else that was an axiom, principle, or proposition in core v2 is **par
 ## First open question
 
 What comes next after A1 — body, mind, Nature, or something else?
+
+## Human-readable labels (same day)
+
+Titles lead; machine ids stay in front matter and filenames. See `candidates/core_v3/README.md`.

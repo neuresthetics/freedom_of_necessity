@@ -2,6 +2,10 @@
 
 A dated record of what was tested and what changed, newest first. Times are Pacific (PT).
 
+## 2026-10-23 — Core v3: human-readable labels (not pushed)
+
+Titles lead (*I exist*, *What "I" names*, *What exists*); machine ids and filenames unchanged. See `candidates/core_v3/BUILD_LOG.md`.
+
 ## 2026-10-23 — Core v3 restart: A1 alone (not pushed)
 
 At the author's word ("A1 = I exist. That is the only axiom now"), a new candidate chain was opened under [candidates/core_v3/](candidates/core_v3/README.md):

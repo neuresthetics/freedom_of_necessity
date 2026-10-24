@@ -2,7 +2,7 @@
 id: D-exist
 type: definition
 kind: definition
-title: Exist, last
+title: What exists
 cites: []
 terms: []
 qualifiers:
@@ -15,7 +15,7 @@ scored_as: 'Definition of "exist" in its thinnest sense. What it defines: an act
 status: candidate (core v3)
 ---
 
-**Definition 2 (exist, last).** An activity *exists* at a time when it is going on at that time. For anything that is not an activity, "exists" is taken as understood, and D-exist does not define it. "Activity" and "going on" are also taken as understood. A thing *lasts* when it goes on existing through a stretch of time. Spinoza's word for lasting is duration: "Duration is the indefinite continuance of existing" (E2D5).
+**What exists** *(definition, id: D-exist)*. An activity *exists* at a time when it is going on at that time. For anything that is not an activity, "exists" is taken as understood, and D-exist does not define it. "Activity" and "going on" are also taken as understood. A thing *lasts* when it goes on existing through a stretch of time. Spinoza's word for lasting is duration: "Duration is the indefinite continuance of existing" (E2D5).
 
 **Explanation.**
 

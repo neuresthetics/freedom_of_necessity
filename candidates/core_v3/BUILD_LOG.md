@@ -65,3 +65,17 @@ Also skimmed: `candidates/freedom/BUILD_LOG.md` (log format), `LOG.md` (newest-f
 - `LOG.md` entry (newest first)
 
 `entries/` not modified. `candidates/core_v2/` not modified. No push.
+
+---
+
+## 2026-10-23 21:18 PT — Human-readable labels
+
+- **Author:** Make axiom labels human readable friendly.
+- **Chose:** keep machine `id` and filenames (`A1.md`, `D-I.md`, `D-exist.md`) for harness / later promotion; put clear English in `title` and lead every heading and index with that title; id secondary in parentheses or a column.
+- **Titles now:**
+  - A1 → *I exist* (unchanged)
+  - D-I → *What "I" names* (was "I")
+  - D-exist → *What exists* (was "Exist, last"; lasting stays in the definition body)
+- **Also:** README live-chain table and mermaid; PARKED tables (title first, using archive titles for parked entries); body openings on the three live files.
+- **Filenames:** unchanged.
+- No push.
