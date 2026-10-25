@@ -1,7 +1,7 @@
 # Draft plan — hardness-to-vary (next rendition)
 
 **Date:** 2026-10-25 PT (America/Los_Angeles)  
-**Updated:** same day — Jason: no split-track analysis; one combined winner, then poetic render.  
+**Updated:** same day — Jason: no split-track analysis; one combined winner; winner gets **dual render** (technical + poetic).  
 **Repo:** `neuresthetics/freedom_of_necessity`  
 **Status:** plan only — do not generate variants until Jason OKs the open questions at the end.  
 **Baseline:** snapshot tag `core-v3-snapshot-v1` · live set 251 · combined chain in `candidates/core_v3/` (+ technical face in `drafts/verses_v3/technical/`)
@@ -16,9 +16,9 @@
 |---|---|---|
 | **Vary + analyze** | **One combined chain** — entry files + deps/caps + technical statement face | Measure hardness-to-vary |
 | **Pick** | **Single winner** set (same V### / entry labels) | The rendition that wins |
-| **Then render** | **Poetic mirror** of that winner only | Readable face; same numbers/labels |
+| **Then dual render** | **Both tracks** from that winner — technical + poetic | Same V### / labels; not an analysis fork |
 
-Poetic is a **post-winner** product. Existing `drafts/verses_v3/poetic/` stays a prior mirror; a new poetic pass follows the winning combined set.
+The winner gets the **dual render treatment**. Existing `drafts/verses_v3/{technical,poetic}/` are prior mirrors; a fresh dual pass follows the winning combined set. Analysis never scores the two tracks against each other.
 
 ---
 
@@ -34,7 +34,7 @@ Build **controlled variant sets of the combined technical+structure chain** so w
 
 - Parallel poetic-vs-technical scoring  
 - Cross-track desync as a primary metric  
-- A prettier book for readers (poetic comes *after* the winner)  
+- A prettier book for readers (dual render comes *after* the winner)  
 - Full collider scores on all 251  
 - Replacing `entries/` or promoting core v3  
 
@@ -48,7 +48,7 @@ Build **controlled variant sets of the combined technical+structure chain** so w
 |---|---|
 | **A1 root** ("I exist", score 1.0) | Pure root; caps nothing; not paraphrased away |
 | **Entry ids** (`A1`, `D-I`, `P3`, …) | Index labels; graph nodes |
-| **V### numbers** (V001–V251) | Join key for INDEX and later poetic render |
+| **V### numbers** (V001–V251) | Join key for INDEX and later dual render |
 | **Live set membership** | Same 251 ids as SNAPSHOT-v1 (no silent park/revive) |
 | **Combined unit** | One chain per variant set — not a poetic fork in parallel |
 | **Snapshot tip** | Variants fork from a frozen commit / tag, not a moving main |
@@ -66,7 +66,7 @@ Build **controlled variant sets of the combined technical+structure chain** so w
 
 **Rule of thumb:** if `dep_check.py` can see it, it is structure. If only a reader notices, it is surface.
 
-**Out of analysis scope:** rewriting the poetic track as a competing variant. Poetic is generated once from the winner.
+**Out of analysis scope:** treating poetic (or technical verse) as a competing analysis arm. Both tracks are rendered **once from the winner**.
 
 ---
 
@@ -93,7 +93,7 @@ Run **small bands first** (BASE spine), then expand. Do not vary all 251 × all 
 | **D4** | Dep remap (soft) | Replace a cite with a sibling that *seems* related | **1** | Expect many dep_check fails — that *is* signal |
 | **D5** | Dep remap (hard) | Drop a required rests-on or point at parked id | **1** on B1 only | Negative control; should always fail lint |
 
-~~Former D4 “cross-track rewrite” removed~~ — poetic is not an analysis arm.
+~~Former D4 “cross-track rewrite” removed~~ — tracks are not analysis arms; they are post-winner dual render.
 
 ### Counts for the first rendition (proposed)
 
@@ -164,15 +164,15 @@ After B0+B1 (or the agreed band) are scored:
 
 1. Prefer variants that **pass** dep_check and show **no** meaning drift.  
 2. Among those, use hardness insight: keep load-bearing wording stable; allow low-hardness surface polish where useful.  
-3. Assemble **one** winning combined set (full band or full 251 when ready) — not a mix of poetic and technical winners.  
-4. **Only then** generate the poetic mirror (next section).
+3. Assemble **one** winning combined set (full band or full 251 when ready) — not a mix of track-specific winners.  
+4. **Only then** give that winner the **dual render** (technical + poetic; next section).
 
 ---
 
 ## 5. Pipeline steps
 
 ```
-vary / analyze combined chain  →  pick single winner  →  poetic render of winner
+vary / analyze combined chain  →  pick single winner  →  dual render (technical + poetic)
 ```
 
 Worktree or folder (suggested):
@@ -187,7 +187,9 @@ candidates/core_v3/variant_sets/
     reports/dep_check/      ← one log per variant or batched
     reports/compare.md      ← hardness table (combined only)
     winner/                 ← chosen combined set (after pick)
-    poetic_render/          ← post-winner poetic mirror (same V### / labels)
+    dual_render/
+      technical/            ← post-winner technical track (same V### / labels)
+      poetic/               ← post-winner poetic track (same V### / labels)
 ```
 
 ### Step-by-step
@@ -218,11 +220,12 @@ candidates/core_v3/variant_sets/
    - Write it under `winner/` with the same V### / entry labels.  
    - Record why it won in `reports/compare.md`.
 
-6. **Poetic render (after winner only)**  
-   - From `winner/`, generate poetic lines for each V### (Dhammapada-plain; analogy only when it helps).  
-   - Same numbering and index labels as the winner.  
-   - Store under `poetic_render/`; later merge into `drafts/verses_v3/poetic/` only if Jason OKs.  
-   - Poetic quality is **not** fed back into hardness scores for this rendition.
+6. **Dual render (after winner only)**  
+   - From `winner/`, produce **both** tracks for each V### — same numbering and index labels:  
+     - **Technical:** deps, rests-on / supports, caps, entry ids, refs.  
+     - **Poetic:** Dhammapada-plain; analogy only when it helps.  
+   - Store under `dual_render/{technical,poetic}/`; later merge into `drafts/verses_v3/` only if Jason OKs.  
+   - Dual-render quality is **not** fed back into hardness scores for this rendition.
 
 7. **Collide (optional, narrow)**  
    - Only if Jason wants signal on freedom spine:  
@@ -231,7 +234,7 @@ candidates/core_v3/variant_sets/
 
 8. **Log**  
    - Append a short dated section to `LOG.md`.  
-   - Local commit the variant set + reports + winner + poetic_render. **Push only if Jason asks.**
+   - Local commit the variant set + reports + winner + dual_render. **Push only if Jason asks.**
 
 ### Do not
 
@@ -240,7 +243,7 @@ candidates/core_v3/variant_sets/
 - Renumber V###  
 - “Fix” D4/D5 failures — failures are the measurement  
 - Mix v11/v12 verse numbers into this analysis  
-- Generate poetic *before* a winner is picked  
+- Generate either track render *before* a winner is picked  
 
 ---
 
@@ -254,7 +257,7 @@ candidates/core_v3/variant_sets/
 4. At least three **false soft** candidates flagged (lint OK, meaning drift) — or a clear note that none appeared.  
 5. A1 and V013 · P3 have explicit rows (root + Jason lines).  
 6. **One winner** written under `winner/` with stated pick reasons.  
-7. **Poetic render** of that winner exists for the band (same V### / labels), clearly marked post-winner.  
+7. **Dual render** of that winner exists for the band — technical + poetic, same V### / labels, clearly marked post-winner.  
 8. Open questions below answered or parked by Jason.  
 9. Live tree still matches pre-run `dep_check` (exit 0) on the golden tip.
 
@@ -269,9 +272,9 @@ candidates/core_v3/variant_sets/
 | [`candidates/core_v3/tools/dep_check.py`](../candidates/core_v3/tools/dep_check.py) | Structural lint on the combined chain |
 | [`candidates/core_v3/SNAPSHOT-v1.md`](../candidates/core_v3/SNAPSHOT-v1.md) + tag `core-v3-snapshot-v1` | Frozen baseline counts + clean dep_check reference |
 | [`candidates/core_v3/DEPS.md`](../candidates/core_v3/DEPS.md) / [`CAPS.md`](../candidates/core_v3/CAPS.md) / [`CHAIN.md`](../candidates/core_v3/CHAIN.md) | Graph + cap story to diff against |
-| [`drafts/verses_v3/technical/`](../drafts/verses_v3/technical/) | Technical face of the combined chain (in analysis) |
-| [`drafts/verses_v3/poetic/`](../drafts/verses_v3/poetic/) | **Output slot** for post-winner poetic render (not an analysis arm) |
-| [`drafts/verses_v3/INDEX.md`](../drafts/verses_v3/INDEX.md) | Shared V### ↔ entry id labels for winner + poetic |
+| [`drafts/verses_v3/technical/`](../drafts/verses_v3/technical/) | Technical face usable in analysis golden; also post-winner dual-render slot |
+| [`drafts/verses_v3/poetic/`](../drafts/verses_v3/poetic/) | Post-winner dual-render slot (not an analysis arm) |
+| [`drafts/verses_v3/INDEX.md`](../drafts/verses_v3/INDEX.md) | Shared V### ↔ entry id labels for winner + dual render |
 | [`harness/collider/`](../harness/collider/) | Optional narrow collide (freedom family); not the main metric |
 | [`LOG.md`](../LOG.md) | Dated record of each variant-set run |
 | `PURE_ROOTS` / `BASE_CAPS` inside dep_check | Encode what must not quietly change |
@@ -284,7 +287,7 @@ candidates/core_v3/variant_sets/
 2. **Where to write variants?** `candidates/core_v3/variant_sets/` (proposed) — OK?  
 3. **Meaning-drift judge:** you skim the hardness table, or allow a second model pass with a fixed rubric?  
 4. **D4 soft remap:** constrain to “same BASE_CAPS parents only,” or free enough to fail often?  
-5. **V013 Jason lines:** freeze verbatim always in the combined winner (and thus in poetic)?  
+5. **V013 Jason lines:** freeze verbatim always in the combined winner (and thus in both dual-render tracks)?  
 6. **Collider this round:** skip, or run once on A5/D-free/P3 golden vs one paraphrase set?  
 7. **Public / push:** keep variant sets local until you say push (default: local only)?  
 8. **Winner grain:** one winner for the whole BASE band, or per-entry winners assembled into one set?

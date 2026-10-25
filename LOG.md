@@ -1,5 +1,11 @@
 # Log
 
+## 2026-10-25 PT — Plan: winner gets dual render
+
+Jason: after the single combined-chain winner, render **both** tracks (technical + poetic), same V###/labels — not poetic-only. Plan + short pointers updated. Local; not pushed.
+
+---
+
 ## 2026-10-25 PT — Plan update: no split-track analysis
 
 Jason: analysis is on the combined technical+structure chain only; one winner; poetic is a post-winner render. Updated `notes/2026-10-25-hardness-to-vary-draft-plan.md` and short pointers in verses_v3 README/PROGRESS + dual-track note. Local; not pushed.

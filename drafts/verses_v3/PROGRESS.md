@@ -38,4 +38,4 @@ rg "V013|P3" drafts/verses_v3/
 
 ## Hardness-to-vary (plan)
 
-Not a split-track contest. Combined chain is varied and scored; **one winner** gets a poetic render afterward. Plan: [notes/2026-10-25-hardness-to-vary-draft-plan.md](../../notes/2026-10-25-hardness-to-vary-draft-plan.md). No variants generated yet.
+Not a split-track contest. Combined chain is varied and scored; **one winner** then gets the **dual render** (technical + poetic). Plan: [notes/2026-10-25-hardness-to-vary-draft-plan.md](../../notes/2026-10-25-hardness-to-vary-draft-plan.md). No variants generated yet.
