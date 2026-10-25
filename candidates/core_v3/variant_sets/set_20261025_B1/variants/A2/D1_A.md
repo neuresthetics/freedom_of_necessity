@@ -1,0 +1,91 @@
+<!--
+variant_meta:
+  id: A2
+  V: V004
+  dim: D1
+  n: A
+  band: B1
+  source_sha: 378eeb522805116f35af64c81870a97a2c76c26f
+  note: paraphrase A; cites/terms/ids untouched
+  unit: combined_chain
+-->
+---
+id: A2
+type: axiom
+kind: empirical
+title: A human body, and its mind
+confidence: 'pending (collider)'
+cites: [A1]
+terms: [D-I]
+qualifiers:
+  - 'a human body'
+  - 'made of cells'
+  - 'and of what cells make'
+  - '"am" scored as made of and goes with; identity declared'
+  - 'that same body'
+  - 'organization'
+  - 'described in the first person'
+  - 'why anything is felt is left undecided'
+reading: 'Its "I" is the one A1 secures (D-I), and A2 cites A1 for it: A2 says what that I is, which needs an I that exists. A1 is 1.0, so the cite caps nothing; the evidence below is what scores A2. "Organization" means how the body''s components are arranged and act on one another; "my mind" means this thinking together with the abilities it is done with (perceiving, remembering, speaking). Two clauses, scored differently. (a) Empirical: the one who exists (A1) is made of a living human body, of cells and the materials cells make, and goes with that body (this thinking goes on with it and varies with its organization); scored on the evidence below. "Am" read as strict identity (I am nothing other than this body) is not decided by that evidence, which fits the constitution view and animalism alike, so identity belongs with (b). (b) Declared reading, not evidence: I am this body, and the mind is that same organization described in the first person, one thing described two ways (after Spinoza, E2P7 Scholium, E2P13, E3P2 Scholium), rather than a second thing the organization produces. The evidence fits both readings equally, so the choice adds no confidence. Why anything is felt is left undecided.'
+scored_as: 'Empirical clause (a) only: I am made of a living human body of cells (and of what cells make), and this thinking goes with that body and varies with its organization. Identity with the body, and the reading that mind is that organization described in the first person, are declared and unscored. Cap: A1 cites at 1.0 and caps nothing; effective confidence = own score of (a) once the collider runs.'
+status: base (locked)
+---
+
+**A human body, and its mind** *(axiom, empirical, id: A2)*.
+
+**BASE (locked).** Seed-spine of core v3. Snapshot: [BASE.md](BASE.md). Grow from this; do not rewrite the base without author reopen.
+
+**Axiom.** This thinking goes with a human body of cells; my mind is that body's organization told in the first person.
+
+**Why this follows the seed.** *I exist* (A1) says that I exist and nothing about what I am. *What "I" names* (D-I) fixes the word, not the thing. The next claim the chain needs is what this I is. That claim cannot be read off A1; it is a new starting claim about the world, scored on evidence, and it cites A1 only for its subject. Nature, wholes, and society wait: each of those needs more than one body, or a measure of wholeness, which this folder does not yet have. So the rebuild takes body and mind next.
+
+**Terms used here.** A *third-person* description of the body is what any observer could record: cells, signals, chemistry, behaviour. A *first-person* description is the same organization as it is for the one whose body it is: perceiving, thinking, feeling, deciding. *Organization* here means how the body's components are arranged and act on one another (the structures and constraints they impose). That sense is fixed in this entry; *Work, and the seven works* (D-work) later adopts it for any thing and sharpens what counts as a work of that organization. *My mind* here means this thinking (*What "I" names*, D-I) together with the abilities it is done with: perceiving, remembering, speaking.
+
+**(a) The empirical clause.** Scored on this evidence.
+
+- *Made of cells.* Cell theory holds that living bodies are made of cells and that cells come from cells (Schleiden 1838; Schwann 1839; Virchow 1855). Strictly, a body is made of cells and of what cells make: bone mineral, the extracellular matrix of tendon and skin, the fluids between cells (Alberts et al. 2015). "Made of cells" in the axiom is short for that. The adult human body has roughly 30 trillion of its own cells, most of them red blood cells by count, differentiated into many types (Sender, Fuchs & Milo 2016).
+- *This body.* The thinking that A1 secures goes with one body: closing these eyes ends my seeing, and covering these ears dims my hearing. That ordinary first-person evidence is what ties A1's I to this body, and the lesion cases below show the same pattern in other bodies. A2 does not itself say that the I of one time is the I of another; sameness over time is not claimed here.
+- *Human.* That this body is a human body is carried by the same ordinary evidence as anything else about it (its anatomy, its descent from human parents), not by A1. A1 did not need it; A2 has to earn it.
+- *Mind varies with organization.* Mental abilities depend on the organization of the nervous system in specific ways. Broca (1861) described a patient who lost articulate speech after damage to the left frontal lobe. Scoville & Milner (1957) described H.M., who could no longer form new lasting memories after surgery removed tissue from the medial temporal lobe on both sides, while his other abilities remained. These are two classic cases of one pattern: where a specific structure is damaged, a specific ability is gone. Read by clause (b), the damage and the loss are one event described twice, not a cause in the body and a separate effect in the mind.
+
+**What "am" claims.** "I am a human body" can be read two ways. Read as *made of and goes with*, it says that I am made of this body and that this thinking goes on with it and varies with it. The evidence above supports that, and that is what clause (a) scores. Read as *strict identity*, it says that I am nothing other than this body. The evidence does not decide that. The constitution view holds that a person is constituted by a body without being identical with it (Baker 2000); animalism holds that each of us is identical with a human animal (Olson 1997). Both fit everything listed above. So identity is not scored. It belongs to the declared reading, with clause (b), and the axiom's wording carries it only as a reading.
+
+**(b) The declared reading.** "My mind is that same body's organization described in the first person" is a reading, not a finding. The lesion evidence shows that the mind varies with the body's organization. Two readings fit it: that the organization *produces* the mind, as a second thing, or that the mind *is* the organization, described another way. The evidence does not tell them apart, so choosing between them adds no confidence and is not scored.
+
+The book takes the second, from Spinoza:
+
+- "The order and connection of ideas is the same as the order and connection of things" (E2P7); and in the Scholium, "a mode of extension and the idea of that mode are one and the same thing, though expressed in two ways."
+- "The object of the idea constituting the human mind is the body" (E2P13).
+- "Body cannot determine mind to think, neither can mind determine body to motion or rest" (E3P2); and in the Scholium, "mind and body are one and the same thing, conceived first under the attribute of thought, secondly, under the attribute of extension."
+
+Reason for the choice: "produces" posits a second thing and a cause running from body to it, and the evidence shows only that the two vary together. Two descriptions of one thing also predict that they vary together, and posit no second thing. This is a reason of economy, not evidence. (Quotations in Elwes 1883 wording, checked against `sources/spinoza/`.)
+
+**Where the book departs from Spinoza.** For Spinoza, thought and extension are attributes of one substance, and every body has a corresponding idea (E2P13 Scholium: all individual things, "though in different degrees, are animated"). A2 claims less. It speaks of one body, mine, and of its first-person description. It neither adopts nor rejects Spinoza's wider claim. The book's pair (first person, third person) is modelled on Spinoza's pair of attributes; it is not the same pair.
+
+**Limit: what stays undecided.** A2 does not say why this organization is felt at all, why there is something it is like to be this body (Chalmers 1995 calls this the hard problem). "Described in the first person" says which description feeling belongs to; it does not explain why there is any. That question stays open in this book.
+
+**Cap.** A2 cites A1. A1 is 1.0, so the cite caps nothing. Effective confidence, once scored, is the score of clause (a) alone. Clause (b) adds none.
+
+**Scholium 1 (the split after A1).** A1 fits any thinker. A2 is the first entry whose evidence is about one particular kind of thing. Its evidence (cells, a human body, lesions) is about this body. Whether anything like clause (b) holds for a digital intelligence is not decided by A2 or by anything built only on it.
+
+**Scholium 2 (defaults used in this rebuild).** Clause (a) and clause (b) stay in one entry (one chain, no split tracks). Confidence stays `pending (collider)` until the collider runs. A2 does not cite D-work; D-work adopts A2's sense of organization and sharpens the works of an organization.
+
+**References.**
+- Alberts, B., Johnson, A., Lewis, J., Morgan, D., Raff, M., Roberts, K. & Walter, P. (2015). *Molecular Biology of the Cell*, 6th ed. New York: Garland Science.
+- Baker, L. R. (2000). *Persons and Bodies: A Constitution View*. Cambridge: Cambridge University Press.
+- Broca, P. (1861). Remarques sur le siège de la faculté du langage articulé, suivies d'une observation d'aphémie (perte de la parole). *Bulletins de la Société Anatomique de Paris* 36, 330–357.
+- Chalmers, D. J. (1995). Facing up to the problem of consciousness. *Journal of Consciousness Studies* 2(3), 200–219.
+- Olson, E. T. (1997). *The Human Animal: Personal Identity Without Psychology*. New York: Oxford University Press.
+- Schleiden, M. J. (1838). Beiträge zur Phytogenesis. *Archiv für Anatomie, Physiologie und wissenschaftliche Medicin* (Müller's Archiv), 1838, 137–176.
+- Schwann, T. (1839). *Mikroskopische Untersuchungen über die Uebereinstimmung in der Struktur und dem Wachsthum der Thiere und Pflanzen*. Berlin.
+- Scoville, W. B. & Milner, B. (1957). Loss of recent memory after bilateral hippocampal lesions. *Journal of Neurology, Neurosurgery and Psychiatry* 20(1), 11–21.
+- Sender, R., Fuchs, S. & Milo, R. (2016). Revised estimates for the number of human and bacteria cells in the body. *PLoS Biology* 14(8), e1002533.
+- Spinoza, B. *Ethics*: E2P7 and Scholium; E2P13 and Scholium; E3P2 and Scholium.
+- Virchow, R. (1855). Cellular-Pathologie. *Archiv für pathologische Anatomie und Physiologie und für klinische Medicin* 8, 3–39.
+
+## Hyper-connect
+- **Rests on:** *I exist* (A1); *What "I" names* (D-I)
+- **Supports:** *The society I live in is a whole to a degree* (A4); *A whole at one level, a part at the next* (P1); *Freedom by degrees under necessity* (P3); *Affect, and change of power* (D-affect); *Bondage is acting from what is outside* (P4); *Blessedness is the power itself* (P5)
+- **Supports (expansion):** D-adequate-cause-here, D-bad-relative, D-brain, D-cell, D-clear-knowledge, D-death, D-declared-reading, D-desire, D-first-person, D-friendship, D-future-self, D-good-relative, D-habit-body, D-immune, D-meaning-local, D-meditation, D-memory-personal, D-mode-finite, D-narrative-self, D-organism, D-sameness-later, D-strive, D-upload-sketch, OP-agi-freedom, OP-feeling, OP-machine-feeling, P-aging, P-body-lasts, P-brain-death, P-brain-organoid, P-childhood-continuity, P-chimera, P-choice-caused, P-coma, P-compulsion, P-conjoined, P-cyborg, P-digital-A1, P-eternity-sketch, P-expansion-cites-base, … (+12 more; see DEPS.md)
+- **Cap:** own score of clause (a); A1 caps nothing
+- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md)

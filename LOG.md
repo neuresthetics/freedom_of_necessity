@@ -180,3 +180,20 @@ Next, the same test runs on the stock model, then v0.2 fixes the bugs.
 ## 2026-09-28 — Spinoza reference texts
 
 Added frozen copies of Spinoza's *Ethics* in [sources/spinoza/](sources/spinoza/): the Latin text (its source does not say which edition it follows) and the Elwes 1883 English translation, with a sha256 manifest. They exist only to check quotations from the Kisner edition that the book cites; they are not quoted as the main text. Commit 3bd3520, 22:57 PT.
+
+## 2026-10-25 (PDT) — hardness-to-vary: start B0+B1 variant drafts
+
+**Ask:** Jason — "Ok, start the drafts."
+
+**Done (local, not pushed):**
+- Froze combined golden BASE under `candidates/core_v3/variant_sets/golden/` (20 entry files + `technical/BASE.md`) from tip `378eeb5`; snapshot tag `core-v3-snapshot-v1` = `fa11703`.
+- Generated **85** controlled variants in `candidates/core_v3/variant_sets/set_20261025_B1/` (D1 paraphrase 40, D2 synonym 20, D3 reorder 10, D4 soft remap 10, D5 hard remap 5).
+- Ran `dep_check.py` in a temp copy of core_v3 for every variant: **74 pass / 11 fail**. Failures concentrated in D4/D5 (structure signal), including P3↔P4 cycle on soft remap.
+- Wrote `manifest.json`, `reports/compare.md` (lint hardness table; meaning-drift TBD), set + parent READMEs.
+- Live `candidates/core_v3/*.md` **unchanged** (dep_check exit 0 after run).
+- **Not done this turn:** meaning-drift judge, winner pick, dual render, collider, push.
+
+**§8 defaults used:** B0+B1 only; folder `variant_sets/`; D4 free-to-fail; V013 Jason lines freeze at winner; collider skip; local only; one BASE-band winner later.
+
+**Generator:** `candidates/core_v3/variant_sets/tools/generate_b1.py`
+

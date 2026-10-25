@@ -1,0 +1,12 @@
+exit=0
+note=synonym swaps (6): Seed-spine→Seed-chain, Snapshot→Freeze-frame, follows→issues, evidence→grounds, wording→phrasing, loosely→weakly
+applied_ok=True
+
+live entries: 251
+orphan cites: 0
+orphan terms: 0
+orphan rests: 0
+missing rests (non-root): 0
+missing cap: 0
+missing hyper-connect: 0
+cycles: 0

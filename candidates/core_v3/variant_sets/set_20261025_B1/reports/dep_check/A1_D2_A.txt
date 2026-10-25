@@ -1,0 +1,12 @@
+exit=0
+note=synonym swaps (34): Seed-spine→Seed-chain, Snapshot→Freeze-frame, sentence→statement, certain→sure, doubt→hesitation, doubting→hesitating, doubting→hesitating, doubting→hesitating, doubt→hesitation, revised→altered, claim→assertion, evidence→grounds…
+applied_ok=True
+
+live entries: 251
+orphan cites: 0
+orphan terms: 0
+orphan rests: 0
+missing rests (non-root): 0
+missing cap: 0
+missing hyper-connect: 0
+cycles: 0

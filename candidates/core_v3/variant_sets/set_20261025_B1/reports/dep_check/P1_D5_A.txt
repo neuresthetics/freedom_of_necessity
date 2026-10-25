@@ -1,0 +1,13 @@
+exit=1
+note=hard: clear cites+terms+HC rests (missing rests expected)
+applied_ok=True
+
+live entries: 251
+orphan cites: 0
+orphan terms: 0
+orphan rests: 0
+missing rests (non-root): 1
+  NO_DEPS P1
+missing cap: 0
+missing hyper-connect: 0
+cycles: 0

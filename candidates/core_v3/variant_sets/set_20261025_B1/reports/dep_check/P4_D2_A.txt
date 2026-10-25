@@ -1,0 +1,12 @@
+exit=0
+note=synonym swaps (22): outside→external, Seed-spine→Seed-chain, Snapshot→Freeze-frame, follows→issues, inverse→counterpart-down, follows→issues, outside→external, clear→plain, compatible→consistent, inverse→counterpart-down, follows→issues, follows→issues…
+applied_ok=True
+
+live entries: 251
+orphan cites: 0
+orphan terms: 0
+orphan rests: 0
+missing rests (non-root): 0
+missing cap: 0
+missing hyper-connect: 0
+cycles: 0

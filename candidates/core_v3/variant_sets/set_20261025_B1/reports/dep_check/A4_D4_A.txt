@@ -1,0 +1,14 @@
+exit=1
+note=cites: A2→P21; society axiom cites conjecture instead of A2
+applied_ok=True
+
+live entries: 251
+orphan cites: 0
+orphan terms: 0
+orphan rests: 0
+missing rests (non-root): 0
+missing cap: 0
+missing hyper-connect: 0
+cycles: 2
+  CYCLE A4 -> P21 -> P2 -> A4
+  CYCLE A4 -> P21 -> A4

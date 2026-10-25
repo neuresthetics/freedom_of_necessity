@@ -1,0 +1,63 @@
+<!--
+variant_meta:
+  id: P1
+  V: V009
+  dim: D3
+  n: A
+  band: B1
+  source_sha: 378eeb522805116f35af64c81870a97a2c76c26f
+  note: rotated demonstration steps
+  unit: combined_chain
+-->
+---
+id: P1
+type: prop
+kind: derived
+title: A whole at one level, a part at the next
+confidence: 'pending (collider)'
+cites: [A2, A3, A4]
+terms: [D-I, D-work, D-whole]
+qualifiers:
+  - 'a whole'
+  - 'at one level'
+  - 'a part'
+  - 'at the next'
+reading: 'Proposition derived from A2, A3 and A4 under D-whole: I am a whole whose members are cells, and I am a member of the society I live in, which is itself a whole to a degree. "Part" means member (D-whole, Definition 9); "next level" means the level of a whole I am a member of (Definition 10). The same I is in both halves: D-I names the thinker of each thought (or the thinking itself), A2 (as scored) finds that this thinking goes with this body, which is the same whole across times by D-whole, Definition 12, and A4''s membership clause cites A2; A1 is reached through A2. "I am" is read as A2 is scored (made of, and goes with); read as strict identity it is a declared reading (Scholium 4). The levels stop short of Nature, which is not finite (Nature (inline / parked)). Capped at min(A2, A3, A4); the "whole" half alone is capped at min(A2, A3).'
+scored_as: 'Derived: I am a whole at one level and a part at the next. Cap: min(A2, A3, A4) once scored. First half alone: min(A2, A3).'
+status: base (locked)
+---
+
+**A whole at one level, a part at the next** *(proposition, id: P1)*.
+
+**BASE (locked).** Seed-spine of core v3. Snapshot: [BASE.md](BASE.md). Grow from this; do not rewrite the base without author reopen.
+
+**Why this follows society.** *A human body, and its mind* (A2) finds a body of cells. *The seven works sort things the way self-production does* (A3) lets that body be graded a whole. *The society I live in is a whole to a degree* (A4) finds me a member of a larger whole. This proposition draws the two levels together under *Whole…* (D-whole). Nature taken as one (parked: [parked D-Nature](PARKED_VOLUME/parked D-Nature.md)) marks where the levels stop.
+
+**Proposition 1.** I am a whole at one level and a part at the next.
+
+**Demonstration.**
+
+1. By 4, 6 and 7, this body, the one this thinking goes with, is a whole at one level and a part at the next. On A2's declared reading, on which I am this body, so am I (Scholium 4). ∎
+
+2. This thinking goes with a human body made of cells, the body I am made of (A2, clause (a)). That body is a multicellular organism.3. A multicellular organism produces itself (read as in A3's declared reading on the anchors), so it performs all seven works as one (A3).4. So each of this body's seven grades is above zero, its degree is above zero, and it is a whole (by 2 and D-whole, Definition 8).5. Its cells are members of it: each depends on its works (its transport brings the cell energy, its defense protects it) and takes part in at least one of them (A2, A3 anchors; D-whole, Definition 9). So this body is a whole at the level whose members are cells.6. The society I live in performs each of the seven works as one, at least in part, and I am one of its members (A4).7. The member of step 5 is the body of step 1. By *What "I" names* (D-I), "I" names the thinker of each thought, or the thinking itself, and by A2, clause (a), this thinking goes with this body. By step 3 this body is a whole, and across the times these entries speak of it is the same whole (D-whole, Definition 12): its organization has lasted with no full stop, and no other whole carries it on from it. A4's membership evidence (food, public health, work) is about this same body, which is why A4 cites A2. So one and the same body, the one this thinking goes with, is the whole of step 3 and the member of step 5.8. So that society is a whole (by 5 and D-whole, Definition 8), and it is at the next level up from this body (D-whole, Definition 10).
+**Cap.** P1 cites A2, A3 and A4, so it is no stronger than the weakest of them (METHOD.md, rule 1). Its first half, *I am a whole*, rests only on A2 and A3, so it can be no weaker than its second half, which also needs A4.
+
+**Scholium 1 (the levels between).** In Miller's (1978) hierarchy, persons make up groups, groups make up organizations, and organizations make up societies. By D-whole, Definition 10, the society is still at the next level up from me, since I am its member directly: I depend on its works and take part in them (A4). The groups I belong to are also at the next level up from me, and are themselves members of the society. Levels here are relative, not rungs on one ladder. P1 claims the direct membership; it does not deny the others.
+
+**Scholium 2 (not a somatic cell).** Being a member is not being like a cell in a body in every respect. My body's cells cannot leave it, and their interests are almost entirely aligned with it. I can leave a society, and my interests can conflict with it (Queller & Strassmann 2009). D-whole records that conflict as a lower grade for the society, not as a fact about me.
+
+**Scholium 3 (Spinoza, and where the levels stop).** Spinoza builds bodies the same way: "The human body is composed of a number of individual parts, of diverse nature, each one of which is in itself extremely complex" (E2, Postulate 1). Individuals can be composed of individuals, level on level, up to "the whole of nature as one individual" (E2, Lemma 7, Scholium). P1 goes one level up and no further. The levels of membership do not reach Nature. D-whole grades finite things only, and Nature taken as one is not finite (parked D-Nature), so it is neither a whole nor a non-whole in the book's sense, and nothing is a member of it. Every level, and everything at every level, is *in* Nature (parked D-Nature), and that relation is not membership. An earlier draft said that Nature gets grade 0 on boundary and energy. That was a false zero: the tests cannot be put to something with nothing besides it ([collision_nature.md](../core_v2/collision_nature.md)). Spinoza's own "whole" is wider than the book's. For him Nature is the whole without qualification (Letter 32), and the book does not dispute that. (Elwes 1883 wording, checked against `sources/spinoza/`.)
+
+**Scholium 4 (what "I am" claims here).** P1's "I am" carries A2's two readings. On the scored reading, P1 says: the body I am made of, the one this thinking goes with, is a whole whose members are cells, and a member of the society I live in. That is all the demonstration needs. Step 6 needs only that each thought's thinking goes with this one body, not that I am identical with it. On the declared reading, where I am this body (A2, clause (b)), P1 says the same thing of me without qualification. The demonstration is valid on both. Only the first is scored.
+
+**References.**
+- Miller, J. G. (1978). *Living Systems*. New York: McGraw-Hill.
+- Queller, D. C. & Strassmann, J. E. (2009). Beyond society: the evolution of organismality. *Philosophical Transactions of the Royal Society B* 364(1533), 3143–3155.
+- Spinoza, B. *Ethics*, E2 Postulate 1 and Lemma 7 Scholium (after E2P13). Letter 32, to Oldenburg, 20 November 1665.
+
+## Hyper-connect
+- **Rests on:** *A human body, and its mind* (A2); *The seven works sort things the way self-production does* (A3); *The society I live in is a whole to a degree* (A4); *What "I" names* (D-I); *Work, and the seven works* (D-work); *Whole, degree, member, level, self-production, sameness* (D-whole)
+- **Supports:** *Degree of whole tracks degree of freedom only loosely* (P19)
+- **Supports (expansion):** P-cancer-defection, P-colony-whole, P-conjoined, P-ecosystem-degree, P-levels-stack, P-member-vs-citizen, P-plural-goods, P-pregnancy-levels, P-symbiosis, P-tumor-edge
+- **Cap:** min(A2, A3, A4)
+- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md)

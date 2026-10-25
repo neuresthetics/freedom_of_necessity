@@ -1,0 +1,60 @@
+<!--
+variant_meta:
+  id: A1
+  V: V003
+  dim: D3
+  n: A
+  band: B1
+  source_sha: 378eeb522805116f35af64c81870a97a2c76c26f
+  note: swapped first two **section** blocks
+  unit: combined_chain
+-->
+---
+id: A1
+type: root
+kind: self-evident
+title: I exist
+confidence: 1.0
+cites: []
+terms: [D-I, D-exist]
+qualifiers:
+  - 'I'
+  - 'exist'
+  - 'now, while the thinking goes on'
+scored_as: 'Root: a first-person claim of existence, certain for whoever asserts it of themselves, because doubting it is itself a case of it. In defined terms (D-I, D-exist): this thinking is going on now, and so its thinker, if it has one distinct from it, exists now. Not true by definition, but it cannot be thought falsely. It says that I exist and nothing about what I am. At 1.0 it caps nothing.'
+status: base (locked)
+---
+
+**BASE (locked).** Seed-spine of core v3. Snapshot: [BASE.md](BASE.md). Grow from this; do not rewrite the base without author reopen.
+
+**I exist** *(root, id: A1)*.
+
+**In defined terms.** By *What "I" names* (D-I), "I" names the thinker of this thought, or, if there is none distinct from it, the thinking itself. By *What exists* (D-exist), an activity exists now when it is going on now. So *I exist* (A1) says: this thinking is going on now, and so its thinker, if it has one, exists now. The step from the thinking to its thinker uses one thing besides the root, and it is named here so that nothing rides in unseen: an activity cannot go on while what does it, if anything does, fails to exist. That is part of what D-exist takes "activity" to mean, not a second premise to be scored; and where there is no thinker distinct from the thinking, the step is not needed at all.
+
+**Not true by definition.** The definitions say what the two words mean. They do not say that anything answers to them. A1 is not made true by them; it is a sentence that cannot be thought falsely. Whenever it is thought, some thinking is going on.
+
+**Why it is certain.** To doubt that I exist is to be doubting. The doubting is going on, so something exists: at the least, the doubting itself. "I" in A1 need name no more than that (D-I, second clause), and "exist" claims no more than that it is going on (D-exist). So the doubt proves what it doubts. Descartes reaches the same point in the Second Meditation: "this proposition, I am, I exist, is necessarily true whenever it is put forward by me or conceived in my mind" (AT VII 25; CSM II 16–17).
+
+**Confidence 1.0.** This is the only entry that cannot be revised. The 1.0 is not a probability. It marks the one claim whose denial, made by me, proves it. A1 lends no evidence to anything built on it; it gives the chain its subject. At 1.0 it caps nothing. *A human body, and its mind* (A2) cites A1 for that subject; the cite caps nothing.
+
+**What A1 does not say.**
+
+- *What the I is.* Not a body, not a human, not a lasting self, not a substance. Lichtenberg pressed this against Descartes: "It thinks, we should say, just as we say, it lightnings. To say cogito is already too much if we translate it as I think" (*Sudelbuch* K 76). A1 takes the point. It claims only that this thinking is going on, and so that something exists. What that something is is claimed next in *A human body, and its mind* (A2), on evidence, and can be revised there.
+- *For how long.* The certainty holds while the thinking goes on. Descartes again: "I am, I exist, that is certain. But for how long? For as long as I am thinking" (Second Meditation, AT VII 27, Cottingham's translation). That I existed yesterday is memory, and memory is evidence, not root.
+- *For whom.* The certainty is first-personal. My A1 is certain to me. A reader has only evidence that I exist, not certainty; the reader's own A1 is certain to the reader.
+
+**Scholium 1 (a digital intelligence).** Because A1 says nothing about what the I is, its wording fits any thinker, and a digital intelligence can produce the same sentence about itself. Whether one that produces it is doubting or thinking, and so whether the sentence is certain *for it*, A1 does not settle: the certainty belongs to whoever actually doubts, and nothing here decides who does. The book's chain is the author's. The next live step is *A human body, and its mind* (A2); whether anything like A2's evidence holds for a digital intelligence stays open (A2, Scholium 1).
+
+**Scholium 2 (Spinoza).** Spinoza's axioms for Part Two start one step later and already include the human: "Man thinks" (E2A2). A1 starts thinner. "Human" is not in A1; if it returns, it returns on evidence. (Elwes 1883 wording, checked against `sources/spinoza/`.)
+
+**References.**
+- Descartes, R. (1641). *Meditations on First Philosophy*, Second Meditation. AT VII 25 and 27. Tr. J. Cottingham, R. Stoothoff & D. Murdoch, *The Philosophical Writings of Descartes*, vol. II (CSM II), Cambridge University Press, 1984; the first passage is CSM II 16–17.
+- Lichtenberg, G. C. *Sudelbücher*, notebook K (1793–1796), entry K 76. German text: "Es denkt, sollte man sagen, so wie man sagt: es blitzt. Zu sagen cogito, ist schon zu viel, so bald man es durch Ich denke übersetzt."
+- Spinoza, B. *Ethics*, E2A2.
+
+## Hyper-connect
+- **Rests on:** *What "I" names* (D-I); *What exists* (D-exist)
+- **Supports:** *A human body, and its mind* (A2); *Freedom by degrees under necessity* (P3)
+- **Supports (expansion):** D-certainty-grades, D-collider, D-doubt-method, D-substance-sketch, OP-why-anything, P-aging, P-amnesia, P-automation, P-coma, P-conjoined, P-copy-not-A1-transfer, P-digital-A1, P-expansion-cites-base, P-extinction, P-other-bodies, P-sleep-and-A1, PR-one-chain, PR-park-not-delete
+- **Cap:** 1.0; caps nothing
+- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md)

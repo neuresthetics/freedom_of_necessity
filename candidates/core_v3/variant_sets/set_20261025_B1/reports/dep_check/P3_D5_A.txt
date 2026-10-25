@@ -1,0 +1,13 @@
+exit=1
+note=cite parked D-Nature (orphan)
+applied_ok=True
+
+live entries: 251
+orphan cites: 1
+  CITE P3 -> D-Nature (parked)
+orphan terms: 0
+orphan rests: 0
+missing rests (non-root): 0
+missing cap: 0
+missing hyper-connect: 0
+cycles: 0

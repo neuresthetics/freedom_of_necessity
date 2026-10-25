@@ -1,0 +1,13 @@
+exit=1
+note=cites: A5→P4; freedom prop cites bondage prop (near-cycle risk)
+applied_ok=True
+
+live entries: 251
+orphan cites: 0
+orphan terms: 0
+orphan rests: 0
+missing rests (non-root): 0
+missing cap: 0
+missing hyper-connect: 0
+cycles: 1
+  CYCLE P3 -> P4 -> P3

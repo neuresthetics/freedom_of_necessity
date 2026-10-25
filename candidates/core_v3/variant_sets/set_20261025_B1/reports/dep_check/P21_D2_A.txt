@@ -1,0 +1,12 @@
+exit=0
+note=synonym swaps (13): Seed-spine→Seed-chain, Snapshot→Freeze-frame, follows→issues, claim→assertion, conjecture-grade→hypothesis-grade, conjecture-grade→hypothesis-grade, follows→issues, claim→assertion, required→demanded, Conjecture-grade→Hypothesis-grade, conjecture-grade→hypothesis-grade, claim→assertion…
+applied_ok=True
+
+live entries: 251
+orphan cites: 0
+orphan terms: 0
+orphan rests: 0
+missing rests (non-root): 0
+missing cap: 0
+missing hyper-connect: 0
+cycles: 0

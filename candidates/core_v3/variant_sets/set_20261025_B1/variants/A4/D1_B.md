@@ -1,0 +1,95 @@
+<!--
+variant_meta:
+  id: A4
+  V: V008
+  dim: D1
+  n: B
+  band: B1
+  source_sha: 378eeb522805116f35af64c81870a97a2c76c26f
+  note: paraphrase B; cites/terms/ids untouched
+  unit: combined_chain
+-->
+---
+id: A4
+type: axiom
+kind: model
+title: The society I live in is a whole to a degree
+confidence: 'pending (collider)'
+cites: [A2]
+terms: [D-I, D-exist, D-work, D-whole]
+rows:
+ boundary: 'borders, customs, immigration control, membership rules'
+ control: 'government, law, courts, and other decision-making institutions, including markets'
+ energy: 'agriculture and food systems, fuels, power generation and grids'
+ transport: 'roads, rail, pipelines, grids, supply chains'
+ signaling: 'language and writing, telecommunications (addressed), mass media (broadcast), prices'
+ defense: 'organized public health and quarantine; police and military'
+ memory: 'records, archives, law, schools and other institutions that carry what is learned across generations'
+qualifiers:
+  - 'the society I live in'
+  - 'to a degree'
+  - 'one work at a time'
+  - 'as one, at least in part'
+  - 'not only through its members acting separately'
+  - 'I am one of its members'
+  - 'capped by its weakest row'
+reading: 'Model claim, graded one row at a time with the take-apart test: the society I live in (a population under one government, with all its institutions, state and non-state) performs each of the seven works as one, at least in part (grade 1 or more on every row), so it is a whole of degree at least 1; and I am one of its members. The membership clause is about the body this thinking goes with (A2, as scored: its food, health and work), so A4 cites A2. Not a claim that it is an organism, and not a claim about its grade beyond "above zero". Confidence is capped by its weakest row and by A2.'
+scored_as: 'Model claim: the society I live in performs each of the seven works as one, at least in part, and I am one of its members. Graded one row at a time. Cap: min(weakest row, A2) once scored. parked-PR1 explains why the same works recur and adds no confidence.'
+status: base (locked)
+---
+
+**The society I live in is a whole to a degree** *(axiom, model, id: A4)*.
+
+**BASE (locked).** Seed-spine of core v3. Snapshot: [BASE.md](BASE.md). Grow from this; do not rewrite the base without author reopen.
+
+**Why this follows the measure.** *The seven works sort things the way self-production does* (A3) licenses grading finite things by the seven works. Nature taken as one (parked: [parked D-Nature](PARKED_VOLUME/parked D-Nature.md)) keeps Nature outside that grade. The next load-bearing claim is whether a larger finite organization I belong to — the society I live in — is itself a whole to a degree, and whether I am one of its members. That claim cannot be read off A3; society is not among A3's anchors. It is a new model axiom, scored one work at a time, and it cites *A human body, and its mind* (A2) for the membership clause.
+
+**Axiom.** My society is a graded whole under the seven works: for each work it acts as one to some extent, and I count among its members.
+
+**Declared reading.** "A society" here means a population under one government, with its territory and all its institutions, state and non-state: government, law and courts, and also markets, firms, families, schools, religious bodies and voluntary associations. The state is one of its institutions, not the society itself. An *institution* is a lasting arrangement of people and rules through which a work is carried out: a court, a market, a school, a family. A4 claims nothing about bands, empires, or humanity as a whole.
+
+**What A4 claims.** For each of the seven works, the society performs it *as one*, not only through its members acting separately (*Work, and the seven works*, D-work, Definition 5): grade 1 or more on every row. That makes its degree at least 1 (*Whole…*, D-whole, Definition 8). A4 does not claim grade 2 on any row.
+
+**Evidence by row, with the take-apart test.**
+
+- **Boundary.** Borders, customs and immigration control decide who and what gets in, and Miller (1978) lists a boundary subsystem at the level of society. *Take apart:* disperse the institutions that sort what crosses (border posts, customs, immigration offices) and no one sorts it on the society's behalf; each person may still lock a door, but that is a member's boundary, not the society's.
+- **Control.** Government, law, courts and markets combine signals from across the society and its records into coordinated action; Miller's decider need not be a single controller. Prices coordinate dispersed knowledge without anyone directing the whole (Hayek 1945). *Take apart:* disperse the institutions and the coordination stops, though each person still decides for themselves.
+- **Energy.** Agriculture, fuels and power grids capture and convert energy for the whole (White 1943; Smil 2017). *Take apart:* remove the organization of the food and power systems while each member is kept going by other means, and no one converts energy at the society's own scale. That most members could not feed themselves alone bears on membership (D-whole, Definition 9), not on "as one". Spencer (1860) put it bluntly: "That we are severally alive today, we owe to the regular working of this combination during the past week; and could it be suddenly abolished, multitudes would be dead before another week ended."
+- **Transport.** Roads, rail, pipelines and supply chains move materials between the society's components. Urban infrastructure networks scale sublinearly with city size, as biological distribution networks do (Bettencourt et al. 2007; West, Brown & Enquist 1997). *Take apart:* the networks stop being maintained and routed.
+- **Signaling.** Language, writing, telecommunications, mass media and prices carry information between the society's components; Miller's channel and net. *Take apart:* each person still speaks, but the channels that reach across the society stop.
+- **Defense.** Quarantine and isolation have been used against epidemics from the fourteenth-century plague to influenza (Tognotti 2013), and Rosen (1958) traces organized public health, including sanitation and vaccination, as a collective defense. *Take apart:* individual disgust remains (Schaller & Park 2011, "the behavioral immune system"), but that is members acting separately; organized public health stops.
+- **Memory.** Writing, archives, law and schools store what the society has learned and bring it back into use; Halbwachs (1925) argues that memory is carried by social frameworks, not by individuals alone. *Take apart:* the records survive for a while, but no one retrieves and uses them as the society's.
+
+**Membership.** I am a member by D-whole, Definition 9: my lasting depends on several of these works (food and water from the energy row, public health from the defense row), and I take part in some of them (work, taxes, speech). That is an ordinary fact about my life, checked by the same take-apart test. The I here is the one whose thinking goes with this body (A2, clause (a)): what depends on the society's food and public health is a body. So the membership clause rests on A2, and A4 cites it.
+
+**Expected grades.** Several rows will likely be graded 1, not 2. The boundary is crossed constantly by its own members; control is contested; signaling has no single place where it is combined; members keep their own interests and often work against one another (Queller & Strassmann 2009). This is an expectation, not a score.
+
+**How A4 fails.** If any row is graded 0, because the work is done only by members separately or only by something outside the society, then A4 is false, and the society is not a whole in this book's sense. **Cap:** A4 is no stronger than its weakest row, nor than A2, which its membership clause cites (METHOD.md, rule 1). Why the same seven works should turn up here at all is *Pattern by requirement* (PR1)'s explanation, which adds nothing to any row.
+
+**Scholium (vantage).** Seen from among its members, a society's works look like traffic, argument and strangers passing through. Seen from a distance, the same activity reads as one steady organization. Both views describe the same activity, and neither outranks the other. The grades are set by the take-apart test, not by the view. The vantage explains why the boundary and defense rows may look weak to us, who see them from among the members; it does not change their grades.
+
+**Scholium (state and society).** An earlier reading said "a present-day state society", and an earlier take-apart test began "dissolve the state". That made the state carry every row. The case against it is real. On Leeson's account, when Somalia's central government collapsed in 1991, trade, money, telecommunications and much dispute settlement went on through clans, customary law, firms and markets, and Somalia did better on most of eighteen development indicators in the years after the collapse than before it, though it stayed poor (Leeson 2007). Whatever is made of that comparison, it shows that the state and the society can come apart, and that several works are carried by institutions that are not the state. So the take-apart test now disperses the institutions that carry each work, whichever they are. The boundary and defense rows lean mainly on the state; the signaling row and the coordination by prices lean mainly on institutions that are not. A4 claims every row for the society, not for its state.
+
+**Scholium (what the rows do not show).** Bettencourt et al. (2007) also report how cities differ from organisms: socioeconomic quantities (wages, GDP, patents) scale superlinearly with population, so urban life speeds up as cities grow, while an organism's metabolic rate per unit mass falls as it grows. The scaling evidence supports the transport row only, not a general likeness between cities and bodies.
+
+**References.**
+- Bettencourt, L. M. A., Lobo, J., Helbing, D., Kühnert, C. & West, G. B. (2007). Growth, innovation, scaling, and the pace of life in cities. *PNAS* 104(17), 7301–7306. doi:10.1073/pnas.0610172104
+- Halbwachs, M. (1925). *Les cadres sociaux de la mémoire*. Paris: Alcan.
+- Hayek, F. A. (1945). The use of knowledge in society. *American Economic Review* 35(4), 519–530.
+- Leeson, P. T. (2007). Better off stateless: Somalia before and after government collapse. *Journal of Comparative Economics* 35(4), 689–710. doi:10.1016/j.jce.2007.10.001
+- Miller, J. G. (1978). *Living Systems*. New York: McGraw-Hill.
+- Queller, D. C. & Strassmann, J. E. (2009). Beyond society: the evolution of organismality. *Philosophical Transactions of the Royal Society B* 364(1533), 3143–3155.
+- Rosen, G. (1958). *A History of Public Health*. New York: MD Publications.
+- Schaller, M. & Park, J. H. (2011). The behavioral immune system (and why it matters). *Current Directions in Psychological Science* 20(2), 99–103.
+- Smil, V. (2017). *Energy and Civilization: A History*. Cambridge, MA: MIT Press.
+- Spencer, H. (1860). The social organism. *The Westminster Review*, January 1860. Reprinted in *Essays: Scientific, Political and Speculative* (1892). Text: https://www.econlib.org/book-chapters/chapter-essay-the-social-organism/
+- Tognotti, E. (2013). Lessons from the history of quarantine, from plague to influenza A. *Emerging Infectious Diseases* 19(2), 254–259. doi:10.3201/eid1902.120312
+- West, G. B., Brown, J. H. & Enquist, B. J. (1997). A general model for the origin of allometric scaling laws in biology. *Science* 276(5309), 122–126.
+- White, L. A. (1943). Energy and the evolution of culture. *American Anthropologist* 45(3), 335–356.
+
+## Hyper-connect
+- **Rests on:** *A human body, and its mind* (A2); *What "I" names* (D-I); *What exists* (D-exist); *Work, and the seven works* (D-work); *Whole, degree, member, level, self-production, sameness* (D-whole)
+- **Supports:** *A whole at one level, a part at the next* (P1); *A collective mind happens* (P2); *Society can be freer without feeling* (P21)
+- **Supports (expansion):** D-family-whole, D-firm, D-institution, D-justice-gear, D-language, D-member-degree, D-money, D-peace, D-property, D-right-power, D-sacred-sketch, D-shame, D-state-whole, D-war, OP-best-regime, P-civil-war, P-corporation-without-feeling, P-data-body, P-debt-bondage, P-energy-intake, P-exile, P-exit-voice, P-internet-memory, P-latency, P-law-as-memory, P-levels-stack, P-market-signaling, P-member-vs-citizen, P-military-whole, P-punishment-cause, P-refugee, P-robot-member, P-solidarity, P-tyranny-bondage, P-weak-whole-high-freedom, … (+-5 more; see DEPS.md)
+- **Cap:** min(weakest work-row, A2)
+- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md)

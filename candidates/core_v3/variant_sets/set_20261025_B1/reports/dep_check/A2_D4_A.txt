@@ -1,0 +1,13 @@
+exit=1
+note=cites: A1→P3; swap subject-root cite toward later freedom prop
+applied_ok=True
+
+live entries: 251
+orphan cites: 0
+orphan terms: 0
+orphan rests: 0
+missing rests (non-root): 0
+missing cap: 0
+missing hyper-connect: 0
+cycles: 1
+  CYCLE A2 -> P3 -> A2

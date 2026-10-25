@@ -1,0 +1,13 @@
+exit=1
+note=terms: D-exist→D-free; causation axiom leans on freedom def
+applied_ok=True
+
+live entries: 251
+orphan cites: 0
+orphan terms: 0
+orphan rests: 0
+missing rests (non-root): 0
+missing cap: 0
+missing hyper-connect: 0
+cycles: 1
+  CYCLE A5 -> D-free -> A5

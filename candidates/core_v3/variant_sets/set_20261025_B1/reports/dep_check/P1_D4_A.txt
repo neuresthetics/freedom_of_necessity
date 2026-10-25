@@ -1,0 +1,13 @@
+exit=1
+note=cites: A3→P19; levels prop cites anti-collapse instead of A3
+applied_ok=True
+
+live entries: 251
+orphan cites: 0
+orphan terms: 0
+orphan rests: 0
+missing rests (non-root): 0
+missing cap: 0
+missing hyper-connect: 0
+cycles: 1
+  CYCLE P1 -> P19 -> P1

@@ -1,0 +1,66 @@
+<!--
+variant_meta:
+  id: P5
+  V: V018
+  dim: D4
+  n: A
+  band: B1
+  source_sha: 378eeb522805116f35af64c81870a97a2c76c26f
+  note: cites: P3→A3; blessedness cites works-sort axiom
+  unit: combined_chain
+-->
+---
+id: P5
+type: prop
+kind: derived
+title: Blessedness is the power itself
+confidence: 'pending (collider)'
+cites: [A2, A5, A3]
+terms: [D-free, D-affect, D-blessedness]
+qualifiers:
+  - 'blessedness'
+  - 'virtue as power'
+  - 'not a reward after freedom'
+  - 'rises with degree-freedom'
+  - 'report of E5P42'
+scored_as: 'Derived under P3: blessedness, in the book''s working sense, is not a reward added after degree-freedom, but the same power of acting (D-affect) as it rises with freedom in D-free Definition 15 — following the pattern of E5P42. Cap = min(A2, A5, P3). The full Spinozist claim (intellectual love of God) is declared report, unscored.'
+status: base (locked)
+---
+
+**Blessedness is the power itself** *(proposition, id: P5)*.
+
+**BASE (locked).** Seed-spine of core v3. Snapshot: [BASE.md](BASE.md). Grow from this; do not rewrite the base without author reopen.
+
+**Why this follows bondage.** Spinoza closes the *Ethics* with blessedness as virtue itself, not a prize paid afterward (E5P42). After *Freedom by degrees under necessity* (A3) and *Bondage is acting from what is outside* (P4), the chain needs that closing claim in its own words: the upward end of the same degree.
+
+**Proposition 5.** Blessedness, in the book's working sense, is not a reward added after freedom, but the power of acting itself (*Affect, and change of power*, D-affect) as that power rises with freedom in *Freedom, strict and by degree* (D-free, Definition 15). The body this thinking goes with (*A human body, and its mind*, A2, as scored) is more blessed to the degree it is freer under *Every event is caused* (A5) and P3.
+
+**Demonstration.**
+
+1. By P3, the agent is freer by degree as what it does follows from its own organization and from clear knowledge of causes (D-free, Definition 15), with every event caused (A5).
+2. By D-affect, power of acting is the degree of the works that keep the organization going while those works continue.
+3. Active affects are those that follow from the organization's own organization and from clear knowledge of causes (D-affect, active/passive pattern; D-free Definition 15). So as degree-freedom rises, power of acting rises with the same causes — not as a later payment.
+4. Call that risen power *blessedness* in the working sense. Then blessedness is the power itself, not a reward after freedom. ∎
+
+**Cap.** P5 cites A2, A5, and P3. Effective confidence = min(A2, A5, P3) once scored. Definitions add nothing. Declared readings add nothing.
+
+**Scholium 1 (Spinoza, report).** "Blessedness is not the reward of virtue, but virtue itself; neither do we rejoice therein, because we control our lusts, but, contrariwise, because we rejoice therein, we are able to control our lusts" (E5P42). Proposition 5 follows that pattern in the book's degree language. It does not score E5P42.
+
+**Scholium 2 (declared reading, unscored).** Spinoza's full close ties blessedness to the intellectual love of God (*amor Dei intellectualis*) and to knowledge of Nature as one (Nature taken as one ([parked D-Nature](PARKED_VOLUME/D-Nature.md); declared reading)). The book reports that close and does not derive it. Nothing in P5 requires identifying Nature with God; that identification remains declared in parked D-Nature.
+
+**Scholium 3 (what this does not settle).** Why anything is felt (A2's limit); whether a society can be blessed in P2's thin sense (activity only); ultimate responsibility; salvation as otherworldly reward.
+
+**How P5 fails.**
+
+- If P3 fails, P5's working sense has no degree to ride on.
+- If "blessedness" is stipulated to mean only a supernatural reward after death, then Proposition 5 is about a different word and does not answer that stipulation.
+
+**References.**
+- Spinoza, B. *Ethics*: E5P42; also E5P3 (passion ceases when we form a clear and distinct idea of it) as background report for knowledge of causes.
+
+## Hyper-connect
+- **Rests on:** *A human body, and its mind* (A2); *Every event is caused* (A5); *Freedom by degrees under necessity* (P3); *Freedom, strict and by degree* (D-free); *Affect, and change of power* (D-affect); *Blessedness* (D-blessedness)
+- **Supports:** (none)
+- **Supports (expansion):** D-friendship, D-good-relative, P-blessedness-not-afterlife, P-compassion-freedom, P-death-and-meaning, P-nihilism-confused, P-no-miracle-ethics, P-solidarity, P-virtue-is-power
+- **Cap:** min(A2, A5, P3)
+- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md)

@@ -3,7 +3,7 @@
 **Date:** 2026-10-25 PT (America/Los_Angeles)  
 **Updated:** same day — Jason: no split-track analysis; one combined winner; winner gets **dual render** (technical + poetic).  
 **Repo:** `neuresthetics/freedom_of_necessity`  
-**Status:** plan only — do not generate variants until Jason OKs the open questions at the end.  
+**Status:** B0+B1 drafts started 2026-10-25 — see `candidates/core_v3/variant_sets/set_20261025_B1/` (§8 defaults taken; local only).  
 **Baseline:** snapshot tag `core-v3-snapshot-v1` · live set 251 · combined chain in `candidates/core_v3/` (+ technical face in `drafts/verses_v3/technical/`)
 
 ---
