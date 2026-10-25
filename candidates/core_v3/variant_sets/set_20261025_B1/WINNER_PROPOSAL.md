@@ -1,31 +1,28 @@
 # Winner — set_20261025_B1
 
-**Winner:** `golden` — materialized at `winner/`  
-**Status:** **confirmed by Jason (2026-10-25).**  
-**Dual render:** done under `dual_render/` (technical + poetic BASE, V001–V020).
+**Winner (BASE):** `golden` — confirmed by Jason (2026-10-25).  
+**Full set:** golden BASE + live expansion off BASE (CHAIN) → `winner/` (**251**).  
+**Dual render:** `dual_render/` technical + poetic for **V001–V251**. Jason v12 143–144 frozen at V013.
 
-## Why golden
+## Process (done)
 
-1. Prefer lint-pass + no meaning drift; among those, keep load-bearing wording stable.
-2. **D2** synonym automation systematically broke prose (`follows`→`issues`, A1 `doubt`→`hesitation`) → false soft, not usable.
-3. **D3** demo rotations introduced join glitches / conclusion-first proofs → false soft.
-4. **D4/D5** measure hardness; they are not candidate text (wrong rests or intentional breaks).
-5. **D1** paraphrases are mostly same-claim polish, not clearly better than locked BASE; two false softs (`A2 D1_A`, `D-I D1_B`).
-6. Hardness lesson: deps/caps/A1/P3 thesis resist safe variation; surface synonym passes do not.
+1. Hardness-to-vary on combined BASE chain (B0+B1) → propose winner = golden.
+2. Jason confirm → materialize `winner/` from golden (BASE 20).
+3. **Full expansion** off BASE: copy live non-PARKED `candidates/core_v3/expansion/` into `winner/expansion/` (231) → **251** total.
+4. **Dual render** both tracks for V001–V251 under `dual_render/`.
+5. Local commit(s); **no push**.
 
-So the single combined BASE-band winner is the frozen golden set. No optional D1 polish applied at confirm.
+## Why golden (BASE)
 
-## Confirmation record
-
-- **Jason:** golden is B1 winner; then dual render.
-- **Action taken:** copied `variant_sets/golden/` → `winner/`; wrote `dual_render/{technical,poetic}/BASE.md` + INDEX; froze Jason v12 143–144 at V013.
-- **Push:** not requested; local commit only.
+1. Prefer lint-pass + no meaning drift; keep load-bearing wording stable.
+2. D2 synonym automation → false soft. D3 demo rotations → false soft.
+3. D4/D5 measure hardness; not candidate text.
+4. D1 mostly same-claim polish; two false softs. No optional polish applied.
 
 ## Paths
 
 | Item | Path |
 |---|---|
 | Winner tree | `candidates/core_v3/variant_sets/set_20261025_B1/winner/` |
-| Dual technical | `.../dual_render/technical/BASE.md` |
-| Dual poetic | `.../dual_render/poetic/BASE.md` |
-| Compare | `reports/compare.md` |
+| Dual technical | `.../dual_render/technical/{BASE,expansion}.md` |
+| Dual poetic | `.../dual_render/poetic/{BASE,expansion}.md` |

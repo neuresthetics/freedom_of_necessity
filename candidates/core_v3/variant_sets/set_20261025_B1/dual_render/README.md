@@ -1,14 +1,15 @@
-# Dual render — BASE band (post-winner)
+# Dual render — full winner (V001–V251)
 
 **Set:** `set_20261025_B1`  
-**Winner:** `golden` → `../winner/` (Jason confirmed 2026-10-25)  
-**Scope:** V001–V020 only (BASE band). Same V### / entry labels as `drafts/verses_v3/INDEX.md`.
+**Winner:** golden BASE (Jason confirmed) + full live expansion off BASE following CHAIN  
+**Materialized chain:** `../winner/` (20 BASE + 231 expansion = **251**)  
+**Tracks:** technical + poetic, same V### / entry labels.
 
-| Track | File |
-|---|---|
-| Technical | [`technical/BASE.md`](technical/BASE.md) |
-| Poetic | [`poetic/BASE.md`](poetic/BASE.md) |
-| Labels | [`INDEX.md`](INDEX.md) |
+| Track | BASE | Expansion |
+|---|---|---|
+| Technical | [`technical/BASE.md`](technical/BASE.md) | [`technical/expansion.md`](technical/expansion.md) |
+| Poetic | [`poetic/BASE.md`](poetic/BASE.md) | [`poetic/expansion.md`](poetic/expansion.md) |
+| Labels | [`INDEX.md`](INDEX.md) | |
 
 ## Jason freeze
 
@@ -18,3 +19,7 @@
 - Technical: same lines under **Author credit (Jason)**; analysis/verse prose separate.
 
 Do not rephrase these lines in later polish without Jason's ok.
+
+## Provenance
+
+Prior mirrors in `drafts/verses_v3/` remain. This folder is the **post-winner** dual render of the confirmed combined-chain winner after full expansion.

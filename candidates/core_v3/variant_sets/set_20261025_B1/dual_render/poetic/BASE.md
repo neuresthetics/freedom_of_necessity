@@ -1,6 +1,7 @@
 # Poetic track — BASE (V001–V020) — post-winner dual render
 
-**Source:** confirmed B1 winner = `golden` → `../winner/` (set_20261025_B1).
+**Source:** confirmed B1 winner = `golden` BASE → `../winner/` (set_20261025_B1), then full live expansion.
+**Scope of dual render set:** V001–V251 (see [expansion.md](expansion.md) for V021–V251).
 **Mirror:** [technical/BASE.md](../technical/BASE.md). Labels: [INDEX.md](../INDEX.md).
 **Jason freeze (V013 · P3):** v12 verses **143** and **144** preserved verbatim (line breaks for reading only; wording unchanged).
 

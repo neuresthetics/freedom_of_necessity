@@ -1,6 +1,6 @@
 # Foreword — How this text came to be
 
-*For the final-version foreword. Companion to [PREFACE.md](../PREFACE.md) (lost original / method borrowed). This piece is the origin story of **this** book — personal, historic, and process — written as the work stands after the hardness pass and the dual render.*
+*For the final-version foreword. Companion to [PREFACE.md](../PREFACE.md) (lost original / method borrowed). This piece is the origin story of **this** book — personal, historic, and process — written as the work stands after the hardness pass, the confirmed winner, the full expansion off BASE, and the dual render of the full chain.*
 
 ---
 
@@ -38,19 +38,23 @@ The core rebuild (`candidates/core_v3/`, snapshot `core-v3-snapshot-v1`) still s
 
 When a new rendition was needed, the work did **not** score two verse tracks against each other.
 
-Variation and hardness-to-vary ran on **one combined chain** — the entry files, their dependencies and caps, and the technical statement face together. Controlled variants (paraphrase, synonym, reorder, soft and hard dependency remaps) were generated from a frozen tip. What broke under surface-looking edits marked the load-bearing joints; what survived marked surface. From that analysis, **one winner** was picked.
+Variation and hardness-to-vary ran on **one combined chain** — the entry files, their dependencies and caps, and the technical statement face together. Controlled variants (paraphrase, synonym, reorder, soft and hard dependency remaps) were generated from a frozen tip, on the locked **BASE** band first. What broke under surface-looking edits marked the load-bearing joints; what survived marked surface. From that analysis, **one winner** was picked for BASE: the frozen **golden** set. Jason confirmed it.
 
-**Then** that winner received the **dual render** treatment — technical and poetic together, same `V001`–`V251`, same index labels (entry ids). Not two books; one chain, two ways in. Spinoza’s own geometric form is exact, and the living sense of the *Ethics* is not always visible under the proofs — he says as much himself. The dual render is how this book keeps both.
+**Then** the full live chain was assembled off that BASE: the locked twenty plus the kilned expansion grown from them following CHAIN — **251** entries in the winner set (20 BASE + 231 live expansion; parked material stayed parked).
+
+**Then** that full winner received the **dual render** treatment — technical and poetic together, same `V001`–`V251`, same index labels (entry ids). Not two books; one chain, two ways in. Spinoza’s own geometric form is exact, and the living sense of the *Ethics* is not always visible under the proofs — he says as much himself. The dual render is how this book keeps both.
 
 - The **technical** face shows the joints: dependencies, caps, cites, entry ids.
 - The **poetic** face carries the same claims in plain modern lines — short, Dhammapada-like, with analogy only when it helps.
 
-Jason’s verses **143** and **144** sit in poetic **V013 · P3**. The lamp line (**86**) remains open for placement — parked near the pattern/requirement and collider homes until he chooses.
+Jason’s verses **143** and **144** sit frozen in poetic **V013 · P3** (credited on the technical face). The lamp line (**86**) remains open for placement — parked near the pattern/requirement and collider homes until he chooses.
+
+The working trees for that pass live under `candidates/core_v3/variant_sets/set_20261025_B1/` (`winner/`, `dual_render/`). Prior mirrors in `drafts/verses_v3/` remain as earlier drafts of the same labels.
 
 ## What stays open
 
-No harness scores yet beyond A1. No claim that every joint is finished. The method stays open: anyone can read the entries, the collisions, the logs, and the verse faces, and push on a weak joint. The hardness pass chose a winner and gave it two doors; it did not seal the book against revision.
+No harness scores yet beyond A1. No claim that every joint is finished. The method stays open: anyone can read the entries, the collisions, the logs, and the verse faces, and push on a weak joint. The hardness pass chose a BASE winner, expanded the full live set off it, and gave that winner two doors; it did not seal the book against revision.
 
-If the original *Ethics* is lost, the method was never lost with it. This text is one more walk of that order, started from *I exist*, checked in public, rendered two ways, and still a living document where the work continues.
+If the original *Ethics* is lost, the method was never lost with it. This text is one more walk of that order, started from *I exist*, checked in public, expanded from a locked seed, rendered two ways across the full chain, and still a living document where the work continues.
 
 — *Foreword, 2026-10-25*

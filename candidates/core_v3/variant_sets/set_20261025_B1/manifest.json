@@ -1303,21 +1303,35 @@
     ]
   },
   "winner": {
-    "status": "confirmed",
-    "choice": "golden",
+    "status": "confirmed_full",
+    "choice": "golden_BASE_plus_live_expansion",
     "confirmed_by": "Jason",
     "confirmed_date": "2026-10-25",
     "path": "winner/",
-    "note": "Materialized from variant_sets/golden/; byte-identical at confirm. No D1 polish."
+    "base_count": 20,
+    "expansion_count": 231,
+    "total_count": 251,
+    "note": "BASE from golden; expansion from live core_v3/expansion (non-PARKED) following CHAIN."
   },
   "dual_render": {
     "status": "done",
-    "scope": "BASE V001-V020",
+    "scope": "V001-V251",
     "tracks": [
       "technical",
       "poetic"
     ],
     "path": "dual_render/",
+    "files": {
+      "technical_base": "dual_render/technical/BASE.md",
+      "technical_expansion": "dual_render/technical/expansion.md",
+      "poetic_base": "dual_render/poetic/BASE.md",
+      "poetic_expansion": "dual_render/poetic/expansion.md"
+    },
+    "counts": {
+      "base_verses": 20,
+      "expansion_verses": 231,
+      "total_verses_per_track": 251
+    },
     "jason_freeze": {
       "verse": "V013",
       "entry": "P3",

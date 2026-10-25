@@ -217,3 +217,11 @@ Added frozen copies of Spinoza's *Ethics* in [sources/spinoza/](sources/spinoza/
 - Materialized `candidates/core_v3/variant_sets/set_20261025_B1/winner/` from golden.
 - Dual render BASE V001–V020 under `dual_render/{technical,poetic}/`; Jason v12 143–144 frozen at V013.
 - Local commit only; **no push**.
+
+## 2026-10-25 — Full expansion off BASE + dual render (V001–V251)
+
+- Jason: full expansion off BASE, then dual render. DO NOT push.
+- Winner BASE remains golden; materialized live expansion (231) into `set_20261025_B1/winner/expansion/` → **251** total.
+- Dual render technical + poetic for V001–V251 under `dual_render/`; Jason v12 143–144 frozen at V013.
+- Rewrote `drafts/foreword_origin.md` so process reads as DONE (hardness → confirm → expand → dual render); personal + historic kept.
+- Local commit(s) only; **no push**.

@@ -218,3 +218,7 @@ Not started.
 
 Jason confirmed **golden** as B1 winner. `winner/` filled from golden; dual render under `dual_render/` (technical + poetic BASE). Jason v12 143–144 frozen at V013. Local commit only; no push.
 
+## Full expansion + dual render (2026-10-25)
+
+Jason: full expansion off BASE, then dual render. Winner BASE remains golden; live expansion (231) materialized into `winner/expansion/`; dual render technical + poetic for **V001–V251** under `dual_render/`. Jason V013 freeze held. Local only; no push.
+
