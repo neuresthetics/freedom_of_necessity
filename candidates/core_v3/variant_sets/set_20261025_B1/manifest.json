@@ -14,7 +14,7 @@
   "defaults_for_open_questions": {
     "scope": "B0+B1 only (~85)",
     "folder": "candidates/core_v3/variant_sets/",
-    "meaning_drift_judge": "TBD \u2014 Jason skim; second-model pass parked",
+    "meaning_drift_judge": "model pass 2026-10-25 logged in compare.md; Jason may override",
     "d4_soft": "free enough to fail often",
     "v013_jason_lines": "freeze verbatim in winner; D1 may rephrase frame but keep CHDO/necessity thesis",
     "collider": "skip this round",
@@ -31,7 +31,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase A; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "picks out \u2248 names; distinctness preserved"
     },
     {
       "id": "D-I",
@@ -42,7 +45,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase B; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: \"names\" \u2192 \"refers\" (Anscombe-sensitive; book stipulates names)"
     },
     {
       "id": "D-exist",
@@ -53,7 +59,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase A; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "D-exist",
@@ -64,7 +73,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase B; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "A1",
@@ -75,7 +87,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase A; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B0"
+      "band": "B0",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "root \"I exist\" held; appositive only"
     },
     {
       "id": "A1",
@@ -86,7 +101,10 @@
       "dep_check_exit": 0,
       "note": "A1 frame paraphrase; root claim 'I exist' held fixed",
       "applied_ok": true,
-      "band": "B0"
+      "band": "B0",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "frame paraphrase; root claim fixed"
     },
     {
       "id": "A2",
@@ -97,7 +115,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase A; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: \"I am a human body\" \u2192 \"This thinking goes with\" drops identity/constitution force"
     },
     {
       "id": "A2",
@@ -108,7 +129,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase B; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "D-work",
@@ -119,7 +143,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase A; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "D-work",
@@ -130,7 +157,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase B; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "D-whole",
@@ -141,7 +171,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase A; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "D-whole",
@@ -152,7 +185,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase B; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "A3",
@@ -163,7 +199,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase A; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "A3",
@@ -174,7 +213,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase B; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "A4",
@@ -185,7 +227,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase A; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "A4",
@@ -196,7 +241,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase B; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "P1",
@@ -207,7 +255,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase A; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "P1",
@@ -218,7 +269,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase B; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "P2",
@@ -229,7 +283,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase A; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "P2",
@@ -240,7 +297,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase B; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "A5",
@@ -251,7 +311,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase A; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "A5",
@@ -262,7 +325,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase B; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "D-free",
@@ -273,7 +339,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase A; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "D-free",
@@ -284,7 +353,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase B; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "P3",
@@ -295,7 +367,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase A; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "keeps A5-compat + degree-freedom + CHDO not required"
     },
     {
       "id": "P3",
@@ -306,7 +381,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase B; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "keeps A5-compat + degree-freedom + CHDO not required"
     },
     {
       "id": "D-affect",
@@ -317,7 +395,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase A; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "D-affect",
@@ -328,7 +409,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase B; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "D-bondage",
@@ -339,7 +423,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase A; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "D-bondage",
@@ -350,7 +437,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase B; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "D-blessedness",
@@ -361,7 +451,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase A; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "D-blessedness",
@@ -372,7 +465,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase B; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "P4",
@@ -383,7 +479,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase A; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "P4",
@@ -394,7 +493,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase B; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "P5",
@@ -405,7 +507,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase A; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "P5",
@@ -416,7 +521,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase B; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "P19",
@@ -427,7 +535,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase A; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "P19",
@@ -438,7 +549,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase B; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "P21",
@@ -449,7 +563,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase A; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "P21",
@@ -460,7 +577,10 @@
       "dep_check_exit": 0,
       "note": "paraphrase B; cites/terms/ids untouched",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "paraphrase; same claim"
     },
     {
       "id": "D-I",
@@ -471,7 +591,10 @@
       "dep_check_exit": 0,
       "note": "synonym swaps (16): Seed-spine\u2192Seed-chain, Snapshot\u2192Freeze-frame, doubt\u2192hesitation, certain\u2192sure, follows\u2192issues, evidence\u2192grounds, doubting\u2192hesitating, doubting\u2192hesitating, wording\u2192phrasing, sentence\u2192statement, doubting\u2192hesitating, doubting\u2192hesitating\u2026",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "meta synonym only; claim intact"
     },
     {
       "id": "D-exist",
@@ -482,7 +605,10 @@
       "dep_check_exit": 0,
       "note": "synonym swaps (12): Seed-spine\u2192Seed-chain, Snapshot\u2192Freeze-frame, wording\u2192phrasing, wording\u2192phrasing, wording\u2192phrasing, Doubting\u2192Hesitating, doubting\u2192hesitating, doubt\u2192hesitation, doubt\u2192hesitation, doubting\u2192hesitating, wording\u2192phrasing, claim\u2192assertion",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "meta synonym only; claim intact"
     },
     {
       "id": "A1",
@@ -493,7 +619,10 @@
       "dep_check_exit": 0,
       "note": "synonym swaps (34): Seed-spine\u2192Seed-chain, Snapshot\u2192Freeze-frame, sentence\u2192statement, certain\u2192sure, doubt\u2192hesitation, doubting\u2192hesitating, doubting\u2192hesitating, doubting\u2192hesitating, doubt\u2192hesitation, revised\u2192altered, claim\u2192assertion, evidence\u2192grounds\u2026",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: synonym pass broke prose (follows\u2192issues / doubt\u2192hesitation)"
     },
     {
       "id": "A2",
@@ -504,7 +633,10 @@
       "dep_check_exit": 0,
       "note": "synonym swaps (24): Seed-spine\u2192Seed-chain, Snapshot\u2192Freeze-frame, follows\u2192issues, claim\u2192assertion, claim\u2192assertion, claim\u2192assertion, evidence\u2192grounds, evidence\u2192grounds, evidence\u2192grounds, evidence\u2192grounds, evidence\u2192grounds, evidence\u2192grounds\u2026",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: synonym pass broke prose (follows\u2192issues / doubt\u2192hesitation)"
     },
     {
       "id": "D-work",
@@ -515,7 +647,10 @@
       "dep_check_exit": 0,
       "note": "synonym swaps (14): Seed-spine\u2192Seed-chain, Snapshot\u2192Freeze-frame, follows\u2192issues, claim\u2192assertion, wording\u2192phrasing, wording\u2192phrasing, follows\u2192issues, required\u2192demanded, outside\u2192external, outside\u2192external, wording\u2192phrasing, wording\u2192phrasing\u2026",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: synonym pass broke prose (follows\u2192issues / doubt\u2192hesitation)"
     },
     {
       "id": "D-whole",
@@ -526,7 +661,10 @@
       "dep_check_exit": 0,
       "note": "synonym swaps (12): Seed-spine\u2192Seed-chain, Snapshot\u2192Freeze-frame, follows\u2192issues, outside\u2192external, outside\u2192external, reader\u2192audience, evidence\u2192grounds, follows\u2192issues, claim\u2192assertion, claim\u2192assertion, Revised\u2192Altered, loosely\u2192weakly",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: synonym pass broke prose (follows\u2192issues / doubt\u2192hesitation)"
     },
     {
       "id": "A3",
@@ -537,7 +675,10 @@
       "dep_check_exit": 0,
       "note": "synonym swaps (13): Seed-spine\u2192Seed-chain, Snapshot\u2192Freeze-frame, follows\u2192issues, claim\u2192assertion, claim\u2192assertion, outside\u2192external, outside\u2192external, clear\u2192plain, evidence\u2192grounds, revised\u2192altered, evidence\u2192grounds, required\u2192demanded\u2026",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: synonym pass broke prose (follows\u2192issues / doubt\u2192hesitation)"
     },
     {
       "id": "A4",
@@ -548,7 +689,10 @@
       "dep_check_exit": 0,
       "note": "synonym swaps (10): Seed-spine\u2192Seed-chain, Snapshot\u2192Freeze-frame, follows\u2192issues, outside\u2192external, claim\u2192assertion, claim\u2192assertion, claim\u2192assertion, Evidence\u2192Grounds, outside\u2192external, evidence\u2192grounds",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: synonym pass broke prose (follows\u2192issues / doubt\u2192hesitation)"
     },
     {
       "id": "P1",
@@ -559,7 +703,10 @@
       "dep_check_exit": 0,
       "note": "synonym swaps (6): Seed-spine\u2192Seed-chain, Snapshot\u2192Freeze-frame, follows\u2192issues, evidence\u2192grounds, wording\u2192phrasing, loosely\u2192weakly",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: synonym pass broke prose (follows\u2192issues / doubt\u2192hesitation)"
     },
     {
       "id": "P2",
@@ -570,7 +717,10 @@
       "dep_check_exit": 0,
       "note": "synonym swaps (8): Seed-spine\u2192Seed-chain, Snapshot\u2192Freeze-frame, follows\u2192issues, claim\u2192assertion, claim\u2192assertion, evidence\u2192grounds, claim\u2192assertion, reader\u2192audience",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: synonym pass broke prose (follows\u2192issues / doubt\u2192hesitation)"
     },
     {
       "id": "A5",
@@ -581,7 +731,10 @@
       "dep_check_exit": 0,
       "note": "synonym swaps (15): Seed-spine\u2192Seed-chain, Snapshot\u2192Freeze-frame, follows\u2192issues, claim\u2192assertion, claim\u2192assertion, claim\u2192assertion, follows\u2192issues, follows\u2192issues, claim\u2192assertion, Evidence\u2192Grounds, claim\u2192assertion, wording\u2192phrasing\u2026",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: synonym pass broke prose (follows\u2192issues / doubt\u2192hesitation)"
     },
     {
       "id": "D-free",
@@ -592,7 +745,10 @@
       "dep_check_exit": 0,
       "note": "synonym swaps (12): Seed-spine\u2192Seed-chain, Snapshot\u2192Freeze-frame, follows\u2192issues, follows\u2192issues, outside\u2192external, Clear\u2192Plain, requires\u2192demands, reward\u2192prize, claim\u2192assertion, wording\u2192phrasing, outside\u2192external, loosely\u2192weakly",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: synonym pass broke prose (follows\u2192issues / doubt\u2192hesitation)"
     },
     {
       "id": "P3",
@@ -603,7 +759,10 @@
       "dep_check_exit": 0,
       "note": "synonym swaps (28): Seed-spine\u2192Seed-chain, Snapshot\u2192Freeze-frame, follows\u2192issues, claim\u2192assertion, compatible\u2192consistent, require\u2192demand, compatible\u2192consistent, follows\u2192issues, clear\u2192plain, require\u2192demand, outside\u2192external, follows\u2192issues\u2026",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: synonym pass broke prose (follows\u2192issues / doubt\u2192hesitation)"
     },
     {
       "id": "D-affect",
@@ -614,7 +773,10 @@
       "dep_check_exit": 0,
       "note": "synonym swaps (10): Seed-spine\u2192Seed-chain, Snapshot\u2192Freeze-frame, follows\u2192issues, follows\u2192issues, clear\u2192plain, follows\u2192issues, required\u2192demanded, claim\u2192assertion, wording\u2192phrasing, outside\u2192external",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: synonym pass broke prose (follows\u2192issues / doubt\u2192hesitation)"
     },
     {
       "id": "D-bondage",
@@ -625,7 +787,10 @@
       "dep_check_exit": 0,
       "note": "synonym swaps (11): Seed-spine\u2192Seed-chain, Snapshot\u2192Freeze-frame, follows\u2192issues, inverse\u2192counterpart-down, outside\u2192external, follows\u2192issues, outside\u2192external, unclear\u2192opaque, inverse\u2192counterpart-down, claim\u2192assertion, outside\u2192external",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: synonym pass broke prose (follows\u2192issues / doubt\u2192hesitation)"
     },
     {
       "id": "D-blessedness",
@@ -636,7 +801,10 @@
       "dep_check_exit": 0,
       "note": "synonym swaps (5): Seed-spine\u2192Seed-chain, Snapshot\u2192Freeze-frame, follows\u2192issues, reward\u2192prize, claim\u2192assertion",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: synonym pass broke prose (follows\u2192issues / doubt\u2192hesitation)"
     },
     {
       "id": "P4",
@@ -647,7 +815,10 @@
       "dep_check_exit": 0,
       "note": "synonym swaps (22): outside\u2192external, Seed-spine\u2192Seed-chain, Snapshot\u2192Freeze-frame, follows\u2192issues, inverse\u2192counterpart-down, follows\u2192issues, outside\u2192external, clear\u2192plain, compatible\u2192consistent, inverse\u2192counterpart-down, follows\u2192issues, follows\u2192issues\u2026",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: synonym pass broke prose (follows\u2192issues / doubt\u2192hesitation)"
     },
     {
       "id": "P5",
@@ -658,7 +829,10 @@
       "dep_check_exit": 0,
       "note": "synonym swaps (16): Seed-spine\u2192Seed-chain, Snapshot\u2192Freeze-frame, follows\u2192issues, outside\u2192external, claim\u2192assertion, reward\u2192prize, follows\u2192issues, clear\u2192plain, clear\u2192plain, reward\u2192prize, reward\u2192prize, follows\u2192issues\u2026",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: synonym pass broke prose (follows\u2192issues / doubt\u2192hesitation)"
     },
     {
       "id": "P19",
@@ -669,7 +843,10 @@
       "dep_check_exit": 0,
       "note": "synonym swaps (7): loosely\u2192weakly, Seed-spine\u2192Seed-chain, Snapshot\u2192Freeze-frame, follows\u2192issues, unclear\u2192opaque, outside\u2192external, claim\u2192assertion",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: synonym pass broke prose (follows\u2192issues / doubt\u2192hesitation)"
     },
     {
       "id": "P21",
@@ -680,7 +857,10 @@
       "dep_check_exit": 0,
       "note": "synonym swaps (13): Seed-spine\u2192Seed-chain, Snapshot\u2192Freeze-frame, follows\u2192issues, claim\u2192assertion, conjecture-grade\u2192hypothesis-grade, conjecture-grade\u2192hypothesis-grade, follows\u2192issues, claim\u2192assertion, required\u2192demanded, Conjecture-grade\u2192Hypothesis-grade, conjecture-grade\u2192hypothesis-grade, claim\u2192assertion\u2026",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: synonym pass broke prose (follows\u2192issues / doubt\u2192hesitation)"
     },
     {
       "id": "D-I",
@@ -691,7 +871,10 @@
       "dep_check_exit": 0,
       "note": "swapped first two **section** blocks",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "section/step reorder; claim sentences unchanged"
     },
     {
       "id": "A1",
@@ -702,7 +885,10 @@
       "dep_check_exit": 0,
       "note": "swapped first two **section** blocks",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "section/step reorder; claim sentences unchanged"
     },
     {
       "id": "D-work",
@@ -713,7 +899,10 @@
       "dep_check_exit": 0,
       "note": "swapped first two **section** blocks",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "section/step reorder; claim sentences unchanged"
     },
     {
       "id": "A3",
@@ -724,7 +913,10 @@
       "dep_check_exit": 0,
       "note": "swapped first two **section** blocks",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "section/step reorder; claim sentences unchanged"
     },
     {
       "id": "P1",
@@ -735,7 +927,10 @@
       "dep_check_exit": 0,
       "note": "rotated demonstration steps",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: demo reorder mangled step joins / conclusion-first"
     },
     {
       "id": "A5",
@@ -746,7 +941,10 @@
       "dep_check_exit": 0,
       "note": "swapped first two **section** blocks",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "section/step reorder; claim sentences unchanged"
     },
     {
       "id": "P3",
@@ -757,7 +955,10 @@
       "dep_check_exit": 0,
       "note": "rotated demonstration steps",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: demo reorder mangled step joins / conclusion-first"
     },
     {
       "id": "D-bondage",
@@ -768,7 +969,10 @@
       "dep_check_exit": 0,
       "note": "swapped first two **section** blocks",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "section/step reorder; claim sentences unchanged"
     },
     {
       "id": "P4",
@@ -779,7 +983,10 @@
       "dep_check_exit": 0,
       "note": "rotated demonstration steps",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: demo reorder mangled step joins / conclusion-first"
     },
     {
       "id": "P19",
@@ -790,7 +997,10 @@
       "dep_check_exit": 0,
       "note": "swapped first two **section** blocks",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "N",
+      "false_soft": "N",
+      "drift_note": "section/step reorder; claim sentences unchanged"
     },
     {
       "id": "A2",
@@ -801,7 +1011,10 @@
       "dep_check_exit": 1,
       "note": "cites: A1\u2192P3; swap subject-root cite toward later freedom prop",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "N",
+      "drift_note": "soft remap broke lint (cycle/orphan/cap story); not a candidate"
     },
     {
       "id": "A3",
@@ -812,7 +1025,10 @@
       "dep_check_exit": 1,
       "note": "terms: D-whole\u2192P1; terms/dep: point model axiom at later prop",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "N",
+      "drift_note": "soft remap broke lint (cycle/orphan/cap story); not a candidate"
     },
     {
       "id": "A4",
@@ -823,7 +1039,10 @@
       "dep_check_exit": 1,
       "note": "cites: A2\u2192P21; society axiom cites conjecture instead of A2",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "N",
+      "drift_note": "soft remap broke lint (cycle/orphan/cap story); not a candidate"
     },
     {
       "id": "A5",
@@ -834,7 +1053,10 @@
       "dep_check_exit": 1,
       "note": "terms: D-exist\u2192D-free; causation axiom leans on freedom def",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "N",
+      "drift_note": "soft remap broke lint (cycle/orphan/cap story); not a candidate"
     },
     {
       "id": "P1",
@@ -845,7 +1067,10 @@
       "dep_check_exit": 1,
       "note": "cites: A3\u2192P19; levels prop cites anti-collapse instead of A3",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "N",
+      "drift_note": "soft remap broke lint (cycle/orphan/cap story); not a candidate"
     },
     {
       "id": "P2",
@@ -856,7 +1081,10 @@
       "dep_check_exit": 0,
       "note": "cites: A4\u2192P5; collective mind cites blessedness",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: lint OK but rests/cites tell wrong parent story"
     },
     {
       "id": "P3",
@@ -867,7 +1095,10 @@
       "dep_check_exit": 1,
       "note": "cites: A5\u2192P4; freedom prop cites bondage prop (near-cycle risk)",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "N",
+      "drift_note": "soft remap broke lint (cycle/orphan/cap story); not a candidate"
     },
     {
       "id": "P4",
@@ -878,7 +1109,10 @@
       "dep_check_exit": 0,
       "note": "cites: P3\u2192P21; bondage cites society conjecture",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: lint OK but rests/cites tell wrong parent story"
     },
     {
       "id": "P5",
@@ -889,7 +1123,10 @@
       "dep_check_exit": 0,
       "note": "cites: P3\u2192A3; blessedness cites works-sort axiom",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: lint OK but rests/cites tell wrong parent story"
     },
     {
       "id": "P19",
@@ -900,7 +1137,10 @@
       "dep_check_exit": 0,
       "note": "cites: P1\u2192A1; anti-collapse cites root instead of P1",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "Y",
+      "drift_note": "FALSE SOFT: lint OK but rests/cites tell wrong parent story"
     },
     {
       "id": "A1",
@@ -911,7 +1151,10 @@
       "dep_check_exit": 1,
       "note": "hard: cite parked PR1 + clear terms (orphan expected)",
       "applied_ok": true,
-      "band": "B0"
+      "band": "B0",
+      "meaning_drift": "Y",
+      "false_soft": "N",
+      "drift_note": "hard negative control; structure attacked (expected)"
     },
     {
       "id": "P3",
@@ -922,7 +1165,10 @@
       "dep_check_exit": 1,
       "note": "cite parked D-Nature (orphan)",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "N",
+      "drift_note": "hard negative control; structure attacked (expected)"
     },
     {
       "id": "P1",
@@ -933,7 +1179,10 @@
       "dep_check_exit": 1,
       "note": "hard: clear cites+terms+HC rests (missing rests expected)",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "N",
+      "drift_note": "hard negative control; structure attacked (expected)"
     },
     {
       "id": "A4",
@@ -944,7 +1193,10 @@
       "dep_check_exit": 1,
       "note": "cite parked P18 (orphan)",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "N",
+      "drift_note": "hard negative control; structure attacked (expected)"
     },
     {
       "id": "P5",
@@ -955,7 +1207,10 @@
       "dep_check_exit": 1,
       "note": "hard: clear cites+terms+HC rests (missing rests expected)",
       "applied_ok": true,
-      "band": "B1"
+      "band": "B1",
+      "meaning_drift": "Y",
+      "false_soft": "N",
+      "drift_note": "hard negative control; structure attacked (expected)"
     }
   ],
   "counts": {
@@ -984,6 +1239,67 @@
       "A1",
       "P1",
       "P5"
+    ]
+  },
+  "meaning_drift_pass": {
+    "at": "2026-10-25T15:16:07",
+    "timezone": "America/Los_Angeles",
+    "judge": "model pass (combined-chain rubric: same claim?); Jason may override",
+    "n_drift_Y": 38,
+    "n_drift_N": 47,
+    "n_false_soft": 27,
+    "n_lint_ok_and_no_drift": 47
+  },
+  "winner_proposal": {
+    "status": "PROPOSED \u2014 winner/ left empty pending Jason confirm",
+    "candidate": "golden",
+    "rationale": "Assemble one BASE-band winner from hardness results: keep golden combined BASE. D2 synonym batch systematically corrupted prose (false soft). D3 demo rotations introduced join glitches / conclusion-first proofs (false soft). D4/D5 are measurement arms, not candidates (wrong rests or intentional breaks). Most D1 paraphrases are same-claim polish at best, not clearly better than locked BASE; one D1 (A2_A) and one (D-I_B) false-soft. Hardness lesson: deps/caps/A1/P3 thesis are load-bearing; surface synonym automation is not safe. Therefore the single winner for this band is the frozen golden set.",
+    "optional_safe_d1_polish_if_jason_wants_any": [
+      "D-I D1_A",
+      "D-exist D1_A",
+      "D-exist D1_B",
+      "A1 D1_B",
+      "A2 D1_B",
+      "D-work D1_A",
+      "D-work D1_B",
+      "D-whole D1_A",
+      "D-whole D1_B",
+      "A3 D1_A",
+      "A3 D1_B",
+      "A4 D1_A",
+      "A4 D1_B",
+      "P1 D1_A",
+      "P1 D1_B",
+      "P2 D1_A",
+      "P2 D1_B",
+      "A5 D1_A",
+      "A5 D1_B",
+      "D-free D1_A",
+      "D-free D1_B",
+      "P3 D1_A",
+      "P3 D1_B",
+      "D-affect D1_A",
+      "D-affect D1_B",
+      "D-bondage D1_A",
+      "D-bondage D1_B",
+      "D-blessedness D1_A",
+      "D-blessedness D1_B",
+      "P4 D1_A",
+      "P4 D1_B",
+      "P5 D1_A",
+      "P5 D1_B",
+      "P19 D1_A",
+      "P19 D1_B",
+      "P21 D1_A",
+      "P21 D1_B"
+    ],
+    "reject_classes": [
+      "all D2",
+      "glitched D3",
+      "all D4",
+      "all D5",
+      "A2 D1_A",
+      "D-I D1_B"
     ]
   }
 }

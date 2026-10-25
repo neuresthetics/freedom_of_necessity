@@ -29,7 +29,7 @@ variant_sets/
 | Band | B0 (A1 sanity) + B1 (BASE V001–V020) |
 | Variants | **85** (D1×40, D2×20, D3×10, D4×10, D5×5) |
 | dep_check | see set README / `reports/compare.md` |
-| Winner | not picked |
+| Winner | **proposed = golden** (empty `winner/` until Jason confirms) |
 | Dual render | not started |
 | Push | **local only** until Jason says push |
 

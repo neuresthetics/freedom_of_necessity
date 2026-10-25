@@ -197,3 +197,16 @@ Added frozen copies of Spinoza's *Ethics* in [sources/spinoza/](sources/spinoza/
 
 **Generator:** `candidates/core_v3/variant_sets/tools/generate_b1.py`
 
+## 2026-10-25 (PDT) — hardness-to-vary: meaning-drift pass + winner proposal
+
+**Ask:** Jason — continue: meaning-drift on 85, shortlist toward single winner.
+
+**Done (local, not pushed):**
+- Meaning-drift judge pass on all 85 combined-chain variants → `set_20261025_B1/reports/compare.md`.
+- Counts: drift Y=38, N=47; **false soft=27**; lint OK + no drift=47.
+- Notable false softs: D2 synonym batch (`follows`→`issues`, A1 `doubt`→`hesitation`); D3 demo join glitches; D4 lint-pass wrong parents (P2/P4/P5/P19); A2 D1_A identity soften; D-I D1_B names→refers.
+- **Winner proposal: `golden`** (frozen BASE). Rationale in compare.md / manifest `winner_proposal`.
+- `winner/` left empty (README stub only) pending Jason confirm. **No dual render. No push.**
+
+**SHA tip before this commit:** see following git commit.
+

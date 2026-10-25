@@ -1,6 +1,6 @@
 # set_20261025_B1 — hardness-to-vary drafts (B0+B1)
 
-**Status:** first variant batch generated for analysis. **No winner yet. No dual render yet.**
+**Status:** meaning-drift pass done. **Winner proposed = golden** (`winner/` empty until Jason confirms). **No dual render yet.**
 **Unit:** one combined technical+structure chain (entry files + technical face).  
 **Plan:** [notes/2026-10-25-hardness-to-vary-draft-plan.md](../../../../notes/2026-10-25-hardness-to-vary-draft-plan.md)
 
@@ -19,6 +19,9 @@
 - **Variants:** 85
 - **By dim:** {"D1": 40, "D2": 20, "D3": 10, "D4": 10, "D5": 5}
 - **dep_check pass / fail:** 74 / 11
+- **Meaning-drift Y / N:** 38 / 47
+- **False soft:** 27
+- **Winner proposal:** golden (see reports/compare.md)
 
 ## Layout
 
