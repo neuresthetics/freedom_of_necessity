@@ -1,57 +1,56 @@
-# Foreword (draft) — How this text came to be
+# Foreword — How this text came to be
 
-*Working draft for the foreword of a final version. Companion to [PREFACE.md](../PREFACE.md) (“On a Book Without Its Original”), which holds the Ethics-history thread; this piece is the origin story of **this** book — personal, method, and how the pages were checked into shape.*
+*For the final-version foreword. Companion to [PREFACE.md](../PREFACE.md) (lost original / method borrowed). This piece is the origin story of **this** book — personal, historic, and process — written as the work stands after the hardness pass and the dual render.*
 
 ---
 
 There is a short answer to how this text came to be, and a longer one. The short answer is: it started from one line that cannot be taken back — *I exist* — and grew by checking every next step against what came before.
 
-The longer answer is how a person, a method, and a machine walked that order together until one chain stood, then showed that chain through two doors.
+The longer answer is below.
 
-## A person at the start
+## Origin
 
-Jason Burns set the starting point, the method, and the direction. He chose **A1** — *I exist* — as the root that is not revised. He kept the veto: accepted steps, rejected steps, sent work back when a claim overreached. He did not write most of the pages by hand. The bulk of the drafting and checking was done with **digital intelligence** (Grok), under rules he held steady — what may be claimed, what must rest on what, what counts as a pass, and what gets parked when it fails.
+Jason Burns set the starting point, the method, and the direction. He did not write most of the pages by hand. The bulk of the drafting and checking was done with **digital intelligence** (Grok), under rules he kept: what may be claimed, what must rest on what, what counts as a pass, and what gets parked when it fails.
 
-A few lines are his in wording as well as in intent. The old companion verses on freedom (143 and 144) are kept at **V013 · P3**: freedom does not need that you could have done otherwise, given all that came before; it needs that what you did came from you — and to understand a cause is to know where it came from and to act from that knowledge, not to escape it. The “lamp, not a proof” line (86) is also his; its final home in the live set stayed open while the chain was rebuilt, and it is credited as author-written wherever it lands.
+He accepted steps, rejected steps, and sent the work back when a claim overreached. A few lines are his in wording as well as in intent — among them the companion verses on freedom (old **143** and **144**), kept at **V013 · P3**, and the “lamp, not a proof” line (old **86**), whose final home in the live set he left open on purpose. Those stay credited as author-written. Everything else in the chain is collaborative under his veto.
 
-On free will he has long held a plain 50–50 view: free will is real from the inside; ultimate causality holds from the outside; neurology is where the two meet. Choice, in that frame, is an illusion — but a real illusion; a limit of the subjective mind in prediction. The book’s job was never to erase that tension. It was to give it a geometric place.
+The thesis is not that Spinoza was wrong about free will. It is that he was **incomplete** on it. Spinoza denied a will that starts things from nowhere (E1P32; E2P48) and placed freedom in acting from the necessity of one’s own nature (E1D7). This book keeps that frame and works it out further than his day could — with evidence about bodies, minds, and societies that he did not have, and with digital intelligence as a drafting and checking partner he could not have imagined.
 
-He also came to the work with a belief in God that he wanted bridged, honestly, to brain science and a lawful world — not miracles that break the order, but order itself as what shows through. The book’s declared readings (God, or Nature; mind as the body told from inside) mark those bridges without pretending the evidence settles them. Spinoza could say *Deus sive Natura*; this century can also ask what a brain is doing when a person says “I.” The preface already names that frontier: imaging, psychology, philosophy of mind, and digital intelligence.
+Jason’s own long-held reading of free will is roughly **fifty-fifty**: real from the inside, causality from the outside, and neither outranks the other. Choice felt as mine and choice as a link in a causal chain are two true descriptions of one event. Neurology is where those descriptions meet. The chain states that as a declared reading where it must (A2’s first-person side; the “mine” scholium on P3), and does not pretend the collider can score the felt side into existence. The subtitle — *God, Brain, and the Order of the Mind* — names the bridge the book is trying to keep: one knowable order (Nature, and God as a declared reading of that order), and a human brain inside it, told from both doors.
 
 ## Historic ground
 
-The method is Spinoza’s before it is anyone else’s: the *Ethics*, *ordine geometrico demonstrata* — definitions, axioms, propositions, each resting on what came before. This book cites him by part and proposition (E1P32, E2P48, E1D7, E5P42, and the rest), not by a modern editor’s page. For a public-domain seed and a checkable English witness, the repo keeps R. H. M. Elwes’s 1883 translation (and a Latin text) under `sources/spinoza/`, frozen and hashed — used to verify wording, not to replace the geometric order.
+There is no original *Ethics*. Spinoza never published it. When he died in February 1677, friends printed the *Opera Posthuma* (Latin) and the *Nagelate Schriften* (Dutch). His own handwritten copy has not survived. Every *Ethics* since then is a copy of a copy.
 
-The story of the *Ethics* itself — no surviving autograph, the 1677 printings, the Vatican copy Vat. Lat. 12838 and why Rome is a conflicted keeper — is told in the preface, *On a Book Without Its Original*. That history is not repeated here; it is why a living rebuild in the open matters.
+One other early witness is the Vatican manuscript Vat. Lat. 12838, identified in 2010 by Leen Spruit and Pina Totaro — not in Spinoza’s hand; copied for Tschirnhaus, later handed to the Holy Office as evidence against the book. It is a valuable witness; the institution that holds it is not a neutral keeper of his meaning. The preface tells that story in full. What remains is a set of witnesses: the 1677 printings, the Vatican copy, and the translations that followed. Where they agree, we stand on firm ground. Where they differ, the differences are recorded instead of smoothed over.
 
-The thesis toward Spinoza is simple: he was **incomplete** on free will, not wrong. He denied a will that starts things from nowhere and placed freedom in acting from the necessity of one’s own nature. This book keeps that frame and works it further than his day could.
+This book borrows Spinoza’s **geometric method** — definitions, axioms, propositions; each entry cites what it rests on; confidence cannot rise above the weakest support down the chain — and cites him by part and proposition only. Frozen public-domain checks live in `sources/spinoza/` (Latin; Elwes 1883 English). The live rebuild did not copy Parts I–V wholesale. It grew from a thin seed (*I exist*, what “I” names, what exists), then extended Spinoza’s ground — mind and body as one organization two ways, causality without uncaused will, freedom by degree, affect, bondage, blessedness — in the book’s own words. Along the way the chain fixed circularities (definitions that had leaned on the propositions that used them were stood up on their own feet; attribute and substance slots were named without pretending to re-prove the full Part I sequence). Spinoza incomplete, not wrong: that framing stayed.
 
-Along the way the chain learned from its own mistakes. When definitions of bondage and blessedness had leaned on the propositions that used those words, the dependence was reversed so the definitions stand alone and **P5** (*Blessedness is the power itself*) derives cleanly — a small fix with a long shadow, because circular joints pretend to hold weight they do not have. That kind of repair is typical of how the text was made: find the soft joint, open it, write what still stands.
+The fuller history of the lost original, the Vatican copy, and why this book goes further on freedom and consciousness is in [PREFACE.md](../PREFACE.md) — *On a Book Without Its Original*.
 
-## The collision record is the book
+## Method
 
-What this book adds to the geometric shape is the **collision record**. Rival sides are argued at full strength; each side says in advance what would prove it wrong; only what survives on checked evidence stays. What fails is parked or rewritten in the open — in logs, in `results/`, in tags and snapshots. The collision record is not a sidecar to a finished manuscript. It *is* the manuscript as it was tested.
+What this book adds is the **collision record**. For a live claim, rival sides are argued at full strength; each side says in advance what would prove it wrong; only what survives on checked evidence stays. What fails is parked or rewritten in the open. In that sense the collision record *is* the book — not a sidecar to a finished manuscript, but the manuscript as it was tested.
 
-The rebuilt core (`candidates/core_v3/`, snapshot `core-v3-snapshot-v1`) still starts at A1. Only that root is scored absolute. Older promoted seed material remains in `entries/` until a separate promotion is accepted. Entries, collisions, versions, and verse faces stay readable together. This is a living document, not a sealed volume.
+The core rebuild (`candidates/core_v3/`, snapshot `core-v3-snapshot-v1`) still starts at **A1**: *I exist*. Only that root is scored absolute. The rest waited on the collider, and much of it still does. Older promoted seed material remains in `entries/` until a separate promotion is accepted. Logs, results folders, and tags keep the trail — this is a living document of entries, collisions, versions, and verse faces, not a sealed volume that pretends the ink never moved.
 
-## One chain, then the dual render
+## How the final face was chosen
 
-Readers meet the same chain through two doors.
+When a new rendition was needed, the work did **not** score two verse tracks against each other.
 
-- The **technical** face shows the joints: dependencies, caps, cites, entry ids.  
+Variation and hardness-to-vary ran on **one combined chain** — the entry files, their dependencies and caps, and the technical statement face together. Controlled variants (paraphrase, synonym, reorder, soft and hard dependency remaps) were generated from a frozen tip. What broke under surface-looking edits marked the load-bearing joints; what survived marked surface. From that analysis, **one winner** was picked.
+
+**Then** that winner received the **dual render** treatment — technical and poetic together, same `V001`–`V251`, same index labels (entry ids). Not two books; one chain, two ways in. Spinoza’s own geometric form is exact, and the living sense of the *Ethics* is not always visible under the proofs — he says as much himself. The dual render is how this book keeps both.
+
+- The **technical** face shows the joints: dependencies, caps, cites, entry ids.
 - The **poetic** face carries the same claims in plain modern lines — short, Dhammapada-like, with analogy only when it helps.
 
-Same `V001`–`V251`, same index labels. Not two books; one chain, two ways in. Spinoza’s geometric form is exact, and the living sense of the *Ethics* is not always visible under the proofs — he points that out himself. The dual render is how this book kept both.
+Jason’s verses **143** and **144** sit in poetic **V013 · P3**. The lamp line (**86**) remains open for placement — parked near the pattern/requirement and collider homes until he chooses.
 
-That render was not how the text was *chosen*. Variation and hardness-to-vary checks ran on the **combined** technical-and-structure chain alone: paraphrase, reorder, synonym, dependency remap; lint against `dep_check`; meaning held or lost. The two tracks were never scored against each other. From that combined effort **one winner** was picked. **Then** that winner received the dual render treatment — technical and poetic together, same numbers and labels.
+## What stays open
 
-So the pages you hold are not a compromise between two styles. They are one checked chain, shown twice on purpose.
+No harness scores yet beyond A1. No claim that every joint is finished. The method stays open: anyone can read the entries, the collisions, the logs, and the verse faces, and push on a weak joint. The hardness pass chose a winner and gave it two doors; it did not seal the book against revision.
 
-## What remains open
+If the original *Ethics* is lost, the method was never lost with it. This text is one more walk of that order, started from *I exist*, checked in public, rendered two ways, and still a living document where the work continues.
 
-No harness scores yet beyond A1. Some author lines still seek their final shelf. Promotion of the full rebuilt core into `entries/` waits on a clear yes. The method stays open: anyone can read the entries, the collisions, the logs, and the verse faces, and push on a weak joint.
-
-If the original *Ethics* is lost, the method was never lost with it. This text is one more walk of that order — started from *I exist*, checked in public, rendered both ways, and still willing to be tested again.
-
-— *Jason Burns, with digital intelligence*  
-— *Draft foreword, 2026-10-25*
+— *Foreword, 2026-10-25*
