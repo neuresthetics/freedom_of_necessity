@@ -1,5 +1,10 @@
 # Log
 
+## 2026-10-25 PT — dual verse tracks (technical || poetic), local only
+
+Scaffold at `drafts/verses_v3/`: shared INDEX V001–V251 keyed to live core_v3 ids (BASE order then expansion groups); parallel `technical/` and `poetic/` with identical numbers/labels. BASE V001–V020 hand-crafted both tracks; expansion V021–V251 first pass both tracks (251 pairs). Jason v12 143–144 preserved at V013·P3; v12 86 placement open (see INDEX). Not pushed.
+
+---
 
 ## 2026-10-24 PT — core v3 prune + hyper-connect
 

@@ -2,3 +2,4 @@
 harness/collider/collider.config.json
 harness/collider/_dryrun/
 __pycache__/
+tmp/
