@@ -214,3 +214,7 @@ Assemble one BASE-band winner from hardness results: keep golden combined BASE. 
 
 Not started.
 
+## Confirmation (2026-10-25)
+
+Jason confirmed **golden** as B1 winner. `winner/` filled from golden; dual render under `dual_render/` (technical + poetic BASE). Jason v12 143–144 frozen at V013. Local commit only; no push.
+

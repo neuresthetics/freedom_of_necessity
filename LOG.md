@@ -210,3 +210,10 @@ Added frozen copies of Spinoza's *Ethics* in [sources/spinoza/](sources/spinoza/
 
 **SHA tip before this commit:** see following git commit.
 
+
+## 2026-10-25 — B1 winner confirmed + dual render
+
+- Jason confirmed golden as set_20261025_B1 winner.
+- Materialized `candidates/core_v3/variant_sets/set_20261025_B1/winner/` from golden.
+- Dual render BASE V001–V020 under `dual_render/{technical,poetic}/`; Jason v12 143–144 frozen at V013.
+- Local commit only; **no push**.

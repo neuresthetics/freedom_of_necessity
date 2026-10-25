@@ -1301,5 +1301,33 @@
       "A2 D1_A",
       "D-I D1_B"
     ]
-  }
+  },
+  "winner": {
+    "status": "confirmed",
+    "choice": "golden",
+    "confirmed_by": "Jason",
+    "confirmed_date": "2026-10-25",
+    "path": "winner/",
+    "note": "Materialized from variant_sets/golden/; byte-identical at confirm. No D1 polish."
+  },
+  "dual_render": {
+    "status": "done",
+    "scope": "BASE V001-V020",
+    "tracks": [
+      "technical",
+      "poetic"
+    ],
+    "path": "dual_render/",
+    "jason_freeze": {
+      "verse": "V013",
+      "entry": "P3",
+      "v12_lines": [
+        143,
+        144
+      ],
+      "poetic": "verbatim",
+      "technical": "author credit"
+    }
+  },
+  "updated": "2026-10-25"
 }
