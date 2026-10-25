@@ -1,5 +1,11 @@
 # Log
 
+## 2026-10-25 PT — Foreword origin draft (combined)
+
+Overwrite `drafts/foreword_origin.md`: inception story; hardness→winner→dual render in past tense; personal (A1/veto, 143/144→V013, lamp 86, 50-50 free will, God bridged to brain science); historic from in-repo preface + Elwes PD seed + P5/def circularity fix. No Skin for Nothing / private trauma. Local; not pushed.
+
+---
+
 ## 2026-10-25 PT — Foreword draft: how the text came to be
 
 Draft at `drafts/foreword_origin.md` (origin → method → dual render → hardness-to-vary). Plain warm tone; digital intelligence; author lines 86/143/144 noted; collision record is the book; Spinoza incomplete not wrong. Local; not pushed.
