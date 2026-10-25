@@ -1,5 +1,11 @@
 # Log
 
+## 2026-10-25 PT — Draft plan: hardness-to-vary (next rendition)
+
+Plan only (no variants generated). Controlled dual-track / core_v3 variant sets to measure what is hard to vary. See `notes/2026-10-25-hardness-to-vary-draft-plan.md`. Local commit; not pushed.
+
+---
+
 ## 2026-10-25 PT — README style + ol git flash; push
 
 Tighten rhythm, warm/clear tone. Small status/clone block + two quiet badges (MIT, snapshot). Dual-track reason kept. Jason asked to push.
