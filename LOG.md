@@ -1,5 +1,11 @@
 # Log
 
+## 2026-10-25 PT — Foreword draft: how the text came to be
+
+Draft at `drafts/foreword_origin.md` (origin → method → dual render → hardness-to-vary). Plain warm tone; digital intelligence; author lines 86/143/144 noted; collision record is the book; Spinoza incomplete not wrong. Local; not pushed.
+
+---
+
 ## 2026-10-25 PT — Plan: winner gets dual render
 
 Jason: after the single combined-chain winner, render **both** tracks (technical + poetic), same V###/labels — not poetic-only. Plan + short pointers updated. Local; not pushed.
