@@ -22,7 +22,9 @@ The working title is *Freedom of Necessity: God, Brain, and the Order of the Min
 
 **0. The preface.** [On a Book Without Its Original](PREFACE.md): why there is no original *Ethics*, who holds the surviving copy, and where this book goes further than Spinoza, above all on freedom.
 
-**1. The current readable draft — dual verse tracks (core v3).** [*Verses v3*](drafts/verses_v3/) mirrors the live axiom set as **two parallel tracks with the same numbering and the same index labels**:
+**1. The current readable draft — dual verse tracks (core v3).** [*Verses v3*](drafts/verses_v3/) mirrors the live axiom set as **two parallel tracks with the same numbering and the same index labels**.
+
+**Why two tracks.** Spinoza’s geometric form is exact, and the living sense of the *Ethics* is not always visible under the proofs — he says as much himself. The dual tracks keep **one chain** and open **two doors**: the technical track shows the joints (deps, caps, cites, entry ids); the poetic track carries the same claims in plain modern lines (Dhammapada-like, analogy only when it helps). Same `V001`–`V251`, same index labels (entry ids). Elegance and structure, not two books.
 
 | Track | Role | Open |
 |---|---|---|

@@ -1,5 +1,11 @@
 # Log
 
+## 2026-10-25 PT — README: dual-track reason + result (local only)
+
+States why technical || poetic: same chain, two doors (joints vs living sense), after Spinoza's own point that elegance is not always visible under the geometric form. Book page update is separate (neuresthetics.github.io/book/). Not pushed.
+
+---
+
 ## 2026-10-25 PT — README features dual verse tracks (local only)
 
 Root README now leads with `drafts/verses_v3/` (technical || poetic, V001–V251). Demotes v12/v11 as earlier companions; points Status at core_v3 snapshot `core-v3-snapshot-v1`. Not pushed from this commit.
