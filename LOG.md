@@ -1,5 +1,11 @@
 # Log
 
+## 2026-10-25 PT — README style + ol git flash; push
+
+Tighten rhythm, warm/clear tone. Small status/clone block + two quiet badges (MIT, snapshot). Dual-track reason kept. Jason asked to push.
+
+---
+
 ## 2026-10-25 PT — README: dual-track reason + result (local only)
 
 States why technical || poetic: same chain, two doors (joints vs living sense), after Spinoza's own point that elegance is not always visible under the geometric form. Book page update is separate (neuresthetics.github.io/book/). Not pushed.
