@@ -1,5 +1,11 @@
 # Log
 
+## 2026-10-25 PT — README features dual verse tracks (local only)
+
+Root README now leads with `drafts/verses_v3/` (technical || poetic, V001–V251). Demotes v12/v11 as earlier companions; points Status at core_v3 snapshot `core-v3-snapshot-v1`. Not pushed from this commit.
+
+---
+
 ## 2026-10-25 PT — dual verse tracks (technical || poetic), local only
 
 Scaffold at `drafts/verses_v3/`: shared INDEX V001–V251 keyed to live core_v3 ids (BASE order then expansion groups); parallel `technical/` and `poetic/` with identical numbers/labels. BASE V001–V020 hand-crafted both tracks; expansion V021–V251 first pass both tracks (251 pairs). Jason v12 143–144 preserved at V013·P3; v12 86 placement open (see INDEX). Not pushed.
