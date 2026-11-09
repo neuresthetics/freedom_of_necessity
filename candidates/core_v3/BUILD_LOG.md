@@ -508,3 +508,19 @@ No push. No thesis rewrite. Titles unchanged.
 - **BASE lock:** unchanged.
 - **no push**
 
+
+## 2026-11-09 — Pass: mirrors (outside / inside) + God / borrowed-word rule
+
+- **Log:** [PASS_20261109_mirrors_god.md](PASS_20261109_mirrors_god.md).
+- **Rule source:** new scholium on D-Nature-one ("why call it God at all"), point 3.
+- **Mirrors:** 88 entries (8 BASE, 80 expansion) got a *Mirror (outside / inside)* block: one event, two descriptions, under A2's declared reading (b). Unscored; no cite, frontmatter, or cap changed. Matching outside/inside pair in the technical track and couplet in the poetic track. 163 entries N/A with reasons (no inside given to Nature, a society, or a digital system; roots before A2; open cases left open).
+- **God rule:** live core passes; 1 verse fix (poetic V018 · P5, which denied more about an afterlife than P5 does); 1 incidental typo fix (poetic V027).
+- **BASE lock:** additive mirror blocks only, in 8 BASE files; flagged for author decision.
+- **dep_check:** ok, 251 live, 0 orphans, 0 cycles.
+- **no push**
+
+### 2026-11-09 — Pass decisions (coherence with the book at large)
+
+- All 8 flags in [PASS_20261109_mirrors_god.md](PASS_20261109_mirrors_god.md) decided: keep BASE mirrors, V013 placement, V018 wording; label note on D-blessedness and borrowed-word clause in D-Nature-one point 3; P-tragedy retitled "Tragedy is a strong good destroyed under necessity" (propagated); dual-render "Mirror:" header → "Twin track:"; digital entries and roots stay unmirrored; golden/ and winner/ frozen with a snapshot note.
+- **dep_check:** ok. **no push**
+- 2026-11-09: "The person is the mirror": mirrors only where someone is there to be described from within; no N/A slots added to unmirrored entries. Told to readers as a short format note in `drafts/foreword_origin.md`; no change to entries, scholia, verses, or A2. dep_check ok. **no push**

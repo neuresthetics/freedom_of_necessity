@@ -13,3 +13,5 @@
 Also copied for navigation: `CHAIN.md`, `DEPS.md`, `CAPS.md` (from live `candidates/core_v3/` at materialize time).
 
 No D1 polish applied to BASE. Expansion is the live kilned set grown from locked BASE — not re-varied in B1.
+
+**Note (2026-11-09):** frozen snapshot of 2026-10-25. The live book (`candidates/core_v3`) has moved past it; see [PASS_20261109_mirrors_god.md](../../../PASS_20261109_mirrors_god.md).

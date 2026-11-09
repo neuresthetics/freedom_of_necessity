@@ -23,6 +23,11 @@ kiln: 2026-10-24 strongest half
 
 **Cap.** Pending; cannot exceed weakest scored cite among BASE hinges it rests on (once collider runs). Definitions add no score.
 
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+- *Outside:* Other bodies like this one behave as this one does, and speak of what they see.
+- *Inside:* I have their faces and their words, not their inside; their 'I exist' is certain for them, not for me.
+- *Note:* For other bodies I hold only the outside half; the inside half is each one's own.
+
 **Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
 
 ## Hyper-connect

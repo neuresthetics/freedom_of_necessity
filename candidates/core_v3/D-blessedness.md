@@ -23,7 +23,13 @@ status: base (locked)
 
 **Order.** This definition fixes the word. P5 derives the degree claim under A5 and P3; it does not redefine blessedness. Full intellectual-love close remains declared report where P5 says so.
 
+**Label note (unscored; adds no confidence).** The word is a label. Put "power of acting as it rises with degree-freedom" in its place and no claim in the chain changes; what "blessed" usually carries besides (favour, reward, holiness) is not delivered by the word (same rule as *Nature taken as one*, D-Nature-one, scholium point 3).
+
 **Limit.** Definition. Adds no confidence.
+
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+- *Outside:* Power of acting rises as more of what the agent does follows from its own organization and from clear maps of causes.
+- *Inside:* I am more able, and more of what I do is mine and seen.
 
 **References.**
 - Spinoza, B. *Ethics*: E5P42.

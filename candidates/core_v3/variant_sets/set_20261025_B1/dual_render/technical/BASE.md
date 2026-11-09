@@ -2,7 +2,7 @@
 
 **Source:** confirmed B1 winner = `golden` BASE → `../winner/` (set_20261025_B1), then full live expansion.
 **Scope of dual render set:** V001–V251 (see [expansion.md](expansion.md) for V021–V251).
-**Mirror:** [poetic/BASE.md](../poetic/BASE.md). Labels: [INDEX.md](../INDEX.md).
+**Twin track:** [poetic/BASE.md](../poetic/BASE.md). Labels: [INDEX.md](../INDEX.md).
 **Jason freeze (V013 · P3):** author-written v12 **143–144** credited under Author credit; poetic track holds them verbatim.
 
 Each verse: claim, dependency analysis (rests-on, cap, confidence), verse body, references. Spinoza by part/prop only.
@@ -75,6 +75,10 @@ A1: I exist. Not by definition — by the impossibility of false thought of it. 
 
 **Verse.**
 (a) Scored: this thinking goes with a living human body of cells (and what cells make); it varies with that body's organization (Broca; H.M. / Scoville & Milner). "Human" is earned by anatomy and descent, not by A1. (b) Unscored reading: I am this body; mind is that organization in the first person — not a second product. Why anything is felt stays open (→ OP-feeling). Identity-as-nothing-other-than is not forced by the lesion evidence (constitution vs animalism both fit).
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* A human body of cells is at work, and its abilities vary with how its parts are arranged.
+- *Inside:* I am perceiving, remembering, speaking, and what I can do changes when this body changes.
 
 **References.** Schleiden/Schwann/Virchow; Sender, Fuchs & Milo 2016; Broca 1861; Scoville & Milner 1957; Baker 2000; Olson 1997; Spinoza E2P7 Scholium, E2P13, E3P2 Scholium.
 
@@ -220,6 +224,10 @@ A5: no uncaused events at the scale that includes choices. Cause = prior conditi
 **Verse.**
 Two senses, kept apart. Strict (E1D7 pattern): only what acts from its own nature alone — in this chain, Nature. Finite agents take energy from outside, so strict freedom is not available to them. Degree: freer as action follows from own organization and from clear knowledge of causes (including origins). Knowledge can loosen, steady, or leave you bound by necessity — all three can still be freer than the same act in ignorance.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* What this body does follows from its own organization and from ideas in it that track the causes of what it does.
+- *Inside:* I act from what I am, and I see why I act.
+
 **References.** Spinoza E1D7; E3D1–D2 pattern; E4P66 Note; E5P3.
 
 
@@ -242,6 +250,10 @@ Two senses, kept apart. Strict (E1D7 pattern): only what acts from its own natur
 **Verse.**
 P3 derives the book's working claim from A5 + D-free under A2(a): degree-freedom compatible with universal causation; rise by organization-following and clear cause-maps. Kant's turnspit objection (Ak. 5:96–97) is answered only by D-free's knowledge clause — thesis for collider, not a scored finding. Hard-incompatibilist and libertarian attacks are listed under How P3 fails.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* The action has causes all the way back, and more of them run through this body's own organization and its clear map of them.
+- *Inside:* It could not have gone otherwise, given all before it, and still it came from me, and I can see from where.
+
 **References.** Kant, *Critique of Practical Reason* Ak. 5:96–97; Spinoza E2P48, E3D1–D2, E4P66 Note, E5P3, E5P42.
 
 
@@ -259,6 +271,10 @@ P3 derives the book's working claim from A5 + D-free under A2(a): degree-freedom
 
 **Verse.**
 Affect = transition in power of acting (how the works are going), together with the ideas of that transition. Joy/sadness language later names directions of that change; desire names the strive. Clarity of the idea of the cause sorts active from passive (→ P-active-vs-passive).
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* The organization's works rise or fall in degree, and ideas of that change go with it.
+- *Inside:* I feel more able or less able, and I have some sense of the change.
 
 **References.** Spinoza E3D3; E3D1–D2.
 
@@ -278,6 +294,10 @@ Affect = transition in power of acting (how the works are going), together with 
 **Verse.**
 Bondage is the downward name for low degree-freedom: action steered from outside, or from affects whose causes stay confused. It is comparative, not a binary curse. Inverse of D-free's degree sense — same scale, opposite direction.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* What the agent does follows from causes outside it, or from changes in it whose causes it does not track.
+- *Inside:* I am pushed, or I am driven by something I cannot name.
+
 **References.** Spinoza E4 (servitude) pattern; book's own inverse of Definition 15.
 
 
@@ -295,6 +315,10 @@ Bondage is the downward name for low degree-freedom: action steered from outside
 
 **Verse.**
 Blessedness names the power itself as freedom rises — not a prize paid after virtue. Matches Spinoza E5P42's direction (report): blessedness is virtue itself, not its reward. Duration's end (death) bounds life, not this definition (→ P-death-and-meaning).
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Power of acting rises as more of what the agent does follows from its own organization and from clear maps of causes.
+- *Inside:* I am more able, and more of what I do is mine and seen.
 
 **References.** Spinoza E5P42.
 
@@ -314,6 +338,10 @@ Blessedness names the power itself as freedom rises — not a prize paid after v
 **Verse.**
 P4 applies D-bondage under A5 and P3: bondage-degree tracks how far action is from own organization and clear cause-maps. Outside causes and confused affects both count. Cap cannot exceed P3's hinge.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* The steering runs from causes outside this organization, or from affects it has no clear map of.
+- *Inside:* Something else is steering me, or a feeling drives me and I do not know where it comes from.
+
 **References.** P3 demonstration; Spinoza E4 servitude reports.
 
 
@@ -331,6 +359,10 @@ P4 applies D-bondage under A5 and P3: bondage-degree tracks how far action is fr
 
 **Verse.**
 P5 locks the definition into a claim: the good of freedom is the increased power of acting, not a later payment. Afterlife-as-payment readings are rejected as not this chain's blessedness (expansion). Cap mirrors P4's.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Power of acting rises with the same causes that raise freedom; nothing is added afterward.
+- *Inside:* The gladness is in the doing, as I see more clearly; nothing is handed to me later.
 
 **References.** Spinoza E5P42.
 

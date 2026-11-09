@@ -1,7 +1,7 @@
 # Poetic track — expansion (V021–V251) — post-winner dual render
 
 **Source:** full winner set = golden BASE + live expansion → `../winner/` (set_20261025_B1).
-**Mirror:** [technical/expansion.md](../technical/expansion.md). BASE twin: [BASE.md](BASE.md). Labels: [INDEX.md](../INDEX.md).
+**Twin track:** [technical/expansion.md](../technical/expansion.md). BASE twin: [BASE.md](BASE.md). Labels: [INDEX.md](../INDEX.md).
 
 First pass: plain modern lines from each entry's claim. Analogy only where it clarifies. Every V# here has a technical twin. Same V### / entry labels as the live chain.
 
@@ -15,6 +15,9 @@ First pass: plain modern lines from each entry's claim. Analogy only where it cl
 Brain as control gear of the body.
 
 The brain is the body's main control gear for signaling and memory at the organism level; not a separate mind-stuff.
+
+Seen from without: signal and memory steering the body.
+Seen from within: I notice, I remember, I decide.
 
 
 ---
@@ -43,6 +46,9 @@ First person.
 
 First person is the mode of description from inside the organization that is acting; not a second substance.
 
+Seen from without: the body as anyone could chart it.
+Seen from within: the same, as it is for me.
+
 
 ---
 
@@ -53,6 +59,9 @@ Bodily habit.
 A bodily habit is a standing pattern in the organization that makes some actions follow more from the body than from present clear knowledge.
 
 Like a groove in wood: the chisel follows what yesterday cut.
+
+Seen from without: a groove the action follows.
+Seen from within: I'm already doing it.
 
 
 ---
@@ -69,7 +78,7 @@ An organism is a self-producing whole whose members are living parts graded by t
 ## V027 · `OP-feeling` — Why anything is felt stays open
 
 Left open on purpose:
-That organization in the from the inside is felt at all is not settled by A2; the hard problem stays open here.
+That organization described from the inside is felt at all is not settled by A2; the hard problem stays open here.
 
 Better an honest blank than a painted door.
 
@@ -87,6 +96,9 @@ This body lasts only while its works as one keep going on; sameness is sameness 
 
 Damage that drops works can drop both how whole a thing is and freedom by degrees; they still are not the same scale (P19).
 
+Seen from without: a work broken, the whole and the steering both lowered.
+Seen from within: I can do less, and less of it is mine.
+
 
 ---
 
@@ -94,12 +106,18 @@ Damage that drops works can drop both how whole a thing is and freedom by degree
 
 As the body's organization changes, the first-person description that is mind changes with it.
 
+Seen from without: the pattern shifts.
+Seen from within: I shift with it.
+
 
 ---
 
 ## V031 · `P-other-bodies` — Other human bodies exist on evidence
 
 That other human bodies exist is evidence, not A1; their first-person certainty is theirs, not mine.
+
+Seen from without: bodies like mine, speaking.
+Seen from within: their words reach me; their inside stays theirs.
 
 
 ---
@@ -112,6 +130,9 @@ The lamp of "I exist" shines only while thinking burns.
 
 
 # Group `wholes`
+
+Seen from without: a body breathing, the thinking stopped.
+Seen from within: nothing; then, again, I am.
 
 
 ---
@@ -396,6 +417,9 @@ Adequate cause (in this chain).
 
 A cause is adequate when the event is understood through the agent's own organization alone; otherwise inadequate.
 
+Seen from without: an event explained by one pattern alone.
+Seen from within: this came wholly from me.
+
 
 ---
 
@@ -414,6 +438,9 @@ Clear knowledge of causes.
 
 Clear knowledge of causes is ideas that track how an action follows from organization and world, enough to guide freer action.
 
+Seen from without: a map that matches its causes.
+Seen from within: I see why.
+
 
 ---
 
@@ -423,6 +450,9 @@ Confused knowledge of causes.
 
 Confused knowledge is ideas that mis-locate causes, feeding bondage even when the agent feels sure.
 
+Seen from without: causes put in the wrong place.
+Seen from within: I'm sure why, and that isn't why.
+
 
 ---
 
@@ -431,6 +461,9 @@ Confused knowledge is ideas that mis-locate causes, feeding bondage even when th
 Power of acting.
 
 Power of acting is how much the agent's works and clear cause-guidance succeed together; named in affects and blessedness.
+
+Seen from without: works going well, steered by a true map.
+Seen from within: I can.
 
 
 ---
@@ -450,6 +483,9 @@ Addiction is a standing pattern where outside or unclear causes dominate intake 
 
 Like a path worn so deep the feet forget the field.
 
+Seen from without: a loop that steers the steering.
+Seen from within: I said I'd stop, and here I am.
+
 
 ---
 
@@ -468,11 +504,17 @@ so it has a cause, like a step or a flinch.
 That does not make it not yours.
 It makes "uncaused will" the wrong name for yours.
 
+Seen from without: an event with causes behind it.
+Seen from within: I weigh, I choose.
+
 ---
 
 ## V074 · `P-compulsion` — Compulsion is high bondage
 
 Compulsion is action dominated by outside or unclear causes against the agent's clearer aims; near floor of freedom by degrees.
+
+Seen from without: action against its own map.
+Seen from within: I don't want to, and I do.
 
 
 ---
@@ -485,6 +527,9 @@ other things equal.
 
 Fog is a leash.
 
+Seen from without: a clearer map, a freer act.
+Seen from within: I know more of why.
+
 ---
 
 ## V076 · `P-habit-can-bond` — Habit can be bondage or stored freedom
@@ -493,6 +538,9 @@ Habit lowers freedom when it runs on unclear causes; it can raise freedom when i
 
 Like a groove in wood: the chisel follows what yesterday cut.
 
+Seen from without: a groove that binds, or one that frees.
+Seen from within: I can't stop, or I needn't think.
+
 
 ---
 
@@ -500,12 +548,18 @@ Like a groove in wood: the chisel follows what yesterday cut.
 
 Calling an outcome luck marks incomplete knowledge of causes, not a hole in A5.
 
+Seen from without: causes not tracked.
+Seen from within: luck.
+
 
 ---
 
 ## V078 · `P-prediction-not-freedom` — Predictability is not the freedom scale
 
 How predictable an agent is does not settle freedom by degrees; a freer agent can still be predictable from full causes.
+
+Seen from without: an act anyone could forecast.
+Seen from within: still mine.
 
 
 ---
@@ -517,6 +571,9 @@ Practices that replace confused maps of causes with clearer ones can raise freed
 
 # Group `affects_end`
 
+Seen from without: a map redrawn, a cause traced to its source.
+Seen from within: I see where it came from, and it loosens.
+
 
 ---
 
@@ -525,6 +582,9 @@ Practices that replace confused maps of causes with clearer ones can raise freed
 Bad (relative to organization).
 
 Bad names what we know lowers this organization's power of acting.
+
+Seen from without: a power lowered, and the lowering mapped.
+Seen from within: this makes me less, and I know it.
 
 
 ---
@@ -535,6 +595,9 @@ Desire.
 
 Desire is the affect of appetite made conscious as the organization strives to keep its works going.
 
+Seen from without: a pattern leaning toward its own going on.
+Seen from within: I want, and I know I want.
+
 
 ---
 
@@ -543,6 +606,9 @@ Desire is the affect of appetite made conscious as the organization strives to k
 Fear.
 
 Fear is an inconstant sadness from the idea of a future that may harm power of acting.
+
+Seen from without: a power falling, tied to a harm not yet here.
+Seen from within: I dread it, and I don't know if it comes.
 
 
 ---
@@ -553,6 +619,9 @@ Good (relative to organization).
 
 Good, in this chain, names what we know aids this organization's power of acting; not a free-floating Form.
 
+Seen from without: a power aided, and the aid mapped.
+Seen from within: this makes me more, and I know it.
+
 
 ---
 
@@ -561,6 +630,9 @@ Good, in this chain, names what we know aids this organization's power of acting
 Hate (as affect).
 
 Hate is sadness with the idea of an outside cause.
+
+Seen from without: a power falling, and a line drawn to its source.
+Seen from within: I am less, and I know by whom.
 
 
 ---
@@ -571,6 +643,9 @@ Hope.
 
 Hope is an inconstant joy from the idea of a future that may help power of acting.
 
+Seen from without: a power rising, tied to a help not yet here.
+Seen from within: I look forward to it, and I don't know if it comes.
+
 
 ---
 
@@ -579,6 +654,9 @@ Hope is an inconstant joy from the idea of a future that may help power of actin
 Joy.
 
 Joy is an affect in which power of acting rises.
+
+Seen from without: a power rising.
+Seen from within: I am more.
 
 
 ---
@@ -589,6 +667,9 @@ Love (as affect).
 
 Love is joy with the idea of an outside cause.
 
+Seen from without: a power rising, and a line drawn to its source.
+Seen from within: I am more, and I know by whom.
+
 
 ---
 
@@ -597,6 +678,9 @@ Love is joy with the idea of an outside cause.
 Sadness.
 
 Sadness is an affect in which power of acting falls.
+
+Seen from without: a power falling.
+Seen from within: I am less.
 
 
 ---
@@ -607,12 +691,18 @@ Striving to persist.
 
 Striving to persist is the organization continuing its works as one; named appetite when felt as desire.
 
+Seen from without: the works kept going, as one.
+Seen from within: I go on, and want to.
+
 
 ---
 
 ## V090 · `P-active-vs-passive` — Active affects follow from clearer causes
 
 Affects are more active when they follow from the agent's clearer maps of causes; more passive when from outside or confusion.
+
+Seen from without: a change that starts from its own map, or from elsewhere.
+Seen from within: I am moved by what I see, or by what I can't.
 
 
 ---
@@ -628,12 +718,18 @@ Blessedness is the power itself as freedom rises (P5); nothing here cashes it as
 
 Envy is sadness at another's joy; it tracks bondage more than freedom.
 
+Seen from without: another's rise, and a fall here traced to it.
+Seen from within: their joy makes me less.
+
 
 ---
 
 ## V093 · `P-pity-mixed` — Pity can aid or bind
 
 Pity is sadness at another's harm; it can guide repair-work or sink both into bondage if causes stay unclear.
+
+Seen from without: a fall at another's harm, turning to repair or to drag.
+Seen from within: it hurts me too, and I help, or I sink.
 
 
 ---
@@ -644,6 +740,9 @@ Virtue here is not a separate prize; it is acting from one's organization with r
 
 
 # Group `nature_knowledge`
+
+Seen from without: action from its own pattern, power rising.
+Seen from within: I do what I can, and can do more.
 
 
 ---
@@ -672,6 +771,9 @@ Imagination (first kind of knowing).
 
 Imagination is knowledge from fragments, hearsay, and images; useful, often confused about causes.
 
+Seen from without: a map made of scraps.
+Seen from within: I picture it, and it seems so.
+
 
 ---
 
@@ -680,6 +782,9 @@ Imagination is knowledge from fragments, hearsay, and images; useful, often conf
 Intuition (third kind of knowing).
 
 Intuition is seeing a singular thing through its place in Nature in one grasp; rare, freedom-relevant.
+
+Seen from without: a thing grasped through its place in the order.
+Seen from within: I see it whole.
 
 
 ---
@@ -698,6 +803,9 @@ A finite mode is a determinate expression in Nature — this body, this society 
 Reason (second kind of knowing).
 
 Reason is knowledge through common patterns and adequate maps of causes shared across cases.
+
+Seen from without: a map of what the cases share.
+Seen from within: I see how it works.
 
 
 ---
@@ -731,6 +839,9 @@ Whatever 'eternity of mind' can mean here is about how ideas sit in Nature's ord
 ## V104 · `P-more-reason-freer` — More reason, freer — other things equal
 
 Shifting from imagination toward reason about causes tends to raise freedom by degrees.
+
+Seen from without: action routed through a better map.
+Seen from within: I see more, and I am pushed less.
 
 
 ---
@@ -821,6 +932,9 @@ High how whole a thing is (works humming) can coexist with low freedom by degree
 ## V115 · `P-title-claim` — Freedom of necessity is degree-freedom under A5
 
 The book's title claim is P3: freedom by degrees inside necessity, not escape from A5.
+
+Seen from without: necessity, all the way through.
+Seen from within: freedom, by degrees.
 
 
 ---
@@ -963,6 +1077,9 @@ Future self as projected organization.
 
 Future self talk projects later states of this organization; under A5 those states are caused, not freely uncaused.
 
+Seen from without: a later state, projected.
+Seen from within: who I'll be.
+
 
 ---
 
@@ -983,6 +1100,9 @@ Personal memory.
 
 Personal memory is retained pattern in this body's organization usable by later first-person action.
 
+Seen from without: a pattern kept.
+Seen from within: I remember.
+
 
 ---
 
@@ -992,12 +1112,18 @@ Narrative self.
 
 Narrative self is the story the organization tells about its sameness over duration; useful, not a second substance.
 
+Seen from without: a story the pattern keeps about itself.
+Seen from within: this is who I've been.
+
 
 ---
 
 ## V135 · `P-aging` — Aging changes degree without ending A1 while thinking
 
 Aging can lower works and freedom-degree; A1 still holds whenever thinking goes on.
+
+Seen from without: works slowing.
+Seen from within: less, and still I.
 
 
 ---
@@ -1006,12 +1132,18 @@ Aging can lower works and freedom-degree; A1 still holds whenever thinking goes 
 
 Loss of personal memory drops a work grade; it does not cancel A1 in the present thinking.
 
+Seen from without: a work lowered.
+Seen from within: I don't remember, and I exist.
+
 
 ---
 
 ## V137 · `P-childhood-continuity` — Childhood continuity is organizational, not total recall
 
 Being the same whole as a child is sameness of organization under the works, not unbroken narrative.
+
+Seen from without: one pattern going on, all its parts changed.
+Seen from within: I was that child, though I don't remember.
 
 
 ---
@@ -1022,6 +1154,9 @@ Nostalgia is joy (or bittersweet affect) tied to images of past organization, of
 
 Joy wearing yesterday's coat, pockets full of wrong maps.
 
+Seen from without: joy tied to an old image.
+Seen from within: I miss how it was, as I remember it.
+
 
 ---
 
@@ -1029,12 +1164,18 @@ Joy wearing yesterday's coat, pockets full of wrong maps.
 
 Promising stores a signal in memory meant to shape later control; bondage or freedom depends on clarity of causes.
 
+Seen from without: a signal stored to steer later.
+Seen from within: I gave my word.
+
 
 ---
 
 ## V140 · `P-regret` — Regret is sadness over past causes now seen clearer
 
 Regret marks a clearer map of past causes joined to sadness; it can feed freer repair or passive rumination.
+
+Seen from without: a clearer map of the past, and a fall.
+Seen from within: I see it now, and it hurts.
 
 
 ---
@@ -1045,6 +1186,9 @@ Deliberate rehearsal can move clearer cause-guided action into habit, raising la
 
 
 # Group `edge_cases`
+
+Seen from without: a clear action laid down as habit.
+Seen from within: I practice, until it is mine.
 
 
 ---
@@ -1088,6 +1232,9 @@ Shared organs mean shared works; first-person claims may still be two under A1 f
 
 Locked-in syndrome can preserve first-person organization while crushing outflow/signal to others; freedom and whole scales split.
 
+Seen from without: a still body, a mind going on.
+Seen from within: I am here, and no one can tell.
+
 
 ---
 
@@ -1101,6 +1248,9 @@ Pregnancy can nest an emerging whole inside another; degrees and membership are 
 ## V149 · `P-prosthetic-member` — A prosthetic can become a member-tool
 
 A prosthetic joins works without being a self-producer; membership-degree can rise with skilled use.
+
+Seen from without: a tool drawn into the works.
+Seen from within: I stop noticing it, and move.
 
 
 ---
@@ -1259,6 +1409,9 @@ Better an honest blank than a painted door.
 
 Ads shape desire via engineered signals; often bondage gear, sometimes informative maps of causes.
 
+Seen from without: a want placed from outside.
+Seen from within: I want it; it seems mine.
+
 
 ---
 
@@ -1326,6 +1479,9 @@ Compassion is joy (D-joy) insofar as another's rise in power of acting (D-affect
 
 Another's hurt felt as a lean toward help.
 
+Seen from without: another rising, and a rise here because of it.
+Seen from within: they are more, and so am I.
+
 
 ---
 
@@ -1334,6 +1490,9 @@ Another's hurt felt as a lean toward help.
 Gratitude.
 
 Gratitude is love toward one we imagine helped our power of acting.
+
+Seen from without: a power rising, and a line drawn to a helper.
+Seen from within: I am more, and I know whom to thank.
 
 
 ---
@@ -1344,6 +1503,9 @@ Pride.
 
 Pride is joy from the idea of oneself as cause — clear or confused.
 
+Seen from without: a rise, and the line drawn back to itself.
+Seen from within: I did this, or I think I did.
+
 
 ---
 
@@ -1352,6 +1514,9 @@ Pride is joy from the idea of oneself as cause — clear or confused.
 Shame.
 
 Shame is sadness joined to the idea of being seen as cause of another's blame or one's own fault.
+
+Seen from without: a fall, with the self mapped as the cause of a fault in view.
+Seen from within: I am seen, and I am less.
 
 
 ---
@@ -1362,12 +1527,18 @@ Wonder.
 
 Wonder is the mind fixed on a novel thing whose causes are not yet mapped.
 
+Seen from without: attention held where the map is blank.
+Seen from within: I stare, and do not know yet.
+
 
 ---
 
 ## V180 · `P-anger-can-repair` — Anger can feed repair or bondage
 
 Anger guided by clearer causes can defend works; rumination without maps deepens bondage.
+
+Seen from without: a fall with a cause in view, turned to defense or to a loop.
+Seen from within: I am angry, and I act, or I brood.
 
 
 ---
@@ -1388,6 +1559,9 @@ Pride fixed on inadequate self-maps of causes blocks therapy-as-freedom-gear.
 
 # Group `practices`
 
+Seen from without: a wrong self-map, holding fast.
+Seen from within: it was me, and don't tell me different.
+
 
 ---
 
@@ -1396,6 +1570,9 @@ Pride fixed on inadequate self-maps of causes blocks therapy-as-freedom-gear.
 Courage as standing to feared causes.
 
 Courage is acting from clearer maps despite fear-affect; not uncaused will.
+
+Seen from without: action on the map, with fear in the room.
+Seen from within: I'm afraid, and I go.
 
 
 ---
@@ -1415,6 +1592,9 @@ Friendship.
 
 Friendship is shared joy and mutual aid to power of acting between organizations.
 
+Seen from without: two powers rising, each line drawn to the other.
+Seen from within: we are more, and we know by whom.
+
 
 ---
 
@@ -1424,6 +1604,9 @@ Meditation as attention repair.
 
 Meditation practices aim to stabilize attention so clearer maps of causes can form; success is empirical.
 
+Seen from without: attention steadied.
+Seen from within: I settle, and see.
+
 
 ---
 
@@ -1432,6 +1615,9 @@ Meditation practices aim to stabilize attention so clearer maps of causes can fo
 Apprenticeship moves tools and habits that reason alone may not install.
 
 Like a groove in wood: the chisel follows what yesterday cut.
+
+Seen from without: a habit passed body to body.
+Seen from within: my hands learn it.
 
 
 ---
@@ -1446,6 +1632,9 @@ Good-faith debate collides maps; sophistry is society-level bondage gear.
 ## V189 · `P-exile` — Exile cuts membership mid-stream
 
 Exile drops society-membership while the organism-whole continues; affects and freedom shift hard.
+
+Seen from without: a member cut, a body going on.
+Seen from within: I am here, and not home.
 
 
 ---
@@ -1586,6 +1775,9 @@ Doubt as method.
 
 Methodic doubt withholds assent to unclear maps; it presupposes thinking (A1) when used.
 
+Seen from without: assent held back.
+Seen from within: I wait, and in waiting, I think.
+
 
 ---
 
@@ -1594,6 +1786,9 @@ Methodic doubt withholds assent to unclear maps; it presupposes thinking (A1) wh
 Error.
 
 Error is affirming a confused cause-map as if adequate.
+
+Seen from without: a bad map, signed as good.
+Seen from within: I'm sure.
 
 
 ---
@@ -1606,6 +1801,9 @@ Illusion is a stable error that feels like clear perception.
 
 The feeling of floating while the river still carries you.
 
+Seen from without: an error built into the seeing.
+Seen from within: it looks so, and keeps looking so.
+
 
 ---
 
@@ -1613,12 +1811,18 @@ The feeling of floating while the river still carries you.
 
 Biases are standing ways imagination mis-maps causes; science and therapy target them.
 
+Seen from without: the same slant, case after case.
+Seen from within: obviously.
+
 
 ---
 
 ## V209 · `P-final-causes-heuristic` — Final-cause talk is often heuristic imagination
 
 Reading nature as aiming at us is usually confused; useful stories ≠ adequate maps.
+
+Seen from without: a need read into the order.
+Seen from within: it was meant for me.
 
 
 ---
@@ -1628,6 +1832,9 @@ Reading nature as aiming at us is usually confused; useful stories ≠ adequate 
 Feeling that a choice sprang from nowhere conflicts with A5; freedom by degrees remains.
 
 The feeling of floating while the river still carries you.
+
+Seen from without: a caused choice, its causes mostly unseen.
+Seen from within: I just chose.
 
 
 ---
@@ -1652,12 +1859,18 @@ An event outside Nature's order would violate A5; rare events still have causes.
 
 Feeling sure is not adequacy; overconfidence blocks freer revision.
 
+Seen from without: assent outrunning the map.
+Seen from within: I'm certain; why look?
+
 
 ---
 
 ## V214 · `P-superstition` — Superstition binds via fear and hope
 
 Superstition pairs hope/fear with inadequate maps of causes; classic bondage pattern.
+
+Seen from without: hope and fear on a wrong map.
+Seen from within: do this, or else.
 
 
 ---
@@ -1668,6 +1881,9 @@ Revising maps with evidence is reason-work when it tracks causes, not tribal sig
 
 
 # Group `digital_mind`
+
+Seen from without: a map redrawn by evidence.
+Seen from within: I was wrong; now I see better.
 
 
 ---
@@ -1724,6 +1940,9 @@ A copy may start a new thinking or none; it does not move the original first-per
 
 A photograph of fire is not warm.
 
+Seen from without: a pattern copied over.
+Seen from within: I do not go with it.
+
 
 ---
 
@@ -1778,6 +1997,9 @@ Contingent (in this chain).
 
 Contingent names what we do not yet see as necessary from causes — a knowledge status, not a hole in A5.
 
+Seen from without: a gap in the map.
+Seen from within: it might have been different.
+
 
 ---
 
@@ -1795,6 +2017,9 @@ Infinite sketches what is not limited by another of its kind; thin here, not ful
 Meaning as local significance for power.
 
 Meaning, thinly, is how something matters to an organization's power of acting and maps.
+
+Seen from without: a thing that moves a power and a map.
+Seen from within: it matters.
 
 
 ---
@@ -1829,6 +2054,9 @@ What seems able to have been otherwise usually marks maps we lack, not uncaused 
 
 Awe can open reason toward Nature or freeze into superstition, depending on map quality.
 
+Seen from without: a blank in the map, too large to take in.
+Seen from within: I am small here, and I want to know, or I fear.
+
 
 ---
 
@@ -1860,12 +2088,15 @@ What aids a cell, organism, or society can conflict; P1 levels block a single fl
 
 ---
 
-## V239 · `P-tragedy` — Tragedy is high value colliding with necessity
+## V239 · `P-tragedy` — Tragedy is a strong good destroyed under necessity
 
 Tragedy marks cherished goods destroyed under causes we can map but not wish away.
 
 
 # Group `biology_deep`
+
+Seen from without: a loss with its causes in view.
+Seen from within: I see why, and it is still lost.
 
 
 ---
@@ -1935,6 +2166,9 @@ Fever can lower comfort while raising repair odds; affect and how whole a thing 
 
 A short fire set to burn out a worse one.
 
+Seen from without: heat, and repair speeding up.
+Seen from within: I feel worse, and I am mending.
+
 
 ---
 
@@ -1951,12 +2185,18 @@ Guests so constant they blur the door.
 
 Pain is an affect/signal that often tracks damage; chronic pain can become bondage.
 
+Seen from without: a signal from a harmed work.
+Seen from within: it hurts, there.
+
 
 ---
 
 ## V250 · `P-pleasure` — Pleasure often tracks rising power — not always
 
 Pleasure often joins joy/power rise; addictive pleasures can climb affect while flooring freedom.
+
+Seen from without: a reward rising, sometimes with freedom falling.
+Seen from within: it feels good, and sometimes that is the trap.
 
 
 ---

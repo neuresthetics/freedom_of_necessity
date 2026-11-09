@@ -44,6 +44,10 @@ status: base (locked)
 
 **Limit.** This is a definition. It fixes what "free" means in the book. It does not make P3 or any claim more likely.
 
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+- *Outside:* What this body does follows from its own organization and from ideas in it that track the causes of what it does.
+- *Inside:* I act from what I am, and I see why I act.
+
 **References.**
 - Spinoza, B. *Ethics*: E1D7; E1P17 Corollary 2; E1P28; E3D1; E3D2; E4P66 Note; E5P42. Quotations in Elwes 1883 wording, checked against `sources/spinoza/ethics_elwes_1883.txt`.
 

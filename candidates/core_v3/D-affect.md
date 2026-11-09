@@ -42,6 +42,10 @@ status: base (locked)
 
 **Limit.** This is a definition. It adds no confidence.
 
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+- *Outside:* The organization's works rise or fall in degree, and ideas of that change go with it.
+- *Inside:* I feel more able or less able, and I have some sense of the change.
+
 **References.**
 - Spinoza, B. *Ethics*: E3D1; E3D2; E3D3; E3P9 Scholium; E3P11 Scholium. Quotations in Elwes 1883 wording, checked against `sources/spinoza/`.
 

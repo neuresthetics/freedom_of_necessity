@@ -24,6 +24,11 @@ revive: earned 2026-10-24 vs kilned set
 
 **Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
 
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+- *Outside:* Attention holds on something whose causes are unmapped and whose scale is far beyond this body; it can drive mapping or fear.
+- *Inside:* I feel small before it, and I want to understand it, or I am afraid of it.
+- *Note:* The inside half reports smallness and wanting to know; it does not deliver reverence owed to anything (D-Nature-one, scholium point 1).
+
 **Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; still pending collider; re-park if it overreaches BASE.
 
 ## Hyper-connect

@@ -2,7 +2,7 @@
 id: P-tragedy
 type: expansion
 kind: proposition
-title: Tragedy is high value colliding with necessity
+title: Tragedy is a strong good destroyed under necessity
 confidence: pending (collider)
 cites: [A5, D-good-relative, D-sadness]
 grows_from: A5 ethics
@@ -14,7 +14,7 @@ revive: earned 2026-10-24 vs kilned set
 ---
 
 
-**Tragedy is high value colliding with necessity** *(proposition, id: P-tragedy)*.
+**Tragedy is a strong good destroyed under necessity** *(proposition, id: P-tragedy)*.
 
 **Expansion from BASE (batch 2).** Not a BASE rewrite. Grows from: A5 ethics. Locked spine: [BASE.md](../../BASE.md).
 
@@ -23,6 +23,10 @@ revive: earned 2026-10-24 vs kilned set
 **Cites.** A5, D-good-relative, D-sadness.
 
 **Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
+
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+- *Outside:* A good this organization held is destroyed by causes it can map.
+- *Inside:* I see why it happened, and I cannot wish it away.
 
 **Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; still pending collider; re-park if it overreaches BASE.
 

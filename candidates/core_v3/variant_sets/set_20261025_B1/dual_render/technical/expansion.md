@@ -1,7 +1,7 @@
 # Technical track — expansion (V021–V251) — post-winner dual render
 
 **Source:** full winner set = golden BASE + live expansion → `../winner/` (set_20261025_B1).
-**Mirror:** [poetic/expansion.md](../poetic/expansion.md). BASE twin: [BASE.md](BASE.md). Labels: [INDEX.md](../INDEX.md).
+**Twin track:** [poetic/expansion.md](../poetic/expansion.md). BASE twin: [BASE.md](BASE.md). Labels: [INDEX.md](../INDEX.md).
 
 First pass from live entry claims + hyper-connect. Every V# here has a poetic twin. Same V### / entry labels as the live chain. Refine in place; do not renumber.
 
@@ -24,6 +24,10 @@ First pass from live entry claims + hyper-connect. Every V# here has a poetic tw
 
 **Verse.**
 The brain is the body's main control gear for signaling and memory at the organism level; not a separate mind-stuff. Index label `D-brain`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Signals and stored patterns in the brain steer the body's works.
+- *Inside:* I notice, remember, and decide.
 
 
 ---
@@ -79,6 +83,10 @@ Death is the lasting stop of the body's works as one; the organization no longer
 **Verse.**
 First person is the mode of description from inside the organization that is acting; not a second substance. Index label `D-first-person`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* The organization as any observer could record it: cells, signals, behavior.
+- *Inside:* The same organization as it is for the one it is: what I see, think, feel, decide.
+
 
 ---
 
@@ -96,6 +104,10 @@ First person is the mode of description from inside the organization that is act
 
 **Verse.**
 A bodily habit is a standing pattern in the organization that makes some actions follow more from the body than from present clear knowledge. Index label `D-habit-body`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* A standing pattern in the body makes this action follow from the body more than from present knowledge.
+- *Inside:* My hands do it before I think about it.
 
 
 ---
@@ -169,6 +181,10 @@ This body lasts only while its works as one keep going on; sameness is sameness 
 **Verse.**
 Damage that drops works can drop both whole-degree and degree-freedom; they still are not the same scale (P19). Index label `P-injury-lowers-degree`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Damage drops a work's grade; the body holds together less well, and less of what it does follows from its own organization and clear maps.
+- *Inside:* I can do less, and less of what I do feels like mine.
+
 
 ---
 
@@ -187,6 +203,10 @@ Damage that drops works can drop both whole-degree and degree-freedom; they stil
 **Verse.**
 As the body's organization changes, the first-person description that is mind changes with it. Index label `P-mind-tracks-body`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* The body's organization changes: a drug, a lesion, sleep, age.
+- *Inside:* My thinking changes in step: brighter or duller, gone, slower.
+
 
 ---
 
@@ -204,6 +224,10 @@ As the body's organization changes, the first-person description that is mind ch
 
 **Verse.**
 That other human bodies exist is evidence, not A1; their first-person certainty is theirs, not mine. Index label `P-other-bodies`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Other bodies like this one behave as this one does, and speak of what they see.
+- *Inside:* I have their faces and their words, not their inside; their 'I exist' is certain for them, not for me.
 
 
 ---
@@ -225,6 +249,10 @@ In dreamless sleep A1 is not asserted; its certainty returns when thinking retur
 
 
 # Group `wholes`
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* In dreamless sleep the body's works go on, but the thinking A1 needs is not going on.
+- *Inside:* There is nothing to report from there; on waking I find I exist again.
 
 
 ---
@@ -827,6 +855,10 @@ Control that runs on unclear or false signaling lowers collective degree-freedom
 **Verse.**
 A cause is adequate when the event is understood through the agent's own organization alone; otherwise inadequate. Index label `D-adequate-cause-here`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* The event can be understood through this organization alone.
+- *Inside:* This came wholly from me.
+
 
 ---
 
@@ -863,6 +895,10 @@ A cause is whatever an event follows from in the order of nature; no uncaused ev
 **Verse.**
 Clear knowledge of causes is ideas that track how an action follows from organization and world, enough to guide freer action. Index label `D-clear-knowledge`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Ideas in the organization track how its action follows from it and from the world, well enough to guide the next action.
+- *Inside:* I see why I am doing this, well enough to do it better.
+
 
 ---
 
@@ -881,6 +917,10 @@ Clear knowledge of causes is ideas that track how an action follows from organiz
 **Verse.**
 Confused knowledge is ideas that mis-locate causes, feeding bondage even when the agent feels sure. Index label `D-confused-knowledge`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Ideas in the organization put the causes of its action in the wrong place.
+- *Inside:* I am sure why I did it, and I am wrong about why.
+
 
 ---
 
@@ -898,6 +938,10 @@ Confused knowledge is ideas that mis-locate causes, feeding bondage even when th
 
 **Verse.**
 Power of acting is how much the agent's works and clear cause-guidance succeed together; named in affects and blessedness. Index label `D-power-of-acting`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* The organization's works and its clear maps of causes succeed together, to some degree.
+- *Inside:* I am able, to some degree, and some of that ability is my own seeing.
 
 
 ---
@@ -935,6 +979,10 @@ Strict freedom is action from Nature's own necessity alone; finite agents only a
 **Verse.**
 Addiction is a standing pattern where outside or unclear causes dominate intake and control works. Index label `P-addiction`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* A standing pattern lets outside or unclear causes steer intake and control.
+- *Inside:* I keep reaching for it, even when I've decided not to.
+
 
 ---
 
@@ -971,6 +1019,10 @@ Under A5, blame and praise mark patterns of cause and bondage, not a will outsid
 **Verse.**
 Choosing is an event in the body-organization; under A5 it has causes; freedom is degree, not exception. Index label `P-choice-caused`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Choosing is an event in this body, with causes that run back before it.
+- *Inside:* I weigh it, and I decide; that deciding is the same event.
+
 
 ---
 
@@ -988,6 +1040,10 @@ Choosing is an event in the body-organization; under A5 it has causes; freedom i
 
 **Verse.**
 Compulsion is action dominated by outside or unclear causes against the agent's clearer aims; near floor of degree-freedom. Index label `P-compulsion`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Outside or unclear causes drive the action against the agent's clearer aims.
+- *Inside:* I don't want to, and I do it anyway.
 
 
 ---
@@ -1007,6 +1063,10 @@ Compulsion is action dominated by outside or unclear causes against the agent's 
 **Verse.**
 Other things equal, the agent whose action follows a clearer map of causes is freer in the degree sense. Index label `P-freer-knows-more-causes`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* The action follows a clearer map of its causes.
+- *Inside:* I know more of why I'm doing this.
+
 
 ---
 
@@ -1024,6 +1084,10 @@ Other things equal, the agent whose action follows a clearer map of causes is fr
 
 **Verse.**
 Habit lowers freedom when it runs on unclear causes; it can raise freedom when it stores clear patterns that free attention. Index label `P-habit-can-bond`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* A habit runs on unclear causes, or it stores clear patterns that free attention.
+- *Inside:* I do it without knowing why, or I do it without needing to think, and think of other things.
 
 
 ---
@@ -1043,6 +1107,10 @@ Habit lowers freedom when it runs on unclear causes; it can raise freedom when i
 **Verse.**
 Calling an outcome luck marks incomplete knowledge of causes, not a hole in A5. Index label `P-luck-is-incomplete`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* The outcome's causes are not tracked by this organization.
+- *Inside:* I got lucky.
+
 
 ---
 
@@ -1060,6 +1128,10 @@ Calling an outcome luck marks incomplete knowledge of causes, not a hole in A5. 
 
 **Verse.**
 How predictable an agent is does not settle degree-freedom; a freer agent can still be predictable from full causes. Index label `P-prediction-not-freedom`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* An observer with the full causes could predict the act.
+- *Inside:* And still it comes from what I am and what I see.
 
 
 ---
@@ -1082,6 +1154,10 @@ Practices that replace confused cause-maps with clearer ones can raise degree-fr
 
 # Group `affects_end`
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Confused cause-maps in the organization are replaced with clearer ones, and less of what it does follows from outside or from fog.
+- *Inside:* I see where that came from, and it has less hold on me.
+
 
 ---
 
@@ -1099,6 +1175,10 @@ Practices that replace confused cause-maps with clearer ones can raise degree-fr
 
 **Verse.**
 Bad names what we know lowers this organization's power of acting. Index label `D-bad-relative`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Something lowers this organization's power of acting, and an idea in it tracks that it does.
+- *Inside:* This weakens me, and I know it does.
 
 
 ---
@@ -1118,6 +1198,10 @@ Bad names what we know lowers this organization's power of acting. Index label `
 **Verse.**
 Desire is the affect of appetite made conscious as the organization strives to keep its works going. Index label `D-desire`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* The organization strives to keep its works going, and an idea of that striving goes with it.
+- *Inside:* I want, and I know that I want.
+
 
 ---
 
@@ -1135,6 +1219,10 @@ Desire is the affect of appetite made conscious as the organization strives to k
 
 **Verse.**
 Fear is an inconstant sadness from the idea of a future that may harm power of acting. Index label `D-fear-affect`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Power of acting falls, unsteadily, with an idea of a future event that may harm it and may not come.
+- *Inside:* I am shaken by what may come, and I am not sure it will.
 
 
 ---
@@ -1154,6 +1242,10 @@ Fear is an inconstant sadness from the idea of a future that may harm power of a
 **Verse.**
 Good, in this chain, names what we know aids this organization's power of acting; not a free-floating Form. Index label `D-good-relative`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Something aids this organization's power of acting, and an idea in it tracks that it does.
+- *Inside:* This strengthens me, and I know it does.
+
 
 ---
 
@@ -1171,6 +1263,10 @@ Good, in this chain, names what we know aids this organization's power of acting
 
 **Verse.**
 Hate is sadness with the idea of an outside cause. Index label `D-hate-affect`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* A body's power to keep itself going falls, and the fall is traced to a cause beyond that body.
+- *Inside:* I feel less alive, and I know who or what did that.
 
 
 ---
@@ -1190,6 +1286,10 @@ Hate is sadness with the idea of an outside cause. Index label `D-hate-affect`; 
 **Verse.**
 Hope is an inconstant joy from the idea of a future that may help power of acting. Index label `D-hope-affect`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Power of acting rises, unsteadily, with an idea of a future event that may help it and may not come.
+- *Inside:* I am lifted by what may come, and I am not sure it will.
+
 
 ---
 
@@ -1207,6 +1307,10 @@ Hope is an inconstant joy from the idea of a future that may help power of actin
 
 **Verse.**
 Joy is an affect in which power of acting rises. Index label `D-joy`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* A body's power to keep itself going rises.
+- *Inside:* I feel more alive.
 
 
 ---
@@ -1226,6 +1330,10 @@ Joy is an affect in which power of acting rises. Index label `D-joy`; rests-on a
 **Verse.**
 Love is joy with the idea of an outside cause. Index label `D-love-affect`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* A body's power to keep itself going rises, and the rise is traced to a cause beyond that body.
+- *Inside:* I feel more alive, and I know who or what did that.
+
 
 ---
 
@@ -1243,6 +1351,10 @@ Love is joy with the idea of an outside cause. Index label `D-love-affect`; rest
 
 **Verse.**
 Sadness is an affect in which power of acting falls. Index label `D-sadness`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* A body's power to keep itself going falls.
+- *Inside:* I feel less alive.
 
 
 ---
@@ -1262,6 +1374,10 @@ Sadness is an affect in which power of acting falls. Index label `D-sadness`; re
 **Verse.**
 Striving to persist is the organization continuing its works as one; named appetite when felt as desire. Index label `D-strive`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* The organization keeps its works going as one.
+- *Inside:* I keep at it; I want to go on.
+
 
 ---
 
@@ -1279,6 +1395,10 @@ Striving to persist is the organization continuing its works as one; named appet
 
 **Verse.**
 Affects are more active when they follow from the agent's clearer cause-maps; more passive when from outside or confusion. Index label `P-active-vs-passive`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* The affect follows from the organization's own clearer maps of causes, or from outside and from confusion.
+- *Inside:* I am moved by what I understand, or I am moved by what I don't.
 
 
 ---
@@ -1316,6 +1436,10 @@ Blessedness is the power itself as freedom rises (P5); nothing here cashes it as
 **Verse.**
 Envy is sadness at another's joy; it tracks bondage more than freedom. Index label `P-envy-lowers`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Another's power rises, and this organization's power falls, the fall traced to that rise.
+- *Inside:* Their gain hurts me, and I know it is their gain that hurts.
+
 
 ---
 
@@ -1333,6 +1457,10 @@ Envy is sadness at another's joy; it tracks bondage more than freedom. Index lab
 
 **Verse.**
 Pity is sadness at another's harm; it can guide repair-work or sink both into bondage if causes stay unclear. Index label `P-pity-mixed`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Power falls at the idea of another's harm; the fall can drive repair or spread, depending on how clearly its causes are mapped.
+- *Inside:* Their hurt hurts me; I can help, or I can sink with them.
 
 
 ---
@@ -1354,6 +1482,10 @@ Virtue here is not a separate prize; it is acting from one's organization with r
 
 
 # Group `nature_knowledge`
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* The agent acts from its own organization, and its power of acting rises.
+- *Inside:* I do what I am able to do, from what I see, and I grow more able.
 
 
 ---
@@ -1409,6 +1541,10 @@ A common notion is a pattern true of many things at once and usable in reason's 
 **Verse.**
 Imagination is knowledge from fragments, hearsay, and images; useful, often confused about causes. Index label `D-imagination-know`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Ideas are formed from fragments, hearsay, and images, with causes often misplaced.
+- *Inside:* I heard it, I saw part of it, I picture it.
+
 
 ---
 
@@ -1426,6 +1562,10 @@ Imagination is knowledge from fragments, hearsay, and images; useful, often conf
 
 **Verse.**
 Intuition is seeing a singular thing through its place in Nature in one grasp; rare, freedom-relevant. Index label `D-intuition-know`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* One thing is grasped at once through its place in the order of causes.
+- *Inside:* I see this, and why it is, all at once.
 
 
 ---
@@ -1462,6 +1602,10 @@ A finite mode is a determinate expression in Nature — this body, this society 
 
 **Verse.**
 Reason is knowledge through common patterns and adequate cause-maps shared across cases. Index label `D-reason-know`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Ideas track patterns common to many cases and adequate maps of their causes.
+- *Inside:* I see how it works, not only that it happened.
 
 
 ---
@@ -1534,6 +1678,10 @@ Whatever 'eternity of mind' can mean here is about how ideas sit in Nature's ord
 
 **Verse.**
 Shifting from imagination toward reason about causes tends to raise degree-freedom. Index label `P-more-reason-freer`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* More of the agent's action follows from shared adequate maps and less from images.
+- *Inside:* The more I see how it works, the less I am pushed.
 
 
 ---
@@ -1735,6 +1883,10 @@ High whole-degree (works humming) can coexist with low degree-freedom if control
 
 **Verse.**
 The book's title claim is P3: freedom by degrees inside necessity, not escape from A5. Index label `P-title-claim`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* A world in which every event is caused, and in it an organization whose acts run more through itself as its maps of causes clear.
+- *Inside:* Nothing I do is uncaused, and more and more of what I do is mine.
 
 
 ---
@@ -2034,6 +2186,10 @@ Duration is lasting measured while works go on; not eternity. Index label `D-dur
 **Verse.**
 Future self talk projects later states of this organization; under A5 those states are caused, not freely uncaused. Index label `D-future-self`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Later states of this organization are projected, and they will be caused.
+- *Inside:* I picture who I will be.
+
 
 ---
 
@@ -2070,6 +2226,10 @@ Habits are patterns that persist across duration and bias which causes dominate 
 **Verse.**
 Personal memory is retained pattern in this body's organization usable by later first-person action. Index label `D-memory-personal`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Pattern is retained in this body's organization and used by later action.
+- *Inside:* I remember.
+
 
 ---
 
@@ -2087,6 +2247,10 @@ Personal memory is retained pattern in this body's organization usable by later 
 
 **Verse.**
 Narrative self is the story the organization tells about its sameness over duration; useful, not a second substance. Index label `D-narrative-self`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* The organization keeps a story about its own sameness over time.
+- *Inside:* This is my story; this is who I have been.
 
 
 ---
@@ -2106,6 +2270,10 @@ Narrative self is the story the organization tells about its sameness over durat
 **Verse.**
 Aging can lower works and freedom-degree; A1 still holds whenever thinking goes on. Index label `P-aging`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Works lower over the years, and degree-freedom may lower with them, while thinking goes on.
+- *Inside:* I can do less than I could, and I am still here.
+
 
 ---
 
@@ -2123,6 +2291,10 @@ Aging can lower works and freedom-degree; A1 still holds whenever thinking goes 
 
 **Verse.**
 Loss of personal memory drops a work grade; it does not cancel A1 in the present thinking. Index label `P-amnesia`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* The memory work's grade drops, while present thinking goes on.
+- *Inside:* I can't remember, and I am here.
 
 
 ---
@@ -2142,6 +2314,10 @@ Loss of personal memory drops a work grade; it does not cancel A1 in the present
 **Verse.**
 Being the same whole as a child is sameness of organization under the works, not unbroken narrative. Index label `P-childhood-continuity`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* The same organization has gone on under the works since childhood, with its parts replaced.
+- *Inside:* I don't remember being two, and I was.
+
 
 ---
 
@@ -2159,6 +2335,10 @@ Being the same whole as a child is sameness of organization under the works, not
 
 **Verse.**
 Nostalgia is joy (or bittersweet affect) tied to images of past organization, often imaginatively confused. Index label `P-nostalgia`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Joy, often mixed with sadness, is tied to images of an earlier state of the organization, often mis-mapped.
+- *Inside:* I miss how it was, as I picture it now.
 
 
 ---
@@ -2178,6 +2358,10 @@ Nostalgia is joy (or bittersweet affect) tied to images of past organization, of
 **Verse.**
 Promising stores a signal in memory meant to shape later control; bondage or freedom depends on clarity of causes. Index label `P-promise`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* A signal is stored in memory to shape later control.
+- *Inside:* I have given my word, and later I will act on it.
+
 
 ---
 
@@ -2195,6 +2379,10 @@ Promising stores a signal in memory meant to shape later control; bondage or fre
 
 **Verse.**
 Regret marks a clearer map of past causes joined to sadness; it can feed freer repair or passive rumination. Index label `P-regret`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* A clearer map of past causes comes with a fall in power; it can drive repair or a loop.
+- *Inside:* Now I see what I did and why, and it hurts; I can mend it, or replay it.
 
 
 ---
@@ -2216,6 +2404,10 @@ Deliberate rehearsal can move clearer cause-guided action into habit, raising la
 
 
 # Group `edge_cases`
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* A clearer cause-guided action is repeated until it becomes habit.
+- *Inside:* I practice until I don't have to think about it.
 
 
 ---
@@ -2325,6 +2517,10 @@ Shared organs mean shared works; first-person claims may still be two under A1 f
 **Verse.**
 Locked-in syndrome can preserve first-person organization while crushing outflow/signal to others; freedom and whole scales split. Index label `P-locked-in`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Outflow and signal to others are nearly gone, while the organization's thinking goes on.
+- *Inside:* I am here, thinking, and I can't show it.
+
 
 ---
 
@@ -2360,6 +2556,10 @@ Pregnancy can nest an emerging whole inside another; degrees and membership are 
 
 **Verse.**
 A prosthetic joins works without being a self-producer; membership-degree can rise with skilled use. Index label `P-prosthetic-member`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* With skilled use, the prosthetic is bound more tightly into the body's works.
+- *Inside:* With practice, I stop noticing it and just move.
 
 
 ---
@@ -2691,6 +2891,10 @@ If an AI is an organization with works and cause-maps, P3-talk may apply; A2-hum
 **Verse.**
 Ads shape desire via engineered signals; often bondage gear, sometimes informative cause-maps. Index label `P-advertising`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* An engineered signal from outside changes what this organization desires.
+- *Inside:* I want it, and the wanting feels like my own.
+
 
 ---
 
@@ -2838,6 +3042,10 @@ Surveillance raises a whole's control/signal capacity; freedom falls when it run
 **Verse.**
 Compassion is joy (D-joy) insofar as another's rise in power of acting (D-affect) moves us; confusion about that move is a bondage pattern (P4). Index label `D-compassion`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Another's rise in power of acting changes this organization, and its own power rises with it.
+- *Inside:* Their good fortune moves me, and I am glad.
+
 
 ---
 
@@ -2855,6 +3063,10 @@ Compassion is joy (D-joy) insofar as another's rise in power of acting (D-affect
 
 **Verse.**
 Gratitude is love toward one we imagine helped our power of acting. Index label `D-gratitude`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Power of acting rises, traced to another agent imagined to have helped it.
+- *Inside:* I am more able, and I think you helped.
 
 
 ---
@@ -2874,6 +3086,10 @@ Gratitude is love toward one we imagine helped our power of acting. Index label 
 **Verse.**
 Pride is joy from the idea of oneself as cause — clear or confused. Index label `D-pride-affect`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Power of acting rises, with an idea of this organization itself as the cause, a map that may be clear or confused.
+- *Inside:* I am glad, and I think I did it; I may be right or wrong.
+
 
 ---
 
@@ -2891,6 +3107,10 @@ Pride is joy from the idea of oneself as cause — clear or confused. Index labe
 
 **Verse.**
 Shame is sadness joined to the idea of being seen as cause of another's blame or one's own fault. Index label `D-shame`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Power of acting falls, with an idea of this organization as the cause of a fault that others see or that it sees itself.
+- *Inside:* I feel smaller, because I am seen, by others or by me, as the one at fault.
 
 
 ---
@@ -2910,6 +3130,10 @@ Shame is sadness joined to the idea of being seen as cause of another's blame or
 **Verse.**
 Wonder is the mind fixed on a novel thing whose causes are not yet mapped. Index label `D-wonder`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* The organization's attention holds on a new thing whose causes it has not yet mapped.
+- *Inside:* I can't look away, and I don't yet know what it is or why.
+
 
 ---
 
@@ -2927,6 +3151,10 @@ Wonder is the mind fixed on a novel thing whose causes are not yet mapped. Index
 
 **Verse.**
 Anger guided by clearer causes can defend works; rumination without maps deepens bondage. Index label `P-anger-can-repair`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Power falls with an idea of an outside cause of harm; with clearer maps it drives defense of the works, without them it loops.
+- *Inside:* I am angry at what hurt me; I can act on it with a clear head, or turn it over and over.
 
 
 ---
@@ -2967,6 +3195,10 @@ Pride fixed on inadequate self-cause-maps blocks therapy-as-freedom-gear. Index 
 
 # Group `practices`
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Joy is tied to a confused map of the self as cause, and the map resists revision.
+- *Inside:* I am sure it was all me, and I don't want to hear otherwise.
+
 
 ---
 
@@ -2984,6 +3216,10 @@ Pride fixed on inadequate self-cause-maps blocks therapy-as-freedom-gear. Index 
 
 **Verse.**
 Courage is acting from clearer maps despite fear-affect; not uncaused will. Index label `D-courage-practice`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* The agent acts from its clearer map while the fear-affect is present.
+- *Inside:* I am afraid, and I do it, because I see what is there.
 
 
 ---
@@ -3021,6 +3257,10 @@ Education is sustained teaching that rebuilds cause-maps and habits across durat
 **Verse.**
 Friendship is shared joy and mutual aid to power of acting between organizations. Index label `D-friendship`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Two organizations each raise the other's power of acting, and each traces the rise to the other.
+- *Inside:* We are each more alive, and each of us knows by whom.
+
 
 ---
 
@@ -3039,6 +3279,10 @@ Friendship is shared joy and mutual aid to power of acting between organizations
 **Verse.**
 Meditation practices aim to stabilize attention so clearer cause-maps can form; success is empirical. Index label `D-meditation`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Attention is steadied, so clearer cause-maps have room to form; whether it works is an empirical question.
+- *Inside:* I settle, and I can see what is moving in me.
+
 
 ---
 
@@ -3056,6 +3300,10 @@ Meditation practices aim to stabilize attention so clearer cause-maps can form; 
 
 **Verse.**
 Apprenticeship moves tools and habits that reason alone may not install. Index label `P-apprenticeship`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Embodied habits move from one body into another through shared practice.
+- *Inside:* My hands learn what I could not have learned from words.
 
 
 ---
@@ -3092,6 +3340,10 @@ Good-faith debate collides maps; sophistry is society-level bondage gear. Index 
 
 **Verse.**
 Exile drops society-membership while the organism-whole continues; affects and freedom shift hard. Index label `P-exile`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Membership in the society is cut, while the organism's works go on.
+- *Inside:* I am still here, and I no longer belong there.
 
 
 ---
@@ -3387,6 +3639,10 @@ Only A1 is 1.0 here; other claims carry collider grades or stay pending. Index l
 **Verse.**
 Methodic doubt withholds assent to unclear maps; it presupposes thinking (A1) when used. Index label `D-doubt-method`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* The organization withholds assent from maps that are not clear, and the withholding is itself thinking going on.
+- *Inside:* I hold off saying yes, and while I hold off, I am still thinking.
+
 
 ---
 
@@ -3404,6 +3660,10 @@ Methodic doubt withholds assent to unclear maps; it presupposes thinking (A1) wh
 
 **Verse.**
 Error is affirming a confused cause-map as if adequate. Index label `D-error`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* A confused cause-map is affirmed as if it were adequate.
+- *Inside:* I am sure it is right.
 
 
 ---
@@ -3423,6 +3683,10 @@ Error is affirming a confused cause-map as if adequate. Index label `D-error`; r
 **Verse.**
 Illusion is a stable error that feels like clear perception. Index label `D-illusion`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* A standing error is built into how the organization perceives.
+- *Inside:* It just looks that way, and keeps looking that way even when I know better.
+
 
 ---
 
@@ -3440,6 +3704,10 @@ Illusion is a stable error that feels like clear perception. Index label `D-illu
 
 **Verse.**
 Biases are standing ways imagination mis-maps causes; science and therapy target them. Index label `P-bias`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* A standing pattern mis-maps causes the same way across many cases.
+- *Inside:* It just seems obvious.
 
 
 ---
@@ -3459,6 +3727,10 @@ Biases are standing ways imagination mis-maps causes; science and therapy target
 **Verse.**
 Reading nature as aiming at us is usually confused; useful stories ≠ adequate maps. Index label `P-final-causes-heuristic`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* The organization reads its own needs into the order of causes, as if events aimed at it.
+- *Inside:* It seems made for me, or done to me.
+
 
 ---
 
@@ -3476,6 +3748,10 @@ Reading nature as aiming at us is usually confused; useful stories ≠ adequate 
 
 **Verse.**
 Feeling that a choice sprang from nowhere conflicts with A5; degree-freedom remains. Index label `P-free-will-illusion`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* The choice has causes, many of them not tracked by the organization that makes it.
+- *Inside:* It feels as if it came from nowhere but me.
 
 
 ---
@@ -3531,6 +3807,10 @@ An event outside Nature's order would violate A5; rare events still have causes.
 **Verse.**
 Feeling sure is not adequacy; overconfidence blocks freer revision. Index label `P-overconfidence`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* The strength of assent outruns how well the map tracks causes, and revision stops.
+- *Inside:* I feel certain, so I stop looking.
+
 
 ---
 
@@ -3548,6 +3828,10 @@ Feeling sure is not adequacy; overconfidence blocks freer revision. Index label 
 
 **Verse.**
 Superstition pairs hope/fear with inadequate cause-maps; classic bondage pattern. Index label `P-superstition`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Hope and fear are tied to a map that puts the cause in the wrong place.
+- *Inside:* If I do this, it will go well; if I don't, something bad will come.
 
 
 ---
@@ -3569,6 +3853,10 @@ Revising maps with evidence is reason-work when it tracks causes, not tribal sig
 
 
 # Group `digital_mind`
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* The map is revised as evidence comes in, tracking causes rather than group signal.
+- *Inside:* I see I was wrong, and I change my mind.
 
 
 ---
@@ -3677,6 +3965,10 @@ Automated signal floods can fake public mood without public freedom. Index label
 
 **Verse.**
 A copy may start a new thinking or none; it does not move the original first-person certainty. Index label `P-copy-not-A1-transfer`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* A pattern of this organization is copied into new gear, and this body goes on or stops.
+- *Inside:* My thinking stays where it is; if the copy thinks, its 'I exist' is its own.
 
 
 ---
@@ -3807,6 +4099,10 @@ Even if this world's causes run in a base machine, events here remain caused; fr
 **Verse.**
 Contingent names what we do not yet see as necessary from causes — a knowledge status, not a hole in A5. Index label `D-contingent-here`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* No map in this organization yet links the event to all its causes.
+- *Inside:* It seems as if it could have gone otherwise.
+
 
 ---
 
@@ -3842,6 +4138,10 @@ Infinite sketches what is not limited by another of its kind; thin here, not ful
 
 **Verse.**
 Meaning, thinly, is how something matters to an organization's power of acting and maps. Index label `D-meaning-local`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* This thing changes this organization's power of acting and its maps.
+- *Inside:* It matters to me.
 
 
 ---
@@ -3914,6 +4214,10 @@ What seems able to have been otherwise usually marks maps we lack, not uncaused 
 
 **Verse.**
 Awe can open reason toward Nature or freeze into superstition, depending on map quality. Index label `P-awe`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Attention holds on something whose causes are unmapped and whose scale is far beyond this body; it can drive mapping or fear.
+- *Inside:* I feel small before it, and I want to understand it, or I am afraid of it.
 
 
 ---
@@ -3990,7 +4294,7 @@ What aids a cell, organism, or society can conflict; P1 levels block a single fl
 
 ---
 
-## V239 · `P-tragedy` — Tragedy is high value colliding with necessity
+## V239 · `P-tragedy` — Tragedy is a strong good destroyed under necessity
 
 **Kind:** proposition · **Group:** `cosmology_value` · **Confidence:** pending (collider)
 **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
@@ -4007,6 +4311,10 @@ Tragedy marks cherished goods destroyed under causes we can map but not wish awa
 
 
 # Group `biology_deep`
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* A good this organization held is destroyed by causes it can map.
+- *Inside:* I see why it happened, and I cannot wish it away.
 
 
 ---
@@ -4152,6 +4460,10 @@ Extinction ends gene-memory and population wholes; individuals' A1s end with the
 **Verse.**
 Fever can lower comfort while raising repair odds; affect and whole-degree briefly diverge. Index label `P-fever`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Temperature rises, comfort falls, and the body's repair runs faster.
+- *Inside:* I feel awful, and I am getting better.
+
 
 ---
 
@@ -4188,6 +4500,10 @@ Symbionts participate in works; membership-degree is graded, not binary. Index l
 **Verse.**
 Pain is an affect/signal that often tracks damage; chronic pain can become bondage. Index label `P-pain`; rests-on as above. One chain; no parallel axiom root beside A1.
 
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* A signal tracks damage or threat to the body's works; when it persists without a matching cause, it can steer the body from outside its clear maps.
+- *Inside:* It hurts here; and when the hurt won't stop, it runs my day.
+
 
 ---
 
@@ -4205,6 +4521,10 @@ Pain is an affect/signal that often tracks damage; chronic pain can become bonda
 
 **Verse.**
 Pleasure often joins joy/power rise; addictive pleasures can climb affect while flooring freedom. Index label `P-pleasure`; rests-on as above. One chain; no parallel axiom root beside A1.
+
+**Mirror (outside / inside; A2(b) reading, unscored).**
+- *Outside:* Reward signals rise, often together with power of acting; in addiction they climb while the agent's freedom falls.
+- *Inside:* This feels good; usually that means I am doing well, and sometimes it is the hook.
 
 
 ---

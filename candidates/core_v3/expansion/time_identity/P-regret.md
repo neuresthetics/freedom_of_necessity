@@ -24,6 +24,10 @@ revive: earned 2026-10-24 vs kilned set
 
 **Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
 
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+- *Outside:* A clearer map of past causes comes with a fall in power; it can drive repair or a loop.
+- *Inside:* Now I see what I did and why, and it hurts; I can mend it, or replay it.
+
 **Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; still pending collider; re-park if it overreaches BASE.
 
 ## Hyper-connect

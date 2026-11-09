@@ -25,6 +25,10 @@ status: base (locked)
 
 **Limit.** Definition. Adds no confidence.
 
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+- *Outside:* What the agent does follows from causes outside it, or from changes in it whose causes it does not track.
+- *Inside:* I am pushed, or I am driven by something I cannot name.
+
 **References.**
 - Spinoza, B. *Ethics*: E4 Preface.
 

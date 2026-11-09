@@ -24,6 +24,11 @@ revive: earned 2026-10-24 vs kilned set
 
 **Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
 
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+- *Outside:* Temperature rises, comfort falls, and the body's repair runs faster.
+- *Inside:* I feel awful, and I am getting better.
+- *Note:* One event, two descriptions, and still affect and whole-degree diverge: the mirror does not make them the same scale.
+
 **Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; still pending collider; re-park if it overreaches BASE.
 
 ## Hyper-connect

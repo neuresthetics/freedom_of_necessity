@@ -2,7 +2,7 @@
 
 **Source:** confirmed B1 winner = `golden` BASE → `../winner/` (set_20261025_B1), then full live expansion.
 **Scope of dual render set:** V001–V251 (see [expansion.md](expansion.md) for V021–V251).
-**Mirror:** [technical/BASE.md](../technical/BASE.md). Labels: [INDEX.md](../INDEX.md).
+**Twin track:** [technical/BASE.md](../technical/BASE.md). Labels: [INDEX.md](../INDEX.md).
 **Jason freeze (V013 · P3):** v12 verses **143** and **144** preserved verbatim (line breaks for reading only; wording unchanged).
 
 Dhammapada-like: short, plain, modern. Analogy only when it helps. Index label in the heading; no jargon required to read the lines.
@@ -55,6 +55,9 @@ I read mind as this same body
 told from the inside.
 That reading is a choice of story, not a proof.
 Why it feels like anything at all stays open.
+
+Seen from without: a body of cells at work, arranged just so.
+Seen from within: I am here, seeing, and the seeing goes where the body goes.
 
 
 ---
@@ -154,6 +157,9 @@ when what we do grows from what we are
 and from seeing the causes clear —
 even the ones that hurt to see.
 
+Seen from without: a doing that runs from its own pattern, with a true map of its causes.
+Seen from within: this is mine, and I know where it comes from.
+
 
 ---
 
@@ -175,6 +181,9 @@ and acting from that knowledge.*
 
 — Jason (preserved from the verse companion)
 
+Seen from without: a caused act, routed through its own pattern and its map.
+Seen from within: it had to be, and it was mine, and I saw why.
+
 
 ---
 
@@ -187,6 +196,9 @@ and the idea of that change riding with it.
 Joy names a rise; sadness a fall;
 desire is the lean that keeps you going.
 
+Seen from without: the works turning stronger or weaker.
+Seen from within: I feel it, more or less.
+
 
 ---
 
@@ -198,6 +210,9 @@ or by storms whose weather you cannot name.
 Same ladder as freedom —
 only downward.
 
+Seen from without: steering from elsewhere, or from a cause unmapped.
+Seen from within: I am pushed, or pulled by I know not what.
+
 
 ---
 
@@ -206,6 +221,9 @@ only downward.
 Blessedness is not a medal after the race.
 It is the strength in the running
 as seeing grows and the works run clearer.
+
+Seen from without: power rising as the steering comes home.
+Seen from within: I can do more, and more of it is mine.
 
 
 ---
@@ -218,14 +236,21 @@ or a feeling drives you while its cause stays fog.
 Clear the fog, reclaim the steering —
 bondage lessens by degrees.
 
+Seen from without: a hand from outside on the wheel, or a cause in fog.
+Seen from within: I am steered, and cannot say by what.
+
 
 ---
 
 ## V018 · `P5` — Blessedness is the power itself
 
-The prize is not waiting in another life.
+The prize is not a wage held back for later.
 The prize is the power itself
-as freedom rises in this one.
+as freedom rises.
+Whether anything waits after death: not this book's claim.
+
+Seen from without: power rising with freedom, from the same causes.
+Seen from within: the joy is in the doing, not paid after it.
 
 
 ---

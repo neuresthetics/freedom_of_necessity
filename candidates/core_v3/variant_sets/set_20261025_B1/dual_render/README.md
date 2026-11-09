@@ -22,4 +22,4 @@ Do not rephrase these lines in later polish without Jason's ok.
 
 ## Provenance
 
-Prior mirrors in `drafts/verses_v3/` remain. This folder is the **post-winner** dual render of the confirmed combined-chain winner after full expansion.
+Prior twin-track renders in `drafts/verses_v3/` remain. This folder is the **post-winner** dual render of the confirmed combined-chain winner after full expansion.

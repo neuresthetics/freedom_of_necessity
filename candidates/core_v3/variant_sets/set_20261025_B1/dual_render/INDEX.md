@@ -259,7 +259,7 @@ Post-winner dual render for `set_20261025_B1`.
 | 236 | `P-nihilism-confused` | Nihilism often confuses missing cosmic purpose with missing local good | proposition | cosmology_value |
 | 237 | `P-no-miracle-ethics` | Ethics needs no miracles | proposition | cosmology_value |
 | 238 | `P-plural-goods` | Goods can conflict across levels | proposition | cosmology_value |
-| 239 | `P-tragedy` | Tragedy is high value colliding with necessity | proposition | cosmology_value |
+| 239 | `P-tragedy` | Tragedy is a strong good destroyed under necessity | proposition | cosmology_value |
 | 240 | `D-gene-memory` | Genes as deep memory-work | definition | biology_deep |
 | 241 | `D-homeostasis` | Homeostasis | definition | biology_deep |
 | 242 | `D-immune` | Immune work as boundary/repair | definition | biology_deep |

@@ -254,7 +254,7 @@ Decisions: [../REVIVE_DECISIONS.md](../REVIVE_DECISIONS.md). Snapshot: [../REVIV
 | 216 | [Nihilism often confuses missing cosmic purpose with missing local good](cosmology_value/P-nihilism-confused.md) | P-nihilism-confused | cosmology_value | proposition | P5, P-final-causes-heuristic, D-blessedness | — |
 | 217 | [Ethics needs no miracles](cosmology_value/P-no-miracle-ethics.md) | P-no-miracle-ethics | cosmology_value | proposition | P3, P5, P-miracle-denied | — |
 | 218 | [Goods can conflict across levels](cosmology_value/P-plural-goods.md) | P-plural-goods | cosmology_value | proposition | D-good-relative, P1, P19 | — |
-| 219 | [Tragedy is high value colliding with necessity](cosmology_value/P-tragedy.md) | P-tragedy | cosmology_value | proposition | A5, D-good-relative, D-sadness | — |
+| 219 | [Tragedy is a strong good destroyed under necessity](cosmology_value/P-tragedy.md) | P-tragedy | cosmology_value | proposition | A5, D-good-relative, D-sadness | — |
 | 220 | [Genes as deep memory-work](biology_deep/D-gene-memory.md) | D-gene-memory | biology_deep | definition | D-work-F7, A3, D-organism | P-extinction |
 | 221 | [Homeostasis](biology_deep/D-homeostasis.md) | D-homeostasis | biology_deep | definition | D-work-F4, D-work-F5, A3 | — |
 | 222 | [Immune work as boundary/repair](biology_deep/D-immune.md) | D-immune | biology_deep | definition | D-work-F1, D-work-F5, A2 | P-fever |

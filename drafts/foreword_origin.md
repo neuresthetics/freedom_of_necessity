@@ -47,9 +47,11 @@ Variation and hardness-to-vary ran on **one combined chain** — the entry files
 - The **technical** face shows the joints: dependencies, caps, cites, entry ids.
 - The **poetic** face carries the same claims in plain modern lines — short, Dhammapada-like, with analogy only when it helps.
 
+**A note on format.** Some entries are also given twice, once from outside (the body and its causes) and once from inside (in the first person). The person is the mirror: an entry carries both only where someone is there to be described from within. Elsewhere one description is enough; for a society or a digital system, whether there is an inside is left open, as those entries say. This is a way of reading the entries, not a new claim, and it adds no confidence.
+
 Jason’s verses **143** and **144** sit frozen in poetic **V013 · P3** (credited on the technical face). The lamp line (**86**) remains open for placement — parked near the pattern/requirement and collider homes until he chooses.
 
-The working trees for that pass live under `candidates/core_v3/variant_sets/set_20261025_B1/` (`winner/`, `dual_render/`). Prior mirrors in `drafts/verses_v3/` remain as earlier drafts of the same labels.
+The working trees for that pass live under `candidates/core_v3/variant_sets/set_20261025_B1/` (`winner/`, `dual_render/`). Prior twin-track drafts in `drafts/verses_v3/` remain as earlier drafts of the same labels.
 
 ## What stays open
 
