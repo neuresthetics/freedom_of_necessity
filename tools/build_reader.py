@@ -237,26 +237,93 @@ def foreword_page(book, site, index_html):
 
 
 def full_draft(book) -> str:
-    """Foreword + all 251 entries in chain order (V001-V251), full entry text."""
+    """Foreword + all 251 entries in chain order (V001-V251), full entry text.
+
+    Nested accordions: foreword, each group (BASE first, then each expansion
+    group), and each entry inside a group; all collapsed by default.
+    """
     E, core = entry_files(book)
-    order = [(a, b) for kind, a, b, _, _ in render_sections(book, "technical") if kind == "v"]
+    secs = render_sections(book, "technical")
     poems = {b: body for kind, a, b, _, body in render_sections(book, "poetic") if kind == "v"}
-    parts = ['<section class="dv" id="draft-foreword"><h3 class="did">Foreword</h3>', md(foreword_md(book)), "</section>"]
-    for vnum, eid in order:
-        e = E[eid]
-        rel_dir = e["path"].parent.relative_to(book).as_posix()
-        t = strip_frontmatter(e["text"])
-        t = re.sub(r"\n## Hyper-connect\n.*\Z", "", t, flags=re.S)   # index block, not draft text
-        t = re.sub(r"(?m)^\*\*(BASE \(locked\)|Expansion from BASE[^*]*)\.\*\*.*\n?", "", t)
-        t = re.sub(r"(?m)^\*\*[^*\n]+\*\* \*\((?:[^)]*id: [^)]*)\)\*\.\s*\n", "", t)  # repeated title line
-        t = clean_block(t, keep_sentences=eid in SCORE_NOTE_IDS)
-        if eid in SCORE_NOTE_IDS:
-            t += "\n\n" + SCORE_NOTE
-        title = html.escape(e["title"])
-        parts.append(f'<section class="dv" id="draft-{vnum}"><h3 class="did"><span class="sc">{vnum} · {html.escape(eid)}</span> {title}</h3>'
-                     f'{md(abs_links(t, rel_dir))}'
-                     f'<blockquote class="dverse"><p class="vl">Verse</p>{md(clean_block(poems.get(eid, ""), keep_sentences=eid in SCORE_NOTE_IDS), nl2br=True)}</blockquote></section>')
+    groups = [("BASE", [])]
+    for kind, a, b, _, _ in secs:
+        if kind == "group":
+            groups.append((a, []))
+        else:
+            groups[-1][1].append((a, b))
+    parts = ['<div class="draft-controls"><button type="button" id="xAll">⇕ Expand all</button></div>',
+             '<details class="sec dsec" id="draft-foreword" data-key="foreword"><summary>Foreword</summary>'
+             f'<div class="dsec-body">{md(foreword_md(book))}</div></details>']
+    for gname, items in groups:
+        if not items:
+            continue
+        label = "BASE (the locked twenty)" if gname == "BASE" else gname.replace("_", " ")
+        g = html.escape(gname)
+        parts.append(f'<details class="sec dgroup" id="draft-group-{g}" data-key="g-{g}"><summary>{html.escape(label)} '
+                     f'<span class="vr">{items[0][0]}–{items[-1][0]}</span><span class="ct">{len(items)}</span></summary><div class="dgroup-body">')
+        for vnum, eid in items:
+            e = E[eid]
+            rel_dir = e["path"].parent.relative_to(book).as_posix()
+            t = strip_frontmatter(e["text"])
+            t = re.sub(r"\n## Hyper-connect\n.*\Z", "", t, flags=re.S)   # index block, not draft text
+            t = re.sub(r"(?m)^\*\*(BASE \(locked\)|Expansion from BASE[^*]*)\.\*\*.*\n?", "", t)
+            t = re.sub(r"(?m)^\*\*[^*\n]+\*\* \*\((?:[^)]*id: [^)]*)\)\*\.\s*\n", "", t)  # repeated title line
+            keep = eid in SCORE_NOTE_IDS
+            t = clean_block(t, keep_sentences=keep)
+            if keep:
+                t += "\n\n" + SCORE_NOTE
+            title = html.escape(e["title"])
+            parts.append(
+                f'<details class="sec dentry" id="draft-{vnum}" data-key="{vnum}"><summary>{title} <span class="ct">{vnum} · {html.escape(eid)}</span></summary>'
+                f'<div class="dentry-body">{md(abs_links(t, rel_dir))}'
+                f'<blockquote class="dverse"><p class="vl">Verse</p>{md(clean_block(poems.get(eid, ""), keep_sentences=keep), nl2br=True)}</blockquote>'
+                f'</div></details>')
+        parts.append("</div></details>")
+    parts.append(DRAFT_JS)
     return "\n".join(parts)
+
+
+DRAFT_JS = """<script>
+(function () {
+  var root = document.getElementById('full-draft');
+  if (!root) return;
+  var K = 'book_open_';
+  var secs = Array.prototype.slice.call(root.querySelectorAll('details.sec'));
+  var btn = document.getElementById('xAll');
+  function store(d) {
+    try {
+      if (d.open) localStorage.setItem(K + d.dataset.key, '1');
+      else localStorage.removeItem(K + d.dataset.key);
+    } catch (e) {}
+  }
+  function label() {
+    if (btn) btn.textContent = secs.some(function (d) { return d.open; }) ? '\u21d5 Collapse all' : '\u21d5 Expand all';
+  }
+  secs.forEach(function (d) {
+    try { if (localStorage.getItem(K + d.dataset.key) === '1') d.open = true; } catch (e) {}
+    d.addEventListener('toggle', function () { store(d); label(); });
+  });
+  try { if (localStorage.getItem(K + 'root') === '1') root.open = true; } catch (e) {}
+  root.addEventListener('toggle', function () {
+    try { if (root.open) localStorage.setItem(K + 'root', '1'); else localStorage.removeItem(K + 'root'); } catch (e) {}
+  });
+  if (btn) btn.addEventListener('click', function () {
+    var open = !secs.some(function (d) { return d.open; });
+    secs.forEach(function (d) { d.open = open; store(d); });
+    label();
+  });
+  function openHash() {
+    var id = decodeURIComponent(location.hash.slice(1));
+    var el = id && document.getElementById(id);
+    if (!el || !(root === el || root.contains(el))) return;
+    for (var n = el; n; n = n.parentElement) { if (n.tagName === 'DETAILS') n.open = true; }
+    el.scrollIntoView();
+  }
+  window.addEventListener('hashchange', openHash);
+  openHash();
+  label();
+})();
+</script>"""
 
 
 def accordion(book, site):
