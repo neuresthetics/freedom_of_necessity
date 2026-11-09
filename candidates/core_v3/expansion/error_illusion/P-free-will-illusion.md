@@ -3,7 +3,6 @@ id: P-free-will-illusion
 type: expansion
 kind: proposition
 title: The feeling of uncaused will is illusion under A5
-confidence: pending (collider)
 cites: [A5, P3, D-illusion]
 grows_from: A5/P3
 group: error_illusion
@@ -22,19 +21,16 @@ kiln: 2026-10-24 strongest half
 
 **Cites.** A5, P3, D-illusion.
 
-**Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
-
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* The choice has causes, many of them not tracked by the organization that makes it.
 - *Inside:* It feels as if it came from nowhere but me.
 - *Note:* The mirror is of the event, not a promise that the inside sees its own causes.
 
-**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
+**Failure / limit.** Survived kiln (strongest half). Park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Every event is caused* (A5); *Freedom by degrees under necessity* (P3); *Illusion* (D-illusion)
 - **BASE hinges:** A5, P3
 - **Supports (live):** —
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [error_illusion/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

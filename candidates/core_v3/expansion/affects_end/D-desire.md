@@ -3,7 +3,6 @@ id: D-desire
 type: expansion
 kind: definition
 title: Desire
-confidence: pending (collider)
 cites: [D-affect, A2, D-work]
 grows_from: D-affect + works
 group: affects_end
@@ -21,18 +20,15 @@ kiln: 2026-10-24 strongest half
 
 **Cites.** D-affect, A2, D-work.
 
-**Cap.** Pending; cannot exceed weakest scored cite among BASE hinges it rests on (once collider runs). Definitions add no score.
-
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* The organization strives to keep its works going, and an idea of that striving goes with it.
 - *Inside:* I want, and I know that I want.
 
-**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
+**Failure / limit.** Survived kiln (strongest half). Park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Affect, and change of power* (D-affect); *A human body, and its mind* (A2); *Work, and the seven works* (D-work)
 - **BASE hinges:** D-affect, A2, D-work
 - **Supports (live):** *Striving to persist* (D-strive); *Advertising targets desire with outside causes* (P-advertising)
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [affects_end/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

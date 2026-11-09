@@ -2,7 +2,7 @@
 
 Moved out of the live chain on **2026-10-24 PT** (prune-to-strongest). **Not deleted.**
 
-**Count: 72** entry files.
+**Count: 74** entry files (72 from the 2026-10-24 volume prune, plus 2 scoring-method entries parked 2026-11-09).
 
 Live chain (20): [../CHAIN.md](../CHAIN.md).
 
@@ -84,3 +84,13 @@ Live chain (20): [../CHAIN.md](../CHAIN.md).
 ## Why parked
 
 Volume expansion covered Spinoza's full ground lightly. The prune kept only load-bearing hinges for the book's argument: seed, body/mind, wholes-by-degree, freedom under necessity, bondage/blessedness, and the two original bridges (whole≠freedom scale; society freer without feeling). Named-affect catalog, substance/mode apparatus, knowledge ladder, politics, eternity, and most thin props stay here until a later pass re-admits them one by one.
+
+## Parked 2026-11-09 (harness scores dropped)
+
+Numeric scores were dropped from the process. These two entries defined the scoring pass and its numeric grades. Not deleted. The collision record remains in METHOD.md.
+
+| Id | Title (from frontmatter) | File |
+|---|---|---|
+| D-certainty-grades | Grades of certainty | [D-certainty-grades.md](D-certainty-grades.md) |
+| D-collider | Collider | [D-collider.md](D-collider.md) |
+

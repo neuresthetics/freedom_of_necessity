@@ -3,7 +3,6 @@ id: P-virtue-is-power
 type: expansion
 kind: proposition
 title: Virtue is living from power of acting
-confidence: pending (collider)
 cites: [P5, D-blessedness, P3]
 grows_from: P5
 group: affects_end
@@ -21,18 +20,15 @@ kiln: 2026-10-24 strongest half
 
 **Cites.** P5, D-blessedness, P3.
 
-**Cap.** Pending; cannot exceed weakest scored cite among BASE hinges it rests on (once collider runs). Definitions add no score.
-
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* The agent acts from its own organization, and its power of acting rises.
 - *Inside:* I do what I am able to do, from what I see, and I grow more able.
 
-**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
+**Failure / limit.** Survived kiln (strongest half). Park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Blessedness is the power itself* (P5); *Blessedness* (D-blessedness); *Freedom by degrees under necessity* (P3)
 - **BASE hinges:** P5, D-blessedness, P3
 - **Supports (live):** —
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [affects_end/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

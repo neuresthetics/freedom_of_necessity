@@ -3,7 +3,6 @@ id: D-pride-affect
 type: expansion
 kind: definition
 title: Pride
-confidence: pending (collider)
 cites: [D-joy, D-affect]
 grows_from: affect catalog
 group: affects_more
@@ -22,18 +21,15 @@ revive: earned 2026-10-24 vs kilned set
 
 **Cites.** D-joy, D-affect.
 
-**Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
-
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* Power of acting rises, with an idea of this organization itself as the cause, a map that may be clear or confused.
 - *Inside:* I am glad, and I think I did it; I may be right or wrong.
 
-**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; still pending collider; re-park if it overreaches BASE.
+**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; re-park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Joy* (D-joy); *Affect, and change of power* (D-affect)
 - **BASE hinges:** D-affect
 - **Supports (live):** *Overconfidence is pride in confused maps* (P-overconfidence); *Confused pride resists clearer maps* (P-pride-confused)
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [affects_more/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

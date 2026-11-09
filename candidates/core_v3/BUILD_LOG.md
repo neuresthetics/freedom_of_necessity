@@ -529,3 +529,12 @@ No push. No thesis rewrite. Titles unchanged.
 
 - Author decision: numeric scores (confidence / cap from harness, collider, lens) are no longer part of the process. Entries are judged by dependency checks, citations, and coherence; the collision record stays. Recorded in METHOD.md and both READMEs. Entry fields left in place pending a cleanup pass; dep_check unchanged.
 - Reader pages on the public site no longer show score, cap, or confidence lines (site build only). New `tools/build_reader.py` builds them; the /book/ page gains a "full draft" accordion.
+
+## 2026-11-09 — Score-field cleanup
+
+- Removed `confidence` and `scored_as` frontmatter, body `**Cap.**` paragraphs, and Hyper-connect `Cap` lines from live entries. Reworded kiln/revive "pending collider" failure lines. Dependency checks no longer require a Cap (`tools/dep_check.py`).
+- Parked `D-collider` and `D-certainty-grades` under [PARKED_VOLUME/](PARKED_VOLUME/) (they defined the scoring pass and numeric grades). Rewrote `D-declared-reading` without score language. Collision record stays in METHOD.md. [CAPS.md](CAPS.md) marked historical.
+- Dual render and `drafts/verses_v3` tracks: those two verses removed; remaining expansion verses renumbered in chain order (`V001`–`V249`). `golden/` and `winner/` left frozen.
+- **Counts:** BASE **20** + expansion **229** = **249** in play. PARKED_VOLUME **74** (72 volume prune + 2).
+- **dep_check:** ok, 249 live, 0 orphans, 0 cycles.
+

@@ -3,7 +3,6 @@ id: D-lie
 type: expansion
 kind: definition
 title: Lie
-confidence: pending (collider)
 cites: [D-language, P4, D-confused-knowledge]
 grows_from: P4
 group: language_comm
@@ -22,14 +21,11 @@ kiln: 2026-10-24 strongest half
 
 **Cites.** D-language, P4, D-confused-knowledge.
 
-**Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
-
-**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
+**Failure / limit.** Survived kiln (strongest half). Park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Language as shared signaling* (D-language); *Bondage is acting from what is outside* (P4); *Confused knowledge of causes* (D-confused-knowledge)
 - **BASE hinges:** P4
 - **Supports (live):** *Gaslighting attacks another's cause-maps* (P-gaslight)
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [language_comm/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

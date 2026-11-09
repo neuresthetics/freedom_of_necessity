@@ -3,7 +3,6 @@ id: P-overconfidence
 type: expansion
 kind: proposition
 title: Overconfidence is pride in confused maps
-confidence: pending (collider)
 cites: [D-pride-affect, D-confused-knowledge, P3]
 grows_from: P3
 group: error_illusion
@@ -22,18 +21,15 @@ revive: earned 2026-10-24 vs kilned set
 
 **Cites.** D-pride-affect, D-confused-knowledge, P3.
 
-**Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
-
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* The strength of assent outruns how well the map tracks causes, and revision stops.
 - *Inside:* I feel certain, so I stop looking.
 
-**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; still pending collider; re-park if it overreaches BASE.
+**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; re-park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Pride* (D-pride-affect); *Confused knowledge of causes* (D-confused-knowledge); *Freedom by degrees under necessity* (P3)
 - **BASE hinges:** P3
 - **Supports (live):** —
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [error_illusion/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

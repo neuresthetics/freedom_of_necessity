@@ -3,7 +3,6 @@ id: P-title-claim
 type: expansion
 kind: proposition
 title: Freedom of necessity is degree-freedom under A5
-confidence: pending (collider)
 cites: [P3, A5, D-free]
 grows_from: title hinge
 group: bridges
@@ -21,18 +20,15 @@ kiln: 2026-10-24 strongest half
 
 **Cites.** P3, A5, D-free.
 
-**Cap.** Pending; cannot exceed weakest scored cite among BASE hinges it rests on (once collider runs). Definitions add no score.
-
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* A world in which every event is caused, and in it an organization whose acts run more through itself as its maps of causes clear.
 - *Inside:* Nothing I do is uncaused, and more and more of what I do is mine.
 
-**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
+**Failure / limit.** Survived kiln (strongest half). Park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Freedom by degrees under necessity* (P3); *Every event is caused* (A5); *Freedom, strict and by degree* (D-free)
 - **BASE hinges:** P3, A5, D-free
 - **Supports (live):** —
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [bridges/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

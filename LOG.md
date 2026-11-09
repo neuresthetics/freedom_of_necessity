@@ -1,5 +1,12 @@
 # Log
 
+## 2026-11-09 PT — Score-field cleanup (push)
+
+Numeric scores already dropped from the process; this pass removes the leftover fields from live entries, parks `D-collider` and `D-certainty-grades`, rewrites `D-declared-reading`, updates dep_check so a Cap is not required, and renumbers the dual-render tracks to V001–V249 (249 live). Collision record stays. golden/ and winner/ frozen.
+
+---
+
+
 ## 2026-10-25 PT — Foreword origin draft (combined)
 
 Overwrite `drafts/foreword_origin.md`: inception story; hardness→winner→dual render in past tense; personal (A1/veto, 143/144→V013, lamp 86, 50-50 free will, God bridged to brain science); historic from in-repo preface + Elwes PD seed + P5/def circularity fix. No Skin for Nothing / private trauma. Local; not pushed.

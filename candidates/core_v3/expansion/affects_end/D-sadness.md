@@ -3,7 +3,6 @@ id: D-sadness
 type: expansion
 kind: definition
 title: Sadness
-confidence: pending (collider)
 cites: [D-affect, D-power-of-acting]
 grows_from: D-affect
 group: affects_end
@@ -21,18 +20,15 @@ kiln: 2026-10-24 strongest half
 
 **Cites.** D-affect, D-power-of-acting.
 
-**Cap.** Pending; cannot exceed weakest scored cite among BASE hinges it rests on (once collider runs). Definitions add no score.
-
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* A body's power to keep itself going falls.
 - *Inside:* I feel less alive.
 
-**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
+**Failure / limit.** Survived kiln (strongest half). Park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Affect, and change of power* (D-affect); *Power of acting* (D-power-of-acting)
 - **BASE hinges:** D-affect
 - **Supports (live):** *Fear* (D-fear-affect); *Hate (as affect)* (D-hate-affect); *Shame* (D-shame); *Envy lowers power* (P-envy-lowers); *Pity can aid or bind* (P-pity-mixed); *Regret is sadness over past causes now seen clearer* (P-regret); *Tragedy is a strong good destroyed under necessity* (P-tragedy)
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [affects_end/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

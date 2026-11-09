@@ -3,7 +3,6 @@ id: P-police
 type: expansion
 kind: proposition
 title: Police concentrate legitimate coercion
-confidence: pending (collider)
 cites: [P2, P-law-as-memory, P4]
 grows_from: society
 group: conflict_peace
@@ -22,14 +21,11 @@ revive: earned 2026-10-24 vs kilned set
 
 **Cites.** P2, P-law-as-memory, P4.
 
-**Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
-
-**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; still pending collider; re-park if it overreaches BASE.
+**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; re-park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *A collective mind happens* (P2); *Law is public memory with teeth* (P-law-as-memory); *Bondage is acting from what is outside* (P4)
 - **BASE hinges:** P2, P4
 - **Supports (live):** —
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [conflict_peace/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

@@ -3,7 +3,6 @@ id: D-wonder
 type: expansion
 kind: definition
 title: Wonder
-confidence: pending (collider)
 cites: [D-imagination-know, D-affect]
 grows_from: knowledge/affect
 group: affects_more
@@ -22,18 +21,15 @@ revive: earned 2026-10-24 vs kilned set
 
 **Cites.** D-imagination-know, D-affect.
 
-**Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
-
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* The organization's attention holds on a new thing whose causes it has not yet mapped.
 - *Inside:* I can't look away, and I don't yet know what it is or why.
 
-**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; still pending collider; re-park if it overreaches BASE.
+**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; re-park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Imagination (first kind of knowing)* (D-imagination-know); *Affect, and change of power* (D-affect)
 - **BASE hinges:** D-affect
 - **Supports (live):** *Awe is wonder plus vastness in the cause-map* (P-awe)
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [affects_more/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

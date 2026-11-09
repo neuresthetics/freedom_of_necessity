@@ -10,7 +10,6 @@ qualifiers:
   - 'power itself'
   - 'not a reward'
   - 'adds no confidence'
-scored_as: 'Definition: blessedness, in this chain''s working sense, is power of acting as it rises with degree-freedom — not a reward paid afterward (E5P42 pattern). Adds no confidence. P5 derives the proposition; this entry only fixes the word.'
 status: base (locked)
 ---
 **Blessedness** *(definition, id: D-blessedness)*.
@@ -27,7 +26,7 @@ status: base (locked)
 
 **Limit.** Definition. Adds no confidence.
 
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* Power of acting rises as more of what the agent does follows from its own organization and from clear maps of causes.
 - *Inside:* I am more able, and more of what I do is mine and seen.
 
@@ -38,5 +37,4 @@ status: base (locked)
 - **Rests on:** *Freedom, strict and by degree* (D-free); *Affect, and change of power* (D-affect)
 - **Supports:** *Blessedness is the power itself* (P5)
 - **Supports (expansion):** D-power-of-acting, P-blessedness-not-afterlife, P-nihilism-confused, P-virtue-is-power
-- **Cap:** definition; adds nothing
-- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md)
+- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md)

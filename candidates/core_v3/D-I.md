@@ -10,7 +10,6 @@ qualifiers:
   - 'the thinker of that thought'
   - 'or, if there is none distinct from it, the thinking itself'
   - 'says nothing about what it is, whether it is felt, or how long it lasts'
-scored_as: 'Definition of the word "I": used in a thought, it names the thinker of that thought, if there is a thinker distinct from the thinking, and otherwise the thinking itself (Lichtenberg''s objection allowed). "Thinking" covers Descartes''s list (doubting, understanding, affirming, denying, willing, being unwilling, imagining, having sensory perceptions in his restricted sense) but is not defined through awareness, so D-I says nothing about feeling and fits any thinker. It fixes what the word names, not what the named thing is (no essence in the sense of E2D2), and it does not say that the thinker of one thought is the thinker of another. A stipulation for this book: if Anscombe is right that ordinary "I" does not refer, the book''s "I" is a term of art. Judged on clarity and fit; adds no confidence.'
 status: base (locked)
 ---
 
@@ -49,5 +48,4 @@ status: base (locked)
 - **Rests on:** (none — root)
 - **Supports:** *I exist* (A1); *A human body, and its mind* (A2); *The society I live in is a whole to a degree* (A4); *A whole at one level, a part at the next* (P1); *Freedom, strict and by degree* (D-free); *Freedom by degrees under necessity* (P3)
 - **Supports (expansion):** D-first-person
-- **Cap:** definition; adds nothing
-- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md)
+- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md)

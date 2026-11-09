@@ -1,4 +1,4 @@
-# Poetic track — expansion (V021–V251) — post-winner dual render
+# Poetic track — expansion (V021–V249) — post-winner dual render
 
 **Source:** full winner set = golden BASE + live expansion → `../winner/` (set_20261025_B1).
 **Twin track:** [technical/expansion.md](../technical/expansion.md). BASE twin: [BASE.md](BASE.md). Labels: [INDEX.md](../INDEX.md).
@@ -1017,42 +1017,30 @@ Tyranny can keep boundary and signal tight while bonding members; P19 predicts t
 
 ---
 
-## V125 · `D-collider` — Collider
-
-An explanation is a lamp, not a proof.
-It shows where to look;
-only evidence that holds up settles what you find.
-
-Until that hard scoring pass runs,
-only the start is numbered certain:
-I exist.
-
----
-
-## V126 · `D-declared-reading` — Declared reading
+## V125 · `D-declared-reading` — Declared reading
 
 Declared reading.
 
-A declared reading is an interpretive choice inside an entry that is not separately scored.
+A declared reading is an interpretive choice the book adopts and states openly, where the evidence cannot tell it apart from its rivals. It does not add a further claim.
 
 
 ---
 
-## V127 · `P-expansion-cites-base` — Expansion must rest on BASE
+## V126 · `P-expansion-cites-base` — Expansion must rest on BASE
 
 New live growth should cite BASE hinges; blind unpark without re-cites is not growth from this seed.
 
 
 ---
 
-## V128 · `PR-one-chain` — One chain
+## V127 · `PR-one-chain` — One chain
 
 Core v3 keeps one live chain from A1; side catalogs must cite back or stay expansion/park.
 
 
 ---
 
-## V129 · `PR-park-not-delete` — Park, don't delete
+## V128 · `PR-park-not-delete` — Park, don't delete
 
 Soft volume is parked under PARKED_VOLUME or left in expansion; not silently erased.
 
@@ -1062,7 +1050,7 @@ Soft volume is parked under PARKED_VOLUME or left in expansion; not silently era
 
 ---
 
-## V130 · `D-duration` — Duration
+## V129 · `D-duration` — Duration
 
 Duration.
 
@@ -1071,7 +1059,7 @@ Duration is lasting measured while works go on; not eternity.
 
 ---
 
-## V131 · `D-future-self` — Future self as projected organization
+## V130 · `D-future-self` — Future self as projected organization
 
 Future self as projected organization.
 
@@ -1083,7 +1071,7 @@ Seen from within: who I'll be.
 
 ---
 
-## V132 · `D-habit-time` — Habit across duration
+## V131 · `D-habit-time` — Habit across duration
 
 Habit across duration.
 
@@ -1094,7 +1082,7 @@ Like a groove in wood: the chisel follows what yesterday cut.
 
 ---
 
-## V133 · `D-memory-personal` — Personal memory
+## V132 · `D-memory-personal` — Personal memory
 
 Personal memory.
 
@@ -1106,7 +1094,7 @@ Seen from within: I remember.
 
 ---
 
-## V134 · `D-narrative-self` — Narrative self
+## V133 · `D-narrative-self` — Narrative self
 
 Narrative self.
 
@@ -1118,7 +1106,7 @@ Seen from within: this is who I've been.
 
 ---
 
-## V135 · `P-aging` — Aging changes degree without ending A1 while thinking
+## V134 · `P-aging` — Aging changes degree without ending A1 while thinking
 
 Aging can lower works and freedom-degree; A1 still holds whenever thinking goes on.
 
@@ -1128,7 +1116,7 @@ Seen from within: less, and still I.
 
 ---
 
-## V136 · `P-amnesia` — Amnesia cuts memory-work, not existence
+## V135 · `P-amnesia` — Amnesia cuts memory-work, not existence
 
 Loss of personal memory drops a work grade; it does not cancel A1 in the present thinking.
 
@@ -1138,7 +1126,7 @@ Seen from within: I don't remember, and I exist.
 
 ---
 
-## V137 · `P-childhood-continuity` — Childhood continuity is organizational, not total recall
+## V136 · `P-childhood-continuity` — Childhood continuity is organizational, not total recall
 
 Being the same whole as a child is sameness of organization under the works, not unbroken narrative.
 
@@ -1148,7 +1136,7 @@ Seen from within: I was that child, though I don't remember.
 
 ---
 
-## V138 · `P-nostalgia` — Nostalgia mixes joy and confused cause-maps
+## V137 · `P-nostalgia` — Nostalgia mixes joy and confused cause-maps
 
 Nostalgia is joy (or bittersweet affect) tied to images of past organization, often imaginatively confused.
 
@@ -1160,7 +1148,7 @@ Seen from within: I miss how it was, as I remember it.
 
 ---
 
-## V139 · `P-promise` — A promise binds memory and future control
+## V138 · `P-promise` — A promise binds memory and future control
 
 Promising stores a signal in memory meant to shape later control; bondage or freedom depends on clarity of causes.
 
@@ -1170,7 +1158,7 @@ Seen from within: I gave my word.
 
 ---
 
-## V140 · `P-regret` — Regret is sadness over past causes now seen clearer
+## V139 · `P-regret` — Regret is sadness over past causes now seen clearer
 
 Regret marks a clearer map of past causes joined to sadness; it can feed freer repair or passive rumination.
 
@@ -1180,7 +1168,7 @@ Seen from within: I see it now, and it hurts.
 
 ---
 
-## V141 · `P-rehearsal` — Rehearsal stores freer patterns
+## V140 · `P-rehearsal` — Rehearsal stores freer patterns
 
 Deliberate rehearsal can move clearer cause-guided action into habit, raising later freedom by degrees.
 
@@ -1193,42 +1181,42 @@ Seen from within: I practice, until it is mine.
 
 ---
 
-## V142 · `P-brain-death` — Brain death floors organism-level control
+## V141 · `P-brain-death` — Brain death floors organism-level control
 
 When control/signaling/memory gear of the organism permanently stops, organism-level how whole a thing is collapses even if some cells continue.
 
 
 ---
 
-## V143 · `P-brain-organoid` — Brain organoids stress the mind clause
+## V142 · `P-brain-organoid` — Brain organoids stress the mind clause
 
 Organoids with neural organization raise whether A2-style mind-talk applies; feeling stays open (OP-feeling).
 
 
 ---
 
-## V144 · `P-chimera` — Chimeras mix member lineages in one organization
+## V143 · `P-chimera` — Chimeras mix member lineages in one organization
 
 A chimeric body can still be one whole by works-as-one despite mixed cell lineages.
 
 
 ---
 
-## V145 · `P-coma` — Coma suspends clear first-person report
+## V144 · `P-coma` — Coma suspends clear first-person report
 
 In deep coma A1 is not asserted by the patient; others have only evidence about ongoing organization.
 
 
 ---
 
-## V146 · `P-conjoined` — Conjoined twins can share works across two first persons
+## V145 · `P-conjoined` — Conjoined twins can share works across two first persons
 
 Shared organs mean shared works; first-person claims may still be two under A1 for each thinker.
 
 
 ---
 
-## V147 · `P-locked-in` — Locked-in can trap high mind-description with low outflow
+## V146 · `P-locked-in` — Locked-in can trap high mind-description with low outflow
 
 Locked-in syndrome can preserve first-person organization while crushing outflow/signal to others; freedom and whole scales split.
 
@@ -1238,14 +1226,14 @@ Seen from within: I am here, and no one can tell.
 
 ---
 
-## V148 · `P-pregnancy-levels` — Pregnancy nests wholes
+## V147 · `P-pregnancy-levels` — Pregnancy nests wholes
 
 Pregnancy can nest an emerging whole inside another; degrees and membership are level-relative (P1).
 
 
 ---
 
-## V149 · `P-prosthetic-member` — A prosthetic can become a member-tool
+## V148 · `P-prosthetic-member` — A prosthetic can become a member-tool
 
 A prosthetic joins works without being a self-producer; membership-degree can rise with skilled use.
 
@@ -1255,14 +1243,14 @@ Seen from within: I stop noticing it, and move.
 
 ---
 
-## V150 · `P-split-brain` — Split brain challenges unity of first person
+## V149 · `P-split-brain` — Split brain challenges unity of first person
 
 Split-brain cases pressure how many first-person organizations one skull holds; A2's 'one body' reading may need nuance.
 
 
 ---
 
-## V151 · `P-swarm-robotics` — Swarm robots can fake colony wholes
+## V150 · `P-swarm-robotics` — Swarm robots can fake colony wholes
 
 Swarm robots may mimic signal/control as one while still failing remaking its own parts without outside make/repair.
 
@@ -1271,14 +1259,14 @@ Even the winner's house loses windows.
 
 ---
 
-## V152 · `P-transplant` — Transplant swaps members, not the whole's id overnight
+## V151 · `P-transplant` — Transplant swaps members, not the whole's id overnight
 
 Replacing organs changes members; sameness tracks organization continuity under the works.
 
 
 ---
 
-## V153 · `P-virus-edge` — A virus sits at the edge of self-production
+## V152 · `P-virus-edge` — A virus sits at the edge of self-production
 
 A virus fails several works alone and hijacks a host; A3's hard cases stay empirical.
 
@@ -1290,7 +1278,7 @@ A key that unlocks without owning the door.
 
 ---
 
-## V154 · `D-art-signal` — Art as affective signaling
+## V153 · `D-art-signal` — Art as affective signaling
 
 Art as affective signaling.
 
@@ -1299,7 +1287,7 @@ Art signals patterns that move affects and sometimes clarify or confuse causes.
 
 ---
 
-## V155 · `D-language` — Language as shared signaling
+## V154 · `D-language` — Language as shared signaling
 
 Language as shared signaling.
 
@@ -1308,7 +1296,7 @@ Language is structured signaling that lets members share maps of causes and memo
 
 ---
 
-## V156 · `D-lie` — Lie
+## V155 · `D-lie` — Lie
 
 Lie.
 
@@ -1317,7 +1305,7 @@ A lie is a signal aimed to implant a false cause-map in another; it is bondage g
 
 ---
 
-## V157 · `D-teaching` — Teaching
+## V156 · `D-teaching` — Teaching
 
 Teaching.
 
@@ -1326,7 +1314,7 @@ Teaching is deliberate transfer of clearer maps of causes into another's organiz
 
 ---
 
-## V158 · `D-testimony` — Testimony
+## V157 · `D-testimony` — Testimony
 
 Testimony.
 
@@ -1335,21 +1323,21 @@ Testimony is accepted signal from another about causes not presently tracked; im
 
 ---
 
-## V159 · `P-naming` — Naming stabilizes common notions
+## V158 · `P-naming` — Naming stabilizes common notions
 
 Stable names help reason hold common patterns across cases; misuse of names feeds confusion.
 
 
 ---
 
-## V160 · `P-rumor` — Rumor is confused society-level memory
+## V159 · `P-rumor` — Rumor is confused society-level memory
 
 Rumor stores and spreads inadequate maps of causes; it can lower collective freedom by degrees.
 
 
 ---
 
-## V161 · `P-translation` — Translation remaps signals across organizations
+## V160 · `P-translation` — Translation remaps signals across organizations
 
 Translation tries to preserve maps of causes across language wholes; loss is normal, not proof of private mental stuff.
 
@@ -1359,7 +1347,7 @@ Translation tries to preserve maps of causes across language wholes; loss is nor
 
 ---
 
-## V162 · `D-money` — Money as compressed signal
+## V161 · `D-money` — Money as compressed signal
 
 Money as compressed signal.
 
@@ -1368,7 +1356,7 @@ Money is a portable signal and memory token for claims on works across a society
 
 ---
 
-## V163 · `D-platform` — Platform as attention and signal whole
+## V162 · `D-platform` — Platform as attention and signal whole
 
 Platform as attention and signal whole.
 
@@ -1377,7 +1365,7 @@ A platform concentrates signaling and memory for many members; it can raise or b
 
 ---
 
-## V164 · `D-property` — Property as recognized control
+## V163 · `D-property` — Property as recognized control
 
 Property as recognized control.
 
@@ -1386,7 +1374,7 @@ Property is socially remembered control over resources that feed a whole's works
 
 ---
 
-## V165 · `D-tool` — Tool
+## V164 · `D-tool` — Tool
 
 Tool.
 
@@ -1395,7 +1383,7 @@ A tool is an outside object taken into a whole's works without itself being a se
 
 ---
 
-## V166 · `OP-agi-freedom` — Whether AGI gets degree-freedom talk stays open
+## V165 · `OP-agi-freedom` — Whether AGI gets degree-freedom talk stays open
 
 Left open on purpose:
 If an AI is an organization with works and maps of causes, P3-talk may apply; A2-human and feeling remain unsettled.
@@ -1405,7 +1393,7 @@ Better an honest blank than a painted door.
 
 ---
 
-## V167 · `P-advertising` — Advertising targets desire with outside causes
+## V166 · `P-advertising` — Advertising targets desire with outside causes
 
 Ads shape desire via engineered signals; often bondage gear, sometimes informative maps of causes.
 
@@ -1415,21 +1403,21 @@ Seen from within: I want it; it seems mine.
 
 ---
 
-## V168 · `P-automation` — Automation moves works without adding A1
+## V167 · `P-automation` — Automation moves works without adding A1
 
 Automating a work changes membership and degree; it does not create a new A1 subject by itself.
 
 
 ---
 
-## V169 · `P-crypto-memory` — Ledgers are brittle society memory
+## V168 · `P-crypto-memory` — Ledgers are brittle society memory
 
 Cryptographic ledgers harden memory-work; they do not settle adequacy of the maps of causes they store.
 
 
 ---
 
-## V170 · `P-debt-bondage` — Debt can be structured bondage
+## V169 · `P-debt-bondage` — Debt can be structured bondage
 
 Debt contracts can dominate future control with outside causes; sometimes fair gear, often bondage pattern.
 
@@ -1438,28 +1426,28 @@ Like tomorrow's hands tied with today's string.
 
 ---
 
-## V171 · `P-energy-intake` — Energy systems are society-level intake
+## V170 · `P-energy-intake` — Energy systems are society-level intake
 
 Grids and fuels perform intake-work for society-wholes; shocks drop degree fast.
 
 
 ---
 
-## V172 · `P-open-source` — Open source is shared repair of knowledge-works
+## V171 · `P-open-source` — Open source is shared repair of knowledge-works
 
 Open source raises joint memory/repair of tools; a P21-friendly pattern when maps of causes stay clear.
 
 
 ---
 
-## V173 · `P-supply-chain` — Supply chains are extended transform/intake
+## V172 · `P-supply-chain` — Supply chains are extended transform/intake
 
 Supply chains stitch transform and intake across firms; a whole's degree can hide in distant weakest links.
 
 
 ---
 
-## V174 · `P-surveillance` — Surveillance amplifies control-work
+## V173 · `P-surveillance` — Surveillance amplifies control-work
 
 Surveillance raises a whole's control/signal capacity; freedom falls when it runs on opaque or hostile causes.
 
@@ -1471,7 +1459,7 @@ Like a mirror that watches back.
 
 ---
 
-## V175 · `D-compassion` — Compassion
+## V174 · `D-compassion` — Compassion
 
 Compassion.
 
@@ -1485,7 +1473,7 @@ Seen from within: they are more, and so am I.
 
 ---
 
-## V176 · `D-gratitude` — Gratitude
+## V175 · `D-gratitude` — Gratitude
 
 Gratitude.
 
@@ -1497,7 +1485,7 @@ Seen from within: I am more, and I know whom to thank.
 
 ---
 
-## V177 · `D-pride-affect` — Pride
+## V176 · `D-pride-affect` — Pride
 
 Pride.
 
@@ -1509,7 +1497,7 @@ Seen from within: I did this, or I think I did.
 
 ---
 
-## V178 · `D-shame` — Shame
+## V177 · `D-shame` — Shame
 
 Shame.
 
@@ -1521,7 +1509,7 @@ Seen from within: I am seen, and I am less.
 
 ---
 
-## V179 · `D-wonder` — Wonder
+## V178 · `D-wonder` — Wonder
 
 Wonder.
 
@@ -1533,7 +1521,7 @@ Seen from within: I stare, and do not know yet.
 
 ---
 
-## V180 · `P-anger-can-repair` — Anger can feed repair or bondage
+## V179 · `P-anger-can-repair` — Anger can feed repair or bondage
 
 Anger guided by clearer causes can defend works; rumination without maps deepens bondage.
 
@@ -1543,7 +1531,7 @@ Seen from within: I am angry, and I act, or I brood.
 
 ---
 
-## V181 · `P-compassion-freedom` — Compassion can raise joint freedom
+## V180 · `P-compassion-freedom` — Compassion can raise joint freedom
 
 Compassion that clarifies causes of harm can raise others' power without requiring feeling as one giant self.
 
@@ -1552,7 +1540,7 @@ Another's hurt felt as a lean toward help.
 
 ---
 
-## V182 · `P-pride-confused` — Confused pride resists clearer maps
+## V181 · `P-pride-confused` — Confused pride resists clearer maps
 
 Pride fixed on inadequate self-maps of causes blocks therapy-as-freedom-gear.
 
@@ -1565,7 +1553,7 @@ Seen from within: it was me, and don't tell me different.
 
 ---
 
-## V183 · `D-courage-practice` — Courage as standing to feared causes
+## V182 · `D-courage-practice` — Courage as standing to feared causes
 
 Courage as standing to feared causes.
 
@@ -1577,7 +1565,7 @@ Seen from within: I'm afraid, and I go.
 
 ---
 
-## V184 · `D-education` — Education as long teaching
+## V183 · `D-education` — Education as long teaching
 
 Education as long teaching.
 
@@ -1586,7 +1574,7 @@ Education is sustained teaching that rebuilds maps of causes and habits across d
 
 ---
 
-## V185 · `D-friendship` — Friendship
+## V184 · `D-friendship` — Friendship
 
 Friendship.
 
@@ -1598,7 +1586,7 @@ Seen from within: we are more, and we know by whom.
 
 ---
 
-## V186 · `D-meditation` — Meditation as attention repair
+## V185 · `D-meditation` — Meditation as attention repair
 
 Meditation as attention repair.
 
@@ -1610,7 +1598,7 @@ Seen from within: I settle, and see.
 
 ---
 
-## V187 · `P-apprenticeship` — Apprenticeship transfers embodied habits
+## V186 · `P-apprenticeship` — Apprenticeship transfers embodied habits
 
 Apprenticeship moves tools and habits that reason alone may not install.
 
@@ -1622,14 +1610,14 @@ Seen from within: my hands learn it.
 
 ---
 
-## V188 · `P-debate` — Debate tests cause-maps in public
+## V187 · `P-debate` — Debate tests cause-maps in public
 
 Good-faith debate collides maps; sophistry is society-level bondage gear.
 
 
 ---
 
-## V189 · `P-exile` — Exile cuts membership mid-stream
+## V188 · `P-exile` — Exile cuts membership mid-stream
 
 Exile drops society-membership while the organism-whole continues; affects and freedom shift hard.
 
@@ -1639,7 +1627,7 @@ Seen from within: I am here, and not home.
 
 ---
 
-## V190 · `P-habit-stack` — Stacked small habits compound degree-freedom
+## V189 · `P-habit-stack` — Stacked small habits compound degree-freedom
 
 Many small clear habits can raise freer default action more than rare heroic choices.
 
@@ -1648,7 +1636,7 @@ Like a groove in wood: the chisel follows what yesterday cut.
 
 ---
 
-## V191 · `P-journal` — Journaling externalizes memory for clearer maps
+## V190 · `P-journal` — Journaling externalizes memory for clearer maps
 
 Writing stores personal memory outside the skull so reason can re-map causes.
 
@@ -1658,7 +1646,7 @@ Writing stores personal memory outside the skull so reason can re-map causes.
 
 ---
 
-## V192 · `D-peace` — Peace as stable non-destruction among wholes
+## V191 · `D-peace` — Peace as stable non-destruction among wholes
 
 Peace as stable non-destruction among wholes.
 
@@ -1667,7 +1655,7 @@ Peace is lasting patterns where wholes refrain from destroying each other's work
 
 ---
 
-## V193 · `D-truce` — Truce
+## V192 · `D-truce` — Truce
 
 Truce.
 
@@ -1676,7 +1664,7 @@ A truce is temporary remembered pause in destroying works; thinner than peace.
 
 ---
 
-## V194 · `D-war` — War as organized harm between wholes
+## V193 · `D-war` — War as organized harm between wholes
 
 War as organized harm between wholes.
 
@@ -1685,7 +1673,7 @@ War is joint action aimed to destroy or dominate another whole's works.
 
 ---
 
-## V195 · `OP-abolish-war` — Whether war can end permanently stays open
+## V194 · `OP-abolish-war` — Whether war can end permanently stays open
 
 Left open on purpose:
 Scales suggest paths (raise joint freedom, clarify causes); permanence is not proved here.
@@ -1695,14 +1683,14 @@ Better an honest blank than a painted door.
 
 ---
 
-## V196 · `P-arms-race` — Arms races raise boundary-work, often cut freedom
+## V195 · `P-arms-race` — Arms races raise boundary-work, often cut freedom
 
 Mutual armament can raise F1-like boundary while lowering collective freedom by degrees (P19).
 
 
 ---
 
-## V197 · `P-civil-war` — Civil war splits one society-whole
+## V196 · `P-civil-war` — Civil war splits one society-whole
 
 Civil war is a whole fighting its own members; signal/memory fracture is the first casualty.
 
@@ -1711,14 +1699,14 @@ Even the winner's house loses windows.
 
 ---
 
-## V198 · `P-deterrence` — Deterrence is fear used as control signal
+## V197 · `P-deterrence` — Deterrence is fear used as control signal
 
 Deterrence stores fear-maps to shape others' control; it can stabilize peace or deepen bondage.
 
 
 ---
 
-## V199 · `P-just-war-skeptical` — Just-war talk must still sit under A5 and P19
+## V198 · `P-just-war-skeptical` — Just-war talk must still sit under A5 and P19
 
 Claims of just war are maps of causes about harm; they do not escape necessity or the whole≠freedom wedge.
 
@@ -1727,28 +1715,28 @@ Even the winner's house loses windows.
 
 ---
 
-## V200 · `P-police` — Police concentrate legitimate coercion
+## V199 · `P-police` — Police concentrate legitimate coercion
 
 Police are specialized control-work; freedom depends on cause-clarity and constraint by law-memory.
 
 
 ---
 
-## V201 · `P-reconciliation` — Reconciliation repairs shared memory after harm
+## V200 · `P-reconciliation` — Reconciliation repairs shared memory after harm
 
 Shared re-mapping of past harms can raise joint freedom if it clarifies rather than mythologizes.
 
 
 ---
 
-## V202 · `P-refugee` — Refugees are members cut from one whole seeking another
+## V201 · `P-refugee` — Refugees are members cut from one whole seeking another
 
 Displacement is membership shock; intake and signal fail first.
 
 
 ---
 
-## V203 · `P-war-drops-degree` — War floors many works even for winners
+## V202 · `P-war-drops-degree` — War floors many works even for winners
 
 War burns intake, repair, and memory; short-term boundary wins can still drop long-run degree.
 
@@ -1760,16 +1748,7 @@ Even the winner's house loses windows.
 
 ---
 
-## V204 · `D-certainty-grades` — Grades of certainty
-
-Grades of certainty.
-
-Only A1 is 1.0 here; other claims carry collider grades or stay pending.
-
-
----
-
-## V205 · `D-doubt-method` — Doubt as method
+## V203 · `D-doubt-method` — Doubt as method
 
 Doubt as method.
 
@@ -1781,7 +1760,7 @@ Seen from within: I wait, and in waiting, I think.
 
 ---
 
-## V206 · `D-error` — Error
+## V204 · `D-error` — Error
 
 Error.
 
@@ -1793,7 +1772,7 @@ Seen from within: I'm sure.
 
 ---
 
-## V207 · `D-illusion` — Illusion
+## V205 · `D-illusion` — Illusion
 
 Illusion.
 
@@ -1807,7 +1786,7 @@ Seen from within: it looks so, and keeps looking so.
 
 ---
 
-## V208 · `P-bias` — Cognitive bias is patterned confusion
+## V206 · `P-bias` — Cognitive bias is patterned confusion
 
 Biases are standing ways imagination mis-maps causes; science and therapy target them.
 
@@ -1817,7 +1796,7 @@ Seen from within: obviously.
 
 ---
 
-## V209 · `P-final-causes-heuristic` — Final-cause talk is often heuristic imagination
+## V207 · `P-final-causes-heuristic` — Final-cause talk is often heuristic imagination
 
 Reading nature as aiming at us is usually confused; useful stories ≠ adequate maps.
 
@@ -1827,7 +1806,7 @@ Seen from within: it was meant for me.
 
 ---
 
-## V210 · `P-free-will-illusion` — The feeling of uncaused will is illusion under A5
+## V208 · `P-free-will-illusion` — The feeling of uncaused will is illusion under A5
 
 Feeling that a choice sprang from nowhere conflicts with A5; freedom by degrees remains.
 
@@ -1839,7 +1818,7 @@ Seen from within: I just chose.
 
 ---
 
-## V211 · `P-gaslight` — Gaslighting attacks another's cause-maps
+## V209 · `P-gaslight` — Gaslighting attacks another's cause-maps
 
 Deliberately scrambling another's memory/signal is high-bondage interpersonal control.
 
@@ -1848,14 +1827,14 @@ Stealing someone's compass and blaming their feet.
 
 ---
 
-## V212 · `P-miracle-denied` — Miracle as uncaused event is denied
+## V210 · `P-miracle-denied` — Miracle as uncaused event is denied
 
 An event outside Nature's order would violate A5; rare events still have causes.
 
 
 ---
 
-## V213 · `P-overconfidence` — Overconfidence is pride in confused maps
+## V211 · `P-overconfidence` — Overconfidence is pride in confused maps
 
 Feeling sure is not adequacy; overconfidence blocks freer revision.
 
@@ -1865,7 +1844,7 @@ Seen from within: I'm certain; why look?
 
 ---
 
-## V214 · `P-superstition` — Superstition binds via fear and hope
+## V212 · `P-superstition` — Superstition binds via fear and hope
 
 Superstition pairs hope/fear with inadequate maps of causes; classic bondage pattern.
 
@@ -1875,7 +1854,7 @@ Seen from within: do this, or else.
 
 ---
 
-## V215 · `P-update` — Bayesian-ish update can be reason gear
+## V213 · `P-update` — Bayesian-ish update can be reason gear
 
 Revising maps with evidence is reason-work when it tracks causes, not tribal signal.
 
@@ -1888,7 +1867,7 @@ Seen from within: I was wrong; now I see better.
 
 ---
 
-## V216 · `D-interface` — Interface
+## V214 · `D-interface` — Interface
 
 Interface.
 
@@ -1897,7 +1876,7 @@ An interface is the boundary gear where two organizations exchange signal and in
 
 ---
 
-## V217 · `D-upload-sketch` — Upload sketch
+## V215 · `D-upload-sketch` — Upload sketch
 
 Upload sketch.
 
@@ -1908,7 +1887,7 @@ A photograph of fire is not warm.
 
 ---
 
-## V218 · `OP-machine-feeling` — Whether machines feel stays open
+## V216 · `OP-machine-feeling` — Whether machines feel stays open
 
 Left open on purpose:
 Same open as OP-feeling, applied to non-human gear; this chain does not close it.
@@ -1918,14 +1897,14 @@ Better an honest blank than a painted door.
 
 ---
 
-## V219 · `P-alignment-freedom` — Alignment is contested control over AI cause-maps
+## V217 · `P-alignment-freedom` — Alignment is contested control over AI cause-maps
 
 Alignment fights over whose maps steer AI control-work; collective freedom stakes are P21-shaped.
 
 
 ---
 
-## V220 · `P-bot-swarm-bondage` — Bot swarms can manufacture consent-looking signal
+## V218 · `P-bot-swarm-bondage` — Bot swarms can manufacture consent-looking signal
 
 Automated signal floods can fake public mood without public freedom.
 
@@ -1934,7 +1913,7 @@ Even the winner's house loses windows.
 
 ---
 
-## V221 · `P-copy-not-A1-transfer` — Copying a pattern does not transfer this A1
+## V219 · `P-copy-not-A1-transfer` — Copying a pattern does not transfer this A1
 
 A copy may start a new thinking or none; it does not move the original first-person certainty.
 
@@ -1946,42 +1925,42 @@ Seen from within: I do not go with it.
 
 ---
 
-## V222 · `P-cyborg` — Cyborg membership blends tool and organism
+## V220 · `P-cyborg` — Cyborg membership blends tool and organism
 
 Deep implants raise membership-degree of tools inside the organism-whole.
 
 
 ---
 
-## V223 · `P-data-body` — Data traces are partial memory outside the skin
+## V221 · `P-data-body` — Data traces are partial memory outside the skin
 
 Logs and profiles extend F7 beyond the body; they change society control over the person.
 
 
 ---
 
-## V224 · `P-digital-A1` — A digital system can utter A1; certainty is not settled by utterance
+## V222 · `P-digital-A1` — A digital system can utter A1; certainty is not settled by utterance
 
 Producing the sentence 'I exist' is not proof the producer doubts; A1's certainty is for whoever actually thinks.
 
 
 ---
 
-## V225 · `P-latency` — Latency limits collective control
+## V223 · `P-latency` — Latency limits collective control
 
 Slow signal lowers how much a society-whole can act as one; degree of collective mind tracks bandwidth.
 
 
 ---
 
-## V226 · `P-llm-signal` — LLMs are high-bandwidth society signaling gear
+## V224 · `P-llm-signal` — LLMs are high-bandwidth society signaling gear
 
 Large models amplify language-signal; they can clarify or massively confuse maps of causes.
 
 
 ---
 
-## V227 · `P-simulation-causes` — Simulation, if real, still sits under A5
+## V225 · `P-simulation-causes` — Simulation, if real, still sits under A5
 
 Even if this world's causes run in a base machine, events here remain caused; freedom stays degree-talk.
 
@@ -1991,7 +1970,7 @@ Even if this world's causes run in a base machine, events here remain caused; fr
 
 ---
 
-## V228 · `D-contingent-here` — Contingent (in this chain)
+## V226 · `D-contingent-here` — Contingent (in this chain)
 
 Contingent (in this chain).
 
@@ -2003,7 +1982,7 @@ Seen from within: it might have been different.
 
 ---
 
-## V229 · `D-infinite-sketch` — Infinite (sketch)
+## V227 · `D-infinite-sketch` — Infinite (sketch)
 
 Infinite (sketch).
 
@@ -2012,7 +1991,7 @@ Infinite sketches what is not limited by another of its kind; thin here, not ful
 
 ---
 
-## V230 · `D-meaning-local` — Meaning as local significance for power
+## V228 · `D-meaning-local` — Meaning as local significance for power
 
 Meaning as local significance for power.
 
@@ -2024,7 +2003,7 @@ Seen from within: it matters.
 
 ---
 
-## V231 · `D-sacred-sketch` — Sacred (sketch)
+## V229 · `D-sacred-sketch` — Sacred (sketch)
 
 Sacred (sketch).
 
@@ -2033,7 +2012,7 @@ Sacred marks what a whole treats as inviolable for its works and maps; descripti
 
 ---
 
-## V232 · `OP-why-anything` — Why anything exists at all stays open
+## V230 · `OP-why-anything` — Why anything exists at all stays open
 
 Left open on purpose:
 A1 gives that this thinking exists; why there is Nature rather than blank is not answered here.
@@ -2043,14 +2022,14 @@ Better an honest blank than a painted door.
 
 ---
 
-## V233 · `P-apparent-contingency` — Apparent contingency is incomplete knowledge
+## V231 · `P-apparent-contingency` — Apparent contingency is incomplete knowledge
 
 What seems able to have been otherwise usually marks maps we lack, not uncaused forks.
 
 
 ---
 
-## V234 · `P-awe` — Awe is wonder plus vastness in the cause-map
+## V232 · `P-awe` — Awe is wonder plus vastness in the cause-map
 
 Awe can open reason toward Nature or freeze into superstition, depending on map quality.
 
@@ -2060,35 +2039,35 @@ Seen from within: I am small here, and I want to know, or I fear.
 
 ---
 
-## V235 · `P-death-and-meaning` — Death bounds duration, not the definition of blessedness
+## V233 · `P-death-and-meaning` — Death bounds duration, not the definition of blessedness
 
 Finite duration frames striving; blessedness remains power itself while organization goes on.
 
 
 ---
 
-## V236 · `P-nihilism-confused` — Nihilism often confuses missing cosmic purpose with missing local good
+## V234 · `P-nihilism-confused` — Nihilism often confuses missing cosmic purpose with missing local good
 
 Rejecting final-cause cosmos does not erase blessedness as power of acting (P5, D-blessedness); missing cosmic purpose ≠ missing local power.
 
 
 ---
 
-## V237 · `P-no-miracle-ethics` — Ethics needs no miracles
+## V235 · `P-no-miracle-ethics` — Ethics needs no miracles
 
 Bondage, freedom, and blessedness are defined inside caused nature; uncaused exceptions not required.
 
 
 ---
 
-## V238 · `P-plural-goods` — Goods can conflict across levels
+## V236 · `P-plural-goods` — Goods can conflict across levels
 
 What aids a cell, organism, or society can conflict; P1 levels block a single flat good.
 
 
 ---
 
-## V239 · `P-tragedy` — Tragedy is a strong good destroyed under necessity
+## V237 · `P-tragedy` — Tragedy is a strong good destroyed under necessity
 
 Tragedy marks cherished goods destroyed under causes we can map but not wish away.
 
@@ -2101,7 +2080,7 @@ Seen from within: I see why, and it is still lost.
 
 ---
 
-## V240 · `D-gene-memory` — Genes as deep memory-work
+## V238 · `D-gene-memory` — Genes as deep memory-work
 
 Genes as deep memory-work.
 
@@ -2110,7 +2089,7 @@ Genes store pattern across generations; a slow F7 for lineages, not personal mem
 
 ---
 
-## V241 · `D-homeostasis` — Homeostasis
+## V239 · `D-homeostasis` — Homeostasis
 
 Homeostasis.
 
@@ -2121,7 +2100,7 @@ The quiet work of staying near enough to alive.
 
 ---
 
-## V242 · `D-immune` — Immune work as boundary/repair
+## V240 · `D-immune` — Immune work as boundary/repair
 
 Immune work as boundary/repair.
 
@@ -2130,7 +2109,7 @@ Immune activity is boundary and repair against non-members inside the organism.
 
 ---
 
-## V243 · `P-cancer-defection` — Cancer is member defection into a rival whole
+## V241 · `P-cancer-defection` — Cancer is member defection into a rival whole
 
 Cancer reframes P-tumor-edge: members exit the organism's as-one for their own remaking its own parts.
 
@@ -2139,28 +2118,28 @@ A room that grows by eating the house.
 
 ---
 
-## V244 · `P-development` — Development builds works-as-one over duration
+## V242 · `P-development` — Development builds works-as-one over duration
 
 Embryogenesis is the ramp from partial to full remaking its own parts grades.
 
 
 ---
 
-## V245 · `P-evolution` — Evolution is population-level transform of organization
+## V243 · `P-evolution` — Evolution is population-level transform of organization
 
 Lineages change forms under selection; still caused (A5); not a separate uncaused aim.
 
 
 ---
 
-## V246 · `P-extinction` — Extinction is lineage memory ending
+## V244 · `P-extinction` — Extinction is lineage memory ending
 
 Extinction ends gene-memory and population wholes; individuals' A1s end with their thinking.
 
 
 ---
 
-## V247 · `P-fever` — Fever trades short pain for repair
+## V245 · `P-fever` — Fever trades short pain for repair
 
 Fever can lower comfort while raising repair odds; affect and how whole a thing is briefly diverge.
 
@@ -2172,7 +2151,7 @@ Seen from within: I feel worse, and I am mending.
 
 ---
 
-## V248 · `P-microbiome` — Microbiome members blur organism boundary
+## V246 · `P-microbiome` — Microbiome members blur organism boundary
 
 Symbionts participate in works; membership-degree is graded, not binary.
 
@@ -2181,7 +2160,7 @@ Guests so constant they blur the door.
 
 ---
 
-## V249 · `P-pain` — Pain signals threat to works
+## V247 · `P-pain` — Pain signals threat to works
 
 Pain is an affect/signal that often tracks damage; chronic pain can become bondage.
 
@@ -2191,7 +2170,7 @@ Seen from within: it hurts, there.
 
 ---
 
-## V250 · `P-pleasure` — Pleasure often tracks rising power — not always
+## V248 · `P-pleasure` — Pleasure often tracks rising power — not always
 
 Pleasure often joins joy/power rise; addictive pleasures can climb affect while flooring freedom.
 
@@ -2201,7 +2180,7 @@ Seen from within: it feels good, and sometimes that is the trap.
 
 ---
 
-## V251 · `P-symbiosis` — Symbiosis is mutual membership across organisms
+## V249 · `P-symbiosis` — Symbiosis is mutual membership across organisms
 
 Two organisms can raise each other's degrees by sharing works; still level-relative.
 

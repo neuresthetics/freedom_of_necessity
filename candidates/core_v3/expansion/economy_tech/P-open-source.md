@@ -3,7 +3,6 @@ id: P-open-source
 type: expansion
 kind: proposition
 title: Open source is shared repair of knowledge-works
-confidence: pending (collider)
 cites: [P-science-as-freedom-gear, P21, P2]
 grows_from: P21
 group: economy_tech
@@ -22,14 +21,11 @@ revive: earned 2026-10-24 vs kilned set
 
 **Cites.** P-science-as-freedom-gear, P21, P2.
 
-**Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
-
-**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; still pending collider; re-park if it overreaches BASE.
+**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; re-park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Science can be freedom gear* (P-science-as-freedom-gear); *Society can be freer without feeling* (P21); *A collective mind happens* (P2)
 - **BASE hinges:** P21, P2
 - **Supports (live):** —
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [economy_tech/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

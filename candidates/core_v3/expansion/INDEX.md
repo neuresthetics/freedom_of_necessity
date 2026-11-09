@@ -2,12 +2,12 @@
 
 **Revived** 2026-10-24 Pacific (America/Los_Angeles). BASE stays locked: [BASE.md](../BASE.md).
 
-**Live expansion: 231** (was 122 kilned; +109 revived from park after one-by-one check).
+**Live expansion: 229** (was 231; `D-collider` and `D-certainty-grades` parked 2026-11-09 when scores were dropped).
 **Still parked: 17** under [PARKED/](PARKED/) — [PARKED/INDEX.md](PARKED/INDEX.md).
 
 Decisions: [../REVIVE_DECISIONS.md](../REVIVE_DECISIONS.md). Snapshot: [../REVIVE.md](../REVIVE.md). Prior kiln: [../KILNED.md](../KILNED.md).
 
-**Dependency management:** [../tools/dep_check.py](../tools/dep_check.py) · [../DEPS.md](../DEPS.md) · [../CAPS.md](../CAPS.md). Cites must be live; no cycles.
+**Dependency management:** [../tools/dep_check.py](../tools/dep_check.py) · [../DEPS.md](../DEPS.md) . Cites must be live; no cycles.
 
 ## Groups (live after revive)
 
@@ -19,7 +19,7 @@ Decisions: [../REVIVE_DECISIONS.md](../REVIVE_DECISIONS.md). Snapshot: [../REVIV
 - [Nature and knowledge — grown from D-free/P3/A5](nature_knowledge/) — **12** entries
 - [Bridges — P19/P21 wedges and cases](bridges/) — **10** entries
 - [Politics and ethics — from society + freedom](politics_ethics/) — **8** entries
-- [Method — chain practice from BASE rules](method/) — **5** entries
+- [Method — chain practice from BASE rules](method/) — **4** entries
 - [Time and identity — duration, memory, narrative](time_identity/) — **12** entries
 - [Edge cases — virus, brain death, pregnancy, split-brain](edge_cases/) — **12** entries
 - [Language and communication — from P2/A4](language_comm/) — **8** entries
@@ -27,7 +27,7 @@ Decisions: [../REVIVE_DECISIONS.md](../REVIVE_DECISIONS.md). Snapshot: [../REVIV
 - [More affects — freedom-linked + revived](affects_more/) — **8** entries
 - [Practices — education, friendship, habit, freedom gear](practices/) — **9** entries
 - [Conflict and peace — war drops degree](conflict_peace/) — **12** entries
-- [Error and illusion — from A5/P3 knowledge](error_illusion/) — **12** entries
+- [Error and illusion — from A5/P3 knowledge](error_illusion/) — **11** entries
 - [Digital mind — A1, AI, simulation](digital_mind/) — **12** entries
 - [Cosmology and value — contingency, meaning](cosmology_value/) — **12** entries
 - [Biology deep — homeostasis, cancer, evolution](biology_deep/) — **12** entries
@@ -140,131 +140,128 @@ Decisions: [../REVIVE_DECISIONS.md](../REVIVE_DECISIONS.md). Snapshot: [../REVIV
 | 102 | [Punishment under A5 is prevention and repair, not cosmic payback](politics_ethics/P-punishment-cause.md) | P-punishment-cause | politics_ethics | proposition | A5, P-blame-reframed, A4 | — |
 | 103 | [Solidarity can raise joint power without erasing members](politics_ethics/P-solidarity.md) | P-solidarity | politics_ethics | proposition | A2, A4, P5 | — |
 | 104 | [Tyranny maximizes some works while flooring freedom](politics_ethics/P-tyranny-bondage.md) | P-tyranny-bondage | politics_ethics | proposition | P19, P4, A4 | — |
-| 105 | [Collider](method/D-collider.md) | D-collider | method | definition | A1 | D-certainty-grades |
-| 106 | [Declared reading](method/D-declared-reading.md) | D-declared-reading | method | definition | A2, A3 | — |
-| 107 | [Expansion must rest on BASE](method/P-expansion-cites-base.md) | P-expansion-cites-base | method | proposition | A1, A2, P3 | — |
-| 108 | [One chain](method/PR-one-chain.md) | PR-one-chain | method | principle | A1 | — |
-| 109 | [Park, don't delete](method/PR-park-not-delete.md) | PR-park-not-delete | method | principle | A1 | — |
-| 110 | [Duration](time_identity/D-duration.md) | D-duration | time_identity | definition | D-exist, D-whole | D-future-self, D-habit-time, P-death-and-meaning, P-development |
-| 111 | [Future self as projected organization](time_identity/D-future-self.md) | D-future-self | time_identity | definition | A2, A5, D-duration | — |
-| 112 | [Habit across duration](time_identity/D-habit-time.md) | D-habit-time | time_identity | definition | D-habit-body, D-duration, P3 | — |
-| 113 | [Personal memory](time_identity/D-memory-personal.md) | D-memory-personal | time_identity | definition | A2, D-work, D-first-person | D-narrative-self, P-amnesia, P-data-body, P-gaslight… |
-| 114 | [Narrative self](time_identity/D-narrative-self.md) | D-narrative-self | time_identity | definition | A2, D-sameness-later, D-memory-personal | P-childhood-continuity |
-| 115 | [Aging changes degree without ending A1 while thinking](time_identity/P-aging.md) | P-aging | time_identity | proposition | A1, A2, D-whole, P3 | — |
-| 116 | [Amnesia cuts memory-work, not existence](time_identity/P-amnesia.md) | P-amnesia | time_identity | proposition | A1, D-memory-personal, D-whole | — |
-| 117 | [Childhood continuity is organizational, not total recall](time_identity/P-childhood-continuity.md) | P-childhood-continuity | time_identity | proposition | D-sameness-later, A2, D-narrative-self | — |
-| 118 | [Nostalgia mixes joy and confused cause-maps](time_identity/P-nostalgia.md) | P-nostalgia | time_identity | proposition | D-joy, D-imagination-know, D-memory-personal | — |
-| 119 | [A promise binds memory and future control](time_identity/P-promise.md) | P-promise | time_identity | proposition | P2, D-memory-personal, P3 | — |
-| 120 | [Regret is sadness over past causes now seen clearer](time_identity/P-regret.md) | P-regret | time_identity | proposition | D-sadness, D-clear-knowledge, P3 | — |
-| 121 | [Rehearsal stores freer patterns](time_identity/P-rehearsal.md) | P-rehearsal | time_identity | proposition | P-habit-can-bond, D-clear-knowledge, P3 | — |
-| 122 | [Brain death floors organism-level control](edge_cases/P-brain-death.md) | P-brain-death | edge_cases | proposition | A2, D-brain, D-death, D-whole | — |
-| 123 | [Brain organoids stress the mind clause](edge_cases/P-brain-organoid.md) | P-brain-organoid | edge_cases | proposition | A2, OP-feeling, D-organism | — |
-| 124 | [Chimeras mix member lineages in one organization](edge_cases/P-chimera.md) | P-chimera | edge_cases | proposition | A2, D-cell, A3 | — |
-| 125 | [Coma suspends clear first-person report](edge_cases/P-coma.md) | P-coma | edge_cases | proposition | A1, A2, P-other-bodies | — |
-| 126 | [Conjoined twins can share works across two first persons](edge_cases/P-conjoined.md) | P-conjoined | edge_cases | proposition | A1, A2, P1 | — |
-| 127 | [Locked-in can trap high mind-description with low outflow](edge_cases/P-locked-in.md) | P-locked-in | edge_cases | proposition | A2, P19, D-work | — |
-| 128 | [Pregnancy nests wholes](edge_cases/P-pregnancy-levels.md) | P-pregnancy-levels | edge_cases | proposition | P1, A2, D-member-degree | P-development |
-| 129 | [A prosthetic can become a member-tool](edge_cases/P-prosthetic-member.md) | P-prosthetic-member | edge_cases | proposition | D-member-degree, A2, A3 | P-cyborg |
-| 130 | [Split brain challenges unity of first person](edge_cases/P-split-brain.md) | P-split-brain | edge_cases | proposition | A2, D-first-person, OP-feeling | — |
-| 131 | [Swarm robots can fake colony wholes](edge_cases/P-swarm-robotics.md) | P-swarm-robotics | edge_cases | proposition | A3, P-colony-whole, P-machine-not-self-producer | — |
-| 132 | [Transplant swaps members, not the whole's id overnight](edge_cases/P-transplant.md) | P-transplant | edge_cases | proposition | D-sameness-later, A2, D-cell | — |
-| 133 | [A virus sits at the edge of self-production](edge_cases/P-virus-edge.md) | P-virus-edge | edge_cases | proposition | A3, D-work | — |
-| 134 | [Art as affective signaling](language_comm/D-art-signal.md) | D-art-signal | language_comm | definition | D-affect, P2, D-imagination-know | — |
-| 135 | [Language as shared signaling](language_comm/D-language.md) | D-language | language_comm | definition | P2, A4, D-clear-knowledge | D-lie, D-teaching, D-testimony, P-debate… |
-| 136 | [Lie](language_comm/D-lie.md) | D-lie | language_comm | definition | D-language, P4, D-confused-knowledge | P-gaslight |
-| 137 | [Teaching](language_comm/D-teaching.md) | D-teaching | language_comm | definition | D-language, D-clear-knowledge, P3 | P-apprenticeship |
-| 138 | [Testimony](language_comm/D-testimony.md) | D-testimony | language_comm | definition | D-language, D-imagination-know, P-other-bodies | — |
-| 139 | [Naming stabilizes common notions](language_comm/P-naming.md) | P-naming | language_comm | proposition | D-language, D-reason-know, D-clear-knowledge | — |
-| 140 | [Rumor is confused society-level memory](language_comm/P-rumor.md) | P-rumor | language_comm | proposition | P2, D-confused-knowledge, P-propaganda-bondage | — |
-| 141 | [Translation remaps signals across organizations](language_comm/P-translation.md) | P-translation | language_comm | proposition | D-language, A2, P2 | — |
-| 142 | [Money as compressed signal](economy_tech/D-money.md) | D-money | economy_tech | definition | P-market-signaling, P2, A4 | — |
-| 143 | [Platform as attention and signal whole](economy_tech/D-platform.md) | D-platform | economy_tech | definition | P-internet-memory, P2, P21 | P-advertising, P-llm-signal |
-| 144 | [Property as recognized control](economy_tech/D-property.md) | D-property | economy_tech | definition | A4, P-law-as-memory, D-work | — |
-| 145 | [Tool](economy_tech/D-tool.md) | D-tool | economy_tech | definition | D-work, A3, D-member-degree | P-apprenticeship, P-cyborg |
-| 146 | [Whether AGI gets degree-freedom talk stays open](economy_tech/OP-agi-freedom.md) | OP-agi-freedom | economy_tech | open | P3, A2, P-ai-collective, OP-feeling | — |
-| 147 | [Advertising targets desire with outside causes](economy_tech/P-advertising.md) | P-advertising | economy_tech | proposition | D-desire, P4, D-platform | — |
-| 148 | [Automation moves works without adding A1](economy_tech/P-automation.md) | P-automation | economy_tech | proposition | A1, A3, D-work | — |
-| 149 | [Ledgers are brittle society memory](economy_tech/P-crypto-memory.md) | P-crypto-memory | economy_tech | proposition | P-internet-memory, P2, D-clear-knowledge | — |
-| 150 | [Debt can be structured bondage](economy_tech/P-debt-bondage.md) | P-debt-bondage | economy_tech | proposition | P4, D-bondage, A4 | — |
-| 151 | [Energy systems are society-level intake](economy_tech/P-energy-intake.md) | P-energy-intake | economy_tech | proposition | D-work-F2, A4, D-whole | — |
-| 152 | [Open source is shared repair of knowledge-works](economy_tech/P-open-source.md) | P-open-source | economy_tech | proposition | P-science-as-freedom-gear, P21, P2 | — |
-| 153 | [Supply chains are extended transform/intake](economy_tech/P-supply-chain.md) | P-supply-chain | economy_tech | proposition | D-firm, D-work, P-weakest-work-rules | — |
-| 154 | [Surveillance amplifies control-work](economy_tech/P-surveillance.md) | P-surveillance | economy_tech | proposition | P2, P4, P19 | P-data-body |
-| 155 | [Compassion](affects_more/D-compassion.md) | D-compassion | affects_more | definition | D-affect, D-joy, P4 | P-compassion-freedom |
-| 156 | [Gratitude](affects_more/D-gratitude.md) | D-gratitude | affects_more | definition | D-love-affect, D-power-of-acting | — |
-| 157 | [Pride](affects_more/D-pride-affect.md) | D-pride-affect | affects_more | definition | D-joy, D-affect | P-overconfidence, P-pride-confused |
-| 158 | [Shame](affects_more/D-shame.md) | D-shame | affects_more | definition | D-sadness, P-blame-reframed, A4 | — |
-| 159 | [Wonder](affects_more/D-wonder.md) | D-wonder | affects_more | definition | D-imagination-know, D-affect | P-awe |
-| 160 | [Anger can feed repair or bondage](affects_more/P-anger-can-repair.md) | P-anger-can-repair | affects_more | proposition | D-affect, P4, P3 | — |
-| 161 | [Compassion can raise joint freedom](affects_more/P-compassion-freedom.md) | P-compassion-freedom | affects_more | proposition | D-compassion, P21, P5 | — |
-| 162 | [Confused pride resists clearer maps](affects_more/P-pride-confused.md) | P-pride-confused | affects_more | proposition | D-pride-affect, P-therapy-as-freedom-gear, D-confused-knowledge | — |
-| 163 | [Courage as standing to feared causes](practices/D-courage-practice.md) | D-courage-practice | practices | definition | D-fear-affect, P3, A5 | — |
-| 164 | [Education as long teaching](practices/D-education.md) | D-education | practices | definition | P3, D-clear-knowledge, P-habit-can-bond | — |
-| 165 | [Friendship](practices/D-friendship.md) | D-friendship | practices | definition | D-joy, A2, P5 | — |
-| 166 | [Meditation as attention repair](practices/D-meditation.md) | D-meditation | practices | definition | D-clear-knowledge, P-therapy-as-freedom-gear, A2 | — |
-| 167 | [Apprenticeship transfers embodied habits](practices/P-apprenticeship.md) | P-apprenticeship | practices | proposition | D-tool, D-habit-body, D-teaching | — |
-| 168 | [Debate tests cause-maps in public](practices/P-debate.md) | P-debate | practices | proposition | D-language, D-reason-know, P-propaganda-bondage | — |
-| 169 | [Exile cuts membership mid-stream](practices/P-exile.md) | P-exile | practices | proposition | A4, D-member-degree, D-affect | P-refugee |
-| 170 | [Stacked small habits compound degree-freedom](practices/P-habit-stack.md) | P-habit-stack | practices | proposition | P3, P-habit-can-bond, D-clear-knowledge | — |
-| 171 | [Journaling externalizes memory for clearer maps](practices/P-journal.md) | P-journal | practices | proposition | D-memory-personal, D-reason-know, P3 | — |
-| 172 | [Peace as stable non-destruction among wholes](conflict_peace/D-peace.md) | D-peace | conflict_peace | definition | D-war, A4, P21 | D-truce, OP-abolish-war, P-deterrence |
-| 173 | [Truce](conflict_peace/D-truce.md) | D-truce | conflict_peace | definition | D-peace, P-law-as-memory | — |
-| 174 | [War as organized harm between wholes](conflict_peace/D-war.md) | D-war | conflict_peace | definition | A4, D-work, P2 | D-peace, P-arms-race, P-civil-war, P-just-war-skeptical… |
-| 175 | [Whether war can end permanently stays open](conflict_peace/OP-abolish-war.md) | OP-abolish-war | conflict_peace | open | D-peace, P21, OP-best-regime | — |
-| 176 | [Arms races raise boundary-work, often cut freedom](conflict_peace/P-arms-race.md) | P-arms-race | conflict_peace | proposition | P19, D-war, P21 | — |
-| 177 | [Civil war splits one society-whole](conflict_peace/P-civil-war.md) | P-civil-war | conflict_peace | proposition | D-war, A4, P2 | — |
-| 178 | [Deterrence is fear used as control signal](conflict_peace/P-deterrence.md) | P-deterrence | conflict_peace | proposition | D-fear-affect, P2, D-peace | — |
-| 179 | [Just-war talk must still sit under A5 and P19](conflict_peace/P-just-war-skeptical.md) | P-just-war-skeptical | conflict_peace | proposition | A5, P19, D-war | — |
-| 180 | [Police concentrate legitimate coercion](conflict_peace/P-police.md) | P-police | conflict_peace | proposition | P2, P-law-as-memory, P4 | — |
-| 181 | [Reconciliation repairs shared memory after harm](conflict_peace/P-reconciliation.md) | P-reconciliation | conflict_peace | proposition | D-memory-personal, P2, P3 | — |
-| 182 | [Refugees are members cut from one whole seeking another](conflict_peace/P-refugee.md) | P-refugee | conflict_peace | proposition | A4, D-member-degree, P-exile | — |
-| 183 | [War floors many works even for winners](conflict_peace/P-war-drops-degree.md) | P-war-drops-degree | conflict_peace | proposition | D-war, D-whole, P-weakest-work-rules | — |
-| 184 | [Grades of certainty](error_illusion/D-certainty-grades.md) | D-certainty-grades | error_illusion | definition | A1, D-collider | — |
-| 185 | [Doubt as method](error_illusion/D-doubt-method.md) | D-doubt-method | error_illusion | definition | A1, D-clear-knowledge | — |
-| 186 | [Error](error_illusion/D-error.md) | D-error | error_illusion | definition | D-confused-knowledge, D-imagination-know | D-illusion, P-bias, P-update |
-| 187 | [Illusion](error_illusion/D-illusion.md) | D-illusion | error_illusion | definition | D-error, D-imagination-know | P-free-will-illusion |
-| 188 | [Cognitive bias is patterned confusion](error_illusion/P-bias.md) | P-bias | error_illusion | proposition | D-error, P-science-as-freedom-gear, P-therapy-as-freedom-gear | — |
-| 189 | [Final-cause talk is often heuristic imagination](error_illusion/P-final-causes-heuristic.md) | P-final-causes-heuristic | error_illusion | proposition | D-Nature-one, D-imagination-know, A5 | P-nihilism-confused |
-| 190 | [The feeling of uncaused will is illusion under A5](error_illusion/P-free-will-illusion.md) | P-free-will-illusion | error_illusion | proposition | A5, P3, D-illusion | — |
-| 191 | [Gaslighting attacks another's cause-maps](error_illusion/P-gaslight.md) | P-gaslight | error_illusion | proposition | D-lie, P4, D-memory-personal | — |
-| 192 | [Miracle as uncaused event is denied](error_illusion/P-miracle-denied.md) | P-miracle-denied | error_illusion | proposition | A5, D-Nature-one | P-no-miracle-ethics |
-| 193 | [Overconfidence is pride in confused maps](error_illusion/P-overconfidence.md) | P-overconfidence | error_illusion | proposition | D-pride-affect, D-confused-knowledge, P3 | — |
-| 194 | [Superstition binds via fear and hope](error_illusion/P-superstition.md) | P-superstition | error_illusion | proposition | D-hope-affect, D-fear-affect, P4 | P-awe |
-| 195 | [Bayesian-ish update can be reason gear](error_illusion/P-update.md) | P-update | error_illusion | proposition | D-reason-know, D-error, P3 | — |
-| 196 | [Interface](digital_mind/D-interface.md) | D-interface | digital_mind | definition | D-work-F1, D-work-F6, P2 | — |
-| 197 | [Upload sketch](digital_mind/D-upload-sketch.md) | D-upload-sketch | digital_mind | definition | A2, D-sameness-later, OP-feeling | — |
-| 198 | [Whether machines feel stays open](digital_mind/OP-machine-feeling.md) | OP-machine-feeling | digital_mind | open | OP-feeling, A2, P-digital-A1 | — |
-| 199 | [Alignment is contested control over AI cause-maps](digital_mind/P-alignment-freedom.md) | P-alignment-freedom | digital_mind | proposition | P-ai-collective, P21, P2 | — |
-| 200 | [Bot swarms can manufacture consent-looking signal](digital_mind/P-bot-swarm-bondage.md) | P-bot-swarm-bondage | digital_mind | proposition | D-public-affect, P-propaganda-bondage, P21 | — |
-| 201 | [Copying a pattern does not transfer this A1](digital_mind/P-copy-not-A1-transfer.md) | P-copy-not-A1-transfer | digital_mind | proposition | A1, P-other-bodies, P-digital-A1 | — |
-| 202 | [Cyborg membership blends tool and organism](digital_mind/P-cyborg.md) | P-cyborg | digital_mind | proposition | P-prosthetic-member, A2, D-tool | — |
-| 203 | [Data traces are partial memory outside the skin](digital_mind/P-data-body.md) | P-data-body | digital_mind | proposition | D-memory-personal, P-surveillance, A4 | — |
-| 204 | [A digital system can utter A1; certainty is not settled by utterance](digital_mind/P-digital-A1.md) | P-digital-A1 | digital_mind | proposition | A1, A2 | OP-machine-feeling, P-copy-not-A1-transfer |
-| 205 | [Latency limits collective control](digital_mind/P-latency.md) | P-latency | digital_mind | proposition | P2, D-language, A4 | — |
-| 206 | [LLMs are high-bandwidth society signaling gear](digital_mind/P-llm-signal.md) | P-llm-signal | digital_mind | proposition | D-language, D-platform, P21 | — |
-| 207 | [Simulation, if real, still sits under A5](digital_mind/P-simulation-causes.md) | P-simulation-causes | digital_mind | proposition | A5, P3, D-Nature-one | — |
-| 208 | [Contingent (in this chain)](cosmology_value/D-contingent-here.md) | D-contingent-here | cosmology_value | definition | A5, D-clear-knowledge, P-luck-is-incomplete | — |
-| 209 | [Infinite (sketch)](cosmology_value/D-infinite-sketch.md) | D-infinite-sketch | cosmology_value | definition | D-Nature-one, D-substance-sketch | — |
-| 210 | [Meaning as local significance for power](cosmology_value/D-meaning-local.md) | D-meaning-local | cosmology_value | definition | D-power-of-acting, A2, D-affect | — |
-| 211 | [Sacred (sketch)](cosmology_value/D-sacred-sketch.md) | D-sacred-sketch | cosmology_value | definition | A4, D-affect, D-Nature-one | — |
-| 212 | [Why anything exists at all stays open](cosmology_value/OP-why-anything.md) | OP-why-anything | cosmology_value | open | A1, D-Nature-one | — |
-| 213 | [Apparent contingency is incomplete knowledge](cosmology_value/P-apparent-contingency.md) | P-apparent-contingency | cosmology_value | proposition | A5, D-Nature-one, D-clear-knowledge | — |
-| 214 | [Awe is wonder plus vastness in the cause-map](cosmology_value/P-awe.md) | P-awe | cosmology_value | proposition | D-wonder, D-Nature-one, P-superstition | — |
-| 215 | [Death bounds duration, not the definition of blessedness](cosmology_value/P-death-and-meaning.md) | P-death-and-meaning | cosmology_value | proposition | D-death, P5, D-duration | — |
-| 216 | [Nihilism often confuses missing cosmic purpose with missing local good](cosmology_value/P-nihilism-confused.md) | P-nihilism-confused | cosmology_value | proposition | P5, P-final-causes-heuristic, D-blessedness | — |
-| 217 | [Ethics needs no miracles](cosmology_value/P-no-miracle-ethics.md) | P-no-miracle-ethics | cosmology_value | proposition | P3, P5, P-miracle-denied | — |
-| 218 | [Goods can conflict across levels](cosmology_value/P-plural-goods.md) | P-plural-goods | cosmology_value | proposition | D-good-relative, P1, P19 | — |
-| 219 | [Tragedy is a strong good destroyed under necessity](cosmology_value/P-tragedy.md) | P-tragedy | cosmology_value | proposition | A5, D-good-relative, D-sadness | — |
-| 220 | [Genes as deep memory-work](biology_deep/D-gene-memory.md) | D-gene-memory | biology_deep | definition | D-work-F7, A3, D-organism | P-extinction |
-| 221 | [Homeostasis](biology_deep/D-homeostasis.md) | D-homeostasis | biology_deep | definition | D-work-F4, D-work-F5, A3 | — |
-| 222 | [Immune work as boundary/repair](biology_deep/D-immune.md) | D-immune | biology_deep | definition | D-work-F1, D-work-F5, A2 | P-fever |
-| 223 | [Cancer is member defection into a rival whole](biology_deep/P-cancer-defection.md) | P-cancer-defection | biology_deep | proposition | P-tumor-edge, A3, P1 | — |
-| 224 | [Development builds works-as-one over duration](biology_deep/P-development.md) | P-development | biology_deep | proposition | A3, D-duration, P-pregnancy-levels | — |
-| 225 | [Evolution is population-level transform of organization](biology_deep/P-evolution.md) | P-evolution | biology_deep | proposition | A3, A5, D-work | — |
-| 226 | [Extinction is lineage memory ending](biology_deep/P-extinction.md) | P-extinction | biology_deep | proposition | D-gene-memory, D-death, A1 | — |
-| 227 | [Fever trades short pain for repair](biology_deep/P-fever.md) | P-fever | biology_deep | proposition | D-immune, D-affect, P19 | — |
-| 228 | [Microbiome members blur organism boundary](biology_deep/P-microbiome.md) | P-microbiome | biology_deep | proposition | D-member-degree, A2, D-work-F1 | — |
-| 229 | [Pain signals threat to works](biology_deep/P-pain.md) | P-pain | biology_deep | proposition | D-affect, D-work, P4 | — |
-| 230 | [Pleasure often tracks rising power — not always](biology_deep/P-pleasure.md) | P-pleasure | biology_deep | proposition | D-joy, P-addiction, P19 | — |
-| 231 | [Symbiosis is mutual membership across organisms](biology_deep/P-symbiosis.md) | P-symbiosis | biology_deep | proposition | P1, D-member-degree, A3 | — |
-
+| 105 | [Declared reading](method/D-declared-reading.md) | D-declared-reading | method | definition | A2, A3 | — |
+| 106 | [Expansion must rest on BASE](method/P-expansion-cites-base.md) | P-expansion-cites-base | method | proposition | A1, A2, P3 | — |
+| 107 | [One chain](method/PR-one-chain.md) | PR-one-chain | method | principle | A1 | — |
+| 108 | [Park, don't delete](method/PR-park-not-delete.md) | PR-park-not-delete | method | principle | A1 | — |
+| 109 | [Duration](time_identity/D-duration.md) | D-duration | time_identity | definition | D-exist, D-whole | D-future-self, D-habit-time, P-death-and-meaning, P-development |
+| 110 | [Future self as projected organization](time_identity/D-future-self.md) | D-future-self | time_identity | definition | A2, A5, D-duration | — |
+| 111 | [Habit across duration](time_identity/D-habit-time.md) | D-habit-time | time_identity | definition | D-habit-body, D-duration, P3 | — |
+| 112 | [Personal memory](time_identity/D-memory-personal.md) | D-memory-personal | time_identity | definition | A2, D-work, D-first-person | D-narrative-self, P-amnesia, P-data-body, P-gaslight… |
+| 113 | [Narrative self](time_identity/D-narrative-self.md) | D-narrative-self | time_identity | definition | A2, D-sameness-later, D-memory-personal | P-childhood-continuity |
+| 114 | [Aging changes degree without ending A1 while thinking](time_identity/P-aging.md) | P-aging | time_identity | proposition | A1, A2, D-whole, P3 | — |
+| 115 | [Amnesia cuts memory-work, not existence](time_identity/P-amnesia.md) | P-amnesia | time_identity | proposition | A1, D-memory-personal, D-whole | — |
+| 116 | [Childhood continuity is organizational, not total recall](time_identity/P-childhood-continuity.md) | P-childhood-continuity | time_identity | proposition | D-sameness-later, A2, D-narrative-self | — |
+| 117 | [Nostalgia mixes joy and confused cause-maps](time_identity/P-nostalgia.md) | P-nostalgia | time_identity | proposition | D-joy, D-imagination-know, D-memory-personal | — |
+| 118 | [A promise binds memory and future control](time_identity/P-promise.md) | P-promise | time_identity | proposition | P2, D-memory-personal, P3 | — |
+| 119 | [Regret is sadness over past causes now seen clearer](time_identity/P-regret.md) | P-regret | time_identity | proposition | D-sadness, D-clear-knowledge, P3 | — |
+| 120 | [Rehearsal stores freer patterns](time_identity/P-rehearsal.md) | P-rehearsal | time_identity | proposition | P-habit-can-bond, D-clear-knowledge, P3 | — |
+| 121 | [Brain death floors organism-level control](edge_cases/P-brain-death.md) | P-brain-death | edge_cases | proposition | A2, D-brain, D-death, D-whole | — |
+| 122 | [Brain organoids stress the mind clause](edge_cases/P-brain-organoid.md) | P-brain-organoid | edge_cases | proposition | A2, OP-feeling, D-organism | — |
+| 123 | [Chimeras mix member lineages in one organization](edge_cases/P-chimera.md) | P-chimera | edge_cases | proposition | A2, D-cell, A3 | — |
+| 124 | [Coma suspends clear first-person report](edge_cases/P-coma.md) | P-coma | edge_cases | proposition | A1, A2, P-other-bodies | — |
+| 125 | [Conjoined twins can share works across two first persons](edge_cases/P-conjoined.md) | P-conjoined | edge_cases | proposition | A1, A2, P1 | — |
+| 126 | [Locked-in can trap high mind-description with low outflow](edge_cases/P-locked-in.md) | P-locked-in | edge_cases | proposition | A2, P19, D-work | — |
+| 127 | [Pregnancy nests wholes](edge_cases/P-pregnancy-levels.md) | P-pregnancy-levels | edge_cases | proposition | P1, A2, D-member-degree | P-development |
+| 128 | [A prosthetic can become a member-tool](edge_cases/P-prosthetic-member.md) | P-prosthetic-member | edge_cases | proposition | D-member-degree, A2, A3 | P-cyborg |
+| 129 | [Split brain challenges unity of first person](edge_cases/P-split-brain.md) | P-split-brain | edge_cases | proposition | A2, D-first-person, OP-feeling | — |
+| 130 | [Swarm robots can fake colony wholes](edge_cases/P-swarm-robotics.md) | P-swarm-robotics | edge_cases | proposition | A3, P-colony-whole, P-machine-not-self-producer | — |
+| 131 | [Transplant swaps members, not the whole's id overnight](edge_cases/P-transplant.md) | P-transplant | edge_cases | proposition | D-sameness-later, A2, D-cell | — |
+| 132 | [A virus sits at the edge of self-production](edge_cases/P-virus-edge.md) | P-virus-edge | edge_cases | proposition | A3, D-work | — |
+| 133 | [Art as affective signaling](language_comm/D-art-signal.md) | D-art-signal | language_comm | definition | D-affect, P2, D-imagination-know | — |
+| 134 | [Language as shared signaling](language_comm/D-language.md) | D-language | language_comm | definition | P2, A4, D-clear-knowledge | D-lie, D-teaching, D-testimony, P-debate… |
+| 135 | [Lie](language_comm/D-lie.md) | D-lie | language_comm | definition | D-language, P4, D-confused-knowledge | P-gaslight |
+| 136 | [Teaching](language_comm/D-teaching.md) | D-teaching | language_comm | definition | D-language, D-clear-knowledge, P3 | P-apprenticeship |
+| 137 | [Testimony](language_comm/D-testimony.md) | D-testimony | language_comm | definition | D-language, D-imagination-know, P-other-bodies | — |
+| 138 | [Naming stabilizes common notions](language_comm/P-naming.md) | P-naming | language_comm | proposition | D-language, D-reason-know, D-clear-knowledge | — |
+| 139 | [Rumor is confused society-level memory](language_comm/P-rumor.md) | P-rumor | language_comm | proposition | P2, D-confused-knowledge, P-propaganda-bondage | — |
+| 140 | [Translation remaps signals across organizations](language_comm/P-translation.md) | P-translation | language_comm | proposition | D-language, A2, P2 | — |
+| 141 | [Money as compressed signal](economy_tech/D-money.md) | D-money | economy_tech | definition | P-market-signaling, P2, A4 | — |
+| 142 | [Platform as attention and signal whole](economy_tech/D-platform.md) | D-platform | economy_tech | definition | P-internet-memory, P2, P21 | P-advertising, P-llm-signal |
+| 143 | [Property as recognized control](economy_tech/D-property.md) | D-property | economy_tech | definition | A4, P-law-as-memory, D-work | — |
+| 144 | [Tool](economy_tech/D-tool.md) | D-tool | economy_tech | definition | D-work, A3, D-member-degree | P-apprenticeship, P-cyborg |
+| 145 | [Whether AGI gets degree-freedom talk stays open](economy_tech/OP-agi-freedom.md) | OP-agi-freedom | economy_tech | open | P3, A2, P-ai-collective, OP-feeling | — |
+| 146 | [Advertising targets desire with outside causes](economy_tech/P-advertising.md) | P-advertising | economy_tech | proposition | D-desire, P4, D-platform | — |
+| 147 | [Automation moves works without adding A1](economy_tech/P-automation.md) | P-automation | economy_tech | proposition | A1, A3, D-work | — |
+| 148 | [Ledgers are brittle society memory](economy_tech/P-crypto-memory.md) | P-crypto-memory | economy_tech | proposition | P-internet-memory, P2, D-clear-knowledge | — |
+| 149 | [Debt can be structured bondage](economy_tech/P-debt-bondage.md) | P-debt-bondage | economy_tech | proposition | P4, D-bondage, A4 | — |
+| 150 | [Energy systems are society-level intake](economy_tech/P-energy-intake.md) | P-energy-intake | economy_tech | proposition | D-work-F2, A4, D-whole | — |
+| 151 | [Open source is shared repair of knowledge-works](economy_tech/P-open-source.md) | P-open-source | economy_tech | proposition | P-science-as-freedom-gear, P21, P2 | — |
+| 152 | [Supply chains are extended transform/intake](economy_tech/P-supply-chain.md) | P-supply-chain | economy_tech | proposition | D-firm, D-work, P-weakest-work-rules | — |
+| 153 | [Surveillance amplifies control-work](economy_tech/P-surveillance.md) | P-surveillance | economy_tech | proposition | P2, P4, P19 | P-data-body |
+| 154 | [Compassion](affects_more/D-compassion.md) | D-compassion | affects_more | definition | D-affect, D-joy, P4 | P-compassion-freedom |
+| 155 | [Gratitude](affects_more/D-gratitude.md) | D-gratitude | affects_more | definition | D-love-affect, D-power-of-acting | — |
+| 156 | [Pride](affects_more/D-pride-affect.md) | D-pride-affect | affects_more | definition | D-joy, D-affect | P-overconfidence, P-pride-confused |
+| 157 | [Shame](affects_more/D-shame.md) | D-shame | affects_more | definition | D-sadness, P-blame-reframed, A4 | — |
+| 158 | [Wonder](affects_more/D-wonder.md) | D-wonder | affects_more | definition | D-imagination-know, D-affect | P-awe |
+| 159 | [Anger can feed repair or bondage](affects_more/P-anger-can-repair.md) | P-anger-can-repair | affects_more | proposition | D-affect, P4, P3 | — |
+| 160 | [Compassion can raise joint freedom](affects_more/P-compassion-freedom.md) | P-compassion-freedom | affects_more | proposition | D-compassion, P21, P5 | — |
+| 161 | [Confused pride resists clearer maps](affects_more/P-pride-confused.md) | P-pride-confused | affects_more | proposition | D-pride-affect, P-therapy-as-freedom-gear, D-confused-knowledge | — |
+| 162 | [Courage as standing to feared causes](practices/D-courage-practice.md) | D-courage-practice | practices | definition | D-fear-affect, P3, A5 | — |
+| 163 | [Education as long teaching](practices/D-education.md) | D-education | practices | definition | P3, D-clear-knowledge, P-habit-can-bond | — |
+| 164 | [Friendship](practices/D-friendship.md) | D-friendship | practices | definition | D-joy, A2, P5 | — |
+| 165 | [Meditation as attention repair](practices/D-meditation.md) | D-meditation | practices | definition | D-clear-knowledge, P-therapy-as-freedom-gear, A2 | — |
+| 166 | [Apprenticeship transfers embodied habits](practices/P-apprenticeship.md) | P-apprenticeship | practices | proposition | D-tool, D-habit-body, D-teaching | — |
+| 167 | [Debate tests cause-maps in public](practices/P-debate.md) | P-debate | practices | proposition | D-language, D-reason-know, P-propaganda-bondage | — |
+| 168 | [Exile cuts membership mid-stream](practices/P-exile.md) | P-exile | practices | proposition | A4, D-member-degree, D-affect | P-refugee |
+| 169 | [Stacked small habits compound degree-freedom](practices/P-habit-stack.md) | P-habit-stack | practices | proposition | P3, P-habit-can-bond, D-clear-knowledge | — |
+| 170 | [Journaling externalizes memory for clearer maps](practices/P-journal.md) | P-journal | practices | proposition | D-memory-personal, D-reason-know, P3 | — |
+| 171 | [Peace as stable non-destruction among wholes](conflict_peace/D-peace.md) | D-peace | conflict_peace | definition | D-war, A4, P21 | D-truce, OP-abolish-war, P-deterrence |
+| 172 | [Truce](conflict_peace/D-truce.md) | D-truce | conflict_peace | definition | D-peace, P-law-as-memory | — |
+| 173 | [War as organized harm between wholes](conflict_peace/D-war.md) | D-war | conflict_peace | definition | A4, D-work, P2 | D-peace, P-arms-race, P-civil-war, P-just-war-skeptical… |
+| 174 | [Whether war can end permanently stays open](conflict_peace/OP-abolish-war.md) | OP-abolish-war | conflict_peace | open | D-peace, P21, OP-best-regime | — |
+| 175 | [Arms races raise boundary-work, often cut freedom](conflict_peace/P-arms-race.md) | P-arms-race | conflict_peace | proposition | P19, D-war, P21 | — |
+| 176 | [Civil war splits one society-whole](conflict_peace/P-civil-war.md) | P-civil-war | conflict_peace | proposition | D-war, A4, P2 | — |
+| 177 | [Deterrence is fear used as control signal](conflict_peace/P-deterrence.md) | P-deterrence | conflict_peace | proposition | D-fear-affect, P2, D-peace | — |
+| 178 | [Just-war talk must still sit under A5 and P19](conflict_peace/P-just-war-skeptical.md) | P-just-war-skeptical | conflict_peace | proposition | A5, P19, D-war | — |
+| 179 | [Police concentrate legitimate coercion](conflict_peace/P-police.md) | P-police | conflict_peace | proposition | P2, P-law-as-memory, P4 | — |
+| 180 | [Reconciliation repairs shared memory after harm](conflict_peace/P-reconciliation.md) | P-reconciliation | conflict_peace | proposition | D-memory-personal, P2, P3 | — |
+| 181 | [Refugees are members cut from one whole seeking another](conflict_peace/P-refugee.md) | P-refugee | conflict_peace | proposition | A4, D-member-degree, P-exile | — |
+| 182 | [War floors many works even for winners](conflict_peace/P-war-drops-degree.md) | P-war-drops-degree | conflict_peace | proposition | D-war, D-whole, P-weakest-work-rules | — |
+| 183 | [Doubt as method](error_illusion/D-doubt-method.md) | D-doubt-method | error_illusion | definition | A1, D-clear-knowledge | — |
+| 184 | [Error](error_illusion/D-error.md) | D-error | error_illusion | definition | D-confused-knowledge, D-imagination-know | D-illusion, P-bias, P-update |
+| 185 | [Illusion](error_illusion/D-illusion.md) | D-illusion | error_illusion | definition | D-error, D-imagination-know | P-free-will-illusion |
+| 186 | [Cognitive bias is patterned confusion](error_illusion/P-bias.md) | P-bias | error_illusion | proposition | D-error, P-science-as-freedom-gear, P-therapy-as-freedom-gear | — |
+| 187 | [Final-cause talk is often heuristic imagination](error_illusion/P-final-causes-heuristic.md) | P-final-causes-heuristic | error_illusion | proposition | D-Nature-one, D-imagination-know, A5 | P-nihilism-confused |
+| 188 | [The feeling of uncaused will is illusion under A5](error_illusion/P-free-will-illusion.md) | P-free-will-illusion | error_illusion | proposition | A5, P3, D-illusion | — |
+| 189 | [Gaslighting attacks another's cause-maps](error_illusion/P-gaslight.md) | P-gaslight | error_illusion | proposition | D-lie, P4, D-memory-personal | — |
+| 190 | [Miracle as uncaused event is denied](error_illusion/P-miracle-denied.md) | P-miracle-denied | error_illusion | proposition | A5, D-Nature-one | P-no-miracle-ethics |
+| 191 | [Overconfidence is pride in confused maps](error_illusion/P-overconfidence.md) | P-overconfidence | error_illusion | proposition | D-pride-affect, D-confused-knowledge, P3 | — |
+| 192 | [Superstition binds via fear and hope](error_illusion/P-superstition.md) | P-superstition | error_illusion | proposition | D-hope-affect, D-fear-affect, P4 | P-awe |
+| 193 | [Bayesian-ish update can be reason gear](error_illusion/P-update.md) | P-update | error_illusion | proposition | D-reason-know, D-error, P3 | — |
+| 194 | [Interface](digital_mind/D-interface.md) | D-interface | digital_mind | definition | D-work-F1, D-work-F6, P2 | — |
+| 195 | [Upload sketch](digital_mind/D-upload-sketch.md) | D-upload-sketch | digital_mind | definition | A2, D-sameness-later, OP-feeling | — |
+| 196 | [Whether machines feel stays open](digital_mind/OP-machine-feeling.md) | OP-machine-feeling | digital_mind | open | OP-feeling, A2, P-digital-A1 | — |
+| 197 | [Alignment is contested control over AI cause-maps](digital_mind/P-alignment-freedom.md) | P-alignment-freedom | digital_mind | proposition | P-ai-collective, P21, P2 | — |
+| 198 | [Bot swarms can manufacture consent-looking signal](digital_mind/P-bot-swarm-bondage.md) | P-bot-swarm-bondage | digital_mind | proposition | D-public-affect, P-propaganda-bondage, P21 | — |
+| 199 | [Copying a pattern does not transfer this A1](digital_mind/P-copy-not-A1-transfer.md) | P-copy-not-A1-transfer | digital_mind | proposition | A1, P-other-bodies, P-digital-A1 | — |
+| 200 | [Cyborg membership blends tool and organism](digital_mind/P-cyborg.md) | P-cyborg | digital_mind | proposition | P-prosthetic-member, A2, D-tool | — |
+| 201 | [Data traces are partial memory outside the skin](digital_mind/P-data-body.md) | P-data-body | digital_mind | proposition | D-memory-personal, P-surveillance, A4 | — |
+| 202 | [A digital system can utter A1; certainty is not settled by utterance](digital_mind/P-digital-A1.md) | P-digital-A1 | digital_mind | proposition | A1, A2 | OP-machine-feeling, P-copy-not-A1-transfer |
+| 203 | [Latency limits collective control](digital_mind/P-latency.md) | P-latency | digital_mind | proposition | P2, D-language, A4 | — |
+| 204 | [LLMs are high-bandwidth society signaling gear](digital_mind/P-llm-signal.md) | P-llm-signal | digital_mind | proposition | D-language, D-platform, P21 | — |
+| 205 | [Simulation, if real, still sits under A5](digital_mind/P-simulation-causes.md) | P-simulation-causes | digital_mind | proposition | A5, P3, D-Nature-one | — |
+| 206 | [Contingent (in this chain)](cosmology_value/D-contingent-here.md) | D-contingent-here | cosmology_value | definition | A5, D-clear-knowledge, P-luck-is-incomplete | — |
+| 207 | [Infinite (sketch)](cosmology_value/D-infinite-sketch.md) | D-infinite-sketch | cosmology_value | definition | D-Nature-one, D-substance-sketch | — |
+| 208 | [Meaning as local significance for power](cosmology_value/D-meaning-local.md) | D-meaning-local | cosmology_value | definition | D-power-of-acting, A2, D-affect | — |
+| 209 | [Sacred (sketch)](cosmology_value/D-sacred-sketch.md) | D-sacred-sketch | cosmology_value | definition | A4, D-affect, D-Nature-one | — |
+| 210 | [Why anything exists at all stays open](cosmology_value/OP-why-anything.md) | OP-why-anything | cosmology_value | open | A1, D-Nature-one | — |
+| 211 | [Apparent contingency is incomplete knowledge](cosmology_value/P-apparent-contingency.md) | P-apparent-contingency | cosmology_value | proposition | A5, D-Nature-one, D-clear-knowledge | — |
+| 212 | [Awe is wonder plus vastness in the cause-map](cosmology_value/P-awe.md) | P-awe | cosmology_value | proposition | D-wonder, D-Nature-one, P-superstition | — |
+| 213 | [Death bounds duration, not the definition of blessedness](cosmology_value/P-death-and-meaning.md) | P-death-and-meaning | cosmology_value | proposition | D-death, P5, D-duration | — |
+| 214 | [Nihilism often confuses missing cosmic purpose with missing local good](cosmology_value/P-nihilism-confused.md) | P-nihilism-confused | cosmology_value | proposition | P5, P-final-causes-heuristic, D-blessedness | — |
+| 215 | [Ethics needs no miracles](cosmology_value/P-no-miracle-ethics.md) | P-no-miracle-ethics | cosmology_value | proposition | P3, P5, P-miracle-denied | — |
+| 216 | [Goods can conflict across levels](cosmology_value/P-plural-goods.md) | P-plural-goods | cosmology_value | proposition | D-good-relative, P1, P19 | — |
+| 217 | [Tragedy is a strong good destroyed under necessity](cosmology_value/P-tragedy.md) | P-tragedy | cosmology_value | proposition | A5, D-good-relative, D-sadness | — |
+| 218 | [Genes as deep memory-work](biology_deep/D-gene-memory.md) | D-gene-memory | biology_deep | definition | D-work-F7, A3, D-organism | P-extinction |
+| 219 | [Homeostasis](biology_deep/D-homeostasis.md) | D-homeostasis | biology_deep | definition | D-work-F4, D-work-F5, A3 | — |
+| 220 | [Immune work as boundary/repair](biology_deep/D-immune.md) | D-immune | biology_deep | definition | D-work-F1, D-work-F5, A2 | P-fever |
+| 221 | [Cancer is member defection into a rival whole](biology_deep/P-cancer-defection.md) | P-cancer-defection | biology_deep | proposition | P-tumor-edge, A3, P1 | — |
+| 222 | [Development builds works-as-one over duration](biology_deep/P-development.md) | P-development | biology_deep | proposition | A3, D-duration, P-pregnancy-levels | — |
+| 223 | [Evolution is population-level transform of organization](biology_deep/P-evolution.md) | P-evolution | biology_deep | proposition | A3, A5, D-work | — |
+| 224 | [Extinction is lineage memory ending](biology_deep/P-extinction.md) | P-extinction | biology_deep | proposition | D-gene-memory, D-death, A1 | — |
+| 225 | [Fever trades short pain for repair](biology_deep/P-fever.md) | P-fever | biology_deep | proposition | D-immune, D-affect, P19 | — |
+| 226 | [Microbiome members blur organism boundary](biology_deep/P-microbiome.md) | P-microbiome | biology_deep | proposition | D-member-degree, A2, D-work-F1 | — |
+| 227 | [Pain signals threat to works](biology_deep/P-pain.md) | P-pain | biology_deep | proposition | D-affect, D-work, P4 | — |
+| 228 | [Pleasure often tracks rising power — not always](biology_deep/P-pleasure.md) | P-pleasure | biology_deep | proposition | D-joy, P-addiction, P19 | — |
+| 229 | [Symbiosis is mutual membership across organisms](biology_deep/P-symbiosis.md) | P-symbiosis | biology_deep | proposition | P1, D-member-degree, A3 | — |

@@ -3,7 +3,6 @@ id: P-robot-member
 type: expansion
 kind: proposition
 title: A robot can be a member without being a self-producer
-confidence: pending (collider)
 cites: [A3, A4, D-member-degree]
 grows_from: A3/A4
 group: bridges
@@ -21,14 +20,11 @@ kiln: 2026-10-24 strongest half
 
 **Cites.** A3, A4, D-member-degree.
 
-**Cap.** Pending; cannot exceed weakest scored cite among BASE hinges it rests on (once collider runs). Definitions add no score.
-
-**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
+**Failure / limit.** Survived kiln (strongest half). Park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *The seven works sort things the way self-production does* (A3); *The society I live in is a whole to a degree* (A4); *Degree of membership* (D-member-degree)
 - **BASE hinges:** A3, A4
 - **Supports (live):** —
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [bridges/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

@@ -11,7 +11,6 @@ qualifiers:
   - 'for anything else, "exists" is taken as understood'
   - 'lasts: goes on existing'
   - 'says nothing about how or why it exists'
-scored_as: 'Definition of "exist" in its thinnest sense. What it defines: an activity exists at a time when it is going on at that time; a thing lasts when it goes on existing through a stretch of time (duration, E2D5). What it takes as understood: "exists" said of anything that is not an activity; an earlier wording ("or present") defined it only by a synonym. What it leaves open: in itself or in something else (E1A1), by the necessity of its own nature or not (E1D1, E1P7, E1P24), and whether anything exists eternally (E1D8, E1P19). A1 needs only the activity clause, now. Judged on clarity and fit; adds no confidence.'
 status: base (locked)
 ---
 
@@ -41,5 +40,4 @@ status: base (locked)
 - **Rests on:** (none — root)
 - **Supports:** *I exist* (A1); *Work, and the seven works* (D-work); *Whole, degree, member, level, self-production, sameness* (D-whole); *The seven works sort things the way self-production does* (A3); *The society I live in is a whole to a degree* (A4); *A collective mind happens* (P2); *Every event is caused* (A5); *Freedom, strict and by degree* (D-free)
 - **Supports (expansion):** D-cause, D-death, D-duration, P-body-lasts, P-sleep-and-A1
-- **Cap:** definition; adds nothing
-- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md)
+- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md)

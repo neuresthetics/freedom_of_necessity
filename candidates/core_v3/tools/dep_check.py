@@ -5,12 +5,12 @@ Stdlib only. Validates:
   - every cite/term/rests-on id exists in the live set (or is explicitly allowed root)
   - no dependency cycles
   - every non-root has at least one live rests-on (cites ∪ terms ∪ Hyper-connect)
-  - every entry documents a Cap (Hyper-connect or frontmatter confidence for A1)
 
 Can also:
   --fix-orphans   remap cites that point at PARKED ids to live replacements
   --sync-hc        rewrite Hyper-connect Rests on / Supports from the live graph
-  --write-docs     write DEPS.md, CAPS.md; refresh CHAIN expansion mermaid section
+  --write-docs     write DEPS.md; refresh CHAIN expansion mermaid section
+  (CAPS.md is historical; scores were dropped 2026-11-09 and it is not regenerated)
 
 Usage:
   python3 candidates/core_v3/tools/dep_check.py
@@ -36,29 +36,6 @@ BASE_ORDER = [
     "A5", "D-free", "P3", "D-affect", "D-bondage", "D-blessedness", "P4", "P5",
     "P19", "P21",
 ]
-BASE_CAPS = {
-    "A1": "1.0; caps nothing",
-    "A2": "own score of clause (a); A1 caps nothing",
-    "A3": "own score (cites nothing scored)",
-    "A4": "min(weakest work-row, A2)",
-    "P1": "min(A2, A3, A4)",
-    "P2": "min(A4 control/signaling/memory, A2 via A4)",
-    "A5": "own score",
-    "P3": "min(A2, A5)",
-    "P4": "min(A2, A5, P3)",
-    "P5": "min(A2, A5, P3)",
-    "P19": "min(P1, P3)",
-    "P21": "min(P2, P3, A4); conjecture-grade",
-    "D-I": "definition; adds nothing",
-    "D-exist": "definition; adds nothing",
-    "D-work": "definition; adds nothing",
-    "D-whole": "definition; adds nothing",
-    "D-free": "definition; adds nothing",
-    "D-affect": "definition; adds nothing",
-    "D-bondage": "definition; adds nothing",
-    "D-blessedness": "definition; adds nothing",
-}
-
 # Orphan (parked) cite remaps → live replacements. Applied by --fix-orphans.
 ORPHAN_FIXES = {
     "D-compassion": {
@@ -318,7 +295,6 @@ def check(entries, parked):
     orphan_terms = []
     orphan_rests = []
     missing_rests = []
-    missing_cap = []
     missing_hc = []
 
     for eid, e in sorted(entries.items()):
@@ -339,20 +315,12 @@ def check(entries, parked):
         if eid not in PURE_ROOTS and not live_deps:
             missing_rests.append(eid)
 
-        if not e["cap"]:
-            # A1 may rely on frontmatter confidence
-            if eid == "A1" and e["fm"].get("confidence") is not None:
-                pass
-            else:
-                missing_cap.append(eid)
-
     cycles = find_cycles(entries)
     return {
         "orphan_cites": orphan_cites,
         "orphan_terms": orphan_terms,
         "orphan_rests": orphan_rests,
         "missing_rests": missing_rests,
-        "missing_cap": missing_cap,
         "missing_hc": missing_hc,
         "cycles": cycles,
     }
@@ -469,7 +437,7 @@ def compute_graph(entries):
 
 def sync_hyper_connect(entries):
     """Rewrite Rests on / Supports lines from cites∪terms and reverse graph.
-    Preserves Cap, Group, Live indexes, BASE hinges (recomputed).
+    Preserves Group, Live indexes, BASE hinges (recomputed).
     Does not change thesis body. BASE files: keep BASE supports named;
     expansion supports listed under Supports (expansion).
     """
@@ -503,13 +471,11 @@ def sync_hyper_connect(entries):
             else:
                 exp_fmt = "—"
 
-            cap = BASE_CAPS.get(eid) or (e["cap"] or "pending")
             new_hc = (
                 f"- **Rests on:** {rests_fmt}\n"
                 f"- **Supports:** {base_sup_fmt}\n"
                 f"- **Supports (expansion):** {exp_fmt}\n"
-                f"- **Cap:** {cap}\n"
-                f"- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md)\n"
+                f"- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md)\n"
             )
         else:
             rests_fmt = "; ".join(ref(x, entries) for x in dlist) if dlist else "(none)"
@@ -522,13 +488,11 @@ def sync_hyper_connect(entries):
                     sup_fmt = "; ".join(ref(x, entries) for x in slist[:25]) + f"; … (+{len(slist) - 25})"
             else:
                 sup_fmt = "—"
-            cap = e["cap"] or "pending; ≤ weakest scored BASE hinge among rests-on"
             group = e.get("group") or e["path"].parent.name
             new_hc = (
                 f"- **Rests on:** {rests_fmt}\n"
                 f"- **BASE hinges:** {hinge_fmt}\n"
                 f"- **Supports (live):** {sup_fmt}\n"
-                f"- **Cap:** {cap}\n"
                 f"- **Group:** [{group}/](./)\n"
                 f"- **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), "
                 f"[CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)\n"
@@ -563,8 +527,8 @@ def write_deps_md(entries):
     lines.append("1. Every `cites` / `terms` / Hyper-connect rests-on id must be **live**.")
     lines.append("2. No cycles in the rests-on graph.")
     lines.append("3. Non-roots (`D-I`, `D-exist`, `A1` excepted) need ≥1 live rests-on.")
-    lines.append("4. Cap documented on every entry (see [CAPS.md](CAPS.md)).")
-    lines.append("5. BASE titles/ids/cap rules stay locked; Supports (expansion) is connective tissue only.")
+    lines.append("4. BASE titles/ids stay locked; Supports (expansion) is connective tissue only.")
+    lines.append("5. Numeric scores were dropped on 2026-11-09; entries are judged by these checks, citations, and coherence. See [METHOD.md](../../METHOD.md). [CAPS.md](CAPS.md) is historical.")
     lines.append("")
     lines.append("## BASE reverse index (who rests on each)")
     lines.append("")
@@ -575,7 +539,6 @@ def write_deps_md(entries):
         lines.append(f"### {bid} — {entries[bid]['title']}")
         lines.append("")
         lines.append(f"- **Rests on:** {', '.join(deps.get(bid, [])) or '—'}")
-        lines.append(f"- **Cap:** {BASE_CAPS.get(bid, entries[bid].get('cap') or '—')}")
         base_kids = [k for k in kids if k in set(BASE_ORDER)]
         exp_kids = [k for k in kids if k not in set(BASE_ORDER)]
         lines.append(f"- **Supports (BASE):** {', '.join(base_kids) or '—'}")
@@ -597,49 +560,7 @@ def write_deps_md(entries):
 
 
 def write_caps_md(entries):
-    lines = []
-    lines.append("# CAPS — effective confidence rules (core v3)")
-    lines.append("")
-    lines.append("Generated by `tools/dep_check.py`. Definitions add no score.")
-    lines.append("Only A1 is scored today (1.0). Everything else pending collider.")
-    lines.append("")
-    lines.append("## BASE (locked)")
-    lines.append("")
-    lines.append("| Entry | Cap rule |")
-    lines.append("|---|---|")
-    for bid in BASE_ORDER:
-        lines.append(f"| {bid} | {BASE_CAPS.get(bid, '—')} |")
-    lines.append("")
-    lines.append("## Expansion (policy)")
-    lines.append("")
-    lines.append("Until the collider runs, every expansion entry:")
-    lines.append("")
-    lines.append("- **Cap ≤** weakest scored BASE hinge among its live rests-on.")
-    lines.append("- Definitions / opens add no score of their own.")
-    lines.append("- Conjecture-grade claims (esp. under P21) stay labeled as such.")
-    lines.append("")
-    lines.append("## Cap chains (load-bearing)")
-    lines.append("")
-    lines.append("```")
-    lines.append("A1 (1.0)")
-    lines.append(" └── A2 (own)")
-    lines.append("      ├── A4 = min(rows, A2)")
-    lines.append("      │    ├── P1 = min(A2, A3, A4)")
-    lines.append("      │    │    └── P19 = min(P1, P3)")
-    lines.append("      │    ├── P2 = min(A4 rows, A2)")
-    lines.append("      │    │    └── P21 = min(P2, P3, A4)  [conjecture]")
-    lines.append("      │    └── expansion under A4/P2/P21 …")
-    lines.append("      └── P3 = min(A2, A5)")
-    lines.append("           ├── P4 = min(A2, A5, P3)")
-    lines.append("           ├── P5 = min(A2, A5, P3)")
-    lines.append("           ├── P19 = min(P1, P3)")
-    lines.append("           ├── P21 = min(P2, P3, A4)")
-    lines.append("           └── expansion under P3/P4/P5 …")
-    lines.append("A3 (own) ──► P1 + wholes expansion")
-    lines.append("A5 (own) ──► P3, P4, P5 + necessity expansion")
-    lines.append("```")
-    lines.append("")
-    (ROOT / "CAPS.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    """Leave CAPS.md alone. Numeric scores were dropped 2026-11-09; the file is historical."""
     return ROOT / "CAPS.md"
 
 
@@ -718,7 +639,7 @@ def refresh_chain_mermaid(entries):
     if "DEPS.md" not in text2:
         text2 = text2.replace(
             "- [BUILD_LOG.md](BUILD_LOG.md)",
-            "- [BUILD_LOG.md](BUILD_LOG.md)\n- [DEPS.md](DEPS.md) — live dependency index\n- [CAPS.md](CAPS.md) — cap rules\n- [tools/dep_check.py](tools/dep_check.py) — checker",
+            "- [BUILD_LOG.md](BUILD_LOG.md)\n- [DEPS.md](DEPS.md) — live dependency index\n- [tools/dep_check.py](tools/dep_check.py) — checker",
         )
     # Note under expansion section
     if "Dependency management" not in text2:
@@ -726,7 +647,7 @@ def refresh_chain_mermaid(entries):
             "**Totals:** BASE **20** locked + live expansion **122** = **142** in play (parks separate).",
             "**Totals:** BASE **20** locked + live expansion **122** = **142** in play (parks separate).\n\n"
             "**Dependency management:** run `python3 tools/dep_check.py` (stdlib). "
-            "Full reverse index: [DEPS.md](DEPS.md). Caps: [CAPS.md](CAPS.md).",
+            "Full reverse index: [DEPS.md](DEPS.md).",
         )
     chain_path.write_text(text2, encoding="utf-8")
     return chain_path
@@ -746,9 +667,6 @@ def report(result, n_live):
     print(f"missing rests (non-root): {len(result['missing_rests'])}")
     for eid in result["missing_rests"]:
         print(f"  NO_DEPS {eid}")
-    print(f"missing cap: {len(result['missing_cap'])}")
-    for eid in result["missing_cap"]:
-        print(f"  NO_CAP {eid}")
     print(f"missing hyper-connect: {len(result['missing_hc'])}")
     print(f"cycles: {len(result['cycles'])}")
     for c in result["cycles"]:
@@ -758,7 +676,6 @@ def report(result, n_live):
         or result["orphan_terms"]
         or result["orphan_rests"]
         or result["missing_rests"]
-        or result["missing_cap"]
         or result["missing_hc"]
         or result["cycles"]
     )
@@ -795,7 +712,7 @@ def main():
         p2 = write_caps_md(entries)
         p3 = refresh_chain_mermaid(entries)
         print(f"wrote {p1.relative_to(ROOT)}")
-        print(f"wrote {p2.relative_to(ROOT)}")
+        print(f"left historical {p2.relative_to(ROOT)}")
         print(f"refreshed {p3.relative_to(ROOT)}")
 
     entries = load_live()

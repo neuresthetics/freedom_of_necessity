@@ -3,7 +3,6 @@ id: P-habit-can-bond
 type: expansion
 kind: proposition
 title: Habit can be bondage or stored freedom
-confidence: pending (collider)
 cites: [P3, P4, D-work]
 grows_from: P3/P4
 group: necessity_freedom
@@ -21,18 +20,15 @@ kiln: 2026-10-24 strongest half
 
 **Cites.** P3, P4, D-work.
 
-**Cap.** Pending; cannot exceed weakest scored cite among BASE hinges it rests on (once collider runs). Definitions add no score.
-
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* A habit runs on unclear causes, or it stores clear patterns that free attention.
 - *Inside:* I do it without knowing why, or I do it without needing to think, and think of other things.
 
-**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
+**Failure / limit.** Survived kiln (strongest half). Park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Freedom by degrees under necessity* (P3); *Bondage is acting from what is outside* (P4); *Work, and the seven works* (D-work)
 - **BASE hinges:** P3, P4, D-work
 - **Supports (live):** *Education as long teaching* (D-education); *Stacked small habits compound degree-freedom* (P-habit-stack); *Rehearsal stores freer patterns* (P-rehearsal)
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [necessity_freedom/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

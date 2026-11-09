@@ -3,7 +3,6 @@ id: P-supply-chain
 type: expansion
 kind: proposition
 title: Supply chains are extended transform/intake
-confidence: pending (collider)
 cites: [D-firm, D-work, P-weakest-work-rules]
 grows_from: wholes
 group: economy_tech
@@ -22,14 +21,11 @@ revive: earned 2026-10-24 vs kilned set
 
 **Cites.** D-firm, D-work, P-weakest-work-rules.
 
-**Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
-
-**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; still pending collider; re-park if it overreaches BASE.
+**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; re-park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Firm as a whole* (D-firm); *Work, and the seven works* (D-work); *The weakest work sets the degree* (P-weakest-work-rules)
 - **BASE hinges:** D-work
 - **Supports (live):** —
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [economy_tech/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

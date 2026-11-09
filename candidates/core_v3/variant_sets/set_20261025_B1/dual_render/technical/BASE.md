@@ -1,7 +1,7 @@
 # Technical track — BASE (V001–V020) — post-winner dual render
 
 **Source:** confirmed B1 winner = `golden` BASE → `../winner/` (set_20261025_B1), then full live expansion.
-**Scope of dual render set:** V001–V251 (see [expansion.md](expansion.md) for V021–V251).
+**Scope of dual render set:** V001–V020 (see [expansion.md](expansion.md) for V021–V020).
 **Twin track:** [poetic/BASE.md](../poetic/BASE.md). Labels: [INDEX.md](../INDEX.md).
 **Jason freeze (V013 · P3):** author-written v12 **143–144** credited under Author credit; poetic track holds them verbatim.
 
@@ -11,7 +11,7 @@ Each verse: claim, dependency analysis (rests-on, cap, confidence), verse body, 
 
 ## V001 · `D-I` — What "I" names
 
-**Kind:** definition · **Confidence:** (definition; unscored) · **Cap:** definition; adds nothing
+**Kind:** definition
 **Rests on:** —(root / none)
 **Supports (sample):** `A1`, `A2`, `A4`, `P1`, `D-free`, `P3`
 
@@ -29,7 +29,7 @@ D-I fixes a word, not a substance. In a thought, "I" picks out the thinker of th
 
 ## V002 · `D-exist` — What exists
 
-**Kind:** definition · **Confidence:** (definition; unscored) · **Cap:** definition; adds nothing
+**Kind:** definition
 **Rests on:** —(root / none)
 **Supports (sample):** `A1`, `D-work`, `D-whole`, `A3`, `A4`, `P2`, `A5`, `D-free`
 
@@ -47,7 +47,7 @@ D-exist is thin on purpose. Existence, for an activity, is just that it is going
 
 ## V003 · `A1` — I exist
 
-**Kind:** self-evident · **Confidence:** 1.0 · **Cap:** 1.0; caps nothing
+**Kind:** self-evident
 **Rests on:** `D-I`, `D-exist`
 **Supports (sample):** `A2`, `P3`
 
@@ -65,7 +65,7 @@ A1: I exist. Not by definition — by the impossibility of false thought of it. 
 
 ## V004 · `A2` — A human body, and its mind
 
-**Kind:** empirical · **Confidence:** pending (collider) · **Cap:** own score of clause (a); A1 caps nothing
+**Kind:** empirical
 **Rests on:** `A1`, `D-I`
 **Supports (sample):** `A4`, `P1`, `P3`, `D-affect`, `P4`, `P5`
 
@@ -87,7 +87,7 @@ A1: I exist. Not by definition — by the impossibility of false thought of it. 
 
 ## V005 · `D-work` — Work, and the seven works
 
-**Kind:** definition · **Confidence:** (definition; unscored) · **Cap:** definition; adds nothing
+**Kind:** definition
 **Rests on:** `D-exist`
 **Supports (sample):** `D-whole`, `A3`, `A4`, `P1`, `P2`, `D-free`, `P3`, `D-affect`, `P4`
 
@@ -105,7 +105,7 @@ Work ≠ aim. A work is a causal loop: activity contributes to keeping organizat
 
 ## V006 · `D-whole` — Whole, degree, member, level, self-production, sameness
 
-**Kind:** definition · **Confidence:** (definition; unscored) · **Cap:** definition; adds nothing
+**Kind:** definition
 **Rests on:** `D-exist`, `D-work`
 **Supports (sample):** `A3`, `A4`, `P1`, `P2`, `D-affect`, `P19`
 
@@ -123,7 +123,7 @@ Wholeness is graded, not binary above zero. Each applicable work gets 0 (not as 
 
 ## V007 · `A3` — The seven works sort things the way self-production does
 
-**Kind:** model · **Confidence:** pending (collider) · **Cap:** own score (cites nothing scored)
+**Kind:** model
 **Rests on:** `D-exist`, `D-work`, `D-whole`
 **Supports (sample):** `P1`
 
@@ -141,7 +141,7 @@ A3 is the sorting hinge: organizations that remake their own components tend to 
 
 ## V008 · `A4` — The society I live in is a whole to a degree
 
-**Kind:** model · **Confidence:** pending (collider) · **Cap:** A4 is no stronger than its weakest row, nor than A2, which its membership clause cites (METHOD.md, rule 1). Why the same seven works should turn up here at all is *Pattern by requirement* (PR1)'s explanation, which adds nothing to any row.
+**Kind:** model
 **Rests on:** `A2`, `D-I`, `D-exist`, `D-work`, `D-whole`
 **Supports (sample):** `P1`, `P2`, `P21`
 
@@ -159,7 +159,7 @@ Society is graded like any whole: edge, intake, transform, repair, signal, memor
 
 ## V009 · `P1` — A whole at one level, a part at the next
 
-**Kind:** derived · **Confidence:** pending (collider) · **Cap:** min(A2, A3, A4)
+**Kind:** derived
 **Rests on:** `A2`, `A3`, `A4`, `D-I`, `D-work`, `D-whole`
 **Supports (sample):** `P19`
 
@@ -177,7 +177,7 @@ P1: at organism level I (this body) can be a whole to a degree; at society level
 
 ## V010 · `P2` — A collective mind happens
 
-**Kind:** derived · **Confidence:** pending (collider) · **Cap:** min(A4 control/signaling/memory, A2 via A4)
+**Kind:** derived
 **Rests on:** `A4`, `D-exist`, `D-work`, `D-whole`
 **Supports (sample):** `P21`
 
@@ -195,7 +195,7 @@ P2 defines a thin collective mind: society-level control-work done as one, coupl
 
 ## V011 · `A5` — Every event is caused
 
-**Kind:** model · **Confidence:** pending (collider) · **Cap:** own score
+**Kind:** model
 **Rests on:** `D-exist`
 **Supports (sample):** `D-free`, `P3`, `P4`, `P5`
 
@@ -213,7 +213,7 @@ A5: no uncaused events at the scale that includes choices. Cause = prior conditi
 
 ## V012 · `D-free` — Freedom, strict and by degree
 
-**Kind:** definition · **Confidence:** (definition; unscored) · **Cap:** definition; adds nothing
+**Kind:** definition
 **Rests on:** `D-I`, `D-exist`, `D-work`, `A5`
 **Supports (sample):** `P3`, `D-affect`, `D-bondage`, `D-blessedness`, `P4`, `P5`, `P19`, `P21`
 
@@ -235,7 +235,7 @@ Two senses, kept apart. Strict (E1D7 pattern): only what acts from its own natur
 
 ## V013 · `P3` — Freedom by degrees under necessity
 
-**Kind:** derived · **Confidence:** pending (collider) · **Cap:** min(A2, A5)
+**Kind:** derived
 **Rests on:** `A1`, `A2`, `A5`, `D-I`, `D-work`, `D-free`
 **Supports (sample):** `P4`, `P5`, `P19`, `P21`
 
@@ -261,7 +261,7 @@ P3 derives the book's working claim from A5 + D-free under A2(a): degree-freedom
 
 ## V014 · `D-affect` — Affect, and change of power
 
-**Kind:** definition · **Confidence:** (definition; unscored) · **Cap:** definition; adds nothing
+**Kind:** definition
 **Rests on:** `D-work`, `D-whole`, `D-free`, `A2`
 **Supports (sample):** `D-bondage`, `D-blessedness`, `P4`, `P5`
 
@@ -283,7 +283,7 @@ Affect = transition in power of acting (how the works are going), together with 
 
 ## V015 · `D-bondage` — Bondage
 
-**Kind:** definition · **Confidence:** (definition; unscored) · **Cap:** definition; adds nothing
+**Kind:** definition
 **Rests on:** `D-free`, `D-affect`
 **Supports (sample):** `P4`
 
@@ -305,7 +305,7 @@ Bondage is the downward name for low degree-freedom: action steered from outside
 
 ## V016 · `D-blessedness` — Blessedness
 
-**Kind:** definition · **Confidence:** (definition; unscored) · **Cap:** definition; adds nothing
+**Kind:** definition
 **Rests on:** `D-free`, `D-affect`
 **Supports (sample):** `P5`
 
@@ -327,7 +327,7 @@ Blessedness names the power itself as freedom rises — not a prize paid after v
 
 ## V017 · `P4` — Bondage is acting from what is outside
 
-**Kind:** derived · **Confidence:** pending (collider) · **Cap:** min(A2, A5, P3)
+**Kind:** derived
 **Rests on:** `A2`, `A5`, `P3`, `D-free`, `D-affect`, `D-bondage`, `D-work`
 **Supports (sample):** `none`
 
@@ -349,7 +349,7 @@ P4 applies D-bondage under A5 and P3: bondage-degree tracks how far action is fr
 
 ## V018 · `P5` — Blessedness is the power itself
 
-**Kind:** derived · **Confidence:** pending (collider) · **Cap:** min(A2, A5, P3)
+**Kind:** derived
 **Rests on:** `A2`, `A5`, `P3`, `D-free`, `D-affect`, `D-blessedness`
 **Supports (sample):** `none`
 
@@ -371,7 +371,7 @@ P5 locks the definition into a claim: the good of freedom is the increased power
 
 ## V019 · `P19` — Degree of whole tracks degree of freedom only loosely
 
-**Kind:** derived · **Confidence:** pending (collider) · **Cap:** min(P1, P3)
+**Kind:** derived
 **Rests on:** `P1`, `P3`, `D-whole`, `D-free`
 **Supports (sample):** `none`
 
@@ -389,7 +389,7 @@ P19: a high-degree whole (strong edge, tight signal, deep memory) can still be l
 
 ## V020 · `P21` — Society can be freer without feeling
 
-**Kind:** derived · **Confidence:** pending (collider) · **Cap:** min(P2, P3, A4); conjecture-grade
+**Kind:** derived
 **Rests on:** `P2`, `P3`, `A4`, `D-free`
 **Supports (sample):** `none`
 

@@ -165,14 +165,14 @@ A5 (own) ──► P3, P4, P5
 
 ## Parked volume
 
-72 entries from the volume-expansion pass live under [PARKED_VOLUME/](PARKED_VOLUME/) with index [PARKED_VOLUME/INDEX.md](PARKED_VOLUME/INDEX.md). Not deleted. See also [PARKED.md](PARKED.md).
+72 entries from the volume-expansion pass, plus 2 scoring-method entries parked on 2026-11-09, live under [PARKED_VOLUME/](PARKED_VOLUME/) with index [PARKED_VOLUME/INDEX.md](PARKED_VOLUME/INDEX.md). Not deleted. See also [PARKED.md](PARKED.md).
 
 ## Related
 
 - [README.md](README.md)
 - [BUILD_LOG.md](BUILD_LOG.md)
 - [DEPS.md](DEPS.md) — live dependency index
-- [CAPS.md](CAPS.md) — cap rules
+- [CAPS.md](CAPS.md) — historical cap rules (not in force)
 - [tools/dep_check.py](tools/dep_check.py) — checker
 - [SPINOZA_GROUND.md](SPINOZA_GROUND.md) — map still useful; most Part I–V apparatus now parked
 
@@ -212,9 +212,9 @@ BASE stays locked. PARKED_VOLUME (72) stays parked unless re-grown with BASE cit
 | Cosmology and value | [expansion/cosmology_value/](expansion/cosmology_value/) | 3 |
 | Biology deep | [expansion/biology_deep/](expansion/biology_deep/) | 4 |
 
-**Totals:** BASE **20** locked + live expansion **231** = **251** in play (17 still parked; see REVIVE.md).
+**Totals:** BASE **20** locked + live expansion **229** = **249** in play (17 still in expansion/PARKED; two scoring-method entries parked 2026-11-09 under PARKED_VOLUME; see REVIVE.md).
 
-**Dependency management:** run `python3 tools/dep_check.py` (stdlib). Full reverse index: [DEPS.md](DEPS.md). Caps: [CAPS.md](CAPS.md).
+**Dependency management:** run `python3 tools/dep_check.py` (stdlib). Full reverse index: [DEPS.md](DEPS.md).
 
 ### Sample spine → expansion
 

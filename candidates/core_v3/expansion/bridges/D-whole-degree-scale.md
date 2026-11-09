@@ -3,7 +3,6 @@ id: D-whole-degree-scale
 type: expansion
 kind: definition
 title: Whole-degree scale
-confidence: pending (collider)
 cites: [D-whole, P19]
 grows_from: name the scale
 group: bridges
@@ -21,14 +20,11 @@ kiln: 2026-10-24 strongest half
 
 **Cites.** D-whole, P19.
 
-**Cap.** Pending; cannot exceed weakest scored cite among BASE hinges it rests on (once collider runs). Definitions add no score.
-
-**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
+**Failure / limit.** Survived kiln (strongest half). Park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Whole, degree, member, level, self-production, sameness* (D-whole); *Degree of whole tracks degree of freedom only loosely* (P19)
 - **BASE hinges:** D-whole, P19
 - **Supports (live):** —
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [bridges/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

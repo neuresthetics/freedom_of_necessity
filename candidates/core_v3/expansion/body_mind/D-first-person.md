@@ -3,7 +3,6 @@ id: D-first-person
 type: expansion
 kind: definition
 title: First person
-confidence: pending (collider)
 cites: [A2, D-I]
 grows_from: A2 mind = organization in first person
 group: body_mind
@@ -21,19 +20,16 @@ kiln: 2026-10-24 strongest half
 
 **Cites.** A2, D-I.
 
-**Cap.** Pending; cannot exceed weakest scored cite among BASE hinges it rests on (once collider runs). Definitions add no score.
-
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* The organization as any observer could record it: cells, signals, behavior.
 - *Inside:* The same organization as it is for the one it is: what I see, think, feel, decide.
 - *Note:* This entry defines the inside half of every mirror; it is not a second thing.
 
-**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
+**Failure / limit.** Survived kiln (strongest half). Park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *A human body, and its mind* (A2); *What "I" names* (D-I)
 - **BASE hinges:** A2, D-I
 - **Supports (live):** *Personal memory* (D-memory-personal); *Split brain challenges unity of first person* (P-split-brain)
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [body_mind/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

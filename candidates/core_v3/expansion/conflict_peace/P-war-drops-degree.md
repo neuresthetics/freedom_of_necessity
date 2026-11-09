@@ -3,7 +3,6 @@ id: P-war-drops-degree
 type: expansion
 kind: proposition
 title: War floors many works even for winners
-confidence: pending (collider)
 cites: [D-war, D-whole, P-weakest-work-rules]
 grows_from: wholes
 group: conflict_peace
@@ -22,14 +21,11 @@ kiln: 2026-10-24 strongest half
 
 **Cites.** D-war, D-whole, P-weakest-work-rules.
 
-**Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
-
-**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
+**Failure / limit.** Survived kiln (strongest half). Park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *War as organized harm between wholes* (D-war); *Whole, degree, member, level, self-production, sameness* (D-whole); *The weakest work sets the degree* (P-weakest-work-rules)
 - **BASE hinges:** D-whole
 - **Supports (live):** —
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [conflict_peace/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

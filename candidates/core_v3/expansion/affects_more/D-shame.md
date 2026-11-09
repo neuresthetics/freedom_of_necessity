@@ -3,7 +3,6 @@ id: D-shame
 type: expansion
 kind: definition
 title: Shame
-confidence: pending (collider)
 cites: [D-sadness, P-blame-reframed, A4]
 grows_from: affect/society
 group: affects_more
@@ -22,18 +21,15 @@ revive: earned 2026-10-24 vs kilned set
 
 **Cites.** D-sadness, P-blame-reframed, A4.
 
-**Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
-
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* Power of acting falls, with an idea of this organization as the cause of a fault that others see or that it sees itself.
 - *Inside:* I feel smaller, because I am seen, by others or by me, as the one at fault.
 
-**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; still pending collider; re-park if it overreaches BASE.
+**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; re-park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Sadness* (D-sadness); *Blame tracks confused causes more than strict uncaused will* (P-blame-reframed); *The society I live in is a whole to a degree* (A4)
 - **BASE hinges:** A4
 - **Supports (live):** —
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [affects_more/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

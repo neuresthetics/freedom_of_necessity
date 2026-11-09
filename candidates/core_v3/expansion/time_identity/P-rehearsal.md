@@ -3,7 +3,6 @@ id: P-rehearsal
 type: expansion
 kind: proposition
 title: Rehearsal stores freer patterns
-confidence: pending (collider)
 cites: [P-habit-can-bond, D-clear-knowledge, P3]
 grows_from: freedom practice
 group: time_identity
@@ -22,18 +21,15 @@ revive: earned 2026-10-24 vs kilned set
 
 **Cites.** P-habit-can-bond, D-clear-knowledge, P3.
 
-**Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
-
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* A clearer cause-guided action is repeated until it becomes habit.
 - *Inside:* I practice until I don't have to think about it.
 
-**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; still pending collider; re-park if it overreaches BASE.
+**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; re-park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Habit can be bondage or stored freedom* (P-habit-can-bond); *Clear knowledge of causes* (D-clear-knowledge); *Freedom by degrees under necessity* (P3)
 - **BASE hinges:** P3
 - **Supports (live):** —
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [time_identity/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

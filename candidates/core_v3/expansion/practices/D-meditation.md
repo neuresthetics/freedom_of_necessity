@@ -3,7 +3,6 @@ id: D-meditation
 type: expansion
 kind: definition
 title: Meditation as attention repair
-confidence: pending (collider)
 cites: [D-clear-knowledge, P-therapy-as-freedom-gear, A2]
 grows_from: P3 gear
 group: practices
@@ -23,18 +22,15 @@ revive: earned 2026-10-24 vs kilned set
 
 **Cites.** D-clear-knowledge, P-therapy-as-freedom-gear, A2.
 
-**Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
-
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* Attention is steadied, so clearer cause-maps have room to form; whether it works is an empirical question.
 - *Inside:* I settle, and I can see what is moving in me.
 
-**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; still pending collider; re-park if it overreaches BASE.
+**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; re-park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Clear knowledge of causes* (D-clear-knowledge); *Therapy can be freedom gear* (P-therapy-as-freedom-gear); *A human body, and its mind* (A2)
 - **BASE hinges:** A2
 - **Supports (live):** —
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [practices/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

@@ -18,7 +18,6 @@ qualifiers:
   - 'the same whole: lasted, without a full stop, without branching'
   - 'connectedness: a degree'
 reading: 'Definition, for finite things only (after E1D2; Nature taken as one is outside its domain): a whole is anything that performs each of the seven works as one, at least in part, and its degree is its lowest grade. Zero is the absence of a work, not a chosen cutoff, so the definition can rule things out. Also fixes "member" (shared fate plus function, held while both hold), "level", and "produces itself" (after Maturana & Varela), which is defined without the seven works so that A3 can test them against it. Judged on clarity and fit; adds no confidence to any entry. Definition 12 (from collision_sameness.md) says when a whole at a later time is the same whole: its organization lasted with no full stop and no branching; how connected it is to its past is a separate degree.'
-scored_as: 'Definition of whole, degree, member, level, self-production, and sameness for finite things. Self-production defined without the seven works. Judged on clarity and fit; adds no confidence.'
 status: base (locked)
 ---
 
@@ -87,5 +86,4 @@ Its members may be replaced meanwhile. How far the later whole is *connected* to
 - **Rests on:** *What exists* (D-exist); *Work, and the seven works* (D-work)
 - **Supports:** *The seven works sort things the way self-production does* (A3); *The society I live in is a whole to a degree* (A4); *A whole at one level, a part at the next* (P1); *A collective mind happens* (P2); *Affect, and change of power* (D-affect); *Degree of whole tracks degree of freedom only loosely* (P19)
 - **Supports (expansion):** D-cell, D-common-notion-here, D-duration, D-family-whole, D-firm, D-member-degree, D-organism, D-sameness-later, D-whole-degree-scale, D-work-F1, D-work-F2, D-work-F3, D-work-F4, D-work-F5, D-work-F6, D-work-F7, P-aging, P-amnesia, P-body-lasts, P-brain-death, P-ecosystem-degree, P-energy-intake, P-injury-lowers-degree, P-internet-memory, P-member-vs-citizen, P-repair-raises-degree, P-war-drops-degree, P-weakest-work-rules
-- **Cap:** definition; adds nothing
-- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md)
+- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md)

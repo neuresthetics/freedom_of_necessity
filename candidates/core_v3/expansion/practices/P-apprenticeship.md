@@ -3,7 +3,6 @@ id: P-apprenticeship
 type: expansion
 kind: proposition
 title: Apprenticeship transfers embodied habits
-confidence: pending (collider)
 cites: [D-tool, D-habit-body, D-teaching]
 grows_from: practice
 group: practices
@@ -22,18 +21,15 @@ revive: earned 2026-10-24 vs kilned set
 
 **Cites.** D-tool, D-habit-body, D-teaching.
 
-**Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
-
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* Embodied habits move from one body into another through shared practice.
 - *Inside:* My hands learn what I could not have learned from words.
 
-**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; still pending collider; re-park if it overreaches BASE.
+**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; re-park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Tool* (D-tool); *Bodily habit* (D-habit-body); *Teaching* (D-teaching)
 - **BASE hinges:** —
 - **Supports (live):** —
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [practices/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

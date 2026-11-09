@@ -3,7 +3,6 @@ id: P-exile
 type: expansion
 kind: proposition
 title: Exile cuts membership mid-stream
-confidence: pending (collider)
 cites: [A4, D-member-degree, D-affect]
 grows_from: A4
 group: practices
@@ -22,18 +21,15 @@ revive: earned 2026-10-24 vs kilned set
 
 **Cites.** A4, D-member-degree, D-affect.
 
-**Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
-
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* Membership in the society is cut, while the organism's works go on.
 - *Inside:* I am still here, and I no longer belong there.
 
-**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; still pending collider; re-park if it overreaches BASE.
+**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; re-park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *The society I live in is a whole to a degree* (A4); *Degree of membership* (D-member-degree); *Affect, and change of power* (D-affect)
 - **BASE hinges:** A4, D-affect
 - **Supports (live):** *Refugees are members cut from one whole seeking another* (P-refugee)
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [practices/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

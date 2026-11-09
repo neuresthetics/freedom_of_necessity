@@ -3,7 +3,6 @@ id: P-rumor
 type: expansion
 kind: proposition
 title: Rumor is confused society-level memory
-confidence: pending (collider)
 cites: [P2, D-confused-knowledge, P-propaganda-bondage]
 grows_from: P2/P4
 group: language_comm
@@ -22,14 +21,11 @@ revive: earned 2026-10-24 vs kilned set
 
 **Cites.** P2, D-confused-knowledge, P-propaganda-bondage.
 
-**Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
-
-**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; still pending collider; re-park if it overreaches BASE.
+**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; re-park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *A collective mind happens* (P2); *Confused knowledge of causes* (D-confused-knowledge); *Propaganda is bondage at society scale* (P-propaganda-bondage)
 - **BASE hinges:** P2
 - **Supports (live):** —
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [language_comm/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

@@ -11,7 +11,6 @@ qualifiers:
   - 'adequate cause (report)'
   - 'could-have-done-otherwise not required'
   - 'adds no confidence'
-scored_as: 'Definition of "free" in two senses used by the book. Strict sense (E1D7): a thing is free when it exists and acts from the necessity of its own nature alone; only Nature taken as one meets it (report; full def parked at PARKED_VOLUME/D-Nature.md). Degree sense (the book''s working sense for finite agents): an agent is freer to the degree that what it does follows from its own organization (how its components are arranged and act on one another; A2, D-work Definition 3) and from clear knowledge of the causes of what it does. "Could have done otherwise, given all that came before" is not part of either sense. Judged on clarity and fit; adds no confidence to any entry.'
 status: base (locked)
 ---
 
@@ -35,7 +34,7 @@ status: base (locked)
 
 **What D-free leaves out.**
 
-- *Could-have-done-otherwise.* Neither sense requires that, given all that came before, the agent could have done otherwise. That demand belongs to the libertarian side of the collider, not to this definition.
+- *Could-have-done-otherwise.* Neither sense requires that, given all that came before, the agent could have done otherwise. That demand belongs to the libertarian objection, not to this definition.
 - *Feeling.* D-free does not say why anything is felt. A2's limit stays open.
 - *Ultimate responsibility.* No finite thing is its own cause (E1P28; A5). Forward-looking responsibility is a norm (verse 146†), not part of the definition.
 - *Society's freedom.* Verse 151‡ extends the degree sense to A4's society as a conjecture; D-free does not settle it.
@@ -44,7 +43,7 @@ status: base (locked)
 
 **Limit.** This is a definition. It fixes what "free" means in the book. It does not make P3 or any claim more likely.
 
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* What this body does follows from its own organization and from ideas in it that track the causes of what it does.
 - *Inside:* I act from what I am, and I see why I act.
 
@@ -55,5 +54,4 @@ status: base (locked)
 - **Rests on:** *What "I" names* (D-I); *What exists* (D-exist); *Work, and the seven works* (D-work); *Every event is caused* (A5)
 - **Supports:** *Freedom by degrees under necessity* (P3); *Affect, and change of power* (D-affect); *Bondage* (D-bondage); *Blessedness* (D-blessedness); *Bondage is acting from what is outside* (P4); *Blessedness is the power itself* (P5); *Degree of whole tracks degree of freedom only loosely* (P19); *Society can be freer without feeling* (P21)
 - **Supports (expansion):** D-Nature-one, D-adequate-cause-here, D-clear-knowledge, D-confused-knowledge, D-degree-freedom-scale, D-habit-body, D-strict-free, P-exit-voice, P-title-claim
-- **Cap:** definition; adds nothing
-- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md)
+- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md)

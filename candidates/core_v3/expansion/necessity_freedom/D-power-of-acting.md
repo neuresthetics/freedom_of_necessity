@@ -3,7 +3,6 @@ id: D-power-of-acting
 type: expansion
 kind: definition
 title: Power of acting
-confidence: pending (collider)
 cites: [D-affect, D-blessedness, P3]
 grows_from: D-affect / P5
 group: necessity_freedom
@@ -21,18 +20,15 @@ kiln: 2026-10-24 strongest half
 
 **Cites.** D-affect, D-blessedness, P3.
 
-**Cap.** Pending; cannot exceed weakest scored cite among BASE hinges it rests on (once collider runs). Definitions add no score.
-
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* The organization's works and its clear maps of causes succeed together, to some degree.
 - *Inside:* I am able, to some degree, and some of that ability is my own seeing.
 
-**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
+**Failure / limit.** Survived kiln (strongest half). Park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Affect, and change of power* (D-affect); *Blessedness* (D-blessedness); *Freedom by degrees under necessity* (P3)
 - **BASE hinges:** D-affect, D-blessedness, P3
 - **Supports (live):** *Gratitude* (D-gratitude); *Joy* (D-joy); *Meaning as local significance for power* (D-meaning-local); *Right as power in a whole* (D-right-power); *Sadness* (D-sadness)
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [necessity_freedom/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

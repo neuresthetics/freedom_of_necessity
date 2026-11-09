@@ -10,7 +10,6 @@ qualifiers:
   - 'servitude'
   - 'outside causes'
   - 'adds no confidence'
-scored_as: 'Definition: bondage (servitude) is acting from outside causes or from affects whose causes are unclear — the inverse of degree-freedom (D-free Definition 15). Adds no confidence. P4 derives the proposition; this entry only fixes the word.'
 status: base (locked)
 ---
 **Bondage** *(definition, id: D-bondage)*.
@@ -25,7 +24,7 @@ status: base (locked)
 
 **Limit.** Definition. Adds no confidence.
 
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* What the agent does follows from causes outside it, or from changes in it whose causes it does not track.
 - *Inside:* I am pushed, or I am driven by something I cannot name.
 
@@ -36,5 +35,4 @@ status: base (locked)
 - **Rests on:** *Freedom, strict and by degree* (D-free); *Affect, and change of power* (D-affect)
 - **Supports:** *Bondage is acting from what is outside* (P4)
 - **Supports (expansion):** D-degree-freedom-scale, P-addiction, P-compulsion, P-debt-bondage
-- **Cap:** definition; adds nothing
-- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md) · [CAPS.md](CAPS.md)
+- **Live chain:** [CHAIN.md](CHAIN.md) · [DEPS.md](DEPS.md)

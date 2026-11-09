@@ -3,7 +3,6 @@ id: D-illusion
 type: expansion
 kind: definition
 title: Illusion
-confidence: pending (collider)
 cites: [D-error, D-imagination-know]
 grows_from: knowledge
 group: error_illusion
@@ -22,18 +21,15 @@ kiln: 2026-10-24 strongest half
 
 **Cites.** D-error, D-imagination-know.
 
-**Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
-
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* A standing error is built into how the organization perceives.
 - *Inside:* It just looks that way, and keeps looking that way even when I know better.
 
-**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
+**Failure / limit.** Survived kiln (strongest half). Park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Error* (D-error); *Imagination (first kind of knowing)* (D-imagination-know)
 - **BASE hinges:** —
 - **Supports (live):** *The feeling of uncaused will is illusion under A5* (P-free-will-illusion)
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [error_illusion/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

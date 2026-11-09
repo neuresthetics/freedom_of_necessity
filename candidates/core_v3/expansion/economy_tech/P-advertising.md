@@ -3,7 +3,6 @@ id: P-advertising
 type: expansion
 kind: proposition
 title: Advertising targets desire with outside causes
-confidence: pending (collider)
 cites: [D-desire, P4, D-platform]
 grows_from: P4
 group: economy_tech
@@ -22,18 +21,15 @@ revive: earned 2026-10-24 vs kilned set
 
 **Cites.** D-desire, P4, D-platform.
 
-**Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
-
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* An engineered signal from outside changes what this organization desires.
 - *Inside:* I want it, and the wanting feels like my own.
 
-**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; still pending collider; re-park if it overreaches BASE.
+**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; re-park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Desire* (D-desire); *Bondage is acting from what is outside* (P4); *Platform as attention and signal whole* (D-platform)
 - **BASE hinges:** P4
 - **Supports (live):** —
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [economy_tech/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

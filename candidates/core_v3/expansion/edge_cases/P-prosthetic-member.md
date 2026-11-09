@@ -3,7 +3,6 @@ id: P-prosthetic-member
 type: expansion
 kind: proposition
 title: A prosthetic can become a member-tool
-confidence: pending (collider)
 cites: [D-member-degree, A2, A3]
 grows_from: member
 group: edge_cases
@@ -22,18 +21,15 @@ revive: earned 2026-10-24 vs kilned set
 
 **Cites.** D-member-degree, A2, A3.
 
-**Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
-
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* With skilled use, the prosthetic is bound more tightly into the body's works.
 - *Inside:* With practice, I stop noticing it and just move.
 
-**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; still pending collider; re-park if it overreaches BASE.
+**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; re-park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Degree of membership* (D-member-degree); *A human body, and its mind* (A2); *The seven works sort things the way self-production does* (A3)
 - **BASE hinges:** A2, A3
 - **Supports (live):** *Cyborg membership blends tool and organism* (P-cyborg)
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [edge_cases/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

@@ -6,9 +6,14 @@ The live chain is the **20** strongest hinges under this folder. See [CHAIN.md](
 
 ## Parked volume (not deleted)
 
-**72** entries from the 2026-10-24 volume-expansion pass were moved to [PARKED_VOLUME/](PARKED_VOLUME/). Index: [PARKED_VOLUME/INDEX.md](PARKED_VOLUME/INDEX.md).
+**72** entries from the 2026-10-24 volume-expansion pass, plus **2** scoring-method entries parked on 2026-11-09, are under [PARKED_VOLUME/](PARKED_VOLUME/). Index: [PARKED_VOLUME/INDEX.md](PARKED_VOLUME/INDEX.md).
 
 Includes: PR1; D-Nature; D-strive; substance/attribute/mode; causality variants (A6–A9, P6–P7…); kinds of knowledge; named-affect catalog; good/bad/virtue extras; politics/state; eternity; OP1 / P18 / consciousness / level def; and other thin props.
+
+
+## Parked 2026-11-09 (harness scores dropped)
+
+`D-collider` and `D-certainty-grades` were moved to [PARKED_VOLUME/](PARKED_VOLUME/) when numeric scores were dropped from the process. Not deleted. The collision record stays in METHOD.md. `D-declared-reading` remains live, rewritten without score language.
 
 Core v2 archive remains at [candidates/core_v2/](../core_v2/). Freedom collision archive: [candidates/freedom/](../freedom/).
 

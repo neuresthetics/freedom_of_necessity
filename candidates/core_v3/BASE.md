@@ -4,7 +4,7 @@
 
 **Locked:** 2026-10-24 Pacific (America/Los_Angeles). Author: lock in that base chain, save it, then radical expand from it.
 
-**Count: 20.** Only A1 scored (1.0). Everything else pending collider.
+**Count: 20.** A1 is the self-evident root. Numeric scores were dropped on 2026-11-09.
 
 This file is the frozen snapshot of the pruned + hyper-connected live set. Live expansion grows in sibling folders / later CHAIN sections; the BASE rows stay the seed-spine.
 
@@ -14,7 +14,7 @@ This file is the frozen snapshot of the pruned + hyper-connected live set. Live 
 |---|---|---|---|---|
 | 1 | [What "I" names](D-I.md) | D-I | definition | names the subject of A1 |
 | 2 | [What exists](D-exist.md) | D-exist | definition | says what going-on means |
-| 3 | [I exist](A1.md) | A1 | root | root, 1.0 |
+| 3 | [I exist](A1.md) | A1 | root | root, self-evident |
 | 4 | [A human body, and its mind](A2.md) | A2 | axiom, empirical | body + first-person mind hinge |
 | 5 | [Work, and the seven works](D-work.md) | D-work | definition | seven works vocabulary |
 | 6 | [Whole, degree, member, level, self-production, sameness](D-whole.md) | D-whole | definition | degree / member / level measure |
@@ -36,7 +36,7 @@ This file is the frozen snapshot of the pruned + hyper-connected live set. Live 
 ## Spine (order of rest)
 
 ```
-What "I" names → What exists → I exist (1.0)
+What "I" names → What exists → I exist (root)
         → A human body, and its mind
         → Work / Whole / The seven works sort…
         → Society is a whole → Levels → Collective mind
@@ -48,7 +48,7 @@ What "I" names → What exists → I exist (1.0)
         → Society freer without feeling
 ```
 
-## Caps (frozen)
+## Historical: caps (frozen at lock; not in force after 2026-11-09)
 
 | Entry | Cap rule |
 |---|---|
@@ -68,7 +68,7 @@ What "I" names → What exists → I exist (1.0)
 
 ## Rule after lock
 
-1. These twenty are **BASE**. Titles, ids, and cap rules stay unless the author reopens the base.
+1. These twenty are **BASE**. Titles and ids stay unless the author reopens the base.
 2. New work is **expansion from BASE** — new ids, new folders OK, human titles first.
 3. Do not blindly un-park `PARKED_VOLUME/`; re-grow only when the growth cites the base.
 4. Promotion into `entries/` still needs a separate author OK.

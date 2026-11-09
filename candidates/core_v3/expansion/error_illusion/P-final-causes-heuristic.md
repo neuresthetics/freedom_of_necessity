@@ -3,7 +3,6 @@ id: P-final-causes-heuristic
 type: expansion
 kind: proposition
 title: Final-cause talk is often heuristic imagination
-confidence: pending (collider)
 cites: [D-Nature-one, D-imagination-know, A5]
 grows_from: Nature
 group: error_illusion
@@ -22,18 +21,15 @@ kiln: 2026-10-24 strongest half
 
 **Cites.** D-Nature-one, D-imagination-know, A5.
 
-**Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
-
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* The organization reads its own needs into the order of causes, as if events aimed at it.
 - *Inside:* It seems made for me, or done to me.
 
-**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
+**Failure / limit.** Survived kiln (strongest half). Park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Nature taken as one* (D-Nature-one); *Imagination (first kind of knowing)* (D-imagination-know); *Every event is caused* (A5)
 - **BASE hinges:** A5
 - **Supports (live):** *Nihilism often confuses missing cosmic purpose with missing local good* (P-nihilism-confused)
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [error_illusion/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

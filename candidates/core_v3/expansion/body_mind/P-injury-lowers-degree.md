@@ -3,7 +3,6 @@ id: P-injury-lowers-degree
 type: expansion
 kind: proposition
 title: Injury can lower whole-degree and freedom-degree together
-confidence: pending (collider)
 cites: [A2, D-whole, P3, P19]
 grows_from: A2 + P19 wedge
 group: body_mind
@@ -21,18 +20,15 @@ kiln: 2026-10-24 strongest half
 
 **Cites.** A2, D-whole, P3, P19.
 
-**Cap.** Pending; cannot exceed weakest scored cite among BASE hinges it rests on (once collider runs). Definitions add no score.
-
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* Damage drops a work's grade; the body holds together less well, and less of what it does follows from its own organization and clear maps.
 - *Inside:* I can do less, and less of what I do feels like mine.
 
-**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
+**Failure / limit.** Survived kiln (strongest half). Park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *A human body, and its mind* (A2); *Whole, degree, member, level, self-production, sameness* (D-whole); *Freedom by degrees under necessity* (P3); *Degree of whole tracks degree of freedom only loosely* (P19)
 - **BASE hinges:** A2, D-whole, P3, P19
 - **Supports (live):** —
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [body_mind/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

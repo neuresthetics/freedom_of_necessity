@@ -8,148 +8,128 @@ Parked ids are not nodes. Edges = frontmatter `cites` ∪ `terms` (plus live Hyp
 1. Every `cites` / `terms` / Hyper-connect rests-on id must be **live**.
 2. No cycles in the rests-on graph.
 3. Non-roots (`D-I`, `D-exist`, `A1` excepted) need ≥1 live rests-on.
-4. Cap documented on every entry (see [CAPS.md](CAPS.md)).
-5. BASE titles/ids/cap rules stay locked; Supports (expansion) is connective tissue only.
+4. BASE titles/ids stay locked; Supports (expansion) is connective tissue only.
+5. Numeric scores were dropped on 2026-11-09; entries are judged by these checks, citations, and coherence. See [METHOD.md](../../METHOD.md). [CAPS.md](CAPS.md) is historical.
 
 ## BASE reverse index (who rests on each)
 
 ### D-I — What "I" names
 
 - **Rests on:** —
-- **Cap:** definition; adds nothing
 - **Supports (BASE):** A1, A2, A4, P1, D-free, P3
 - **Supports (expansion, 1):** D-first-person
 
 ### D-exist — What exists
 
 - **Rests on:** —
-- **Cap:** definition; adds nothing
 - **Supports (BASE):** A1, D-work, D-whole, A3, A4, P2, A5, D-free
 - **Supports (expansion, 5):** D-cause, D-death, D-duration, P-body-lasts, P-sleep-and-A1
 
 ### A1 — I exist
 
 - **Rests on:** D-I, D-exist
-- **Cap:** 1.0; caps nothing
 - **Supports (BASE):** A2, P3
-- **Supports (expansion, 18):** D-certainty-grades, D-collider, D-doubt-method, D-substance-sketch, OP-why-anything, P-aging, P-amnesia, P-automation, P-coma, P-conjoined, P-copy-not-A1-transfer, P-digital-A1, P-expansion-cites-base, P-extinction, P-other-bodies, P-sleep-and-A1, PR-one-chain, PR-park-not-delete
+- **Supports (expansion, 16):** D-doubt-method, D-substance-sketch, OP-why-anything, P-aging, P-amnesia, P-automation, P-coma, P-conjoined, P-copy-not-A1-transfer, P-digital-A1, P-expansion-cites-base, P-extinction, P-other-bodies, P-sleep-and-A1, PR-one-chain, PR-park-not-delete
 
 ### A2 — A human body, and its mind
 
 - **Rests on:** A1, D-I
-- **Cap:** own score of clause (a); A1 caps nothing
 - **Supports (BASE):** A4, P1, P3, D-affect, P4, P5
 - **Supports (expansion, 52):** D-adequate-cause-here, D-bad-relative, D-brain, D-cell, D-clear-knowledge, D-death, D-declared-reading, D-desire, D-first-person, D-friendship, D-future-self, D-good-relative, D-habit-body, D-immune, D-meaning-local, D-meditation, D-memory-personal, D-mode-finite, D-narrative-self, D-organism, D-sameness-later, D-strive, D-upload-sketch, OP-agi-freedom, OP-feeling, OP-machine-feeling, P-aging, P-body-lasts, P-brain-death, P-brain-organoid, P-childhood-continuity, P-chimera, P-choice-caused, P-coma, P-compulsion, P-conjoined, P-cyborg, P-digital-A1, P-eternity-sketch, P-expansion-cites-base, P-injury-lowers-degree, P-locked-in, P-microbiome, P-mind-tracks-body, P-other-bodies, P-pregnancy-levels, P-prosthetic-member, P-solidarity, P-split-brain, P-translation, P-transplant, P-tumor-edge
 
 ### D-work — Work, and the seven works
 
 - **Rests on:** D-exist
-- **Cap:** definition; adds nothing
 - **Supports (BASE):** D-whole, A3, A4, P1, P2, D-free, P3, D-affect, P4
 - **Supports (expansion, 28):** D-death, D-desire, D-memory-personal, D-property, D-strive, D-tool, D-war, D-work-F1, D-work-F2, D-work-F3, D-work-F4, D-work-F5, D-work-F6, D-work-F7, P-addiction, P-automation, P-evolution, P-habit-can-bond, P-law-as-memory, P-locked-in, P-machine-not-self-producer, P-pain, P-pity-mixed, P-repair-raises-degree, P-supply-chain, P-take-apart-test, P-virus-edge, PR-same-requirement
 
 ### D-whole — Whole, degree, member, level, self-production, sameness
 
 - **Rests on:** D-exist, D-work
-- **Cap:** definition; adds nothing
 - **Supports (BASE):** A3, A4, P1, P2, D-affect, P19
 - **Supports (expansion, 28):** D-cell, D-common-notion-here, D-duration, D-family-whole, D-firm, D-member-degree, D-organism, D-sameness-later, D-whole-degree-scale, D-work-F1, D-work-F2, D-work-F3, D-work-F4, D-work-F5, D-work-F6, D-work-F7, P-aging, P-amnesia, P-body-lasts, P-brain-death, P-ecosystem-degree, P-energy-intake, P-injury-lowers-degree, P-internet-memory, P-member-vs-citizen, P-repair-raises-degree, P-war-drops-degree, P-weakest-work-rules
 
 ### A3 — The seven works sort things the way self-production does
 
 - **Rests on:** D-exist, D-work, D-whole
-- **Cap:** own score (cites nothing scored)
 - **Supports (BASE):** P1
 - **Supports (expansion, 22):** D-declared-reading, D-gene-memory, D-homeostasis, D-organism, D-tool, P-automation, P-cancer-defection, P-chimera, P-colony-whole, P-development, P-ecosystem-degree, P-evolution, P-machine-not-self-producer, P-prosthetic-member, P-robot-member, P-swarm-robotics, P-symbiosis, P-take-apart-test, P-tumor-edge, P-virus-edge, P-weakest-work-rules, PR-same-requirement
 
 ### A4 — The society I live in is a whole to a degree
 
 - **Rests on:** A2, D-I, D-exist, D-work, D-whole
-- **Cap:** min(weakest work-row, A2)
 - **Supports (BASE):** P1, P2, P21
 - **Supports (expansion, 35):** D-family-whole, D-firm, D-institution, D-justice-gear, D-language, D-member-degree, D-money, D-peace, D-property, D-right-power, D-sacred-sketch, D-shame, D-state-whole, D-war, OP-best-regime, P-civil-war, P-corporation-without-feeling, P-data-body, P-debt-bondage, P-energy-intake, P-exile, P-exit-voice, P-internet-memory, P-latency, P-law-as-memory, P-levels-stack, P-market-signaling, P-member-vs-citizen, P-military-whole, P-punishment-cause, P-refugee, P-robot-member, P-solidarity, P-tyranny-bondage, P-weak-whole-high-freedom
 
 ### P1 — A whole at one level, a part at the next
 
 - **Rests on:** A2, A3, A4, D-I, D-work, D-whole
-- **Cap:** min(A2, A3, A4)
 - **Supports (BASE):** P19
 - **Supports (expansion, 10):** P-cancer-defection, P-colony-whole, P-conjoined, P-ecosystem-degree, P-levels-stack, P-member-vs-citizen, P-plural-goods, P-pregnancy-levels, P-symbiosis, P-tumor-edge
 
 ### P2 — A collective mind happens
 
 - **Rests on:** A4, D-exist, D-work, D-whole
-- **Cap:** min(A4 control/signaling/memory, A2 via A4)
 - **Supports (BASE):** P21
 - **Supports (expansion, 32):** D-art-signal, D-brain, D-contract-signal, D-institution, D-interface, D-language, D-money, D-platform, D-public-affect, D-state-whole, D-war, OP-group-mind-feel, P-ai-collective, P-alignment-freedom, P-civil-war, P-collective-freedom-rises, P-corporation-without-feeling, P-crypto-memory, P-cult-bondage, P-deterrence, P-internet-memory, P-latency, P-law-as-memory, P-market-signaling, P-open-source, P-police, P-promise, P-propaganda-bondage, P-reconciliation, P-rumor, P-surveillance, P-translation
 
 ### A5 — Every event is caused
 
 - **Rests on:** D-exist
-- **Cap:** own score
 - **Supports (BASE):** D-free, P3, P4, P5
 - **Supports (expansion, 24):** D-Nature-one, D-adequate-cause-here, D-cause, D-contingent-here, D-courage-practice, D-future-self, D-mode-finite, D-strict-free, OP-why-nature, P-apparent-contingency, P-blame-reframed, P-choice-caused, P-evolution, P-final-causes-heuristic, P-free-will-illusion, P-just-war-skeptical, P-luck-is-incomplete, P-miracle-denied, P-no-uncaused-will, P-prediction-not-freedom, P-punishment-cause, P-simulation-causes, P-title-claim, P-tragedy
 
 ### D-free — Freedom, strict and by degree
 
 - **Rests on:** D-I, D-exist, D-work, A5
-- **Cap:** definition; adds nothing
 - **Supports (BASE):** P3, D-affect, D-bondage, D-blessedness, P4, P5, P19, P21
 - **Supports (expansion, 9):** D-Nature-one, D-adequate-cause-here, D-clear-knowledge, D-confused-knowledge, D-degree-freedom-scale, D-habit-body, D-strict-free, P-exit-voice, P-title-claim
 
 ### P3 — Freedom by degrees under necessity
 
 - **Rests on:** A1, A2, A5, D-I, D-work, D-free
-- **Cap:** min(A2, A5)
 - **Supports (BASE):** P4, P5, P19, P21
 - **Supports (expansion, 46):** D-clear-knowledge, D-courage-practice, D-degree-freedom-scale, D-education, D-habit-body, D-habit-time, D-intuition-know, D-justice-gear, D-power-of-acting, D-reason-know, D-right-power, D-teaching, OP-agi-freedom, P-active-vs-passive, P-aging, P-anger-can-repair, P-blame-reframed, P-choice-caused, P-collective-freedom-rises, P-democracy-bet, P-exit-voice, P-expansion-cites-base, P-free-will-illusion, P-freer-knows-more-causes, P-habit-can-bond, P-habit-stack, P-injury-lowers-degree, P-journal, P-military-whole, P-more-reason-freer, P-no-miracle-ethics, P-no-uncaused-will, P-overconfidence, P-prediction-not-freedom, P-promise, P-reconciliation, P-regret, P-rehearsal, P-science-as-freedom-gear, P-simulation-causes, P-strong-whole-low-freedom, P-therapy-as-freedom-gear, P-title-claim, P-update, P-virtue-is-power, P-weak-whole-high-freedom
 
 ### D-affect — Affect, and change of power
 
 - **Rests on:** D-work, D-whole, D-free, A2
-- **Cap:** definition; adds nothing
 - **Supports (BASE):** D-bondage, D-blessedness, P4, P5
 - **Supports (expansion, 24):** D-art-signal, D-bad-relative, D-compassion, D-confused-knowledge, D-desire, D-fear-affect, D-good-relative, D-hate-affect, D-hope-affect, D-joy, D-love-affect, D-meaning-local, D-power-of-acting, D-pride-affect, D-public-affect, D-sacred-sketch, D-sadness, D-wonder, P-active-vs-passive, P-anger-can-repair, P-exile, P-fever, P-mind-tracks-body, P-pain
 
 ### D-bondage — Bondage
 
 - **Rests on:** D-free, D-affect
-- **Cap:** definition; adds nothing
 - **Supports (BASE):** P4
 - **Supports (expansion, 4):** D-degree-freedom-scale, P-addiction, P-compulsion, P-debt-bondage
 
 ### D-blessedness — Blessedness
 
 - **Rests on:** D-free, D-affect
-- **Cap:** definition; adds nothing
 - **Supports (BASE):** P5
 - **Supports (expansion, 4):** D-power-of-acting, P-blessedness-not-afterlife, P-nihilism-confused, P-virtue-is-power
 
 ### P4 — Bondage is acting from what is outside
 
 - **Rests on:** A2, A5, P3, D-free, D-affect, D-bondage, D-work
-- **Cap:** min(A2, A5, P3)
 - **Supports (BASE):** —
 - **Supports (expansion, 24):** D-bad-relative, D-compassion, D-confused-knowledge, D-lie, P-active-vs-passive, P-addiction, P-advertising, P-anger-can-repair, P-blame-reframed, P-compulsion, P-cult-bondage, P-debt-bondage, P-envy-lowers, P-gaslight, P-habit-can-bond, P-pain, P-pity-mixed, P-police, P-propaganda-bondage, P-strong-whole-low-freedom, P-superstition, P-surveillance, P-therapy-as-freedom-gear, P-tyranny-bondage
 
 ### P5 — Blessedness is the power itself
 
 - **Rests on:** A2, A5, P3, D-free, D-affect, D-blessedness
-- **Cap:** min(A2, A5, P3)
 - **Supports (BASE):** —
 - **Supports (expansion, 9):** D-friendship, D-good-relative, P-blessedness-not-afterlife, P-compassion-freedom, P-death-and-meaning, P-nihilism-confused, P-no-miracle-ethics, P-solidarity, P-virtue-is-power
 
 ### P19 — Degree of whole tracks degree of freedom only loosely
 
 - **Rests on:** P1, P3, D-whole, D-free
-- **Cap:** min(P1, P3)
 - **Supports (BASE):** —
 - **Supports (expansion, 17):** D-whole-degree-scale, OP-best-regime, P-arms-race, P-cult-bondage, P-fever, P-injury-lowers-degree, P-just-war-skeptical, P-locked-in, P-military-whole, P-open-science-society, P-pleasure, P-plural-goods, P-prediction-not-freedom, P-strong-whole-low-freedom, P-surveillance, P-tyranny-bondage, P-weak-whole-high-freedom
 
 ### P21 — Society can be freer without feeling
 
 - **Rests on:** P2, P3, A4, D-free
-- **Cap:** min(P2, P3, A4); conjecture-grade
 - **Supports (BASE):** —
 - **Supports (expansion, 20):** D-peace, D-platform, D-public-affect, OP-abolish-war, OP-best-regime, OP-group-mind-feel, P-ai-collective, P-alignment-freedom, P-arms-race, P-bot-swarm-bondage, P-collective-freedom-rises, P-compassion-freedom, P-corporation-without-feeling, P-democracy-bet, P-llm-signal, P-market-signaling, P-open-science-society, P-open-source, P-propaganda-bondage, P-science-as-freedom-gear
 
@@ -164,9 +144,7 @@ Parked ids are not nodes. Edges = frontmatter `cites` ∪ `terms` (plus live Hyp
 | D-brain | A2, P2 | P-brain-death |
 | D-cause | A5, D-exist | — |
 | D-cell | A2, D-whole | P-chimera, P-transplant |
-| D-certainty-grades | A1, D-collider | — |
 | D-clear-knowledge | D-free, P3, A2 | D-contingent-here, D-doubt-method, D-education, D-imagination-know, D-intuition-know, D-language, D-meditation, D-reason-know, D-teaching, P-apparent-contingency, P-crypto-memory, P-freer-knows-more-causes, P-habit-stack, P-luck-is-incomplete, P-naming, P-regret, P-rehearsal, P-science-as-freedom-gear, P-therapy-as-freedom-gear |
-| D-collider | A1 | D-certainty-grades |
 | D-common-notion-here | D-reason-know, D-whole | — |
 | D-compassion | D-affect, D-joy, P4 | P-compassion-freedom |
 | D-confused-knowledge | D-free, P4, D-affect | D-error, D-imagination-know, D-lie, P-overconfidence, P-pride-confused, P-rumor |

@@ -3,7 +3,6 @@ id: D-immune
 type: expansion
 kind: definition
 title: Immune work as boundary/repair
-confidence: pending (collider)
 cites: [D-work-F1, D-work-F5, A2]
 grows_from: works
 group: biology_deep
@@ -22,14 +21,11 @@ revive: earned 2026-10-24 vs kilned set
 
 **Cites.** D-work-F1, D-work-F5, A2.
 
-**Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
-
-**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; still pending collider; re-park if it overreaches BASE.
+**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; re-park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Work: Boundary* (D-work-F1); *Work: Repair* (D-work-F5); *A human body, and its mind* (A2)
 - **BASE hinges:** A2
 - **Supports (live):** *Fever trades short pain for repair* (P-fever)
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [biology_deep/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

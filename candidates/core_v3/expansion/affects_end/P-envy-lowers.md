@@ -3,7 +3,6 @@ id: P-envy-lowers
 type: expansion
 kind: proposition
 title: Envy lowers power
-confidence: pending (collider)
 cites: [D-sadness, P4]
 grows_from: affect ethics
 group: affects_end
@@ -21,18 +20,15 @@ revive: earned 2026-10-24 vs kilned set
 
 **Cites.** D-sadness, P4.
 
-**Cap.** Pending; cannot exceed weakest scored cite among BASE hinges it rests on (once collider runs). Definitions add no score.
-
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* Another's power rises, and this organization's power falls, the fall traced to that rise.
 - *Inside:* Their gain hurts me, and I know it is their gain that hurts.
 
-**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; still pending collider; re-park if it overreaches BASE.
+**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; re-park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Sadness* (D-sadness); *Bondage is acting from what is outside* (P4)
 - **BASE hinges:** P4
 - **Supports (live):** —
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [affects_end/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

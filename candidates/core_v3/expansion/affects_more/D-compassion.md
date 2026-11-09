@@ -3,7 +3,6 @@ id: D-compassion
 type: expansion
 kind: definition
 title: Compassion
-confidence: pending (collider)
 cites: [D-affect, D-joy, P4]
 grows_from: affect
 group: affects_more
@@ -22,18 +21,15 @@ kiln: 2026-10-24 strongest half
 
 **Cites.** D-affect, D-joy, P4.
 
-**Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
-
-**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b). Unscored: adds no confidence and changes no cap.
+**Mirror (outside / inside).** One event, two descriptions; part of A2's declared reading (b).
 - *Outside:* Another's rise in power of acting changes this organization, and its own power rises with it.
 - *Inside:* Their good fortune moves me, and I am glad.
 
-**Failure / limit.** Survived kiln (strongest half). Still pending collider; park if it overreaches BASE.
+**Failure / limit.** Survived kiln (strongest half). Park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *Affect, and change of power* (D-affect); *Joy* (D-joy); *Bondage is acting from what is outside* (P4)
 - **BASE hinges:** D-affect, P4
 - **Supports (live):** *Compassion can raise joint freedom* (P-compassion-freedom)
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [affects_more/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

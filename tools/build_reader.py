@@ -6,14 +6,14 @@ Usage:
 
 Writes, inside the site checkout:
   book/foreword/index.html   the foreword draft
-  book/poetic/index.html     poetic track, V001-V251
-  book/technical/index.html  technical track, V001-V251
+  book/poetic/index.html     poetic track, V001-V249
+  book/technical/index.html  technical track, V001-V249
   book/index.html            refreshes the "full draft" accordion between
                              <!-- full-draft:start --> and <!-- full-draft:end -->
 
-Harness scores were dropped from the process (2026-11-09). The site build hides
-leftover score, cap, and confidence lines from entry files and renders; the
-entry files themselves are unchanged until a cleanup pass.
+Harness scores were dropped from the process (2026-11-09). Live entries no
+longer carry confidence, cap, or scored_as fields. The site build still hides
+any leftover score wording in older prose or renders.
 
 Needs the `markdown` package (pip install markdown).
 """
@@ -29,7 +29,7 @@ import markdown
 
 GH = "https://github.com/neuresthetics/freedom_of_necessity/blob/main/"
 DR_REL = "candidates/core_v3/variant_sets/set_20261025_B1/dual_render"
-SCORE_NOTE_IDS = {"D-collider", "D-certainty-grades", "D-declared-reading"}
+SCORE_NOTE_IDS = set()
 SCORE_NOTE = "*(Historical: numeric scores were dropped from the process on 2026-11-09; entries are judged by dependency checks, citations, and coherence.)*"
 
 SCORE_RE = re.compile(
@@ -184,14 +184,14 @@ def track_page(book, site, index_html, track, other):
     intro = ("Plain modern lines, one verse per entry. Where someone is there to be described from within, a verse ends with a mirrored couplet: seen from without, seen from within."
              if track == "poetic" else
              "The joints: kind, what each entry rests on, and the claim. Where a person is there to be described from within, the entry also carries an outside / inside pair (A2’s declared reading).")
-    head, foot = shell(index_html, f"{name} track", f"Freedom of Necessity, {track} track, V001–V251.", f"{track}/", 1)
+    head, foot = shell(index_html, f"{name} track", f"Freedom of Necessity, {track} track, V001–V249.", f"{track}/", 1)
     page = head + f'''<main id="main">
   <div class="wrap">
     <article class="construct reader {track}">
       <div class="fly">
         <p class="eyebrow">Freedom of Necessity · dual render</p>
         <h1>{name} track</h1>
-        <p class="tag"><span class="k">V001–V251</span><span class="v">one chain · two doors</span></p>
+        <p class="tag"><span class="k">V001–V249</span><span class="v">one chain · two doors</span></p>
         <p class="lead">{intro}</p>
         <p class="pitch">Same numbers and entry ids as the <a href="../{other}/">{other} track</a>. Start with the <a href="../foreword/">foreword</a>. Source: <a href="{GH.replace("/blob/", "/tree/")}{DR_REL}">dual render on GitHub</a>.</p>
         <nav class="vtoc" aria-label="Verses">{" ".join(toc)}</nav>
@@ -237,7 +237,7 @@ def foreword_page(book, site, index_html):
 
 
 def full_draft(book) -> str:
-    """Foreword + all 251 entries in chain order (V001-V251), full entry text.
+    """Foreword + all 249 entries in chain order (V001-V249), full entry text.
 
     Nested accordions: foreword, each group (BASE first, then each expansion
     group), and each entry inside a group; all collapsed by default.
@@ -331,7 +331,7 @@ def accordion(book, site):
     t = p.read_text(encoding="utf-8")
     block = f'''<!-- full-draft:start -->
     <details class="full-draft" id="full-draft">
-      <summary>Open the full draft, as it is: foreword and all 251 entries in chain order</summary>
+      <summary>Open the full draft, as it is: foreword and all 249 entries in chain order</summary>
       <div class="draft-body">
 {full_draft(book)}
       </div>

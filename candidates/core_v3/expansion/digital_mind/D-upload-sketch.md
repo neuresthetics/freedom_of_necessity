@@ -3,7 +3,6 @@ id: D-upload-sketch
 type: expansion
 kind: definition
 title: Upload sketch
-confidence: pending (collider)
 cites: [A2, D-sameness-later, OP-feeling]
 grows_from: A2 open
 group: digital_mind
@@ -22,14 +21,11 @@ revive: earned 2026-10-24 vs kilned set
 
 **Cites.** A2, D-sameness-later, OP-feeling.
 
-**Cap.** Pending; cannot exceed weakest scored BASE hinge among rests-on (once collider runs). Definitions add no score.
-
-**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; still pending collider; re-park if it overreaches BASE.
+**Failure / limit.** Revived from kiln park after one-by-one check vs kept 142; re-park if it overreaches BASE.
 
 ## Hyper-connect
 - **Rests on:** *A human body, and its mind* (A2); *Same whole later* (D-sameness-later); *Why anything is felt stays open* (OP-feeling)
 - **BASE hinges:** A2
 - **Supports (live):** —
-- **Cap:** pending; ≤ weakest scored BASE hinge among rests-on
 - **Group:** [digital_mind/](./)
 - **Live indexes:** [expansion/INDEX.md](../INDEX.md), [KILNED.md](../../KILNED.md), [CHAIN.md](../../CHAIN.md), [DEPS.md](../../DEPS.md)

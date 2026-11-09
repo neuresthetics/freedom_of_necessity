@@ -1,9 +1,9 @@
-# Dual render — full winner (V001–V251)
+# Dual render — full winner, live V001–V249
 
 **Set:** `set_20261025_B1`  
 **Winner:** golden BASE (Jason confirmed) + full live expansion off BASE following CHAIN  
 **Materialized chain:** `../winner/` (20 BASE + 231 expansion = **251**)  
-**Tracks:** technical + poetic, same V### / entry labels.
+**Tracks:** technical + poetic, same V### / entry labels. Live tracks in this folder were updated 2026-11-09 to **249** verses (`V001`–`V249`) after `D-collider` and `D-certainty-grades` were parked; `../winner/` stays frozen at 251.
 
 | Track | BASE | Expansion |
 |---|---|---|
