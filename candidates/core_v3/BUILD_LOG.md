@@ -524,3 +524,8 @@ No push. No thesis rewrite. Titles unchanged.
 - All 8 flags in [PASS_20261109_mirrors_god.md](PASS_20261109_mirrors_god.md) decided: keep BASE mirrors, V013 placement, V018 wording; label note on D-blessedness and borrowed-word clause in D-Nature-one point 3; P-tragedy retitled "Tragedy is a strong good destroyed under necessity" (propagated); dual-render "Mirror:" header → "Twin track:"; digital entries and roots stay unmirrored; golden/ and winner/ frozen with a snapshot note.
 - **dep_check:** ok. **no push**
 - 2026-11-09: "The person is the mirror": mirrors only where someone is there to be described from within; no N/A slots added to unmirrored entries. Told to readers as a short format note in `drafts/foreword_origin.md`; no change to entries, scholia, verses, or A2. dep_check ok. **no push**
+
+## 2026-11-09 — Harness scores dropped
+
+- Author decision: numeric scores (confidence / cap from harness, collider, lens) are no longer part of the process. Entries are judged by dependency checks, citations, and coherence; the collision record stays. Recorded in METHOD.md and both READMEs. Entry fields left in place pending a cleanup pass; dep_check unchanged.
+- Reader pages on the public site no longer show score, cap, or confidence lines (site build only). New `tools/build_reader.py` builds them; the /book/ page gains a "full draft" accordion.

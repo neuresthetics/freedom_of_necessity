@@ -8,7 +8,7 @@
 [![Snapshot](https://img.shields.io/badge/snapshot-core--v3--v1-lightgrey.svg)](https://github.com/neuresthetics/freedom_of_necessity/releases/tag/core-v3-snapshot-v1)
 
 ```
-status  draft · dual-track verses · core_v3 in play · A1 scored 1.0
+status  draft · dual-track verses · core_v3 in play · no harness scores (2026-11-09)
 tracks  poetic || technical · same V001–V251 · same entry labels
 clone   git clone https://github.com/neuresthetics/freedom_of_necessity.git
 ```
@@ -21,7 +21,7 @@ A book built in Spinoza's geometric manner: definitions, axioms, and proposition
 
 Written and checked with digital intelligence — the author sets the starting point and the rules; Grok drafts and checks each step. The collision record *is* the book: what survives stays; what fails is parked or rewritten in the open.
 
-Public site: [neuresthetics.github.io/book/](https://neuresthetics.github.io/book/)
+Public site: [neuresthetics.github.io/book/](https://neuresthetics.github.io/book/). Rebuild the reader pages with `python3 tools/build_reader.py --site <path-to-site-checkout>`.
 
 ---
 
@@ -64,7 +64,7 @@ An I that exists — and only that is beyond revision. On evidence, this I is a 
 | **Live work** | [candidates/core_v3/](candidates/core_v3/README.md) · snapshot `core-v3-snapshot-v1` · BASE 20 locked · expansion 231 · 17 kiln leftovers parked |
 | **Readable face** | [drafts/verses_v3/](drafts/verses_v3/) — dual tracks |
 | **Still in `entries/`** | Core v2 (twelve entries); promotion of core v3 needs a separate author OK |
-| **Scores** | Only **A1** at 1.0; everything else pending collider |
+| **Scores** | Dropped from the process (2026-11-09); entries judged by dependency checks, citations, and coherence. See [METHOD.md](METHOD.md) |
 | **Parked** | `PARKED_VOLUME/` (untouched volume prune) |
 
 ### BASE spine (core v3, locked)
@@ -96,11 +96,11 @@ Full statements, caps, deps: [CHAIN.md](candidates/core_v3/CHAIN.md) · [CAPS.md
 
 ### How checking works
 
-Each entry is judged against the entries it cites, or against its own evidence. Confidence cannot exceed the weakest support down the chain. Definitions add no score; a declared reading adds nothing. Full rules: [METHOD.md](METHOD.md).
+Each entry is judged against the entries it cites, or against its own evidence, and by coherence with the book at large. Numeric scores were dropped on 2026-11-09; dependency checks and the collision record remain. A declared reading adds nothing. Full rules: [METHOD.md](METHOD.md).
 
 ### Next: the collider
 
-A minimal collider replaces the old lens. For each entry: steel man + strongest counter, both in geometric form, judged side by side. Code checks citations and quoted spans; the checker does not check its own citations. No harness scores yet beyond A1.
+A minimal collider replaces the old lens. For each entry: steel man + strongest counter, both in geometric form, judged side by side. Code checks citations and quoted spans; the checker does not check its own citations. It produces no scores (dropped 2026-11-09).
 
 ---
 

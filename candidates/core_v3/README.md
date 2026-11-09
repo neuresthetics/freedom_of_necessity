@@ -85,7 +85,7 @@ Each live file has a **Hyper-connect** block: Rests on / Supports / Cap.
 0. **BASE is locked.** The twenty in [BASE.md](BASE.md) are the seed-spine. Expand from them; do not rewrite without author reopen.
 1. **Root:** *I exist* (A1) at 1.0.
 2. **One chain.** No split tracks. Declared readings stay inside their entries and are unscored.
-3. **Scores pending** until the collider runs (except A1).
+3. **No scores.** Harness scores were dropped from the process (2026-11-09); entries are judged by dependency checks, citations, and coherence. Old confidence/cap fields are historical until a cleanup pass.
 4. **Extend from this seed.** Spinoza's ground is covered by extending outward, not by copying the *Ethics* part-order as axioms.
 5. **Volume over polish** when the author says so — then **prune to strongest** when asked (2026-10-24 PT).
 6. **Park, don't delete.** Soft or catalog volume goes to [PARKED_VOLUME/](PARKED_VOLUME/).

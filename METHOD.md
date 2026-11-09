@@ -1,4 +1,14 @@
-# Method: what the confidence numbers mean
+# Method
+
+## Decision 2026-11-09: harness scores dropped
+
+Numeric scores are no longer part of the process. The harness, collider, and lens will not produce confidence or cap numbers for entries. Entries are judged by dependency checks (every cite live, no cycles; `candidates/core_v3/tools/dep_check.py`), by their citations and evidence, and by coherence with the book at large. The collision record stays: a claim and its strongest counter are still argued in the open, and what fails is parked or rewritten. A1 stays the root as self-evident, not as a number. Older `confidence`, `Cap`, and `scored_as` fields in entry files are historical until a cleanup pass removes them.
+
+The rest of this note is kept as history.
+
+---
+
+## History: what the confidence numbers meant
 
 The book proceeds in the geometric manner: definitions and axioms first, then propositions derived from them. Each entry carries a confidence between 0 and 1. This note says what those numbers are, and what they are not.
 
