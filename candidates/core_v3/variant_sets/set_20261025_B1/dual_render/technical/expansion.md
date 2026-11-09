@@ -247,12 +247,12 @@ That other human bodies exist is evidence, not A1; their first-person certainty 
 **Verse.**
 In dreamless sleep A1 is not asserted; its certainty returns when thinking returns. Index label `P-sleep-and-A1`; rests-on as above. One chain; no parallel axiom root beside A1.
 
-
-# Group `wholes`
-
 **Mirror (outside / inside; A2(b) reading, unscored).**
 - *Outside:* In dreamless sleep the body's works go on, but the thinking A1 needs is not going on.
 - *Inside:* There is nothing to report from there; on waking I find I exist again.
+
+
+# Group `wholes`
 
 
 ---
@@ -1151,12 +1151,12 @@ How predictable an agent is does not settle degree-freedom; a freer agent can st
 **Verse.**
 Practices that replace confused cause-maps with clearer ones can raise degree-freedom without denying A5. Index label `P-therapy-as-freedom-gear`; rests-on as above. One chain; no parallel axiom root beside A1.
 
-
-# Group `affects_end`
-
 **Mirror (outside / inside; A2(b) reading, unscored).**
 - *Outside:* Confused cause-maps in the organization are replaced with clearer ones, and less of what it does follows from outside or from fog.
 - *Inside:* I see where that came from, and it has less hold on me.
+
+
+# Group `affects_end`
 
 
 ---
@@ -1480,12 +1480,12 @@ Pity is sadness at another's harm; it can guide repair-work or sink both into bo
 **Verse.**
 Virtue here is not a separate prize; it is acting from one's organization with rising power (toward blessedness). Index label `P-virtue-is-power`; rests-on as above. One chain; no parallel axiom root beside A1.
 
-
-# Group `nature_knowledge`
-
 **Mirror (outside / inside; A2(b) reading, unscored).**
 - *Outside:* The agent acts from its own organization, and its power of acting rises.
 - *Inside:* I do what I am able to do, from what I see, and I grow more able.
+
+
+# Group `nature_knowledge`
 
 
 ---
@@ -2402,12 +2402,12 @@ Regret marks a clearer map of past causes joined to sadness; it can feed freer r
 **Verse.**
 Deliberate rehearsal can move clearer cause-guided action into habit, raising later degree-freedom. Index label `P-rehearsal`; rests-on as above. One chain; no parallel axiom root beside A1.
 
-
-# Group `edge_cases`
-
 **Mirror (outside / inside; A2(b) reading, unscored).**
 - *Outside:* A clearer cause-guided action is repeated until it becomes habit.
 - *Inside:* I practice until I don't have to think about it.
+
+
+# Group `edge_cases`
 
 
 ---
@@ -3192,12 +3192,12 @@ Compassion that clarifies causes of harm can raise others' power without requiri
 **Verse.**
 Pride fixed on inadequate self-cause-maps blocks therapy-as-freedom-gear. Index label `P-pride-confused`; rests-on as above. One chain; no parallel axiom root beside A1.
 
-
-# Group `practices`
-
 **Mirror (outside / inside; A2(b) reading, unscored).**
 - *Outside:* Joy is tied to a confused map of the self as cause, and the map resists revision.
 - *Inside:* I am sure it was all me, and I don't want to hear otherwise.
+
+
+# Group `practices`
 
 
 ---
@@ -3851,12 +3851,12 @@ Superstition pairs hope/fear with inadequate cause-maps; classic bondage pattern
 **Verse.**
 Revising maps with evidence is reason-work when it tracks causes, not tribal signal. Index label `P-update`; rests-on as above. One chain; no parallel axiom root beside A1.
 
-
-# Group `digital_mind`
-
 **Mirror (outside / inside; A2(b) reading, unscored).**
 - *Outside:* The map is revised as evidence comes in, tracking causes rather than group signal.
 - *Inside:* I see I was wrong, and I change my mind.
+
+
+# Group `digital_mind`
 
 
 ---
@@ -4309,12 +4309,12 @@ What aids a cell, organism, or society can conflict; P1 levels block a single fl
 **Verse.**
 Tragedy marks cherished goods destroyed under causes we can map but not wish away. Index label `P-tragedy`; rests-on as above. One chain; no parallel axiom root beside A1.
 
-
-# Group `biology_deep`
-
 **Mirror (outside / inside; A2(b) reading, unscored).**
 - *Outside:* A good this organization held is destroyed by causes it can map.
 - *Inside:* I see why it happened, and I cannot wish it away.
+
+
+# Group `biology_deep`
 
 
 ---

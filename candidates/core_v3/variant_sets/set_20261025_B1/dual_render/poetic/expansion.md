@@ -128,11 +128,11 @@ In dreamless sleep A1 is not asserted; its certainty returns when thinking retur
 
 The lamp of "I exist" shines only while thinking burns.
 
-
-# Group `wholes`
-
 Seen from without: a body breathing, the thinking stopped.
 Seen from within: nothing; then, again, I am.
+
+
+# Group `wholes`
 
 
 ---
@@ -568,11 +568,11 @@ Seen from within: still mine.
 
 Practices that replace confused maps of causes with clearer ones can raise freedom by degrees without denying A5.
 
-
-# Group `affects_end`
-
 Seen from without: a map redrawn, a cause traced to its source.
 Seen from within: I see where it came from, and it loosens.
+
+
+# Group `affects_end`
 
 
 ---
@@ -738,11 +738,11 @@ Seen from within: it hurts me too, and I help, or I sink.
 
 Virtue here is not a separate prize; it is acting from one's organization with rising power (toward blessedness).
 
-
-# Group `nature_knowledge`
-
 Seen from without: action from its own pattern, power rising.
 Seen from within: I do what I can, and can do more.
+
+
+# Group `nature_knowledge`
 
 
 ---
@@ -1184,11 +1184,11 @@ Seen from within: I see it now, and it hurts.
 
 Deliberate rehearsal can move clearer cause-guided action into habit, raising later freedom by degrees.
 
-
-# Group `edge_cases`
-
 Seen from without: a clear action laid down as habit.
 Seen from within: I practice, until it is mine.
+
+
+# Group `edge_cases`
 
 
 ---
@@ -1556,11 +1556,11 @@ Another's hurt felt as a lean toward help.
 
 Pride fixed on inadequate self-maps of causes blocks therapy-as-freedom-gear.
 
-
-# Group `practices`
-
 Seen from without: a wrong self-map, holding fast.
 Seen from within: it was me, and don't tell me different.
+
+
+# Group `practices`
 
 
 ---
@@ -1879,11 +1879,11 @@ Seen from within: do this, or else.
 
 Revising maps with evidence is reason-work when it tracks causes, not tribal signal.
 
-
-# Group `digital_mind`
-
 Seen from without: a map redrawn by evidence.
 Seen from within: I was wrong; now I see better.
+
+
+# Group `digital_mind`
 
 
 ---
@@ -2092,11 +2092,11 @@ What aids a cell, organism, or society can conflict; P1 levels block a single fl
 
 Tragedy marks cherished goods destroyed under causes we can map but not wish away.
 
-
-# Group `biology_deep`
-
 Seen from without: a loss with its causes in view.
 Seen from within: I see why, and it is still lost.
+
+
+# Group `biology_deep`
 
 
 ---
