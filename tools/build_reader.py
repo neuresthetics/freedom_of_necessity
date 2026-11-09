@@ -32,6 +32,10 @@ DR_REL = "candidates/core_v3/variant_sets/set_20261025_B1/dual_render"
 SCORE_NOTE_IDS = set()
 SCORE_NOTE = "*(Historical: numeric scores were dropped from the process on 2026-11-09; entries are judged by dependency checks, citations, and coherence.)*"
 
+NOTICE_RE = re.compile(
+    r"dropped from the process|no longer part of the process|old harness numbers",
+    re.I,
+)
 SCORE_RE = re.compile(
     r"\b(scor(e|es|ed|ing)|unscored|confidence|collider|caps? nothing|caps? =|cap =|cap\b|caps\b|min\(|1\.0)",
     re.I,
@@ -62,6 +66,7 @@ PHRASES = [
     ("; unscored", ""),
     (" is rescored", " is re-checked"),
     ("**Confidence 1.0.**", "**Certainty.**"),
+    ("**Reports (Spinoza, not scored).**", "**Reports (Spinoza).**"),
 ]
 
 
@@ -85,7 +90,7 @@ def clean_block(text: str, keep_sentences: bool = False) -> str:
             out.append(line); continue
         if s.startswith(("**Cites.**", "**Rests on:**", "**Supports", "- **Rests on", "- **Supports")):
             out.append(line); continue
-        if SCORE_RE.search(s) and not s.startswith(("Seen from", "- *Outside", "- *Inside", "#")):
+        if SCORE_RE.search(s) and not NOTICE_RE.search(s) and not s.startswith(("Seen from", "- *Outside", "- *Inside", "#")):
             if s.startswith("- "):
                 body = drop_score_sentences(s[2:])
                 if body: out.append("- " + body)

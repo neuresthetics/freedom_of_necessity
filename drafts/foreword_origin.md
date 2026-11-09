@@ -36,11 +36,11 @@ The core rebuild (`candidates/core_v3/`, snapshot `core-v3-snapshot-v1`) still s
 
 ## How the final face was chosen
 
-When a new rendition was needed, the work did **not** score two verse tracks against each other.
+When a new rendition was needed, the work did **not** set two verse tracks against each other.
 
 Variation and hardness-to-vary ran on **one combined chain** — the entry files, their dependencies, and the technical statement face together. Controlled variants (paraphrase, synonym, reorder, soft and hard dependency remaps) were generated from a frozen tip, on the locked **BASE** band first. What broke under surface-looking edits marked the load-bearing joints; what survived marked surface. From that analysis, **one winner** was picked for BASE: the frozen **golden** set. Jason confirmed it.
 
-**Then** the full live chain was assembled off that BASE: the locked twenty plus the kilned expansion grown from them following CHAIN — **251** entries in the winner set (20 BASE + 231 live expansion; parked material stayed parked). On 2026-11-09 two scoring-method entries were parked; the live chain is now **249** (20 BASE + 229 expansion).
+**Then** the full live chain was assembled off that BASE: the locked twenty plus the kilned expansion grown from them following CHAIN — **251** entries in the winner set (20 BASE + 231 live expansion; parked material stayed parked). On 2026-11-09 two method entries that defined the old harness numbers were parked; the live chain is now **249** (20 BASE + 229 expansion).
 
 **Then** that full winner received the **dual render** treatment — technical and poetic together, same numbers and index labels (entry ids); the live numbering is now `V001`–`V249`. Not two books; one chain, two ways in. Spinoza’s own geometric form is exact, and the living sense of the *Ethics* is not always visible under the proofs — he says as much himself. The dual render is how this book keeps both.
 
